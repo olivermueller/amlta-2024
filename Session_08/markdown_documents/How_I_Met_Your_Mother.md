@@ -1,1856 +1,1957 @@
+# How I Met Your Mother
 
+**_How I Met Your Mother (often abbreviated as_** **_HIMYM) is an American_**
+[sitcom created by Craig Thomas and Carter Bays for CBS. The series, which](https://en.wikipedia.org/wiki/Sitcom)
+[aired from September 19, 2005 to March 31, 2014, follows main character Ted](https://en.wikipedia.org/wiki/Ted_Mosby)
+[Mosby and his group of friends in New York City's Manhattan. As a frame](https://en.wikipedia.org/wiki/Ted_Mosby)
+[story, Ted (in 2030) recounts to his daughter Penny and son Luke the events](https://en.wikipedia.org/wiki/Frame_story)
+[from September 2005 to May 2013 that led to him meeting their mother.](https://en.wikipedia.org/wiki/The_Mother_(How_I_Met_Your_Mother))
 
+The series was loosely inspired by Thomas and Bays' friendship when they
+both lived in New York.[[1]] The vast majority of the episodes (196 out of 208)
+[were directed by Pamela Fryman. The other directors were Rob Greenberg (7](https://en.wikipedia.org/wiki/Pamela_Fryman)
+[episodes), Michael Shea (4 episodes), and Neil Patrick Harris (1 episode).](https://en.wikipedia.org/wiki/Neil_Patrick_Harris)
 
+Known for its non-contemporary structure, humor, and incorporation of
+dramatic elements, How I Met Your Mother was popular throughout its run. It
+received positive reviews initially, but reception became more mixed as the
+seasons went on.[[2][3][4]] The show was nominated for 91 awards and received
+21.
 
+## Premise
 
+[The series follows the adventures of Ted Mosby (played by Josh Radnor) and](https://en.wikipedia.org/wiki/Ted_Mosby)
+[his love life as a single man. His stories are narrated by Bob Saget as Ted](https://en.wikipedia.org/wiki/Bob_Saget)
+Mosby 25 years later as he tells them to his adolescent children, Luke and
+Penny.
 
-<!DOCTYPE html>
-<html
-  lang="en"
-  
-  data-color-mode="auto" data-light-theme="light" data-dark-theme="dark"
-  data-a11y-animated-images="system" data-a11y-link-underlines="true"
-  
-  >
-
-
-
-  <head>
-    <meta charset="utf-8">
-  <link rel="dns-prefetch" href="https://github.githubassets.com">
-  <link rel="dns-prefetch" href="https://avatars.githubusercontent.com">
-  <link rel="dns-prefetch" href="https://github-cloud.s3.amazonaws.com">
-  <link rel="dns-prefetch" href="https://user-images.githubusercontent.com/">
-  <link rel="preconnect" href="https://github.githubassets.com" crossorigin>
-  <link rel="preconnect" href="https://avatars.githubusercontent.com">
-
-  
-
-
-  <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/light-0cfd1fd8509e.css" /><link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/dark-d782f59290e2.css" /><link data-color-theme="dark_dimmed" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_dimmed-f9fbc4b99a77.css" /><link data-color-theme="dark_high_contrast" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_high_contrast-cff1c9b27b1a.css" /><link data-color-theme="dark_colorblind" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_colorblind-70097f75aec1.css" /><link data-color-theme="light_colorblind" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_colorblind-c2f0d49bdcd9.css" /><link data-color-theme="light_high_contrast" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_high_contrast-4747d7bc0bc4.css" /><link data-color-theme="light_tritanopia" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_tritanopia-d3f6a61c91c8.css" /><link data-color-theme="dark_tritanopia" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_tritanopia-a188d53f44bb.css" />
-
-    <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-primitives-953961b66e63.css" />
-    <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-4430d3c2c150.css" />
-    <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/global-1d3440e946dd.css" />
-    <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/github-e72829f5538b.css" />
-  <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/repository-fab553aa6c2f.css" />
-<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/code-3e9cb83ec079.css" />
+The story goes into a flashback and starts in 2005 with 27-year-old Ted Mosby
+[living in New York City and working as an architect. The narrative deals](https://en.wikipedia.org/wiki/New_York_City)
+[primarily with his best friends. These include the long-lasting couple Marshall](https://en.wikipedia.org/wiki/Marshall_Eriksen)
+[Eriksen (Jason Segel), a law student and Lily Aldrin (Alyson Hannigan), a](https://en.wikipedia.org/wiki/Marshall_Eriksen)
+kindergarten teacher, who have been dating for almost nine years when
+[Marshall proposes, as well as womanizing playboy Barney Stinson (Neil](https://en.wikipedia.org/wiki/Womanizing)
+[Patrick Harris), and Canadian news reporter Robin Scherbatsky (Cobie](https://en.wikipedia.org/wiki/Neil_Patrick_Harris)
+[Smulders). All of the characters' lives are entwined. The series explores many](https://en.wikipedia.org/wiki/Cobie_Smulders)
+story-lines, including a "will they or won't they" relationship between Robin
+and each of the two single male friends, Marshall and Lily's relationship, and
+the ups and downs of the characters' careers.
 
-  
+[The show's frame story depicts Ted (voice of Bob Saget, uncredited) verbally](https://en.wikipedia.org/wiki/Frame_story)
+[retelling the story to his son Luke (David Henrie) and daughter Penny (Lyndsy](https://en.wikipedia.org/wiki/David_Henrie)
+[Fonseca) as they sit on the couch in the year 2030. This future-set frame is](https://en.wikipedia.org/wiki/Lyndsy_Fonseca)
+officially the show's "present day", and How I Met Your Mother exploits this
+framing device in numerous ways: to depict and re-depict events from multiple
+[points of view; to set up jokes using quick and sometimes multiple flashbacks](https://en.wikipedia.org/wiki/Flashback_(narrative))
+nested within the oral retelling; to substitute visual, verbal, or aural
+euphemisms for activities Ted does not want to talk about with his children
+(sexual practices, use of illicit substances, vulgar language, etc.).
 
+While the traditional love story structure begins when the romantic leads first
+encounter each other, _How I Met Your Mother does not introduce Ted's wife_
+[(Cristin Milioti) until the eighth-season finale and only announces her full](https://en.wikipedia.org/wiki/Cristin_Milioti)
+[name, Tracy McConnell, during the series finale. Her first name, Tracy, is](https://en.wikipedia.org/wiki/Tracy_McConnell)
 
-  <script type="application/json" id="client-env">{"locale":"en","featureFlags":["alive_longer_retries","bypass_copilot_indexing_quota","copilot_new_references_ui","copilot_beta_features_opt_in","copilot_chat_retry_on_error","copilot_chat_persist_submitted_input","copilot_conversational_ux_history_refs","copilot_editor_upsells","copilot_free_limited_user","copilot_implicit_context","copilot_no_floating_button","copilot_smell_icebreaker_ux","experimentation_azure_variant_endpoint","failbot_handle_non_errors","geojson_azure_maps","ghost_pilot_confidence_truncation_25","ghost_pilot_confidence_truncation_40","hovercard_accessibility","issues_react_avatar_refactor","issues_react_remove_placeholders","issues_react_blur_item_picker_on_close","marketing_pages_search_explore_provider","react_keyboard_shortcuts_dialog","remove_child_patch","sample_network_conn_type","site_metered_billing_update","site_copilot_free","lifecycle_label_name_updates"]}</script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/wp-runtime-7b745e7e4633.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_oddbird_popover-polyfill_dist_popover_js-9da652f58479.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_arianotify-polyfill_ariaNotify-polyfill_js-node_modules_github_mi-3abb8f-d7e6bc799724.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_failbot_failbot_ts-c551691a8183.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/environment-7b93e0f0c8ff.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_behaviors_dist_esm_index_mjs-ea2a5d75d580.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_selector-observer_dist_index_esm_js-f690fd9ae3d5.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_relative-time-element_dist_index_js-f6da4b3fa34c.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_auto-complete-element_dist_index_js-node_modules_github_catalyst_-8e9f78-a74b4e0a8a6b.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_text-expander-element_dist_index_js-78748950cb0c.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_filter-input-element_dist_index_js-node_modules_github_remote-inp-b5f1d7-a1760ffda83d.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_markdown-toolbar-element_dist_index_js-ceef33f593fa.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_file-attachment-element_dist_index_js-node_modules_primer_view-co-c44a69-c6d035fa8dc8.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/github-elements-f991cfab5105.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/element-registry-3b5362d3d402.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_braintree_browser-detection_dist_browser-detection_js-node_modules_githu-bb80ec-7f43298e364b.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_lit-html_lit-html_js-be8cb88f481b.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_morphdom_dist_morphdom-e-7c534c-a4a1922eb55f.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-e3cbe28f1638.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_remote-form_dist_index_js-node_modules_delegated-events_dist_inde-893f9f-6cf3320416b8.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_color-convert_index_js-e3180fe3bcb3.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_quote-selection_dist_index_js-node_modules_github_session-resume_-69cfcc-833249ee3034.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_updatable-content_updatable-content_ts-863ef5872a03.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_task-list_ts-app_assets_modules_github_sso_ts-ui_packages-900dde-917d4bda1f1a.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_sticky-scroll-into-view_ts-7cbef09a422c.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_ajax-error_ts-app_assets_modules_github_behaviors_include-d0d0a6-b41aeef03499.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_commenting_edit_ts-app_assets_modules_github_behaviors_ht-83c235-fb43816ab83c.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/behaviors-a6abce982f3f.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_delegated-events_dist_index_js-node_modules_github_catalyst_lib_index_js-f6223d90c7ba.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/notifications-global-cfcd9f4f0f23.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_github_catalyst_lib_inde-dbbea9-26cce2010167.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/code-menu-b5f092ec4b30.js"></script>
-  
-  <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/primer-react-753dc87b1e29.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/react-core-7578e8c17266.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/react-lib-2131e17288a8.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/octicons-react-45c3a19dd792.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_tanstack_query-core_build_modern_queryClient_js-e6f07a7e80b7.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_emotion_is-prop-valid_dist_emotion-is-prop-valid_esm_js-node_modules_emo-37e3d5-92730c05e718.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_stacktrace-parser_dist_s-e7dcdd-f7cc96ebae76.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_oddbird_popover-polyfill_dist_popover-fn_js-55fea94174bf.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_dompurify_dist_purify_js-b89b98661809.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_lodash-es__Stack_js-node_modules_lodash-es__Uint8Array_js-node_modules_l-4faaa6-10d8eea337ce.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_lodash-es__baseIsEqual_js-8929eb9718d5.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_hydro-analytics-client_dist_analytics-client_js-node_modules_gith-9002b0-881da98a8b00.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_aria-live_aria-live_ts-ui_packages_promise-with-resolvers-polyfill_promise-with-r-014121-a7926fdcecf7.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_paths_index_ts-c223e79a3369.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_ref-selector_RefSelector_tsx-42e7f6cf3ca8.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_code-view-shared_utilities_web-worker_ts-ui_packages_code-view-shared_worker-jobs-d02fd9-7d1e392ec2cf.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_code-view-shared_hooks_use-canonical-object_ts-ui_packages_code-view-shared_hooks-503c34-7dfba50d2c16.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_document-metadata_document-metadata_ts-ui_packages_repos-file-tree-view_repos-fil-5db355-d0627efd6544.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_blob-anchor_ts-ui_packages_code-nav_code-nav_ts-ui_packages_filter--8253c1-f38cdfca9137.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/react-code-view-47508ff9ff43.js"></script>
-<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-react.797c8ec006b327590422.module.css" />
-<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/react-code-view.6b587a69b593e23c3657.module.css" />
 
-  <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/notifications-subscriptions-menu-51601778bd8d.js"></script>
-<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-react.797c8ec006b327590422.module.css" />
-<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/notifications-subscriptions-menu.1bcff9205c241e99cff2.module.css" />
+#### How I Met Your Mother
 
 
-  <title>amlta-2024/Session_08/markdown_documents/How_I_Met_Your_Mother.md at main · olivermueller/amlta-2024 · GitHub</title>
+**Genre** [Sitcom](https://en.wikipedia.org/wiki/Sitcom)
 
+[Romantic comedy](https://en.wikipedia.org/wiki/Romantic_comedy)
 
+[Comedy drama](https://en.wikipedia.org/wiki/Comedy_drama)
 
-  <meta name="route-pattern" content="/:user_id/:repository/blob/*name(/*path)" data-turbo-transient>
-  <meta name="route-controller" content="blob" data-turbo-transient>
-  <meta name="route-action" content="show" data-turbo-transient>
+**Created by** [Carter Bays](https://en.wikipedia.org/wiki/Carter_Bays)
 
-    
-  <meta name="current-catalog-service-hash" content="f3abb0cc802f3d7b95fc8762b94bdcb13bf39634c40c357301c4aa1d67a256fb">
+[Craig Thomas](https://en.wikipedia.org/wiki/Craig_Thomas_(screenwriter))
 
+**Directed by** [Pamela Fryman](https://en.wikipedia.org/wiki/Pamela_Fryman)
 
-  <meta name="request-id" content="EF0B:3D5409:24F92F5:2600477:677D06EF" data-pjax-transient="true"/><meta name="html-safe-nonce" content="f89eae142c4da657275e01bc40fecd19ff6a2efca4b72d656ab74b538d674d6a" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJFRjBCOjNENTQwOToyNEY5MkY1OjI2MDA0Nzc6Njc3RDA2RUYiLCJ2aXNpdG9yX2lkIjoiNzUyMjQ0NTk0NTc2NjQ3OTU5OSIsInJlZ2lvbl9lZGdlIjoiZnJhIiwicmVnaW9uX3JlbmRlciI6ImZyYSJ9" data-pjax-transient="true"/><meta name="visitor-hmac" content="297ca0a02cb8c804a61bc809d751f9e04007bd79501df6886010f0102c50faea" data-pjax-transient="true"/>
+[Rob Greenberg](https://en.wikipedia.org/wiki/Rob_Greenberg)
 
+Michael Shea
 
-    <meta name="hovercard-subject-tag" content="repository:865851650" data-turbo-transient>
+[Neil Patrick Harris](https://en.wikipedia.org/wiki/Neil_Patrick_Harris)
 
+**Starring** [Josh Radnor](https://en.wikipedia.org/wiki/Josh_Radnor)
 
-  <meta name="github-keyboard-shortcuts" content="repository,source-code,file-tree,copilot" data-turbo-transient="true" />
-  
+[Jason Segel](https://en.wikipedia.org/wiki/Jason_Segel)
 
-  <meta name="selected-link" value="repo_source" data-turbo-transient>
-  <link rel="assets" href="https://github.githubassets.com/">
+[Cobie Smulders](https://en.wikipedia.org/wiki/Cobie_Smulders)
 
-    <meta name="google-site-verification" content="Apib7-x98H0j5cPqHWwSMm6dNU4GmODRoqxLiDzdx9I">
+[Neil Patrick Harris](https://en.wikipedia.org/wiki/Neil_Patrick_Harris)
 
-<meta name="octolytics-url" content="https://collector.github.com/github/collect" />
+[Alyson Hannigan](https://en.wikipedia.org/wiki/Alyson_Hannigan)
 
-  <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-turbo-transient="true" />
+[Cristin Milioti](https://en.wikipedia.org/wiki/Cristin_Milioti)
 
-  
+**Narrated by** [Bob Saget](https://en.wikipedia.org/wiki/Bob_Saget)
 
+**Opening theme** ["Hey, Beautiful" by The](https://en.wikipedia.org/wiki/The_Solids)
+[Solids](https://en.wikipedia.org/wiki/The_Solids)
 
+**Composer** [John Swihart](https://en.wikipedia.org/wiki/John_Swihart)
 
+**Country of origin** United States
 
-    <meta name="user-login" content="">
+**Original language** English
 
-  
+**No. of seasons** 9
 
-    <meta name="viewport" content="width=device-width">
+**No. of episodes** [208 (list of episodes)](https://en.wikipedia.org/wiki/List_of_How_I_Met_Your_Mother_episodes)
 
-    
 
-      <meta name="description" content="Repo for the course Applied Machine Learning for Text Analysis at UPB - amlta-2024/Session_08/markdown_documents/How_I_Met_Your_Mother.md at main · olivermueller/amlta-2024">
+**Production**
 
-      <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
 
-    <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
-    <meta property="fb:app_id" content="1401488693436528">
-    <meta name="apple-itunes-app" content="app-id=1477376905, app-argument=https://github.com/olivermueller/amlta-2024/blob/main/Session_08/markdown_documents/How_I_Met_Your_Mother.md" />
+**Executive**
+**producers**
 
-      <meta name="twitter:image" content="https://opengraph.githubassets.com/96c5f7e223fa0357124d998a29c2a72919693d66a18940b3f8e71c790a6f7d92/olivermueller/amlta-2024" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="amlta-2024/Session_08/markdown_documents/How_I_Met_Your_Mother.md at main · olivermueller/amlta-2024" /><meta name="twitter:description" content="Repo for the course Applied Machine Learning for Text Analysis at UPB - olivermueller/amlta-2024" />
-  <meta property="og:image" content="https://opengraph.githubassets.com/96c5f7e223fa0357124d998a29c2a72919693d66a18940b3f8e71c790a6f7d92/olivermueller/amlta-2024" /><meta property="og:image:alt" content="Repo for the course Applied Machine Learning for Text Analysis at UPB - olivermueller/amlta-2024" /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="amlta-2024/Session_08/markdown_documents/How_I_Met_Your_Mother.md at main · olivermueller/amlta-2024" /><meta property="og:url" content="https://github.com/olivermueller/amlta-2024/blob/main/Session_08/markdown_documents/How_I_Met_Your_Mother.md" /><meta property="og:description" content="Repo for the course Applied Machine Learning for Text Analysis at UPB - olivermueller/amlta-2024" />
-  
 
+Carter Bays
 
+Craig Thomas
 
+Rob Greenberg
 
-      <meta name="hostname" content="github.com">
+Pamela Fryman
 
+Eileen Heisler
 
+DeAnn Heline
 
-        <meta name="expected-hostname" content="github.com">
+[Phil Lord](https://en.wikipedia.org/wiki/Phil_Lord)
 
+[Greg Malins](https://en.wikipedia.org/wiki/Greg_Malins)
 
-  <meta http-equiv="x-pjax-version" content="a64dd3cfa3f6e399c933af7f610f8fe710876e44110daa7888e3c1088830b31a" data-turbo-track="reload">
-  <meta http-equiv="x-pjax-csp-version" content="ace39c3b6632770952207593607e6e0be0db363435a8b877b1f96abe6430f345" data-turbo-track="reload">
-  <meta http-equiv="x-pjax-css-version" content="3c4c4035ec312ef33be269e2bf7cb1d5b7f4cf9d282a999d1217188c883a0dc8" data-turbo-track="reload">
-  <meta http-equiv="x-pjax-js-version" content="331dffc34bfe63dc81db3fbfb0607b751466b9b79e8418fe9fbbd568e06e500a" data-turbo-track="reload">
+[Christopher Miller](https://en.wikipedia.org/wiki/Christopher_Miller_(filmmaker))
 
-  <meta name="turbo-cache-control" content="no-preview" data-turbo-transient="">
+Chris Harris
 
-      <meta name="turbo-cache-control" content="no-cache" data-turbo-transient>
 
-    <meta data-hydrostats="publish">
-  <meta name="go-import" content="github.com/olivermueller/amlta-2024 git https://github.com/olivermueller/amlta-2024.git">
+-----
 
-  <meta name="octolytics-dimension-user_id" content="2878493" /><meta name="octolytics-dimension-user_login" content="olivermueller" /><meta name="octolytics-dimension-repository_id" content="865851650" /><meta name="octolytics-dimension-repository_nwo" content="olivermueller/amlta-2024" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="865851650" /><meta name="octolytics-dimension-repository_network_root_nwo" content="olivermueller/amlta-2024" />
+factors and scenes in the show that hint various hardships in the show like the
+death of Marshall's father, Tracy(Ted's future wife) death and many more. This
+leads to audience getting hints to understand what is coming next in the show.
 
+## Production
 
+_How I Met Your Mother was inspired by Carter Bays and Craig Thomas' idea_
+to "write about our friends and the stupid stuff we did in New York", where
+they previously worked as writers for _[Late Show with David Letterman,](https://en.wikipedia.org/wiki/Late_Show_with_David_Letterman)_
+among others.[[1]] The two drew from their friendship in creating the characters.
+Ted is based loosely on Bays, and Marshall and Lily are based loosely on
+Thomas and his wife.[[5][6]] Thomas' wife Rebecca was initially reluctant to
+[have a character based on her but agreed if they could get Alyson Hannigan to](https://en.wikipedia.org/wiki/Alyson_Hannigan)
+play her. Hannigan was looking to do more comedy work and was available.[[5]]
 
-    
+[Josh Radnor and Jason Segel, who were cast as Ted and Marshall,](https://en.wikipedia.org/wiki/Josh_Radnor)
+respectively, were not well known, although Segel had been a cast member on
+[the short-lived Freaks and Geeks and a recurring guest star on Judd Apatow's](https://en.wikipedia.org/wiki/Freaks_and_Geeks)
+[follow-up show, Undeclared. The role of Barney was initially envisioned as a](https://en.wikipedia.org/wiki/Undeclared)
+["John Belushi-type character"[[7]] before Neil Patrick Harris won the role after](https://en.wikipedia.org/wiki/John_Belushi)
+being invited to an audition by the show's casting director Megan Branman.[[8]]
 
-    <meta name="turbo-body-classes" content="logged-out env-production page-responsive">
+[Pamela Fryman invited Bob Saget to be the voice-over narrator, Future Ted,](https://en.wikipedia.org/wiki/Bob_Saget)
+[explaining to him that the show would be like The Wonder Years but "kind of](https://en.wikipedia.org/wiki/The_Wonder_Years)
+into the future".[[9]] Saget either went to the television studio and recorded the
+narration while watching the episode, or did so separately and rerecorded with
+[the episode if necessary.[[10]] He normally did not attend table readings but did](https://en.wikipedia.org/wiki/Table_read)
+so for the last episode.[[11]]
 
+In multiple interviews Bays and Thomas have stated that "a pretty famous
+actress"[[12]] turned down the role of Robin, who they revealed in February
+[2014 was Jennifer Love Hewitt.[[13]] They then cast the unknown Cobie](https://en.wikipedia.org/wiki/Jennifer_Love_Hewitt)
+[Smulders; Bays and Thomas later said, "Thank God we did for a million](https://en.wikipedia.org/wiki/Cobie_Smulders)
+reasons... when Ted's seeing her for the first time, America's seeing her for the
+first time—the intrigue of that propelled the show going forward and kept the
+[show alive".[[12]] Although Ted is initially smitten by Robin in the pilot, it is](https://en.wikipedia.org/wiki/Pilot_(How_I_Met_Your_Mother))
+quickly established at the end of the episode that she is not the mother, which
+Thomas said was done so they would not repeat the "will they or won't they"
+[Ross and Rachel storyline from Friends.[[6]]](https://en.wikipedia.org/wiki/Friends)
 
-  <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
 
-  <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
+Kourtney Kang
 
-  <link rel="mask-icon" href="https://github.githubassets.com/assets/pinned-octocat-093da3e6fa40.svg" color="#000000">
-  <link rel="alternate icon" class="js-site-favicon" type="image/png" href="https://github.githubassets.com/favicons/favicon.png">
-  <link rel="icon" class="js-site-favicon" type="image/svg+xml" href="https://github.githubassets.com/favicons/favicon.svg" data-base-href="https://github.githubassets.com/favicons/favicon">
+Jamie Rhonheimer
 
-<meta name="theme-color" content="#1e2327">
-<meta name="color-scheme" content="light dark" />
+[Chuck Tatham](https://en.wikipedia.org/wiki/Chuck_Tatham)
 
+**Producers** Randy Cordray
 
-  <link rel="manifest" href="/manifest.json" crossOrigin="use-credentials">
+Suzy Mamann
+Greenberg
 
-  </head>
+Chris Harris
 
-  <body class="logged-out env-production page-responsive" style="word-wrap: break-word;">
-    <div data-turbo-body class="logged-out env-production page-responsive" style="word-wrap: break-word;">
-      
+Jamie Rhonheimer
 
+Kourtney Kang
 
-    <div class="position-relative header-wrapper js-header-wrapper ">
-      <a href="#start-of-content" data-skip-target-assigned="false" class="px-2 py-4 color-bg-accent-emphasis color-fg-on-emphasis show-on-focus js-skip-to-content">Skip to content</a>
+Brenda Hsueh
 
-      <span data-view-component="true" class="progress-pjax-loader Progress position-fixed width-full">
-    <span style="width: 0%;" data-view-component="true" class="Progress-item progress-pjax-loader-bar left-0 top-0 color-bg-accent-emphasis"></span>
-</span>      
-      
-      <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_ui-commands_ui-commands_ts-df3b47d86af0.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/keyboard-shortcuts-dialog-958cae8ecd6c.js"></script>
-<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-react.797c8ec006b327590422.module.css" />
+Theresa Mulligan
+Rosenthal
 
-<react-partial
-  partial-name="keyboard-shortcuts-dialog"
-  data-ssr="false"
-  data-attempted-ssr="false"
->
-  
-  <script type="application/json" data-target="react-partial.embeddedData">{"props":{"docsUrl":"https://docs.github.com/get-started/accessibility/keyboard-shortcuts"}}</script>
-  <div data-target="react-partial.reactRoot"></div>
-</react-partial>
+Stewart Halpern
+Fingerhut
 
+Rob Greenberg
 
+[Tami Sagher](https://en.wikipedia.org/wiki/Tami_Sagher)
 
+**Cinematography** Steven V. Silver (pilot)
 
-      
+Christian La Fountaine
 
-          
+**Editor** Sue Federman
 
-              
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_remote-form_dist_index_js-node_modules_delegated-events_dist_inde-94fd67-73b675cf164a.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/sessions-5d6426bbf16a.js"></script>
-<header class="HeaderMktg header-logged-out js-details-container js-header Details f4 py-3" role="banner" data-is-top="true" data-color-mode=light data-light-theme=light data-dark-theme=dark>
-  <h2 class="sr-only">Navigation Menu</h2>
+**Camera setup** [Multi-camera](https://en.wikipedia.org/wiki/Multi-camera)
 
-  <button type="button" class="HeaderMktg-backdrop d-lg-none border-0 position-fixed top-0 left-0 width-full height-full js-details-target" aria-label="Toggle navigation">
-    <span class="d-none">Toggle navigation</span>
-  </button>
+**Running time** 22 minutes
 
-  <div class="d-flex flex-column flex-lg-row flex-items-center px-3 px-md-4 px-lg-5 height-full position-relative z-1">
-    <div class="d-flex flex-justify-between flex-items-center width-full width-lg-auto">
-      <div class="flex-1">
-        <button aria-label="Toggle navigation" aria-expanded="false" type="button" data-view-component="true" class="js-details-target js-nav-padding-recalculate js-header-menu-toggle Button--link Button--medium Button d-lg-none color-fg-inherit p-1">  <span class="Button-content">
-    <span class="Button-label"><div class="HeaderMenu-toggle-bar rounded my-1"></div>
-            <div class="HeaderMenu-toggle-bar rounded my-1"></div>
-            <div class="HeaderMenu-toggle-bar rounded my-1"></div></span>
-  </span>
-</button>
-      </div>
 
-      <a class="mr-lg-3 color-fg-inherit flex-order-2 js-prevent-focus-on-mobile-nav"
-        href="/"
-        aria-label="Homepage"
-        data-analytics-event="{&quot;category&quot;:&quot;Marketing nav&quot;,&quot;action&quot;:&quot;click to go to homepage&quot;,&quot;label&quot;:&quot;ref_page:Marketing;ref_cta:Logomark;ref_loc:Header&quot;}">
-        <svg height="32" aria-hidden="true" viewBox="0 0 24 24" version="1.1" width="32" data-view-component="true" class="octicon octicon-mark-github">
-    <path d="M12.5.75C6.146.75 1 5.896 1 12.25c0 5.089 3.292 9.387 7.863 10.91.575.101.79-.244.79-.546 0-.273-.014-1.178-.014-2.142-2.889.532-3.636-.704-3.866-1.35-.13-.331-.69-1.352-1.18-1.625-.402-.216-.977-.748-.014-.762.906-.014 1.553.834 1.769 1.179 1.035 1.74 2.688 1.25 3.349.948.1-.747.402-1.25.733-1.538-2.559-.287-5.232-1.279-5.232-5.678 0-1.25.445-2.285 1.178-3.09-.115-.288-.517-1.467.115-3.048 0 0 .963-.302 3.163 1.179.92-.259 1.897-.388 2.875-.388.977 0 1.955.13 2.875.388 2.2-1.495 3.162-1.179 3.162-1.179.633 1.581.23 2.76.115 3.048.733.805 1.179 1.825 1.179 3.09 0 4.413-2.688 5.39-5.247 5.678.417.36.776 1.05.776 2.128 0 1.538-.014 2.774-.014 3.162 0 .302.216.662.79.547C20.709 21.637 24 17.324 24 12.25 24 5.896 18.854.75 12.5.75Z"></path>
-</svg>
-      </a>
+**Production**
 
-      <div class="flex-1 flex-order-2 text-right">
-          <a
-            href="/login?return_to=https%3A%2F%2Fgithub.com%2Folivermueller%2Famlta-2024%2Fblob%2Fmain%2FSession_08%2Fmarkdown_documents%2FHow_I_Met_Your_Mother.md"
-            class="HeaderMenu-link HeaderMenu-button d-inline-flex d-lg-none flex-order-1 f5 no-underline border color-border-default rounded-2 px-2 py-1 color-fg-inherit js-prevent-focus-on-mobile-nav"
-            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/olivermueller/amlta-2024/blob/main/Session_08/markdown_documents/How_I_Met_Your_Mother.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="02a378a11136b66cb52bc56e49467b58a1ff18fad596eb52b712f1751dc6876c"
-            data-analytics-event="{&quot;category&quot;:&quot;Marketing nav&quot;,&quot;action&quot;:&quot;click to Sign in&quot;,&quot;label&quot;:&quot;ref_page:Marketing;ref_cta:Sign in;ref_loc:Header&quot;}"
-          >
-            Sign in
-          </a>
-      </div>
-    </div>
+**companies**
 
 
-    <div class="HeaderMenu js-header-menu height-fit position-lg-relative d-lg-flex flex-column flex-auto top-0">
-      <div class="HeaderMenu-wrapper d-flex flex-column flex-self-start flex-lg-row flex-auto rounded rounded-lg-0">
-          <nav class="HeaderMenu-nav" aria-label="Global">
-            <ul class="d-lg-flex list-style-none">
-                <li class="HeaderMenu-item position-relative flex-wrap flex-justify-between flex-items-center d-block d-lg-flex flex-lg-nowrap flex-lg-items-center js-details-container js-header-menu-item">
-      <button type="button" class="HeaderMenu-link border-0 width-full width-lg-auto px-0 px-lg-2 py-lg-2 no-wrap d-flex flex-items-center flex-justify-between js-details-target" aria-expanded="false">
-        Product
-        <svg opacity="0.5" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-chevron-down HeaderMenu-icon ml-1">
-    <path d="M12.78 5.22a.749.749 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.06 0L3.22 6.28a.749.749 0 1 1 1.06-1.06L8 8.939l3.72-3.719a.749.749 0 0 1 1.06 0Z"></path>
-</svg>
-      </button>
-      <div class="HeaderMenu-dropdown dropdown-menu rounded m-0 p-0 pt-2 pt-lg-4 position-relative position-lg-absolute left-0 left-lg-n3 pb-2 pb-lg-4 d-lg-flex flex-wrap dropdown-menu-wide">
-          <div class="HeaderMenu-column px-lg-4 border-lg-right mb-4 mb-lg-0 pr-lg-7">
-              <div class="border-bottom pb-3 pb-lg-0 border-lg-bottom-0">
-                <ul class="list-style-none f5" >
-                    <li>
-  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center Link--has-description pb-lg-3" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;github_copilot&quot;,&quot;context&quot;:&quot;product&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;github_copilot_link_product_navbar&quot;}" href="https://github.com/features/copilot">
-      <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-copilot color-fg-subtle mr-3">
-    <path d="M23.922 16.992c-.861 1.495-5.859 5.023-11.922 5.023-6.063 0-11.061-3.528-11.922-5.023A.641.641 0 0 1 0 16.736v-2.869a.841.841 0 0 1 .053-.22c.372-.935 1.347-2.292 2.605-2.656.167-.429.414-1.055.644-1.517a10.195 10.195 0 0 1-.052-1.086c0-1.331.282-2.499 1.132-3.368.397-.406.89-.717 1.474-.952 1.399-1.136 3.392-2.093 6.122-2.093 2.731 0 4.767.957 6.166 2.093.584.235 1.077.546 1.474.952.85.869 1.132 2.037 1.132 3.368 0 .368-.014.733-.052 1.086.23.462.477 1.088.644 1.517 1.258.364 2.233 1.721 2.605 2.656a.832.832 0 0 1 .053.22v2.869a.641.641 0 0 1-.078.256ZM12.172 11h-.344a4.323 4.323 0 0 1-.355.508C10.703 12.455 9.555 13 7.965 13c-1.725 0-2.989-.359-3.782-1.259a2.005 2.005 0 0 1-.085-.104L4 11.741v6.585c1.435.779 4.514 2.179 8 2.179 3.486 0 6.565-1.4 8-2.179v-6.585l-.098-.104s-.033.045-.085.104c-.793.9-2.057 1.259-3.782 1.259-1.59 0-2.738-.545-3.508-1.492a4.323 4.323 0 0 1-.355-.508h-.016.016Zm.641-2.935c.136 1.057.403 1.913.878 2.497.442.544 1.134.938 2.344.938 1.573 0 2.292-.337 2.657-.751.384-.435.558-1.15.558-2.361 0-1.14-.243-1.847-.705-2.319-.477-.488-1.319-.862-2.824-1.025-1.487-.161-2.192.138-2.533.529-.269.307-.437.808-.438 1.578v.021c0 .265.021.562.063.893Zm-1.626 0c.042-.331.063-.628.063-.894v-.02c-.001-.77-.169-1.271-.438-1.578-.341-.391-1.046-.69-2.533-.529-1.505.163-2.347.537-2.824 1.025-.462.472-.705 1.179-.705 2.319 0 1.211.175 1.926.558 2.361.365.414 1.084.751 2.657.751 1.21 0 1.902-.394 2.344-.938.475-.584.742-1.44.878-2.497Z"></path><path d="M14.5 14.25a1 1 0 0 1 1 1v2a1 1 0 0 1-2 0v-2a1 1 0 0 1 1-1Zm-5 0a1 1 0 0 1 1 1v2a1 1 0 0 1-2 0v-2a1 1 0 0 1 1-1Z"></path>
-</svg>
-      <div>
-        <div class="color-fg-default h4">GitHub Copilot</div>
-        Write better code with AI
-      </div>
+Bays Thomas
 
-    
-</a></li>
+Productions
 
-                    <li>
-  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center Link--has-description pb-lg-3" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;security&quot;,&quot;context&quot;:&quot;product&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;security_link_product_navbar&quot;}" href="https://github.com/features/security">
-      <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-shield-check color-fg-subtle mr-3">
-    <path d="M16.53 9.78a.75.75 0 0 0-1.06-1.06L11 13.19l-1.97-1.97a.75.75 0 0 0-1.06 1.06l2.5 2.5a.75.75 0 0 0 1.06 0l5-5Z"></path><path d="m12.54.637 8.25 2.675A1.75 1.75 0 0 1 22 4.976V10c0 6.19-3.771 10.704-9.401 12.83a1.704 1.704 0 0 1-1.198 0C5.77 20.705 2 16.19 2 10V4.976c0-.758.489-1.43 1.21-1.664L11.46.637a1.748 1.748 0 0 1 1.08 0Zm-.617 1.426-8.25 2.676a.249.249 0 0 0-.173.237V10c0 5.46 3.28 9.483 8.43 11.426a.199.199 0 0 0 .14 0C17.22 19.483 20.5 15.461 20.5 10V4.976a.25.25 0 0 0-.173-.237l-8.25-2.676a.253.253 0 0 0-.154 0Z"></path>
-</svg>
-      <div>
-        <div class="color-fg-default h4">Security</div>
-        Find and fix vulnerabilities
-      </div>
+[20th Century Fox](https://en.wikipedia.org/wiki/20th_Century_Fox_Television)
+[Television](https://en.wikipedia.org/wiki/20th_Century_Fox_Television)
 
-    
-</a></li>
 
-                    <li>
-  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center Link--has-description pb-lg-3" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;actions&quot;,&quot;context&quot;:&quot;product&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;actions_link_product_navbar&quot;}" href="https://github.com/features/actions">
-      <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-workflow color-fg-subtle mr-3">
-    <path d="M1 3a2 2 0 0 1 2-2h6.5a2 2 0 0 1 2 2v6.5a2 2 0 0 1-2 2H7v4.063C7 16.355 7.644 17 8.438 17H12.5v-2.5a2 2 0 0 1 2-2H21a2 2 0 0 1 2 2V21a2 2 0 0 1-2 2h-6.5a2 2 0 0 1-2-2v-2.5H8.437A2.939 2.939 0 0 1 5.5 15.562V11.5H3a2 2 0 0 1-2-2Zm2-.5a.5.5 0 0 0-.5.5v6.5a.5.5 0 0 0 .5.5h6.5a.5.5 0 0 0 .5-.5V3a.5.5 0 0 0-.5-.5ZM14.5 14a.5.5 0 0 0-.5.5V21a.5.5 0 0 0 .5.5H21a.5.5 0 0 0 .5-.5v-6.5a.5.5 0 0 0-.5-.5Z"></path>
-</svg>
-      <div>
-        <div class="color-fg-default h4">Actions</div>
-        Automate any workflow
-      </div>
+**Original release**
 
-    
-</a></li>
 
-                    <li>
-  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center Link--has-description pb-lg-3" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;codespaces&quot;,&quot;context&quot;:&quot;product&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;codespaces_link_product_navbar&quot;}" href="https://github.com/features/codespaces">
-      <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-codespaces color-fg-subtle mr-3">
-    <path d="M3.5 3.75C3.5 2.784 4.284 2 5.25 2h13.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0 1 18.75 13H5.25a1.75 1.75 0 0 1-1.75-1.75Zm-2 12c0-.966.784-1.75 1.75-1.75h17.5c.966 0 1.75.784 1.75 1.75v4a1.75 1.75 0 0 1-1.75 1.75H3.25a1.75 1.75 0 0 1-1.75-1.75ZM5.25 3.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h13.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Zm-2 12a.25.25 0 0 0-.25.25v4c0 .138.112.25.25.25h17.5a.25.25 0 0 0 .25-.25v-4a.25.25 0 0 0-.25-.25Z"></path><path d="M10 17.75a.75.75 0 0 1 .75-.75h6.5a.75.75 0 0 1 0 1.5h-6.5a.75.75 0 0 1-.75-.75Zm-4 0a.75.75 0 0 1 .75-.75h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1-.75-.75Z"></path>
-</svg>
-      <div>
-        <div class="color-fg-default h4">Codespaces</div>
-        Instant dev environments
-      </div>
+**Network** [CBS](https://en.wikipedia.org/wiki/CBS)
 
-    
-</a></li>
+**Release** September 19, 2005 –
+March 31, 2014
 
-                    <li>
-  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center Link--has-description pb-lg-3" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;issues&quot;,&quot;context&quot;:&quot;product&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;issues_link_product_navbar&quot;}" href="https://github.com/features/issues">
-      <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-issue-opened color-fg-subtle mr-3">
-    <path d="M12 1c6.075 0 11 4.925 11 11s-4.925 11-11 11S1 18.075 1 12 5.925 1 12 1ZM2.5 12a9.5 9.5 0 0 0 9.5 9.5 9.5 9.5 0 0 0 9.5-9.5A9.5 9.5 0 0 0 12 2.5 9.5 9.5 0 0 0 2.5 12Zm9.5 2a2 2 0 1 1-.001-3.999A2 2 0 0 1 12 14Z"></path>
-</svg>
-      <div>
-        <div class="color-fg-default h4">Issues</div>
-        Plan and track work
-      </div>
 
-    
-</a></li>
+**Related**
 
-                    <li>
-  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center Link--has-description pb-lg-3" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;code_review&quot;,&quot;context&quot;:&quot;product&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;code_review_link_product_navbar&quot;}" href="https://github.com/features/code-review">
-      <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-code-review color-fg-subtle mr-3">
-    <path d="M10.3 6.74a.75.75 0 0 1-.04 1.06l-2.908 2.7 2.908 2.7a.75.75 0 1 1-1.02 1.1l-3.5-3.25a.75.75 0 0 1 0-1.1l3.5-3.25a.75.75 0 0 1 1.06.04Zm3.44 1.06a.75.75 0 1 1 1.02-1.1l3.5 3.25a.75.75 0 0 1 0 1.1l-3.5 3.25a.75.75 0 1 1-1.02-1.1l2.908-2.7-2.908-2.7Z"></path><path d="M1.5 4.25c0-.966.784-1.75 1.75-1.75h17.5c.966 0 1.75.784 1.75 1.75v12.5a1.75 1.75 0 0 1-1.75 1.75h-9.69l-3.573 3.573A1.458 1.458 0 0 1 5 21.043V18.5H3.25a1.75 1.75 0 0 1-1.75-1.75ZM3.25 4a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h2.5a.75.75 0 0 1 .75.75v3.19l3.72-3.72a.749.749 0 0 1 .53-.22h10a.25.25 0 0 0 .25-.25V4.25a.25.25 0 0 0-.25-.25Z"></path>
-</svg>
-      <div>
-        <div class="color-fg-default h4">Code Review</div>
-        Manage code changes
-      </div>
 
-    
-</a></li>
+_[How I Met Your Father](https://en.wikipedia.org/wiki/How_I_Met_Your_Father)_
 
-                    <li>
-  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center Link--has-description pb-lg-3" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;discussions&quot;,&quot;context&quot;:&quot;product&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;discussions_link_product_navbar&quot;}" href="https://github.com/features/discussions">
-      <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-comment-discussion color-fg-subtle mr-3">
-    <path d="M1.75 1h12.5c.966 0 1.75.784 1.75 1.75v9.5A1.75 1.75 0 0 1 14.25 14H8.061l-2.574 2.573A1.458 1.458 0 0 1 3 15.543V14H1.75A1.75 1.75 0 0 1 0 12.25v-9.5C0 1.784.784 1 1.75 1ZM1.5 2.75v9.5c0 .138.112.25.25.25h2a.75.75 0 0 1 .75.75v2.19l2.72-2.72a.749.749 0 0 1 .53-.22h6.5a.25.25 0 0 0 .25-.25v-9.5a.25.25 0 0 0-.25-.25H1.75a.25.25 0 0 0-.25.25Z"></path><path d="M22.5 8.75a.25.25 0 0 0-.25-.25h-3.5a.75.75 0 0 1 0-1.5h3.5c.966 0 1.75.784 1.75 1.75v9.5A1.75 1.75 0 0 1 22.25 20H21v1.543a1.457 1.457 0 0 1-2.487 1.03L15.939 20H10.75A1.75 1.75 0 0 1 9 18.25v-1.465a.75.75 0 0 1 1.5 0v1.465c0 .138.112.25.25.25h5.5a.75.75 0 0 1 .53.22l2.72 2.72v-2.19a.75.75 0 0 1 .75-.75h2a.25.25 0 0 0 .25-.25v-9.5Z"></path>
-</svg>
-      <div>
-        <div class="color-fg-default h4">Discussions</div>
-        Collaborate outside of code
-      </div>
 
-    
-</a></li>
+[According to an Entertainment Weekly article, the writers adopted facets of each main actor's personality and incorporated them](https://en.wikipedia.org/wiki/Entertainment_Weekly)
+[into their characters. This includes Neil Patrick Harris' skills with magic, Jason Segel's passion for songwriting, Alyson](https://en.wikipedia.org/wiki/Neil_Patrick_Harris)
+[Hannigan's absent-mindedness while pregnant, and Josh Radnor's intellectualism.[[14]]](https://en.wikipedia.org/wiki/Alyson_Hannigan)
 
-                    <li>
-  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center Link--has-description" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;code_search&quot;,&quot;context&quot;:&quot;product&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;code_search_link_product_navbar&quot;}" href="https://github.com/features/code-search">
-      <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-code-square color-fg-subtle mr-3">
-    <path d="M10.3 8.24a.75.75 0 0 1-.04 1.06L7.352 12l2.908 2.7a.75.75 0 1 1-1.02 1.1l-3.5-3.25a.75.75 0 0 1 0-1.1l3.5-3.25a.75.75 0 0 1 1.06.04Zm3.44 1.06a.75.75 0 1 1 1.02-1.1l3.5 3.25a.75.75 0 0 1 0 1.1l-3.5 3.25a.75.75 0 1 1-1.02-1.1l2.908-2.7-2.908-2.7Z"></path><path d="M2 3.75C2 2.784 2.784 2 3.75 2h16.5c.966 0 1.75.784 1.75 1.75v16.5A1.75 1.75 0 0 1 20.25 22H3.75A1.75 1.75 0 0 1 2 20.25Zm1.75-.25a.25.25 0 0 0-.25.25v16.5c0 .138.112.25.25.25h16.5a.25.25 0 0 0 .25-.25V3.75a.25.25 0 0 0-.25-.25Z"></path>
-</svg>
-      <div>
-        <div class="color-fg-default h4">Code Search</div>
-        Find more, search less
-      </div>
+MacLaren's, an Irish bar in the middle of New York City, in which a lot of the show is set, is loosely based on four favorite bars
+[of Bays, Thomas, and others' from the Late Show staff. Others include: McGee's, a Midtown tavern near the Ed Sullivan Theater](https://en.wikipedia.org/wiki/Ed_Sullivan_Theater)
+[where the Late Show is taped; McHale's, a legendary Hell's Kitchen bar which closed in 2006; Chumley's, a since-closed historic](https://en.wikipedia.org/wiki/Hell%27s_Kitchen)
+[Greenwich Village pub; and Fez, another closed bar on the Upper West Side.[[15]] McGee's had a mural that Bays and Thomas](https://en.wikipedia.org/wiki/Mural)
+both liked and wanted to incorporate into the show.[[16]] The name for the bar is from Carter Bays' assistant, Carl MacLaren; the
+bartender in the show is also named Carl.[[17]]
 
-    
-</a></li>
+[Episodes were generally shot over a three-day period in the Los Angeles-based Soundstage Studio 22[[18]] and featured upwards of](https://en.wikipedia.org/wiki/Los_Angeles)
+[50 scenes with quick transitions and flashbacks. However, the "Pilot" episode was filmed at CBS Radford.[[19]] The laugh track](https://en.wikipedia.org/wiki/Flashback_(narrative))
+was later created by recording an audience being shown the final edited episode. Thomas claimed that shooting before a live
+[audience would have been impossible because of the structure of the show and the numerous flashforwards in each episode and](https://en.wikipedia.org/wiki/Flashforward)
+because doing so "would blur the line between 'audience' and 'hostage situation'".[[20]] Later seasons started filming in front of an
+audience on occasion, when smaller sets were used.
 
-                </ul>
-              </div>
-          </div>
-          <div class="HeaderMenu-column px-lg-4">
-              <div class="border-bottom pb-3 pb-lg-0 border-lg-bottom-0 border-bottom-0">
-                    <span class="d-block h4 color-fg-default my-1" id="product-explore-heading">Explore</span>
-                <ul class="list-style-none f5" aria-labelledby="product-explore-heading">
-                    <li>
-  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;all_features&quot;,&quot;context&quot;:&quot;product&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;all_features_link_product_navbar&quot;}" href="https://github.com/features">
-      All features
 
-    
-</a></li>
+-----
 
-                    <li>
-  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary Link--external" target="_blank" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;documentation&quot;,&quot;context&quot;:&quot;product&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;documentation_link_product_navbar&quot;}" href="https://docs.github.com">
-      Documentation
+[generally started with the opening credits. A cold opening has been used since season 2. Viewers then occasionally see Ted's](https://en.wikipedia.org/wiki/Cold_open)
+children on a couch and hear him talking to them, telling the story of how he met their mother. Alternatively, scenes from
+previous episodes or shots of New York City with Ted narrating over the top are shown. Thomas has stated that Future Ted is an
+[unreliable narrator, since he is trying to tell a story that happened over 20 years earlier;[[21]] this has been a plot point in several](https://en.wikipedia.org/wiki/Unreliable_narrator)
+[episodes including "The Goat", "Oh Honey", "How I Met Everyone Else", and "The Mermaid Theory". Nevertheless, Thomas](https://en.wikipedia.org/wiki/The_Goat_(How_I_Met_Your_Mother))
+has also emphasized maintaining a coherent and consistent universe and trying to avoid continuity errors, a problem he noticed in
+other shows.[[22]]
 
-    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-link-external HeaderMenu-external-icon color-fg-subtle">
-    <path d="M3.75 2h3.5a.75.75 0 0 1 0 1.5h-3.5a.25.25 0 0 0-.25.25v8.5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-3.5a.75.75 0 0 1 1.5 0v3.5A1.75 1.75 0 0 1 12.25 14h-8.5A1.75 1.75 0 0 1 2 12.25v-8.5C2 2.784 2.784 2 3.75 2Zm6.854-1h4.146a.25.25 0 0 1 .25.25v4.146a.25.25 0 0 1-.427.177L13.03 4.03 9.28 7.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.75-3.75-1.543-1.543A.25.25 0 0 1 10.604 1Z"></path>
-</svg>
-</a></li>
+[A scene relating to the identity of the mother, involving Ted's future children, was filmed in 2006 for the show's eventual series](https://en.wikipedia.org/wiki/Series_finale)
+[finale.[[23]] This was done because the teenage actors portraying them would be adults by the time the final season was shot.[[21]]](https://en.wikipedia.org/wiki/Series_finale)
 
-                    <li>
-  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary Link--external" target="_blank" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;github_skills&quot;,&quot;context&quot;:&quot;product&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;github_skills_link_product_navbar&quot;}" href="https://skills.github.com">
-      GitHub Skills
+[During the 2007–2008 Writers Guild of America strike, How I Met Your Mother shut down production; when the strike ended,](https://en.wikipedia.org/wiki/2007%E2%80%932008_Writers_Guild_of_America_strike)
+[the show returned on March 17, 2008, with nine new episodes.[[24]] The network announced a change in the timeslot to 8:30 pm](https://en.wikipedia.org/wiki/2008%E2%80%9309_United_States_network_television_schedule#Monday)
+ET/7:30 pm CT, flip-flopping from the summer schedule with _[The Big Bang Theory.[[25]] CBS renewed the show for a fourth](https://en.wikipedia.org/wiki/The_Big_Bang_Theory)_
+season on May 14, 2008,[[26]] which premiered on September 22, 2008.[[27]]
 
-    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-link-external HeaderMenu-external-icon color-fg-subtle">
-    <path d="M3.75 2h3.5a.75.75 0 0 1 0 1.5h-3.5a.25.25 0 0 0-.25.25v8.5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-3.5a.75.75 0 0 1 1.5 0v3.5A1.75 1.75 0 0 1 12.25 14h-8.5A1.75 1.75 0 0 1 2 12.25v-8.5C2 2.784 2.784 2 3.75 2Zm6.854-1h4.146a.25.25 0 0 1 .25.25v4.146a.25.25 0 0 1-.427.177L13.03 4.03 9.28 7.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.75-3.75-1.543-1.543A.25.25 0 0 1 10.604 1Z"></path>
-</svg>
-</a></li>
+[In September 2008, Lifetime Television announced it had purchased the cable rerun rights to How I Met Your Mother at a rate of](https://en.wikipedia.org/wiki/Lifetime_(TV_network))
+about $725,000 per episode.[[28]] The four-year syndication contract stipulated that the studio deliver at least 110 half-hour
+episodes by 2010 and allowed for up to eight seasons of the show. At the end of the fourth season only 88 episodes had been
+produced, and a further 22 episodes were required, ensuring that there would be a fifth season.[[29]] There also was a complication
+with the writing of the show because of actress Alyson Hannigans absence due to her pregnancy; in response, the writers had to
+create episodes that did not include one of the five main characters.[[30]] On May 19, 2009, the fifth-season renewal was
+announced.[[31]] May 20, 2009, CBS announced that How I Met Your Mother would again be aired at 8 pm, leading into the new
+comedy _[Accidentally on Purpose. On January 12, 2010, the show aired its 100th episode, and CBS announced that the series](https://en.wikipedia.org/wiki/Accidentally_on_Purpose_(TV_series))_
+would return for a sixth season.[[32]] Upon learning that the series would be syndicated, Thomas said, "We're thrilled that it will
+live on in other forms," and they were proud of the show and it was great to see the strong demand.[[33]]
 
-                    <li>
-  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary Link--external" target="_blank" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;blog&quot;,&quot;context&quot;:&quot;product&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;blog_link_product_navbar&quot;}" href="https://github.blog">
-      Blog
+[Reruns of the series began airing on local American broadcast television stations and on Chicago-based cable superstation WGN](https://en.wikipedia.org/wiki/Chicago)
+[America on September 14, 2010. Featured in these airings are vanity cards previously unseen in the CBS and Lifetime airings](https://en.wikipedia.org/wiki/WGN_America)
+[due to marginalized credit sequences used by the two networks. Shown in between the closing credits and the production](https://en.wikipedia.org/wiki/Marginalized_closing_credits)
+company credits, these vanity cards show portions of "The Bro Code", a list of rules frequently referenced by Harris' character,
+Barney Stinson, on how men should interact with each other, with an emphasis on activities involving pursuing members of the
+opposite sex. The opening theme song for the syndicated reruns is also slightly edited, running shorter and not using all the
+pictures seen in the opening montage that runs on DVD and the original CBS broadcasts. The episodes are also slightly shorter,
+to allow for more commercials during a timeslot in syndication.
 
-    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-link-external HeaderMenu-external-icon color-fg-subtle">
-    <path d="M3.75 2h3.5a.75.75 0 0 1 0 1.5h-3.5a.25.25 0 0 0-.25.25v8.5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-3.5a.75.75 0 0 1 1.5 0v3.5A1.75 1.75 0 0 1 12.25 14h-8.5A1.75 1.75 0 0 1 2 12.25v-8.5C2 2.784 2.784 2 3.75 2Zm6.854-1h4.146a.25.25 0 0 1 .25.25v4.146a.25.25 0 0 1-.427.177L13.03 4.03 9.28 7.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.75-3.75-1.543-1.543A.25.25 0 0 1 10.604 1Z"></path>
-</svg>
-</a></li>
+[One of the series' traditions involved giving guest roles to actors from various Joss Whedon productions, many of whom co-](https://en.wikipedia.org/wiki/Joss_Whedon)
+[starred with Hannigan on Buffy the Vampire Slayer. Bays attributed this to their being "huge fans" and to those casts representing](https://en.wikipedia.org/wiki/Buffy_the_Vampire_Slayer)
+"a big talent pool".[[34]]
 
-                </ul>
-              </div>
-          </div>
-      </div>
-</li>
+On March 4, 2011, CBS announced that the show had been renewed for two more seasons,[[35]] with the seventh season
+premiering with back-to-back episodes on September 19, 2011.[[36]]
 
-                  <li class="HeaderMenu-item position-relative flex-wrap flex-justify-between flex-items-center d-block d-lg-flex flex-lg-nowrap flex-lg-items-center js-details-container js-header-menu-item">
-      <button type="button" class="HeaderMenu-link border-0 width-full width-lg-auto px-0 px-lg-2 py-lg-2 no-wrap d-flex flex-items-center flex-justify-between js-details-target" aria-expanded="false">
-        Solutions
-        <svg opacity="0.5" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-chevron-down HeaderMenu-icon ml-1">
-    <path d="M12.78 5.22a.749.749 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.06 0L3.22 6.28a.749.749 0 1 1 1.06-1.06L8 8.939l3.72-3.719a.749.749 0 0 1 1.06 0Z"></path>
-</svg>
-      </button>
-      <div class="HeaderMenu-dropdown dropdown-menu rounded m-0 p-0 pt-2 pt-lg-4 position-relative position-lg-absolute left-0 left-lg-n3 d-lg-flex flex-wrap dropdown-menu-wide">
-          <div class="HeaderMenu-column px-lg-4 border-lg-right mb-4 mb-lg-0 pr-lg-7">
-              <div class="border-bottom pb-3 pb-lg-0 border-lg-bottom-0 pb-lg-3 mb-3 mb-lg-0">
-                    <span class="d-block h4 color-fg-default my-1" id="solutions-by-company-size-heading">By company size</span>
-                <ul class="list-style-none f5" aria-labelledby="solutions-by-company-size-heading">
-                    <li>
-  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;enterprises&quot;,&quot;context&quot;:&quot;solutions&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;enterprises_link_solutions_navbar&quot;}" href="https://github.com/enterprise">
-      Enterprises
+[On July 27, 2011, the FX channel announced it had picked up the series for syndication. On September 5, 2011, FX began airing](https://en.wikipedia.org/wiki/FX_(TV_channel))
+the series.[[37]]
 
-    
-</a></li>
+Cast members had said the show would not run longer than eight seasons,[[38]] but a ninth season was secured in December 2012
+amid tense negotiations with the studios and the actors—especially Segel, who had wanted to move on to other ventures after the
+eighth season.[[39][40]] During these negotiations, Bays and Thomas originally approached the eighth season as if it were the
+show's last, but had a "Plan B" in case the show were renewed.[[41]] After producers secured a ninth season, they implemented
+[plans to secretly cast the titular future mother, with Cristin Milioti eventually winning the role, having bested at least two other](https://en.wikipedia.org/wiki/Cristin_Milioti)
+[contenders.[[12]] Milioti first appeared in the last scene in the season eight finale "Something New" and was a regular cast member](https://en.wikipedia.org/wiki/Something_New_(How_I_Met_Your_Mother))
+in the show's final season.[[42]] This was the first time the show had expanded its core roster.[[42][43]]
 
-                    <li>
-  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;small_and_medium_teams&quot;,&quot;context&quot;:&quot;solutions&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;small_and_medium_teams_link_solutions_navbar&quot;}" href="https://github.com/team">
-      Small and medium teams
+[In January 2013, How I Met Your Mother was renewed for a ninth season.[[44]] Carter Bays told Entertainment Weekly that season](https://en.wikipedia.org/wiki/Entertainment_Weekly)
+9 would "feature some of the most non-linear episodes we've ever done".[[45]]
 
-    
-</a></li>
 
-                    <li>
-  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;startups&quot;,&quot;context&quot;:&quot;solutions&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;startups_link_solutions_navbar&quot;}" href="https://github.com/enterprise/startups">
-      Startups
+-----
 
-    
-</a></li>
+## Syndication
 
-                </ul>
-              </div>
-              <div class="border-bottom pb-3 pb-lg-0 border-lg-bottom-0">
-                    <span class="d-block h4 color-fg-default my-1" id="solutions-by-use-case-heading">By use case</span>
-                <ul class="list-style-none f5" aria-labelledby="solutions-by-use-case-heading">
-                    <li>
-  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;devsecops&quot;,&quot;context&quot;:&quot;solutions&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;devsecops_link_solutions_navbar&quot;}" href="/solutions/use-case/devsecops">
-      DevSecOps
+_[How I Met Your Mother aired on Nick at Nite from September 8, 2014, to December 27, 2015, and TV Land from June 29, 2015,](https://en.wikipedia.org/wiki/Nick_at_Nite)_
+[to 2018. It also aired on FX from September 5, 2011, to 2019, and Lifetime from 2009 to 2018.](https://en.wikipedia.org/wiki/FX_(TV_channel))
 
-    
-</a></li>
+## Cast and characters
 
-                    <li>
-  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;devops&quot;,&quot;context&quot;:&quot;solutions&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;devops_link_solutions_navbar&quot;}" href="/solutions/use-case/devops">
-      DevOps
+**Main cast**
 
-    
-</a></li>
 
-                    <li>
-  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;ci_cd&quot;,&quot;context&quot;:&quot;solutions&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;ci_cd_link_solutions_navbar&quot;}" href="/solutions/use-case/ci-cd">
-      CI/CD
+[Josh Radnor](https://en.wikipedia.org/wiki/Josh_Radnor)
 
-    
-</a></li>
+[Ted Mosby](https://en.wikipedia.org/wiki/Ted_Mosby)
 
-                    <li>
-  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;view_all_use_cases&quot;,&quot;context&quot;:&quot;solutions&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;view_all_use_cases_link_solutions_navbar&quot;}" href="/solutions/use-case">
-      View all use cases
 
-    
-</a></li>
+[Jason Segel](https://en.wikipedia.org/wiki/Jason_Segel)
+[Marshall Eriksen](https://en.wikipedia.org/wiki/Marshall_Eriksen)
 
-                </ul>
-              </div>
-          </div>
-          <div class="HeaderMenu-column px-lg-4">
-              <div class="border-bottom pb-3 pb-lg-0 border-lg-bottom-0">
-                    <span class="d-block h4 color-fg-default my-1" id="solutions-by-industry-heading">By industry</span>
-                <ul class="list-style-none f5" aria-labelledby="solutions-by-industry-heading">
-                    <li>
-  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;healthcare&quot;,&quot;context&quot;:&quot;solutions&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;healthcare_link_solutions_navbar&quot;}" href="/solutions/industry/healthcare">
-      Healthcare
-
-    
-</a></li>
-
-                    <li>
-  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;financial_services&quot;,&quot;context&quot;:&quot;solutions&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;financial_services_link_solutions_navbar&quot;}" href="/solutions/industry/financial-services">
-      Financial services
-
-    
-</a></li>
-
-                    <li>
-  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;manufacturing&quot;,&quot;context&quot;:&quot;solutions&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;manufacturing_link_solutions_navbar&quot;}" href="/solutions/industry/manufacturing">
-      Manufacturing
-
-    
-</a></li>
-
-                    <li>
-  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;government&quot;,&quot;context&quot;:&quot;solutions&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;government_link_solutions_navbar&quot;}" href="/solutions/industry/government">
-      Government
-
-    
-</a></li>
-
-                    <li>
-  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;view_all_industries&quot;,&quot;context&quot;:&quot;solutions&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;view_all_industries_link_solutions_navbar&quot;}" href="/solutions/industry">
-      View all industries
-
-    
-</a></li>
-
-                </ul>
-              </div>
-          </div>
-         <div class="HeaderMenu-trailing-link rounded-bottom-2 flex-shrink-0 mt-lg-4 px-lg-4 py-4 py-lg-3 f5 text-semibold">
-            <a href="/solutions">
-              View all solutions
-              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-chevron-right HeaderMenu-trailing-link-icon">
-    <path d="M6.22 3.22a.75.75 0 0 1 1.06 0l4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L9.94 8 6.22 4.28a.75.75 0 0 1 0-1.06Z"></path>
-</svg>
-</a>         </div>
-      </div>
-</li>
-
-                    <li class="HeaderMenu-item position-relative flex-wrap flex-justify-between flex-items-center d-block d-lg-flex flex-lg-nowrap flex-lg-items-center js-details-container js-header-menu-item">
-      <button type="button" class="HeaderMenu-link border-0 width-full width-lg-auto px-0 px-lg-2 py-lg-2 no-wrap d-flex flex-items-center flex-justify-between js-details-target" aria-expanded="false">
-        Resources
-        <svg opacity="0.5" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-chevron-down HeaderMenu-icon ml-1">
-    <path d="M12.78 5.22a.749.749 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.06 0L3.22 6.28a.749.749 0 1 1 1.06-1.06L8 8.939l3.72-3.719a.749.749 0 0 1 1.06 0Z"></path>
-</svg>
-      </button>
-      <div class="HeaderMenu-dropdown dropdown-menu rounded m-0 p-0 pt-2 pt-lg-4 position-relative position-lg-absolute left-0 left-lg-n3 pb-2 pb-lg-4 d-lg-flex flex-wrap dropdown-menu-wide">
-          <div class="HeaderMenu-column px-lg-4 border-lg-right mb-4 mb-lg-0 pr-lg-7">
-              <div class="border-bottom pb-3 pb-lg-0 border-lg-bottom-0">
-                    <span class="d-block h4 color-fg-default my-1" id="resources-topics-heading">Topics</span>
-                <ul class="list-style-none f5" aria-labelledby="resources-topics-heading">
-                    <li>
-  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;ai&quot;,&quot;context&quot;:&quot;resources&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;ai_link_resources_navbar&quot;}" href="/resources/articles/ai">
-      AI
-
-    
-</a></li>
-
-                    <li>
-  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;devops&quot;,&quot;context&quot;:&quot;resources&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;devops_link_resources_navbar&quot;}" href="/resources/articles/devops">
-      DevOps
-
-    
-</a></li>
-
-                    <li>
-  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;security&quot;,&quot;context&quot;:&quot;resources&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;security_link_resources_navbar&quot;}" href="/resources/articles/security">
-      Security
-
-    
-</a></li>
-
-                    <li>
-  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;software_development&quot;,&quot;context&quot;:&quot;resources&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;software_development_link_resources_navbar&quot;}" href="/resources/articles/software-development">
-      Software Development
-
-    
-</a></li>
-
-                    <li>
-  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;view_all&quot;,&quot;context&quot;:&quot;resources&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;view_all_link_resources_navbar&quot;}" href="/resources/articles">
-      View all
-
-    
-</a></li>
-
-                </ul>
-              </div>
-          </div>
-          <div class="HeaderMenu-column px-lg-4">
-              <div class="border-bottom pb-3 pb-lg-0 border-lg-bottom-0 border-bottom-0">
-                    <span class="d-block h4 color-fg-default my-1" id="resources-explore-heading">Explore</span>
-                <ul class="list-style-none f5" aria-labelledby="resources-explore-heading">
-                    <li>
-  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary Link--external" target="_blank" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;learning_pathways&quot;,&quot;context&quot;:&quot;resources&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;learning_pathways_link_resources_navbar&quot;}" href="https://resources.github.com/learn/pathways">
-      Learning Pathways
-
-    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-link-external HeaderMenu-external-icon color-fg-subtle">
-    <path d="M3.75 2h3.5a.75.75 0 0 1 0 1.5h-3.5a.25.25 0 0 0-.25.25v8.5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-3.5a.75.75 0 0 1 1.5 0v3.5A1.75 1.75 0 0 1 12.25 14h-8.5A1.75 1.75 0 0 1 2 12.25v-8.5C2 2.784 2.784 2 3.75 2Zm6.854-1h4.146a.25.25 0 0 1 .25.25v4.146a.25.25 0 0 1-.427.177L13.03 4.03 9.28 7.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.75-3.75-1.543-1.543A.25.25 0 0 1 10.604 1Z"></path>
-</svg>
-</a></li>
-
-                    <li>
-  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary Link--external" target="_blank" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;white_papers_ebooks_webinars&quot;,&quot;context&quot;:&quot;resources&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;white_papers_ebooks_webinars_link_resources_navbar&quot;}" href="https://resources.github.com">
-      White papers, Ebooks, Webinars
-
-    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-link-external HeaderMenu-external-icon color-fg-subtle">
-    <path d="M3.75 2h3.5a.75.75 0 0 1 0 1.5h-3.5a.25.25 0 0 0-.25.25v8.5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-3.5a.75.75 0 0 1 1.5 0v3.5A1.75 1.75 0 0 1 12.25 14h-8.5A1.75 1.75 0 0 1 2 12.25v-8.5C2 2.784 2.784 2 3.75 2Zm6.854-1h4.146a.25.25 0 0 1 .25.25v4.146a.25.25 0 0 1-.427.177L13.03 4.03 9.28 7.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.75-3.75-1.543-1.543A.25.25 0 0 1 10.604 1Z"></path>
-</svg>
-</a></li>
-
-                    <li>
-  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;customer_stories&quot;,&quot;context&quot;:&quot;resources&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;customer_stories_link_resources_navbar&quot;}" href="https://github.com/customer-stories">
-      Customer Stories
-
-    
-</a></li>
-
-                    <li>
-  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary Link--external" target="_blank" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;partners&quot;,&quot;context&quot;:&quot;resources&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;partners_link_resources_navbar&quot;}" href="https://partner.github.com">
-      Partners
-
-    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-link-external HeaderMenu-external-icon color-fg-subtle">
-    <path d="M3.75 2h3.5a.75.75 0 0 1 0 1.5h-3.5a.25.25 0 0 0-.25.25v8.5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-3.5a.75.75 0 0 1 1.5 0v3.5A1.75 1.75 0 0 1 12.25 14h-8.5A1.75 1.75 0 0 1 2 12.25v-8.5C2 2.784 2.784 2 3.75 2Zm6.854-1h4.146a.25.25 0 0 1 .25.25v4.146a.25.25 0 0 1-.427.177L13.03 4.03 9.28 7.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.75-3.75-1.543-1.543A.25.25 0 0 1 10.604 1Z"></path>
-</svg>
-</a></li>
-
-                    <li>
-  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;executive_insights&quot;,&quot;context&quot;:&quot;resources&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;executive_insights_link_resources_navbar&quot;}" href="https://github.com/solutions/executive-insights">
-      Executive Insights
-
-    
-</a></li>
-
-                </ul>
-              </div>
-          </div>
-      </div>
-</li>
-
-
-                <li class="HeaderMenu-item position-relative flex-wrap flex-justify-between flex-items-center d-block d-lg-flex flex-lg-nowrap flex-lg-items-center js-details-container js-header-menu-item">
-      <button type="button" class="HeaderMenu-link border-0 width-full width-lg-auto px-0 px-lg-2 py-lg-2 no-wrap d-flex flex-items-center flex-justify-between js-details-target" aria-expanded="false">
-        Open Source
-        <svg opacity="0.5" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-chevron-down HeaderMenu-icon ml-1">
-    <path d="M12.78 5.22a.749.749 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.06 0L3.22 6.28a.749.749 0 1 1 1.06-1.06L8 8.939l3.72-3.719a.749.749 0 0 1 1.06 0Z"></path>
-</svg>
-      </button>
-      <div class="HeaderMenu-dropdown dropdown-menu rounded m-0 p-0 pt-2 pt-lg-4 position-relative position-lg-absolute left-0 left-lg-n3 pb-2 pb-lg-4 px-lg-4">
-          <div class="HeaderMenu-column">
-              <div class="border-bottom pb-3 pb-lg-0 pb-lg-3 mb-3 mb-lg-0 mb-lg-3">
-                <ul class="list-style-none f5" >
-                    <li>
-  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center Link--has-description" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;github_sponsors&quot;,&quot;context&quot;:&quot;open_source&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;github_sponsors_link_open_source_navbar&quot;}" href="/sponsors">
-      
-      <div>
-        <div class="color-fg-default h4">GitHub Sponsors</div>
-        Fund open source developers
-      </div>
-
-    
-</a></li>
-
-                </ul>
-              </div>
-              <div class="border-bottom pb-3 pb-lg-0 pb-lg-3 mb-3 mb-lg-0 mb-lg-3">
-                <ul class="list-style-none f5" >
-                    <li>
-  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center Link--has-description" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;the_readme_project&quot;,&quot;context&quot;:&quot;open_source&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;the_readme_project_link_open_source_navbar&quot;}" href="https://github.com/readme">
-      
-      <div>
-        <div class="color-fg-default h4">The ReadME Project</div>
-        GitHub community articles
-      </div>
-
-    
-</a></li>
-
-                </ul>
-              </div>
-              <div class="border-bottom pb-3 pb-lg-0 border-bottom-0">
-                    <span class="d-block h4 color-fg-default my-1" id="open-source-repositories-heading">Repositories</span>
-                <ul class="list-style-none f5" aria-labelledby="open-source-repositories-heading">
-                    <li>
-  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;topics&quot;,&quot;context&quot;:&quot;open_source&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;topics_link_open_source_navbar&quot;}" href="https://github.com/topics">
-      Topics
-
-    
-</a></li>
-
-                    <li>
-  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;trending&quot;,&quot;context&quot;:&quot;open_source&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;trending_link_open_source_navbar&quot;}" href="https://github.com/trending">
-      Trending
-
-    
-</a></li>
-
-                    <li>
-  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;collections&quot;,&quot;context&quot;:&quot;open_source&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;collections_link_open_source_navbar&quot;}" href="https://github.com/collections">
-      Collections
-
-    
-</a></li>
-
-                </ul>
-              </div>
-          </div>
-      </div>
-</li>
-
-
-                <li class="HeaderMenu-item position-relative flex-wrap flex-justify-between flex-items-center d-block d-lg-flex flex-lg-nowrap flex-lg-items-center js-details-container js-header-menu-item">
-      <button type="button" class="HeaderMenu-link border-0 width-full width-lg-auto px-0 px-lg-2 py-lg-2 no-wrap d-flex flex-items-center flex-justify-between js-details-target" aria-expanded="false">
-        Enterprise
-        <svg opacity="0.5" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-chevron-down HeaderMenu-icon ml-1">
-    <path d="M12.78 5.22a.749.749 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.06 0L3.22 6.28a.749.749 0 1 1 1.06-1.06L8 8.939l3.72-3.719a.749.749 0 0 1 1.06 0Z"></path>
-</svg>
-      </button>
-      <div class="HeaderMenu-dropdown dropdown-menu rounded m-0 p-0 pt-2 pt-lg-4 position-relative position-lg-absolute left-0 left-lg-n3 pb-2 pb-lg-4 px-lg-4">
-          <div class="HeaderMenu-column">
-              <div class="border-bottom pb-3 pb-lg-0 pb-lg-3 mb-3 mb-lg-0 mb-lg-3">
-                <ul class="list-style-none f5" >
-                    <li>
-  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center Link--has-description" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;enterprise_platform&quot;,&quot;context&quot;:&quot;enterprise&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;enterprise_platform_link_enterprise_navbar&quot;}" href="/enterprise">
-      <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-stack color-fg-subtle mr-3">
-    <path d="M11.063 1.456a1.749 1.749 0 0 1 1.874 0l8.383 5.316a1.751 1.751 0 0 1 0 2.956l-8.383 5.316a1.749 1.749 0 0 1-1.874 0L2.68 9.728a1.751 1.751 0 0 1 0-2.956Zm1.071 1.267a.25.25 0 0 0-.268 0L3.483 8.039a.25.25 0 0 0 0 .422l8.383 5.316a.25.25 0 0 0 .268 0l8.383-5.316a.25.25 0 0 0 0-.422Z"></path><path d="M1.867 12.324a.75.75 0 0 1 1.035-.232l8.964 5.685a.25.25 0 0 0 .268 0l8.964-5.685a.75.75 0 0 1 .804 1.267l-8.965 5.685a1.749 1.749 0 0 1-1.874 0l-8.965-5.685a.75.75 0 0 1-.231-1.035Z"></path><path d="M1.867 16.324a.75.75 0 0 1 1.035-.232l8.964 5.685a.25.25 0 0 0 .268 0l8.964-5.685a.75.75 0 0 1 .804 1.267l-8.965 5.685a1.749 1.749 0 0 1-1.874 0l-8.965-5.685a.75.75 0 0 1-.231-1.035Z"></path>
-</svg>
-      <div>
-        <div class="color-fg-default h4">Enterprise platform</div>
-        AI-powered developer platform
-      </div>
-
-    
-</a></li>
-
-                </ul>
-              </div>
-              <div class="border-bottom pb-3 pb-lg-0 border-bottom-0">
-                    <span class="d-block h4 color-fg-default my-1" id="enterprise-available-add-ons-heading">Available add-ons</span>
-                <ul class="list-style-none f5" aria-labelledby="enterprise-available-add-ons-heading">
-                    <li>
-  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center Link--has-description pb-lg-3" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;advanced_security&quot;,&quot;context&quot;:&quot;enterprise&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;advanced_security_link_enterprise_navbar&quot;}" href="https://github.com/enterprise/advanced-security">
-      <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-shield-check color-fg-subtle mr-3">
-    <path d="M16.53 9.78a.75.75 0 0 0-1.06-1.06L11 13.19l-1.97-1.97a.75.75 0 0 0-1.06 1.06l2.5 2.5a.75.75 0 0 0 1.06 0l5-5Z"></path><path d="m12.54.637 8.25 2.675A1.75 1.75 0 0 1 22 4.976V10c0 6.19-3.771 10.704-9.401 12.83a1.704 1.704 0 0 1-1.198 0C5.77 20.705 2 16.19 2 10V4.976c0-.758.489-1.43 1.21-1.664L11.46.637a1.748 1.748 0 0 1 1.08 0Zm-.617 1.426-8.25 2.676a.249.249 0 0 0-.173.237V10c0 5.46 3.28 9.483 8.43 11.426a.199.199 0 0 0 .14 0C17.22 19.483 20.5 15.461 20.5 10V4.976a.25.25 0 0 0-.173-.237l-8.25-2.676a.253.253 0 0 0-.154 0Z"></path>
-</svg>
-      <div>
-        <div class="color-fg-default h4">Advanced Security</div>
-        Enterprise-grade security features
-      </div>
-
-    
-</a></li>
-
-                    <li>
-  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center Link--has-description pb-lg-3" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;github_copilot&quot;,&quot;context&quot;:&quot;enterprise&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;github_copilot_link_enterprise_navbar&quot;}" href="/features/copilot#enterprise">
-      <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-copilot color-fg-subtle mr-3">
-    <path d="M23.922 16.992c-.861 1.495-5.859 5.023-11.922 5.023-6.063 0-11.061-3.528-11.922-5.023A.641.641 0 0 1 0 16.736v-2.869a.841.841 0 0 1 .053-.22c.372-.935 1.347-2.292 2.605-2.656.167-.429.414-1.055.644-1.517a10.195 10.195 0 0 1-.052-1.086c0-1.331.282-2.499 1.132-3.368.397-.406.89-.717 1.474-.952 1.399-1.136 3.392-2.093 6.122-2.093 2.731 0 4.767.957 6.166 2.093.584.235 1.077.546 1.474.952.85.869 1.132 2.037 1.132 3.368 0 .368-.014.733-.052 1.086.23.462.477 1.088.644 1.517 1.258.364 2.233 1.721 2.605 2.656a.832.832 0 0 1 .053.22v2.869a.641.641 0 0 1-.078.256ZM12.172 11h-.344a4.323 4.323 0 0 1-.355.508C10.703 12.455 9.555 13 7.965 13c-1.725 0-2.989-.359-3.782-1.259a2.005 2.005 0 0 1-.085-.104L4 11.741v6.585c1.435.779 4.514 2.179 8 2.179 3.486 0 6.565-1.4 8-2.179v-6.585l-.098-.104s-.033.045-.085.104c-.793.9-2.057 1.259-3.782 1.259-1.59 0-2.738-.545-3.508-1.492a4.323 4.323 0 0 1-.355-.508h-.016.016Zm.641-2.935c.136 1.057.403 1.913.878 2.497.442.544 1.134.938 2.344.938 1.573 0 2.292-.337 2.657-.751.384-.435.558-1.15.558-2.361 0-1.14-.243-1.847-.705-2.319-.477-.488-1.319-.862-2.824-1.025-1.487-.161-2.192.138-2.533.529-.269.307-.437.808-.438 1.578v.021c0 .265.021.562.063.893Zm-1.626 0c.042-.331.063-.628.063-.894v-.02c-.001-.77-.169-1.271-.438-1.578-.341-.391-1.046-.69-2.533-.529-1.505.163-2.347.537-2.824 1.025-.462.472-.705 1.179-.705 2.319 0 1.211.175 1.926.558 2.361.365.414 1.084.751 2.657.751 1.21 0 1.902-.394 2.344-.938.475-.584.742-1.44.878-2.497Z"></path><path d="M14.5 14.25a1 1 0 0 1 1 1v2a1 1 0 0 1-2 0v-2a1 1 0 0 1 1-1Zm-5 0a1 1 0 0 1 1 1v2a1 1 0 0 1-2 0v-2a1 1 0 0 1 1-1Z"></path>
-</svg>
-      <div>
-        <div class="color-fg-default h4">GitHub Copilot</div>
-        Enterprise-grade AI features
-      </div>
-
-    
-</a></li>
-
-                    <li>
-  <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center Link--has-description" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;premium_support&quot;,&quot;context&quot;:&quot;enterprise&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;premium_support_link_enterprise_navbar&quot;}" href="/premium-support">
-      <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-comment-discussion color-fg-subtle mr-3">
-    <path d="M1.75 1h12.5c.966 0 1.75.784 1.75 1.75v9.5A1.75 1.75 0 0 1 14.25 14H8.061l-2.574 2.573A1.458 1.458 0 0 1 3 15.543V14H1.75A1.75 1.75 0 0 1 0 12.25v-9.5C0 1.784.784 1 1.75 1ZM1.5 2.75v9.5c0 .138.112.25.25.25h2a.75.75 0 0 1 .75.75v2.19l2.72-2.72a.749.749 0 0 1 .53-.22h6.5a.25.25 0 0 0 .25-.25v-9.5a.25.25 0 0 0-.25-.25H1.75a.25.25 0 0 0-.25.25Z"></path><path d="M22.5 8.75a.25.25 0 0 0-.25-.25h-3.5a.75.75 0 0 1 0-1.5h3.5c.966 0 1.75.784 1.75 1.75v9.5A1.75 1.75 0 0 1 22.25 20H21v1.543a1.457 1.457 0 0 1-2.487 1.03L15.939 20H10.75A1.75 1.75 0 0 1 9 18.25v-1.465a.75.75 0 0 1 1.5 0v1.465c0 .138.112.25.25.25h5.5a.75.75 0 0 1 .53.22l2.72 2.72v-2.19a.75.75 0 0 1 .75-.75h2a.25.25 0 0 0 .25-.25v-9.5Z"></path>
-</svg>
-      <div>
-        <div class="color-fg-default h4">Premium Support</div>
-        Enterprise-grade 24/7 support
-      </div>
-
-    
-</a></li>
-
-                </ul>
-              </div>
-          </div>
-      </div>
-</li>
-
-
-                <li class="HeaderMenu-item position-relative flex-wrap flex-justify-between flex-items-center d-block d-lg-flex flex-lg-nowrap flex-lg-items-center js-details-container js-header-menu-item">
-    <a class="HeaderMenu-link no-underline px-0 px-lg-2 py-3 py-lg-2 d-block d-lg-inline-block" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;pricing&quot;,&quot;context&quot;:&quot;global&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;pricing_link_global_navbar&quot;}" href="https://github.com/pricing">Pricing</a>
-</li>
-
-            </ul>
-          </nav>
-
-        <div class="d-flex flex-column flex-lg-row width-full flex-justify-end flex-lg-items-center text-center mt-3 mt-lg-0 text-lg-left ml-lg-3">
-                
-
-
-<qbsearch-input class="search-input" data-scope="repo:olivermueller/amlta-2024" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="jJDeCuS8HsrR2hbDtA3EmpznkJotMNiETc-STD2IN5f3w_yECyqzW1UexqIZDtnX5HPSscbegJ7pDHC1qSM2Hw" data-max-custom-scopes="10" data-header-redesign-enabled="false" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="olivermueller/amlta-2024" data-current-org="" data-current-owner="olivermueller" data-logged-in="false" data-copilot-chat-enabled="false" data-nl-search-enabled="false" data-retain-scroll-position="true">
-  <div
-    class="search-input-container search-with-dialog position-relative d-flex flex-row flex-items-center mr-4 rounded"
-    data-action="click:qbsearch-input#searchInputContainerClicked"
-  >
-      <button
-        type="button"
-        class="header-search-button placeholder  input-button form-control d-flex flex-1 flex-self-stretch flex-items-center no-wrap width-full py-0 pl-2 pr-0 text-left border-0 box-shadow-none"
-        data-target="qbsearch-input.inputButton"
-        aria-label="Search or jump to…"
-        aria-haspopup="dialog"
-        placeholder="Search or jump to..."
-        data-hotkey=s,/
-        autocapitalize="off"
-        data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;searchbar&quot;,&quot;context&quot;:&quot;global&quot;,&quot;tag&quot;:&quot;input&quot;,&quot;label&quot;:&quot;searchbar_input_global_navbar&quot;}"
-        data-action="click:qbsearch-input#handleExpand"
-      >
-        <div class="mr-2 color-fg-muted">
-          <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-search">
-    <path d="M10.68 11.74a6 6 0 0 1-7.922-8.982 6 6 0 0 1 8.982 7.922l3.04 3.04a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215ZM11.5 7a4.499 4.499 0 1 0-8.997 0A4.499 4.499 0 0 0 11.5 7Z"></path>
-</svg>
-        </div>
-        <span class="flex-1" data-target="qbsearch-input.inputButtonText">Search or jump to...</span>
-          <div class="d-flex" data-target="qbsearch-input.hotkeyIndicator">
-            <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
-
-          </div>
-      </button>
-
-    <input type="hidden" name="type" class="js-site-search-type-field">
-
-    
-<div class="Overlay--hidden " data-modal-dialog-overlay>
-  <modal-dialog data-action="close:qbsearch-input#handleClose cancel:qbsearch-input#handleClose" data-target="qbsearch-input.searchSuggestionsDialog" role="dialog" id="search-suggestions-dialog" aria-modal="true" aria-labelledby="search-suggestions-dialog-header" data-view-component="true" class="Overlay Overlay--width-large Overlay--height-auto">
-      <h1 id="search-suggestions-dialog-header" class="sr-only">Search code, repositories, users, issues, pull requests...</h1>
-    <div class="Overlay-body Overlay-body--paddingNone">
-      
-          <div data-view-component="true">        <div class="search-suggestions position-fixed width-full color-shadow-large border color-fg-default color-bg-default overflow-hidden d-flex flex-column query-builder-container"
-          style="border-radius: 12px;"
-          data-target="qbsearch-input.queryBuilderContainer"
-          hidden
-        >
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="query-builder-test-form" action="" accept-charset="UTF-8" method="get">
-  <query-builder data-target="qbsearch-input.queryBuilder" id="query-builder-query-builder-test" data-filter-key=":" data-view-component="true" class="QueryBuilder search-query-builder">
-    <div class="FormControl FormControl--fullWidth">
-      <label id="query-builder-test-label" for="query-builder-test" class="FormControl-label sr-only">
-        Search
-      </label>
-      <div
-        class="QueryBuilder-StyledInput width-fit "
-        data-target="query-builder.styledInput"
-      >
-          <span id="query-builder-test-leadingvisual-wrap" class="FormControl-input-leadingVisualWrap QueryBuilder-leadingVisualWrap">
-            <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-search FormControl-input-leadingVisual">
-    <path d="M10.68 11.74a6 6 0 0 1-7.922-8.982 6 6 0 0 1 8.982 7.922l3.04 3.04a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215ZM11.5 7a4.499 4.499 0 1 0-8.997 0A4.499 4.499 0 0 0 11.5 7Z"></path>
-</svg>
-          </span>
-        <div data-target="query-builder.styledInputContainer" class="QueryBuilder-StyledInputContainer">
-          <div
-            aria-hidden="true"
-            class="QueryBuilder-StyledInputContent"
-            data-target="query-builder.styledInputContent"
-          ></div>
-          <div class="QueryBuilder-InputWrapper">
-            <div aria-hidden="true" class="QueryBuilder-Sizer" data-target="query-builder.sizer"></div>
-            <input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-4591f889-f206-4102-a9d6-3e80af812620" data-target="query-builder.input" data-action="
-          input:query-builder#inputChange
-          blur:query-builder#inputBlur
-          keydown:query-builder#inputKeydown
-          focus:query-builder#inputFocus
-        " data-view-component="true" class="FormControl-input QueryBuilder-Input FormControl-medium" />
-          </div>
-        </div>
-          <span class="sr-only" id="query-builder-test-clear">Clear</span>
-          <button role="button" id="query-builder-test-clear-button" aria-labelledby="query-builder-test-clear query-builder-test-label" data-target="query-builder.clearButton" data-action="
-                click:query-builder#clear
-                focus:query-builder#clearButtonFocus
-                blur:query-builder#clearButtonBlur
-              " variant="small" hidden="hidden" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium mr-1 px-2 py-0 d-flex flex-items-center rounded-1 color-fg-muted">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x-circle-fill Button-visual">
-    <path d="M2.343 13.657A8 8 0 1 1 13.658 2.343 8 8 0 0 1 2.343 13.657ZM6.03 4.97a.751.751 0 0 0-1.042.018.751.751 0 0 0-.018 1.042L6.94 8 4.97 9.97a.749.749 0 0 0 .326 1.275.749.749 0 0 0 .734-.215L8 9.06l1.97 1.97a.749.749 0 0 0 1.275-.326.749.749 0 0 0-.215-.734L9.06 8l1.97-1.97a.749.749 0 0 0-.326-1.275.749.749 0 0 0-.734.215L8 6.94Z"></path>
-</svg>
-</button>
-
-      </div>
-      <template id="search-icon">
-  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-search">
-    <path d="M10.68 11.74a6 6 0 0 1-7.922-8.982 6 6 0 0 1 8.982 7.922l3.04 3.04a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215ZM11.5 7a4.499 4.499 0 1 0-8.997 0A4.499 4.499 0 0 0 11.5 7Z"></path>
-</svg>
-</template>
-
-<template id="code-icon">
-  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
-    <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
-</svg>
-</template>
-
-<template id="file-code-icon">
-  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file-code">
-    <path d="M4 1.75C4 .784 4.784 0 5.75 0h5.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v8.586A1.75 1.75 0 0 1 14.25 15h-9a.75.75 0 0 1 0-1.5h9a.25.25 0 0 0 .25-.25V6h-2.75A1.75 1.75 0 0 1 10 4.25V1.5H5.75a.25.25 0 0 0-.25.25v2.5a.75.75 0 0 1-1.5 0Zm1.72 4.97a.75.75 0 0 1 1.06 0l2 2a.75.75 0 0 1 0 1.06l-2 2a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734l1.47-1.47-1.47-1.47a.75.75 0 0 1 0-1.06ZM3.28 7.78 1.81 9.25l1.47 1.47a.751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018l-2-2a.75.75 0 0 1 0-1.06l2-2a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Zm8.22-6.218V4.25c0 .138.112.25.25.25h2.688l-.011-.013-2.914-2.914-.013-.011Z"></path>
-</svg>
-</template>
-
-<template id="history-icon">
-  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-history">
-    <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"></path>
-</svg>
-</template>
-
-<template id="repo-icon">
-  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo">
-    <path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path>
-</svg>
-</template>
-
-<template id="bookmark-icon">
-  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-bookmark">
-    <path d="M3 2.75C3 1.784 3.784 1 4.75 1h6.5c.966 0 1.75.784 1.75 1.75v11.5a.75.75 0 0 1-1.227.579L8 11.722l-3.773 3.107A.751.751 0 0 1 3 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v9.91l3.023-2.489a.75.75 0 0 1 .954 0l3.023 2.49V2.75a.25.25 0 0 0-.25-.25Z"></path>
-</svg>
-</template>
-
-<template id="plus-circle-icon">
-  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-plus-circle">
-    <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7.25-3.25v2.5h2.5a.75.75 0 0 1 0 1.5h-2.5v2.5a.75.75 0 0 1-1.5 0v-2.5h-2.5a.75.75 0 0 1 0-1.5h2.5v-2.5a.75.75 0 0 1 1.5 0Z"></path>
-</svg>
-</template>
-
-<template id="circle-icon">
-  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-dot-fill">
-    <path d="M8 4a4 4 0 1 1 0 8 4 4 0 0 1 0-8Z"></path>
-</svg>
-</template>
-
-<template id="trash-icon">
-  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
-    <path d="M11 1.75V3h2.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H5V1.75C5 .784 5.784 0 6.75 0h2.5C10.216 0 11 .784 11 1.75ZM4.496 6.675l.66 6.6a.25.25 0 0 0 .249.225h5.19a.25.25 0 0 0 .249-.225l.66-6.6a.75.75 0 0 1 1.492.149l-.66 6.6A1.748 1.748 0 0 1 10.595 15h-5.19a1.75 1.75 0 0 1-1.741-1.575l-.66-6.6a.75.75 0 1 1 1.492-.15ZM6.5 1.75V3h3V1.75a.25.25 0 0 0-.25-.25h-2.5a.25.25 0 0 0-.25.25Z"></path>
-</svg>
-</template>
-
-<template id="team-icon">
-  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-people">
-    <path d="M2 5.5a3.5 3.5 0 1 1 5.898 2.549 5.508 5.508 0 0 1 3.034 4.084.75.75 0 1 1-1.482.235 4 4 0 0 0-7.9 0 .75.75 0 0 1-1.482-.236A5.507 5.507 0 0 1 3.102 8.05 3.493 3.493 0 0 1 2 5.5ZM11 4a3.001 3.001 0 0 1 2.22 5.018 5.01 5.01 0 0 1 2.56 3.012.749.749 0 0 1-.885.954.752.752 0 0 1-.549-.514 3.507 3.507 0 0 0-2.522-2.372.75.75 0 0 1-.574-.73v-.352a.75.75 0 0 1 .416-.672A1.5 1.5 0 0 0 11 5.5.75.75 0 0 1 11 4Zm-5.5-.5a2 2 0 1 0-.001 3.999A2 2 0 0 0 5.5 3.5Z"></path>
-</svg>
-</template>
-
-<template id="project-icon">
-  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-project">
-    <path d="M1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25V1.75C0 .784.784 0 1.75 0ZM1.5 1.75v12.5c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25V1.75a.25.25 0 0 0-.25-.25H1.75a.25.25 0 0 0-.25.25ZM11.75 3a.75.75 0 0 1 .75.75v7.5a.75.75 0 0 1-1.5 0v-7.5a.75.75 0 0 1 .75-.75Zm-8.25.75a.75.75 0 0 1 1.5 0v5.5a.75.75 0 0 1-1.5 0ZM8 3a.75.75 0 0 1 .75.75v3.5a.75.75 0 0 1-1.5 0v-3.5A.75.75 0 0 1 8 3Z"></path>
-</svg>
-</template>
-
-<template id="pencil-icon">
-  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
-    <path d="M11.013 1.427a1.75 1.75 0 0 1 2.474 0l1.086 1.086a1.75 1.75 0 0 1 0 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 0 1-.927-.928l.929-3.25c.081-.286.235-.547.445-.758l8.61-8.61Zm.176 4.823L9.75 4.81l-6.286 6.287a.253.253 0 0 0-.064.108l-.558 1.953 1.953-.558a.253.253 0 0 0 .108-.064Zm1.238-3.763a.25.25 0 0 0-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 0 0 0-.354Z"></path>
-</svg>
-</template>
-
-<template id="copilot-icon">
-  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copilot">
-    <path d="M7.998 15.035c-4.562 0-7.873-2.914-7.998-3.749V9.338c.085-.628.677-1.686 1.588-2.065.013-.07.024-.143.036-.218.029-.183.06-.384.126-.612-.201-.508-.254-1.084-.254-1.656 0-.87.128-1.769.693-2.484.579-.733 1.494-1.124 2.724-1.261 1.206-.134 2.262.034 2.944.765.05.053.096.108.139.165.044-.057.094-.112.143-.165.682-.731 1.738-.899 2.944-.765 1.23.137 2.145.528 2.724 1.261.566.715.693 1.614.693 2.484 0 .572-.053 1.148-.254 1.656.066.228.098.429.126.612.012.076.024.148.037.218.924.385 1.522 1.471 1.591 2.095v1.872c0 .766-3.351 3.795-8.002 3.795Zm0-1.485c2.28 0 4.584-1.11 5.002-1.433V7.862l-.023-.116c-.49.21-1.075.291-1.727.291-1.146 0-2.059-.327-2.71-.991A3.222 3.222 0 0 1 8 6.303a3.24 3.24 0 0 1-.544.743c-.65.664-1.563.991-2.71.991-.652 0-1.236-.081-1.727-.291l-.023.116v4.255c.419.323 2.722 1.433 5.002 1.433ZM6.762 2.83c-.193-.206-.637-.413-1.682-.297-1.019.113-1.479.404-1.713.7-.247.312-.369.789-.369 1.554 0 .793.129 1.171.308 1.371.162.181.519.379 1.442.379.853 0 1.339-.235 1.638-.54.315-.322.527-.827.617-1.553.117-.935-.037-1.395-.241-1.614Zm4.155-.297c-1.044-.116-1.488.091-1.681.297-.204.219-.359.679-.242 1.614.091.726.303 1.231.618 1.553.299.305.784.54 1.638.54.922 0 1.28-.198 1.442-.379.179-.2.308-.578.308-1.371 0-.765-.123-1.242-.37-1.554-.233-.296-.693-.587-1.713-.7Z"></path><path d="M6.25 9.037a.75.75 0 0 1 .75.75v1.501a.75.75 0 0 1-1.5 0V9.787a.75.75 0 0 1 .75-.75Zm4.25.75v1.501a.75.75 0 0 1-1.5 0V9.787a.75.75 0 0 1 1.5 0Z"></path>
-</svg>
-</template>
-
-<template id="copilot-error-icon">
-  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copilot-error">
-    <path d="M16 11.24c0 .112-.072.274-.21.467L13 9.688V7.862l-.023-.116c-.49.21-1.075.291-1.727.291-.198 0-.388-.009-.571-.029L6.833 5.226a4.01 4.01 0 0 0 .17-.782c.117-.935-.037-1.395-.241-1.614-.193-.206-.637-.413-1.682-.297-.683.076-1.115.231-1.395.415l-1.257-.91c.579-.564 1.413-.877 2.485-.996 1.206-.134 2.262.034 2.944.765.05.053.096.108.139.165.044-.057.094-.112.143-.165.682-.731 1.738-.899 2.944-.765 1.23.137 2.145.528 2.724 1.261.566.715.693 1.614.693 2.484 0 .572-.053 1.148-.254 1.656.066.228.098.429.126.612.012.076.024.148.037.218.924.385 1.522 1.471 1.591 2.095Zm-5.083-8.707c-1.044-.116-1.488.091-1.681.297-.204.219-.359.679-.242 1.614.091.726.303 1.231.618 1.553.299.305.784.54 1.638.54.922 0 1.28-.198 1.442-.379.179-.2.308-.578.308-1.371 0-.765-.123-1.242-.37-1.554-.233-.296-.693-.587-1.713-.7Zm2.511 11.074c-1.393.776-3.272 1.428-5.43 1.428-4.562 0-7.873-2.914-7.998-3.749V9.338c.085-.628.677-1.686 1.588-2.065.013-.07.024-.143.036-.218.029-.183.06-.384.126-.612-.18-.455-.241-.963-.252-1.475L.31 4.107A.747.747 0 0 1 0 3.509V3.49a.748.748 0 0 1 .625-.73c.156-.026.306.047.435.139l14.667 10.578a.592.592 0 0 1 .227.264.752.752 0 0 1 .046.249v.022a.75.75 0 0 1-1.19.596Zm-1.367-.991L5.635 7.964a5.128 5.128 0 0 1-.889.073c-.652 0-1.236-.081-1.727-.291l-.023.116v4.255c.419.323 2.722 1.433 5.002 1.433 1.539 0 3.089-.505 4.063-.934Z"></path>
-</svg>
-</template>
-
-<template id="workflow-icon">
-  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-workflow">
-    <path d="M0 1.75C0 .784.784 0 1.75 0h3.5C6.216 0 7 .784 7 1.75v3.5A1.75 1.75 0 0 1 5.25 7H4v4a1 1 0 0 0 1 1h4v-1.25C9 9.784 9.784 9 10.75 9h3.5c.966 0 1.75.784 1.75 1.75v3.5A1.75 1.75 0 0 1 14.25 16h-3.5A1.75 1.75 0 0 1 9 14.25v-.75H5A2.5 2.5 0 0 1 2.5 11V7h-.75A1.75 1.75 0 0 1 0 5.25Zm1.75-.25a.25.25 0 0 0-.25.25v3.5c0 .138.112.25.25.25h3.5a.25.25 0 0 0 .25-.25v-3.5a.25.25 0 0 0-.25-.25Zm9 9a.25.25 0 0 0-.25.25v3.5c0 .138.112.25.25.25h3.5a.25.25 0 0 0 .25-.25v-3.5a.25.25 0 0 0-.25-.25Z"></path>
-</svg>
-</template>
-
-<template id="book-icon">
-  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-book">
-    <path d="M0 1.75A.75.75 0 0 1 .75 1h4.253c1.227 0 2.317.59 3 1.501A3.743 3.743 0 0 1 11.006 1h4.245a.75.75 0 0 1 .75.75v10.5a.75.75 0 0 1-.75.75h-4.507a2.25 2.25 0 0 0-1.591.659l-.622.621a.75.75 0 0 1-1.06 0l-.622-.621A2.25 2.25 0 0 0 5.258 13H.75a.75.75 0 0 1-.75-.75Zm7.251 10.324.004-5.073-.002-2.253A2.25 2.25 0 0 0 5.003 2.5H1.5v9h3.757a3.75 3.75 0 0 1 1.994.574ZM8.755 4.75l-.004 7.322a3.752 3.752 0 0 1 1.992-.572H14.5v-9h-3.495a2.25 2.25 0 0 0-2.25 2.25Z"></path>
-</svg>
-</template>
-
-<template id="code-review-icon">
-  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code-review">
-    <path d="M1.75 1h12.5c.966 0 1.75.784 1.75 1.75v8.5A1.75 1.75 0 0 1 14.25 13H8.061l-2.574 2.573A1.458 1.458 0 0 1 3 14.543V13H1.75A1.75 1.75 0 0 1 0 11.25v-8.5C0 1.784.784 1 1.75 1ZM1.5 2.75v8.5c0 .138.112.25.25.25h2a.75.75 0 0 1 .75.75v2.19l2.72-2.72a.749.749 0 0 1 .53-.22h6.5a.25.25 0 0 0 .25-.25v-8.5a.25.25 0 0 0-.25-.25H1.75a.25.25 0 0 0-.25.25Zm5.28 1.72a.75.75 0 0 1 0 1.06L5.31 7l1.47 1.47a.751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018l-2-2a.75.75 0 0 1 0-1.06l2-2a.75.75 0 0 1 1.06 0Zm2.44 0a.75.75 0 0 1 1.06 0l2 2a.75.75 0 0 1 0 1.06l-2 2a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L10.69 7 9.22 5.53a.75.75 0 0 1 0-1.06Z"></path>
-</svg>
-</template>
-
-<template id="codespaces-icon">
-  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-codespaces">
-    <path d="M0 11.25c0-.966.784-1.75 1.75-1.75h12.5c.966 0 1.75.784 1.75 1.75v3A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25Zm2-9.5C2 .784 2.784 0 3.75 0h8.5C13.216 0 14 .784 14 1.75v5a1.75 1.75 0 0 1-1.75 1.75h-8.5A1.75 1.75 0 0 1 2 6.75Zm1.75-.25a.25.25 0 0 0-.25.25v5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-5a.25.25 0 0 0-.25-.25Zm-2 9.5a.25.25 0 0 0-.25.25v3c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25v-3a.25.25 0 0 0-.25-.25Z"></path><path d="M7 12.75a.75.75 0 0 1 .75-.75h4.5a.75.75 0 0 1 0 1.5h-4.5a.75.75 0 0 1-.75-.75Zm-4 0a.75.75 0 0 1 .75-.75h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1-.75-.75Z"></path>
-</svg>
-</template>
-
-<template id="comment-icon">
-  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-comment">
-    <path d="M1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0 1 13.25 12H9.06l-2.573 2.573A1.458 1.458 0 0 1 4 13.543V12H2.75A1.75 1.75 0 0 1 1 10.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 0 1 .75.75v2.19l2.72-2.72a.749.749 0 0 1 .53-.22h4.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
-</svg>
-</template>
-
-<template id="comment-discussion-icon">
-  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-comment-discussion">
-    <path d="M1.75 1h8.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0 1 10.25 10H7.061l-2.574 2.573A1.458 1.458 0 0 1 2 11.543V10h-.25A1.75 1.75 0 0 1 0 8.25v-5.5C0 1.784.784 1 1.75 1ZM1.5 2.75v5.5c0 .138.112.25.25.25h1a.75.75 0 0 1 .75.75v2.19l2.72-2.72a.749.749 0 0 1 .53-.22h3.5a.25.25 0 0 0 .25-.25v-5.5a.25.25 0 0 0-.25-.25h-8.5a.25.25 0 0 0-.25.25Zm13 2a.25.25 0 0 0-.25-.25h-.5a.75.75 0 0 1 0-1.5h.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0 1 14.25 12H14v1.543a1.458 1.458 0 0 1-2.487 1.03L9.22 12.28a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215l2.22 2.22v-2.19a.75.75 0 0 1 .75-.75h1a.25.25 0 0 0 .25-.25Z"></path>
-</svg>
-</template>
-
-<template id="organization-icon">
-  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-organization">
-    <path d="M1.75 16A1.75 1.75 0 0 1 0 14.25V1.75C0 .784.784 0 1.75 0h8.5C11.216 0 12 .784 12 1.75v12.5c0 .085-.006.168-.018.25h2.268a.25.25 0 0 0 .25-.25V8.285a.25.25 0 0 0-.111-.208l-1.055-.703a.749.749 0 1 1 .832-1.248l1.055.703c.487.325.779.871.779 1.456v5.965A1.75 1.75 0 0 1 14.25 16h-3.5a.766.766 0 0 1-.197-.026c-.099.017-.2.026-.303.026h-3a.75.75 0 0 1-.75-.75V14h-1v1.25a.75.75 0 0 1-.75.75Zm-.25-1.75c0 .138.112.25.25.25H4v-1.25a.75.75 0 0 1 .75-.75h2.5a.75.75 0 0 1 .75.75v1.25h2.25a.25.25 0 0 0 .25-.25V1.75a.25.25 0 0 0-.25-.25h-8.5a.25.25 0 0 0-.25.25ZM3.75 6h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1 0-1.5ZM3 3.75A.75.75 0 0 1 3.75 3h.5a.75.75 0 0 1 0 1.5h-.5A.75.75 0 0 1 3 3.75Zm4 3A.75.75 0 0 1 7.75 6h.5a.75.75 0 0 1 0 1.5h-.5A.75.75 0 0 1 7 6.75ZM7.75 3h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1 0-1.5ZM3 9.75A.75.75 0 0 1 3.75 9h.5a.75.75 0 0 1 0 1.5h-.5A.75.75 0 0 1 3 9.75ZM7.75 9h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1 0-1.5Z"></path>
-</svg>
-</template>
-
-<template id="rocket-icon">
-  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-rocket">
-    <path d="M14.064 0h.186C15.216 0 16 .784 16 1.75v.186a8.752 8.752 0 0 1-2.564 6.186l-.458.459c-.314.314-.641.616-.979.904v3.207c0 .608-.315 1.172-.833 1.49l-2.774 1.707a.749.749 0 0 1-1.11-.418l-.954-3.102a1.214 1.214 0 0 1-.145-.125L3.754 9.816a1.218 1.218 0 0 1-.124-.145L.528 8.717a.749.749 0 0 1-.418-1.11l1.71-2.774A1.748 1.748 0 0 1 3.31 4h3.204c.288-.338.59-.665.904-.979l.459-.458A8.749 8.749 0 0 1 14.064 0ZM8.938 3.623h-.002l-.458.458c-.76.76-1.437 1.598-2.02 2.5l-1.5 2.317 2.143 2.143 2.317-1.5c.902-.583 1.74-1.26 2.499-2.02l.459-.458a7.25 7.25 0 0 0 2.123-5.127V1.75a.25.25 0 0 0-.25-.25h-.186a7.249 7.249 0 0 0-5.125 2.123ZM3.56 14.56c-.732.732-2.334 1.045-3.005 1.148a.234.234 0 0 1-.201-.064.234.234 0 0 1-.064-.201c.103-.671.416-2.273 1.15-3.003a1.502 1.502 0 1 1 2.12 2.12Zm6.94-3.935c-.088.06-.177.118-.266.175l-2.35 1.521.548 1.783 1.949-1.2a.25.25 0 0 0 .119-.213ZM3.678 8.116 5.2 5.766c.058-.09.117-.178.176-.266H3.309a.25.25 0 0 0-.213.119l-1.2 1.95ZM12 5a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
-</svg>
-</template>
-
-<template id="shield-check-icon">
-  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-shield-check">
-    <path d="m8.533.133 5.25 1.68A1.75 1.75 0 0 1 15 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.697 1.697 0 0 1-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 0 1 1.217-1.667l5.25-1.68a1.748 1.748 0 0 1 1.066 0Zm-.61 1.429.001.001-5.25 1.68a.251.251 0 0 0-.174.237V7c0 1.36.275 2.666 1.057 3.859.784 1.194 2.121 2.342 4.366 3.298a.196.196 0 0 0 .154 0c2.245-.957 3.582-2.103 4.366-3.297C13.225 9.666 13.5 8.358 13.5 7V3.48a.25.25 0 0 0-.174-.238l-5.25-1.68a.25.25 0 0 0-.153 0ZM11.28 6.28l-3.5 3.5a.75.75 0 0 1-1.06 0l-1.5-1.5a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215l.97.97 2.97-2.97a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Z"></path>
-</svg>
-</template>
-
-<template id="heart-icon">
-  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-heart">
-    <path d="m8 14.25.345.666a.75.75 0 0 1-.69 0l-.008-.004-.018-.01a7.152 7.152 0 0 1-.31-.17 22.055 22.055 0 0 1-3.434-2.414C2.045 10.731 0 8.35 0 5.5 0 2.836 2.086 1 4.25 1 5.797 1 7.153 1.802 8 3.02 8.847 1.802 10.203 1 11.75 1 13.914 1 16 2.836 16 5.5c0 2.85-2.045 5.231-3.885 6.818a22.066 22.066 0 0 1-3.744 2.584l-.018.01-.006.003h-.002ZM4.25 2.5c-1.336 0-2.75 1.164-2.75 3 0 2.15 1.58 4.144 3.365 5.682A20.58 20.58 0 0 0 8 13.393a20.58 20.58 0 0 0 3.135-2.211C12.92 9.644 14.5 7.65 14.5 5.5c0-1.836-1.414-3-2.75-3-1.373 0-2.609.986-3.029 2.456a.749.749 0 0 1-1.442 0C6.859 3.486 5.623 2.5 4.25 2.5Z"></path>
-</svg>
-</template>
-
-<template id="server-icon">
-  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-server">
-    <path d="M1.75 1h12.5c.966 0 1.75.784 1.75 1.75v4c0 .372-.116.717-.314 1 .198.283.314.628.314 1v4a1.75 1.75 0 0 1-1.75 1.75H1.75A1.75 1.75 0 0 1 0 12.75v-4c0-.358.109-.707.314-1a1.739 1.739 0 0 1-.314-1v-4C0 1.784.784 1 1.75 1ZM1.5 2.75v4c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25v-4a.25.25 0 0 0-.25-.25H1.75a.25.25 0 0 0-.25.25Zm.25 5.75a.25.25 0 0 0-.25.25v4c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25v-4a.25.25 0 0 0-.25-.25ZM7 4.75A.75.75 0 0 1 7.75 4h4.5a.75.75 0 0 1 0 1.5h-4.5A.75.75 0 0 1 7 4.75ZM7.75 10h4.5a.75.75 0 0 1 0 1.5h-4.5a.75.75 0 0 1 0-1.5ZM3 4.75A.75.75 0 0 1 3.75 4h.5a.75.75 0 0 1 0 1.5h-.5A.75.75 0 0 1 3 4.75ZM3.75 10h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1 0-1.5Z"></path>
-</svg>
-</template>
-
-<template id="globe-icon">
-  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-globe">
-    <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM5.78 8.75a9.64 9.64 0 0 0 1.363 4.177c.255.426.542.832.857 1.215.245-.296.551-.705.857-1.215A9.64 9.64 0 0 0 10.22 8.75Zm4.44-1.5a9.64 9.64 0 0 0-1.363-4.177c-.307-.51-.612-.919-.857-1.215a9.927 9.927 0 0 0-.857 1.215A9.64 9.64 0 0 0 5.78 7.25Zm-5.944 1.5H1.543a6.507 6.507 0 0 0 4.666 5.5c-.123-.181-.24-.365-.352-.552-.715-1.192-1.437-2.874-1.581-4.948Zm-2.733-1.5h2.733c.144-2.074.866-3.756 1.58-4.948.12-.197.237-.381.353-.552a6.507 6.507 0 0 0-4.666 5.5Zm10.181 1.5c-.144 2.074-.866 3.756-1.58 4.948-.12.197-.237.381-.353.552a6.507 6.507 0 0 0 4.666-5.5Zm2.733-1.5a6.507 6.507 0 0 0-4.666-5.5c.123.181.24.365.353.552.714 1.192 1.436 2.874 1.58 4.948Z"></path>
-</svg>
-</template>
-
-<template id="issue-opened-icon">
-  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened">
-    <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path>
-</svg>
-</template>
-
-<template id="device-mobile-icon">
-  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-device-mobile">
-    <path d="M3.75 0h8.5C13.216 0 14 .784 14 1.75v12.5A1.75 1.75 0 0 1 12.25 16h-8.5A1.75 1.75 0 0 1 2 14.25V1.75C2 .784 2.784 0 3.75 0ZM3.5 1.75v12.5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25V1.75a.25.25 0 0 0-.25-.25h-8.5a.25.25 0 0 0-.25.25ZM8 13a1 1 0 1 1 0-2 1 1 0 0 1 0 2Z"></path>
-</svg>
-</template>
-
-<template id="package-icon">
-  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-package">
-    <path d="m8.878.392 5.25 3.045c.54.314.872.89.872 1.514v6.098a1.75 1.75 0 0 1-.872 1.514l-5.25 3.045a1.75 1.75 0 0 1-1.756 0l-5.25-3.045A1.75 1.75 0 0 1 1 11.049V4.951c0-.624.332-1.201.872-1.514L7.122.392a1.75 1.75 0 0 1 1.756 0ZM7.875 1.69l-4.63 2.685L8 7.133l4.755-2.758-4.63-2.685a.248.248 0 0 0-.25 0ZM2.5 5.677v5.372c0 .09.047.171.125.216l4.625 2.683V8.432Zm6.25 8.271 4.625-2.683a.25.25 0 0 0 .125-.216V5.677L8.75 8.432Z"></path>
-</svg>
-</template>
-
-<template id="credit-card-icon">
-  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-credit-card">
-    <path d="M10.75 9a.75.75 0 0 0 0 1.5h1.5a.75.75 0 0 0 0-1.5h-1.5Z"></path><path d="M0 3.75C0 2.784.784 2 1.75 2h12.5c.966 0 1.75.784 1.75 1.75v8.5A1.75 1.75 0 0 1 14.25 14H1.75A1.75 1.75 0 0 1 0 12.25ZM14.5 6.5h-13v5.75c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25Zm0-2.75a.25.25 0 0 0-.25-.25H1.75a.25.25 0 0 0-.25.25V5h13Z"></path>
-</svg>
-</template>
-
-<template id="play-icon">
-  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-play">
-    <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm4.879-2.773 4.264 2.559a.25.25 0 0 1 0 .428l-4.264 2.559A.25.25 0 0 1 6 10.559V5.442a.25.25 0 0 1 .379-.215Z"></path>
-</svg>
-</template>
-
-<template id="gift-icon">
-  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-gift">
-    <path d="M2 2.75A2.75 2.75 0 0 1 4.75 0c.983 0 1.873.42 2.57 1.232.268.318.497.668.68 1.042.183-.375.411-.725.68-1.044C9.376.42 10.266 0 11.25 0a2.75 2.75 0 0 1 2.45 4h.55c.966 0 1.75.784 1.75 1.75v2c0 .698-.409 1.301-1 1.582v4.918A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V9.332C.409 9.05 0 8.448 0 7.75v-2C0 4.784.784 4 1.75 4h.55c-.192-.375-.3-.8-.3-1.25ZM7.25 9.5H2.5v4.75c0 .138.112.25.25.25h4.5Zm1.5 0v5h4.5a.25.25 0 0 0 .25-.25V9.5Zm0-4V8h5.5a.25.25 0 0 0 .25-.25v-2a.25.25 0 0 0-.25-.25Zm-7 0a.25.25 0 0 0-.25.25v2c0 .138.112.25.25.25h5.5V5.5h-5.5Zm3-4a1.25 1.25 0 0 0 0 2.5h2.309c-.233-.818-.542-1.401-.878-1.793-.43-.502-.915-.707-1.431-.707ZM8.941 4h2.309a1.25 1.25 0 0 0 0-2.5c-.516 0-1 .205-1.43.707-.337.392-.646.975-.879 1.793Z"></path>
-</svg>
-</template>
-
-<template id="code-square-icon">
-  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code-square">
-    <path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25V1.75a.25.25 0 0 0-.25-.25Zm7.47 3.97a.75.75 0 0 1 1.06 0l2 2a.75.75 0 0 1 0 1.06l-2 2a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L10.69 8 9.22 6.53a.75.75 0 0 1 0-1.06ZM6.78 6.53 5.31 8l1.47 1.47a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215l-2-2a.75.75 0 0 1 0-1.06l2-2a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Z"></path>
-</svg>
-</template>
-
-<template id="device-desktop-icon">
-  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-device-desktop">
-    <path d="M14.25 1c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0 1 14.25 12h-3.727c.099 1.041.52 1.872 1.292 2.757A.752.752 0 0 1 11.25 16h-6.5a.75.75 0 0 1-.565-1.243c.772-.885 1.192-1.716 1.292-2.757H1.75A1.75 1.75 0 0 1 0 10.25v-7.5C0 1.784.784 1 1.75 1ZM1.75 2.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25ZM9.018 12H6.982a5.72 5.72 0 0 1-.765 2.5h3.566a5.72 5.72 0 0 1-.765-2.5Z"></path>
-</svg>
-</template>
-
-        <div class="position-relative">
-                <ul
-                  role="listbox"
-                  class="ActionListWrap QueryBuilder-ListWrap"
-                  aria-label="Suggestions"
-                  data-action="
-                    combobox-commit:query-builder#comboboxCommit
-                    mousedown:query-builder#resultsMousedown
-                  "
-                  data-target="query-builder.resultsList"
-                  data-persist-list=false
-                  id="query-builder-test-results"
-                ></ul>
-        </div>
-      <div class="FormControl-inlineValidation" id="validation-4591f889-f206-4102-a9d6-3e80af812620" hidden="hidden">
-        <span class="FormControl-inlineValidation--visual">
-          <svg aria-hidden="true" height="12" viewBox="0 0 12 12" version="1.1" width="12" data-view-component="true" class="octicon octicon-alert-fill">
-    <path d="M4.855.708c.5-.896 1.79-.896 2.29 0l4.675 8.351a1.312 1.312 0 0 1-1.146 1.954H1.33A1.313 1.313 0 0 1 .183 9.058ZM7 7V3H5v4Zm-1 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z"></path>
-</svg>
-        </span>
-        <span></span>
-</div>    </div>
-    <div data-target="query-builder.screenReaderFeedback" aria-live="polite" aria-atomic="true" class="sr-only"></div>
-</query-builder></form>
-          <div class="d-flex flex-row color-fg-muted px-3 text-small color-bg-default search-feedback-prompt">
-            <a target="_blank" href="https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax" data-view-component="true" class="Link color-fg-accent text-normal ml-2">Search syntax tips</a>            <div class="d-flex flex-1"></div>
-          </div>
-        </div>
-</div>
-
-    </div>
-</modal-dialog></div>
-  </div>
-  <div data-action="click:qbsearch-input#retract" class="dark-backdrop position-fixed" hidden data-target="qbsearch-input.darkBackdrop"></div>
-  <div class="color-fg-default">
-    
-<dialog-helper>
-  <dialog data-target="qbsearch-input.feedbackDialog" data-action="close:qbsearch-input#handleDialogClose cancel:qbsearch-input#handleDialogClose" id="feedback-dialog" aria-modal="true" aria-labelledby="feedback-dialog-title" aria-describedby="feedback-dialog-description" data-view-component="true" class="Overlay Overlay-whenNarrow Overlay--size-medium Overlay--motion-scaleFade Overlay--disableScroll">
-    <div data-view-component="true" class="Overlay-header">
-  <div class="Overlay-headerContentWrap">
-    <div class="Overlay-titleWrap">
-      <h1 class="Overlay-title " id="feedback-dialog-title">
-        Provide feedback
-      </h1>
-        
-    </div>
-    <div class="Overlay-actionWrap">
-      <button data-close-dialog-id="feedback-dialog" aria-label="Close" type="button" data-view-component="true" class="close-button Overlay-closeButton"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
-    <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
-</svg></button>
-    </div>
-  </div>
-  
-</div>
-      <scrollable-region data-labelled-by="feedback-dialog-title">
-        <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="BXXE0fiTcHTZNPbIBXGwBAUbD+b5y5ZI1SOPL0gkzmFGiWZafTR3LZfxEcavCYlN10HBi6fBMYzBt6Zk2GnRjQ==" />
-          <p>We read every piece of feedback, and take your input very seriously.</p>
-          <textarea name="feedback" class="form-control width-full mb-2" style="height: 120px" id="feedback"></textarea>
-          <input name="include_email" id="include_email" aria-label="Include my email address so I can be contacted" class="form-control mr-2" type="checkbox">
-          <label for="include_email" style="font-weight: normal">Include my email address so I can be contacted</label>
-</form></div>
-      </scrollable-region>
-      <div data-view-component="true" class="Overlay-footer Overlay-footer--alignEnd">          <button data-close-dialog-id="feedback-dialog" type="button" data-view-component="true" class="btn">    Cancel
-</button>
-          <button form="code-search-feedback-form" data-action="click:qbsearch-input#submitFeedback" type="submit" data-view-component="true" class="btn-primary btn">    Submit feedback
-</button>
-</div>
-</dialog></dialog-helper>
-
-    <custom-scopes data-target="qbsearch-input.customScopesManager">
-    
-<dialog-helper>
-  <dialog data-target="custom-scopes.customScopesModalDialog" data-action="close:qbsearch-input#handleDialogClose cancel:qbsearch-input#handleDialogClose" id="custom-scopes-dialog" aria-modal="true" aria-labelledby="custom-scopes-dialog-title" aria-describedby="custom-scopes-dialog-description" data-view-component="true" class="Overlay Overlay-whenNarrow Overlay--size-medium Overlay--motion-scaleFade Overlay--disableScroll">
-    <div data-view-component="true" class="Overlay-header Overlay-header--divided">
-  <div class="Overlay-headerContentWrap">
-    <div class="Overlay-titleWrap">
-      <h1 class="Overlay-title " id="custom-scopes-dialog-title">
-        Saved searches
-      </h1>
-        <h2 id="custom-scopes-dialog-description" class="Overlay-description">Use saved searches to filter your results more quickly</h2>
-    </div>
-    <div class="Overlay-actionWrap">
-      <button data-close-dialog-id="custom-scopes-dialog" aria-label="Close" type="button" data-view-component="true" class="close-button Overlay-closeButton"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
-    <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
-</svg></button>
-    </div>
-  </div>
-  
-</div>
-      <scrollable-region data-labelled-by="custom-scopes-dialog-title">
-        <div data-view-component="true" class="Overlay-body">        <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
-
-        <div hidden class="create-custom-scope-form" data-target="custom-scopes.createCustomScopeForm">
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="Nz4h9noQSu/yBtb8PW7KLi3dWagbfbexhgZOldbTgNJ4qX+QdjjrmR42i/v3Jtpxo1++ehfiDMgFmZnr17bixw==" />
-          <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
-
-          <input type="hidden" id="custom_scope_id" name="custom_scope_id" data-target="custom-scopes.customScopesIdField">
-
-          <div class="form-group">
-            <label for="custom_scope_name">Name</label>
-            <auto-check src="/search/custom_scopes/check_name" required>
-              <input
-                type="text"
-                name="custom_scope_name"
-                id="custom_scope_name"
-                data-target="custom-scopes.customScopesNameField"
-                class="form-control"
-                autocomplete="off"
-                placeholder="github-ruby"
-                required
-                maxlength="50">
-              <input type="hidden" data-csrf="true" value="+jpwojd+8aJKzrUTixUN3lE1ysHlK+JlcCUH8LAm+AEvu/Q2KUjcrHCUw7LylewVz9lLAIYDIEfO3pw7K29Tnw==" />
-            </auto-check>
-          </div>
-
-          <div class="form-group">
-            <label for="custom_scope_query">Query</label>
-            <input
-              type="text"
-              name="custom_scope_query"
-              id="custom_scope_query"
-              data-target="custom-scopes.customScopesQueryField"
-              class="form-control"
-              autocomplete="off"
-              placeholder="(repo:mona/a OR repo:mona/b) AND lang:python"
-              required
-              maxlength="500">
-          </div>
-
-          <p class="text-small color-fg-muted">
-            To see all available qualifiers, see our <a class="Link--inTextBlock" href="https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax">documentation</a>.
-          </p>
-</form>        </div>
-
-        <div data-target="custom-scopes.manageCustomScopesForm">
-          <div data-target="custom-scopes.list"></div>
-        </div>
-
-</div>
-      </scrollable-region>
-      <div data-view-component="true" class="Overlay-footer Overlay-footer--alignEnd Overlay-footer--divided">          <button data-action="click:custom-scopes#customScopesCancel" type="button" data-view-component="true" class="btn">    Cancel
-</button>
-          <button form="custom-scopes-dialog-form" data-action="click:custom-scopes#customScopesSubmit" data-target="custom-scopes.customScopesSubmitButton" type="submit" data-view-component="true" class="btn-primary btn">    Create saved search
-</button>
-</div>
-</dialog></dialog-helper>
-    </custom-scopes>
-  </div>
-</qbsearch-input>
-
-            <div class="position-relative HeaderMenu-link-wrap d-lg-inline-block">
-              <a
-                href="/login?return_to=https%3A%2F%2Fgithub.com%2Folivermueller%2Famlta-2024%2Fblob%2Fmain%2FSession_08%2Fmarkdown_documents%2FHow_I_Met_Your_Mother.md"
-                class="HeaderMenu-link HeaderMenu-link--sign-in HeaderMenu-button flex-shrink-0 no-underline d-none d-lg-inline-flex border border-lg-0 rounded rounded-lg-0 px-2 py-1"
-                style="margin-left: 12px;"
-                data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/olivermueller/amlta-2024/blob/main/Session_08/markdown_documents/How_I_Met_Your_Mother.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="02a378a11136b66cb52bc56e49467b58a1ff18fad596eb52b712f1751dc6876c"
-                data-analytics-event="{&quot;category&quot;:&quot;Marketing nav&quot;,&quot;action&quot;:&quot;click to go to homepage&quot;,&quot;label&quot;:&quot;ref_page:Marketing;ref_cta:Sign in;ref_loc:Header&quot;}"
-              >
-                Sign in
-              </a>
-            </div>
-
-              <a href="/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;source=header-repo&amp;source_repo=olivermueller%2Famlta-2024"
-                class="HeaderMenu-link HeaderMenu-link--sign-up HeaderMenu-button flex-shrink-0 d-flex d-lg-inline-flex no-underline border color-border-default rounded px-2 py-1"
-                data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/olivermueller/amlta-2024/blob/main/Session_08/markdown_documents/How_I_Met_Your_Mother.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="02a378a11136b66cb52bc56e49467b58a1ff18fad596eb52b712f1751dc6876c"
-                data-analytics-event="{&quot;category&quot;:&quot;Sign up&quot;,&quot;action&quot;:&quot;click to sign up for account&quot;,&quot;label&quot;:&quot;ref_page:/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show;ref_cta:Sign up;ref_loc:header logged out&quot;}"
-              >
-                Sign up
-              </a>
-          <button type="button" class="sr-only js-header-menu-focus-trap d-block d-lg-none">Reseting focus</button>
-        </div>
-      </div>
-    </div>
-  </div>
-</header>
-
-      <div hidden="hidden" data-view-component="true" class="js-stale-session-flash stale-session-flash flash flash-warn flash-full">
-  
-        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
-    <path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
-</svg>
-        <span class="js-stale-session-flash-signed-in" hidden>You signed in with another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
-        <span class="js-stale-session-flash-signed-out" hidden>You signed out in another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
-        <span class="js-stale-session-flash-switched" hidden>You switched accounts on another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
-
-    <button id="icon-button-84ee4c71-6747-406c-addf-c01eda361f5d" aria-labelledby="tooltip-83efb441-9c2b-4c06-8f35-6a39d4a3e17e" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
-    <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
-</svg>
-</button><tool-tip id="tooltip-83efb441-9c2b-4c06-8f35-6a39d4a3e17e" for="icon-button-84ee4c71-6747-406c-addf-c01eda361f5d" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
-
-
-  
-</div>
-    </div>
-
-  <div id="start-of-content" class="show-on-focus"></div>
-
-
-
-
-
-
-
-
-    <div id="js-flash-container" class="flash-container" data-turbo-replace>
-
-
-
-
-  <template class="js-flash-template">
-    
-<div class="flash flash-full   {{ className }}">
-  <div >
-    <button autofocus class="flash-close js-flash-close" type="button" aria-label="Dismiss this message">
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
-    <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
-</svg>
-    </button>
-    <div aria-atomic="true" role="alert" class="js-flash-alert">
-      
-      <div>{{ message }}</div>
-
-    </div>
-  </div>
-</div>
-  </template>
-</div>
-
-
-    
-
-
-
-
-
-
-  <div
-    class="application-main "
-    data-commit-hovercards-enabled
-    data-discussion-hovercards-enabled
-    data-issue-and-pr-hovercards-enabled
-    data-project-hovercards-enabled
-  >
-        <div itemscope itemtype="http://schema.org/SoftwareSourceCode" class="">
-    <main id="js-repo-pjax-container" >
-      
-      
-
-
-
-
-
-
-  
-  <div id="repository-container-header"  class="pt-3 hide-full-screen" style="background-color: var(--page-header-bgColor, var(--color-page-header-bg));" data-turbo-replace>
-
-      <div class="d-flex flex-nowrap flex-justify-end mb-3  px-3 px-lg-5" style="gap: 1rem;">
-
-        <div class="flex-auto min-width-0 width-fit">
-            
-  <div class=" d-flex flex-wrap flex-items-center wb-break-word f3 text-normal">
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo color-fg-muted mr-2">
-    <path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path>
-</svg>
-    
-    <span class="author flex-self-stretch" itemprop="author">
-      <a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/users/olivermueller/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/olivermueller">
-        olivermueller
-</a>    </span>
-    <span class="mx-1 flex-self-stretch color-fg-muted">/</span>
-    <strong itemprop="name" class="mr-2 flex-self-stretch">
-      <a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/olivermueller/amlta-2024">amlta-2024</a>
-    </strong>
-
-    <span></span><span class="Label Label--secondary v-align-middle mr-1">Public</span>
-  </div>
-
-
-        </div>
-
-        <div id="repository-details-container" class="flex-shrink-0" data-turbo-replace style="max-width: 70%;">
-            <ul class="pagehead-actions flex-shrink-0 d-none d-md-inline" style="padding: 2px 0;">
-    
-      
-
-  <li>
-            <a href="/login?return_to=%2Folivermueller%2Famlta-2024" rel="nofollow" id="repository-details-watch-button" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/olivermueller/amlta-2024/blob/main/Session_08/markdown_documents/How_I_Met_Your_Mother.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="f31583601a9016ae1c005ca7e8295fbe06e2b54d17b2b46040f680377711ebc9" aria-label="You must be signed in to change notification settings" data-view-component="true" class="btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-bell mr-2">
-    <path d="M8 16a2 2 0 0 0 1.985-1.75c.017-.137-.097-.25-.235-.25h-3.5c-.138 0-.252.113-.235.25A2 2 0 0 0 8 16ZM3 5a5 5 0 0 1 10 0v2.947c0 .05.015.098.042.139l1.703 2.555A1.519 1.519 0 0 1 13.482 13H2.518a1.516 1.516 0 0 1-1.263-2.36l1.703-2.554A.255.255 0 0 0 3 7.947Zm5-3.5A3.5 3.5 0 0 0 4.5 5v2.947c0 .346-.102.683-.294.97l-1.703 2.556a.017.017 0 0 0-.003.01l.001.006c0 .002.002.004.004.006l.006.004.007.001h10.964l.007-.001.006-.004.004-.006.001-.007a.017.017 0 0 0-.003-.01l-1.703-2.554a1.745 1.745 0 0 1-.294-.97V5A3.5 3.5 0 0 0 8 1.5Z"></path>
-</svg>Notifications
-</a>    <tool-tip id="tooltip-315a892a-9805-4ab2-ac98-76cb2fe8c136" for="repository-details-watch-button" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">You must be signed in to change notification settings</tool-tip>
-
-  </li>
-
-  <li>
-          <a icon="repo-forked" id="fork-button" href="/login?return_to=%2Folivermueller%2Famlta-2024" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:865851650,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/olivermueller/amlta-2024/blob/main/Session_08/markdown_documents/How_I_Met_Your_Mother.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="47d2b9c81a11e42086da3082f5d65e8f84dc7956b0ad3a26d3c7850cc17103ee" data-view-component="true" class="btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
-    <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
-</svg>Fork
-    <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="0" data-view-component="true" class="Counter">0</span>
-</a>
-  </li>
-
-  <li>
-        <div data-view-component="true" class="BtnGroup d-flex">
-        <a href="/login?return_to=%2Folivermueller%2Famlta-2024" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:865851650,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/olivermueller/amlta-2024/blob/main/Session_08/markdown_documents/How_I_Met_Your_Mother.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="7e6692902bb351089787940570c16558c42329786e24e06c94dd751429db69b2" aria-label="You must be signed in to star a repository" data-view-component="true" class="tooltipped tooltipped-sw btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star v-align-text-bottom d-inline-block mr-2">
-    <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
-</svg><span data-view-component="true" class="d-inline">
-          Star
-</span>          <span id="repo-stars-counter-star" aria-label="0 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-turbo-replace="true" title="0" data-view-component="true" class="Counter js-social-count">0</span>
-</a></div>
-  </li>
-
-</ul>
-
-        </div>
-      </div>
-
-        <div id="responsive-meta-container" data-turbo-replace>
-</div>
-
-
-          <nav data-pjax="#js-repo-pjax-container" aria-label="Repository" data-view-component="true" class="js-repo-nav js-sidenav-container-pjax js-responsive-underlinenav overflow-hidden UnderlineNav px-3 px-md-4 px-lg-5">
-
-  <ul data-view-component="true" class="UnderlineNav-body list-style-none">
-      <li data-view-component="true" class="d-inline-flex">
-  <a id="code-tab" href="/olivermueller/amlta-2024" data-tab-item="i0code-tab" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments repo_attestations /olivermueller/amlta-2024" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g c" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Code&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" aria-current="page" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item selected">
-    
-              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code UnderlineNav-octicon d-none d-sm-inline">
-    <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
-</svg>
-        <span data-content="Code">Code</span>
-          <span id="code-repo-tab-count" data-pjax-replace="" data-turbo-replace="" title="Not available" data-view-component="true" class="Counter"></span>
-
-
-    
-</a></li>
-      <li data-view-component="true" class="d-inline-flex">
-  <a id="issues-tab" href="/olivermueller/amlta-2024/issues" data-tab-item="i1issues-tab" data-selected-links="repo_issues repo_labels repo_milestones /olivermueller/amlta-2024/issues" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g i" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Issues&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
-    
-              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened UnderlineNav-octicon d-none d-sm-inline">
-    <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path>
-</svg>
-        <span data-content="Issues">Issues</span>
-          <span id="issues-repo-tab-count" data-pjax-replace="" data-turbo-replace="" title="0" hidden="hidden" data-view-component="true" class="Counter">0</span>
-
-
-    
-</a></li>
-      <li data-view-component="true" class="d-inline-flex">
-  <a id="pull-requests-tab" href="/olivermueller/amlta-2024/pulls" data-tab-item="i2pull-requests-tab" data-selected-links="repo_pulls checks /olivermueller/amlta-2024/pulls" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g p" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Pull requests&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
-    
-              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request UnderlineNav-octicon d-none d-sm-inline">
-    <path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"></path>
-</svg>
-        <span data-content="Pull requests">Pull requests</span>
-          <span id="pull-requests-repo-tab-count" data-pjax-replace="" data-turbo-replace="" title="0" hidden="hidden" data-view-component="true" class="Counter">0</span>
-
-
-    
-</a></li>
-      <li data-view-component="true" class="d-inline-flex">
-  <a id="actions-tab" href="/olivermueller/amlta-2024/actions" data-tab-item="i3actions-tab" data-selected-links="repo_actions /olivermueller/amlta-2024/actions" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g a" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Actions&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
-    
-              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-play UnderlineNav-octicon d-none d-sm-inline">
-    <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm4.879-2.773 4.264 2.559a.25.25 0 0 1 0 .428l-4.264 2.559A.25.25 0 0 1 6 10.559V5.442a.25.25 0 0 1 .379-.215Z"></path>
-</svg>
-        <span data-content="Actions">Actions</span>
-          <span id="actions-repo-tab-count" data-pjax-replace="" data-turbo-replace="" title="Not available" data-view-component="true" class="Counter"></span>
-
-
-    
-</a></li>
-      <li data-view-component="true" class="d-inline-flex">
-  <a id="projects-tab" href="/olivermueller/amlta-2024/projects" data-tab-item="i4projects-tab" data-selected-links="repo_projects new_repo_project repo_project /olivermueller/amlta-2024/projects" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g b" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Projects&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
-    
-              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-table UnderlineNav-octicon d-none d-sm-inline">
-    <path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25ZM6.5 6.5v8h7.75a.25.25 0 0 0 .25-.25V6.5Zm8-1.5V1.75a.25.25 0 0 0-.25-.25H6.5V5Zm-13 1.5v7.75c0 .138.112.25.25.25H5v-8ZM5 5V1.5H1.75a.25.25 0 0 0-.25.25V5Z"></path>
-</svg>
-        <span data-content="Projects">Projects</span>
-          <span id="projects-repo-tab-count" data-pjax-replace="" data-turbo-replace="" title="0" hidden="hidden" data-view-component="true" class="Counter">0</span>
-
-
-    
-</a></li>
-      <li data-view-component="true" class="d-inline-flex">
-  <a id="security-tab" href="/olivermueller/amlta-2024/security" data-tab-item="i5security-tab" data-selected-links="security overview alerts policy token_scanning code_scanning /olivermueller/amlta-2024/security" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g s" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Security&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
-    
-              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-shield UnderlineNav-octicon d-none d-sm-inline">
-    <path d="M7.467.133a1.748 1.748 0 0 1 1.066 0l5.25 1.68A1.75 1.75 0 0 1 15 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.697 1.697 0 0 1-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 0 1 1.217-1.667Zm.61 1.429a.25.25 0 0 0-.153 0l-5.25 1.68a.25.25 0 0 0-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.196.196 0 0 0 .154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.251.251 0 0 0-.174-.237l-5.25-1.68ZM8.75 4.75v3a.75.75 0 0 1-1.5 0v-3a.75.75 0 0 1 1.5 0ZM9 10.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
-</svg>
-        <span data-content="Security">Security</span>
-          <include-fragment src="/olivermueller/amlta-2024/security/overall-count" accept="text/fragment+html"></include-fragment>
-
-    
-</a></li>
-      <li data-view-component="true" class="d-inline-flex">
-  <a id="insights-tab" href="/olivermueller/amlta-2024/pulse" data-tab-item="i6insights-tab" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /olivermueller/amlta-2024/pulse" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Insights&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
-    
-              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-graph UnderlineNav-octicon d-none d-sm-inline">
-    <path d="M1.5 1.75V13.5h13.75a.75.75 0 0 1 0 1.5H.75a.75.75 0 0 1-.75-.75V1.75a.75.75 0 0 1 1.5 0Zm14.28 2.53-5.25 5.25a.75.75 0 0 1-1.06 0L7 7.06 4.28 9.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.25-3.25a.75.75 0 0 1 1.06 0L10 7.94l4.72-4.72a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Z"></path>
-</svg>
-        <span data-content="Insights">Insights</span>
-          <span id="insights-repo-tab-count" data-pjax-replace="" data-turbo-replace="" title="Not available" data-view-component="true" class="Counter"></span>
-
-
-    
-</a></li>
-</ul>
-    <div style="visibility:hidden;" data-view-component="true" class="UnderlineNav-actions js-responsive-underlinenav-overflow position-absolute pr-3 pr-md-4 pr-lg-5 right-0">      <action-menu data-select-variant="none" data-view-component="true">
-  <focus-group direction="vertical" mnemonics retain>
-    <button id="action-menu-3dc9a994-08f2-4bda-8721-d7302fdbfcf5-button" popovertarget="action-menu-3dc9a994-08f2-4bda-8721-d7302fdbfcf5-overlay" aria-controls="action-menu-3dc9a994-08f2-4bda-8721-d7302fdbfcf5-list" aria-haspopup="true" aria-labelledby="tooltip-3e9ef356-e27c-4638-8feb-687b0ae96955" type="button" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium UnderlineNav-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal Button-visual">
-    <path d="M8 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3ZM1.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Zm13 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path>
-</svg>
-</button><tool-tip id="tooltip-3e9ef356-e27c-4638-8feb-687b0ae96955" for="action-menu-3dc9a994-08f2-4bda-8721-d7302fdbfcf5-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Additional navigation options</tool-tip>
-
-
-<anchored-position data-target="action-menu.overlay" id="action-menu-3dc9a994-08f2-4bda-8721-d7302fdbfcf5-overlay" anchor="action-menu-3dc9a994-08f2-4bda-8721-d7302fdbfcf5-button" align="start" side="outside-bottom" anchor-offset="normal" popover="auto" data-view-component="true">
-  <div data-view-component="true" class="Overlay Overlay--size-auto">
-    
-      <div data-view-component="true" class="Overlay-body Overlay-body--paddingNone">          <action-list>
-  <div data-view-component="true">
-    <ul aria-labelledby="action-menu-3dc9a994-08f2-4bda-8721-d7302fdbfcf5-button" id="action-menu-3dc9a994-08f2-4bda-8721-d7302fdbfcf5-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
-        <li hidden="hidden" data-menu-item="i0code-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
-    
-    
-    <a tabindex="-1" id="item-5cdfcc7f-35ef-448a-abc8-938484b03fee" href="/olivermueller/amlta-2024" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
-        <span class="ActionListItem-visual ActionListItem-visual--leading">
-          <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
-    <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
-</svg>
-        </span>
-      
-        <span data-view-component="true" class="ActionListItem-label">
-          Code
-</span>      
-</a>
-  
-</li>
-        <li hidden="hidden" data-menu-item="i1issues-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
-    
-    
-    <a tabindex="-1" id="item-2b0fd0f4-2d7f-4e95-a178-000674e57552" href="/olivermueller/amlta-2024/issues" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
-        <span class="ActionListItem-visual ActionListItem-visual--leading">
-          <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened">
-    <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path>
-</svg>
-        </span>
-      
-        <span data-view-component="true" class="ActionListItem-label">
-          Issues
-</span>      
-</a>
-  
-</li>
-        <li hidden="hidden" data-menu-item="i2pull-requests-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
-    
-    
-    <a tabindex="-1" id="item-7640956f-f3c4-4234-a27d-13a98f493c57" href="/olivermueller/amlta-2024/pulls" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
-        <span class="ActionListItem-visual ActionListItem-visual--leading">
-          <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request">
-    <path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"></path>
-</svg>
-        </span>
-      
-        <span data-view-component="true" class="ActionListItem-label">
-          Pull requests
-</span>      
-</a>
-  
-</li>
-        <li hidden="hidden" data-menu-item="i3actions-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
-    
-    
-    <a tabindex="-1" id="item-ed2f27dd-49d2-4ad1-a6fa-c7fe15e918aa" href="/olivermueller/amlta-2024/actions" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
-        <span class="ActionListItem-visual ActionListItem-visual--leading">
-          <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-play">
-    <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm4.879-2.773 4.264 2.559a.25.25 0 0 1 0 .428l-4.264 2.559A.25.25 0 0 1 6 10.559V5.442a.25.25 0 0 1 .379-.215Z"></path>
-</svg>
-        </span>
-      
-        <span data-view-component="true" class="ActionListItem-label">
-          Actions
-</span>      
-</a>
-  
-</li>
-        <li hidden="hidden" data-menu-item="i4projects-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
-    
-    
-    <a tabindex="-1" id="item-322f3532-8820-4f16-9054-fb506c109e4c" href="/olivermueller/amlta-2024/projects" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
-        <span class="ActionListItem-visual ActionListItem-visual--leading">
-          <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-table">
-    <path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25ZM6.5 6.5v8h7.75a.25.25 0 0 0 .25-.25V6.5Zm8-1.5V1.75a.25.25 0 0 0-.25-.25H6.5V5Zm-13 1.5v7.75c0 .138.112.25.25.25H5v-8ZM5 5V1.5H1.75a.25.25 0 0 0-.25.25V5Z"></path>
-</svg>
-        </span>
-      
-        <span data-view-component="true" class="ActionListItem-label">
-          Projects
-</span>      
-</a>
-  
-</li>
-        <li hidden="hidden" data-menu-item="i5security-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
-    
-    
-    <a tabindex="-1" id="item-4cc4fe26-8f3c-4faf-8678-7a7bb2b8073d" href="/olivermueller/amlta-2024/security" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
-        <span class="ActionListItem-visual ActionListItem-visual--leading">
-          <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-shield">
-    <path d="M7.467.133a1.748 1.748 0 0 1 1.066 0l5.25 1.68A1.75 1.75 0 0 1 15 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.697 1.697 0 0 1-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 0 1 1.217-1.667Zm.61 1.429a.25.25 0 0 0-.153 0l-5.25 1.68a.25.25 0 0 0-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.196.196 0 0 0 .154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.251.251 0 0 0-.174-.237l-5.25-1.68ZM8.75 4.75v3a.75.75 0 0 1-1.5 0v-3a.75.75 0 0 1 1.5 0ZM9 10.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
-</svg>
-        </span>
-      
-        <span data-view-component="true" class="ActionListItem-label">
-          Security
-</span>      
-</a>
-  
-</li>
-        <li hidden="hidden" data-menu-item="i6insights-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
-    
-    
-    <a tabindex="-1" id="item-cfd907c3-5a7d-4bb0-a950-c51b0b0b6d5b" href="/olivermueller/amlta-2024/pulse" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
-        <span class="ActionListItem-visual ActionListItem-visual--leading">
-          <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-graph">
-    <path d="M1.5 1.75V13.5h13.75a.75.75 0 0 1 0 1.5H.75a.75.75 0 0 1-.75-.75V1.75a.75.75 0 0 1 1.5 0Zm14.28 2.53-5.25 5.25a.75.75 0 0 1-1.06 0L7 7.06 4.28 9.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.25-3.25a.75.75 0 0 1 1.06 0L10 7.94l4.72-4.72a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Z"></path>
-</svg>
-        </span>
-      
-        <span data-view-component="true" class="ActionListItem-label">
-          Insights
-</span>      
-</a>
-  
-</li>
-</ul>    
-</div></action-list>
-
-
-</div>
-      
-</div></anchored-position>  </focus-group>
-</action-menu></div>
-</nav>
-
-  </div>
-
-  
-
-
-
-<turbo-frame id="repo-content-turbo-frame" target="_top" data-turbo-action="advance" class="">
-    <div id="repo-content-pjax-container" class="repository-content " >
-    
-
-
-
-    
-      
-    
-
-
-
-
-
-
-
-
-<react-app
-  app-name="react-code-view"
-  initial-path="/olivermueller/amlta-2024/blob/main/Session_08/markdown_documents/How_I_Met_Your_Mother.md"
-    style="display: block; min-height: calc(100vh - 64px);"
-  data-attempted-ssr="false"
-  data-ssr="false"
-  data-lazy="false"
-  data-alternate="false"
->
-  
-  <script type="application/json" data-target="react-app.embeddedData">{"payload":{"allShortcutsEnabled":false,"fileTree":{"Session_08/markdown_documents":{"items":[{"name":"Game_of_Thrones.md","path":"Session_08/markdown_documents/Game_of_Thrones.md","contentType":"file"},{"name":"How_I_Met_Your_Mother.md","path":"Session_08/markdown_documents/How_I_Met_Your_Mother.md","contentType":"file"}],"totalCount":2},"Session_08":{"items":[{"name":"documents","path":"Session_08/documents","contentType":"directory"},{"name":"imgs","path":"Session_08/imgs","contentType":"directory"},{"name":"markdown_documents","path":"Session_08/markdown_documents","contentType":"directory"}],"totalCount":3},"":{"items":[{"name":"Session_01","path":"Session_01","contentType":"directory"},{"name":"Session_02","path":"Session_02","contentType":"directory"},{"name":"Session_03","path":"Session_03","contentType":"directory"},{"name":"Session_04","path":"Session_04","contentType":"directory"},{"name":"Session_05","path":"Session_05","contentType":"directory"},{"name":"Session_06","path":"Session_06","contentType":"directory"},{"name":"Session_07","path":"Session_07","contentType":"directory"},{"name":"Session_08","path":"Session_08","contentType":"directory"},{"name":".DS_Store","path":".DS_Store","contentType":"file"},{"name":".gitignore","path":".gitignore","contentType":"file"},{"name":"LICENSE","path":"LICENSE","contentType":"file"},{"name":"README.md","path":"README.md","contentType":"file"}],"totalCount":12}},"fileTreeProcessingTime":6.015488,"foldersToFetch":[],"repo":{"id":865851650,"defaultBranch":"main","name":"amlta-2024","ownerLogin":"olivermueller","currentUserCanPush":false,"isFork":false,"isEmpty":false,"createdAt":"2024-10-01T08:42:39.000Z","ownerAvatar":"https://avatars.githubusercontent.com/u/2878493?v=4","public":true,"private":false,"isOrgOwned":false},"codeLineWrapEnabled":false,"symbolsExpanded":false,"treeExpanded":true,"refInfo":{"name":"main","listCacheKey":"v0:1727772160.942743","canEdit":false,"refType":"branch","currentOid":"b145c07f88279a797ab1b7e0f8e425583c08a82f"},"path":"Session_08/markdown_documents/How_I_Met_Your_Mother.md","currentUser":null,"blob":{"rawLines":null,"stylingDirectives":null,"colorizedLines":null,"csv":null,"csvError":null,"dependabotInfo":{"showConfigurationBanner":false,"configFilePath":null,"networkDependabotPath":"/olivermueller/amlta-2024/network/updates","dismissConfigurationNoticePath":"/settings/dismiss-notice/dependabot_configuration_notice","configurationNoticeDismissed":null},"displayName":"How_I_Met_Your_Mother.md","displayUrl":"https://github.com/olivermueller/amlta-2024/blob/main/Session_08/markdown_documents/How_I_Met_Your_Mother.md?raw=true","headerInfo":{"blobSize":"203 KB","deleteTooltip":"You must be signed in to make or propose changes","editTooltip":"You must be signed in to make or propose changes","ghDesktopPath":"https://desktop.github.com","isGitLfs":false,"onBranch":true,"shortPath":"573261c","siteNavLoginPath":"/login?return_to=https%3A%2F%2Fgithub.com%2Folivermueller%2Famlta-2024%2Fblob%2Fmain%2FSession_08%2Fmarkdown_documents%2FHow_I_Met_Your_Mother.md","isCSV":false,"isRichtext":true,"toc":[{"level":1,"text":"How I Met Your Mother","anchor":"how-i-met-your-mother","htmlText":"How I Met Your Mother"},{"level":2,"text":"Premise","anchor":"premise","htmlText":"Premise"},{"level":4,"text":"How I Met Your Mother","anchor":"how-i-met-your-mother-1","htmlText":"How I Met Your Mother"},{"level":2,"text":"Production","anchor":"production","htmlText":"Production"},{"level":2,"text":"Syndication","anchor":"syndication","htmlText":"Syndication"},{"level":2,"text":"Cast and characters","anchor":"cast-and-characters","htmlText":"Cast and characters"},{"level":2,"text":"Season synopses","anchor":"season-synopses","htmlText":"Season synopses"},{"level":3,"text":"Season 1","anchor":"season-1","htmlText":"Season 1"},{"level":3,"text":"Season 2","anchor":"season-2","htmlText":"Season 2"},{"level":3,"text":"Season 3","anchor":"season-3","htmlText":"Season 3"},{"level":3,"text":"Season 4","anchor":"season-4","htmlText":"Season 4"},{"level":3,"text":"Season 5","anchor":"season-5","htmlText":"Season 5"},{"level":3,"text":"Season 6","anchor":"season-6","htmlText":"Season 6"},{"level":3,"text":"Season 7","anchor":"season-7","htmlText":"Season 7"},{"level":3,"text":"Season 8","anchor":"season-8","htmlText":"Season 8"},{"level":3,"text":"Season 9","anchor":"season-9","htmlText":"Season 9"},{"level":2,"text":"Critical reception","anchor":"critical-reception","htmlText":"Critical reception"},{"level":2,"text":"Subplots","anchor":"subplots","htmlText":"Subplots"},{"level":3,"text":"The Slap Bet","anchor":"the-slap-bet","htmlText":"The Slap Bet"},{"level":2,"text":"Tie-ins","anchor":"tie-ins","htmlText":"Tie-ins"},{"level":3,"text":"Books","anchor":"books","htmlText":"Books"},{"level":3,"text":"Soundtracks","anchor":"soundtracks","htmlText":"Soundtracks"},{"level":3,"text":"Pineapple Incident explained","anchor":"pineapple-incident-explained","htmlText":"Pineapple Incident explained"},{"level":3,"text":"Websites","anchor":"websites","htmlText":"Websites"},{"level":3,"text":"Spin-offs","anchor":"spin-offs","htmlText":"Spin-offs"},{"level":2,"text":"Nielsen ratings","anchor":"nielsen-ratings","htmlText":"Nielsen ratings"},{"level":2,"text":"Awards and nominations","anchor":"awards-and-nominations","htmlText":"Awards and nominations"},{"level":2,"text":"Home media","anchor":"home-media","htmlText":"Home media"},{"level":2,"text":"References","anchor":"references","htmlText":"References"},{"level":2,"text":"External links","anchor":"external-links","htmlText":"External links"}],"lineInfo":{"truncatedLoc":"1957","truncatedSloc":"1446"},"mode":"file"},"image":false,"isCodeownersFile":null,"isPlain":false,"isValidLegacyIssueTemplate":false,"issueTemplate":null,"discussionTemplate":null,"language":"Markdown","languageID":222,"large":false,"planSupportInfo":{"repoIsFork":null,"repoOwnedByCurrentUser":null,"requestFullPath":"/olivermueller/amlta-2024/blob/main/Session_08/markdown_documents/How_I_Met_Your_Mother.md","showFreeOrgGatedFeatureMessage":null,"showPlanSupportBanner":null,"upgradeDataAttributes":null,"upgradePath":null},"publishBannersInfo":{"dismissActionNoticePath":"/settings/dismiss-notice/publish_action_from_dockerfile","releasePath":"/olivermueller/amlta-2024/releases/new?marketplace=true","showPublishActionBanner":false},"rawBlobUrl":"https://github.com/olivermueller/amlta-2024/raw/refs/heads/main/Session_08/markdown_documents/How_I_Met_Your_Mother.md","renderImageOrRaw":false,"richText":"\u003carticle class=\"markdown-body entry-content container-lg\" itemprop=\"text\"\u003e\u003cdiv class=\"markdown-heading\" dir=\"auto\"\u003e\u003ch1 tabindex=\"-1\" class=\"heading-element\" dir=\"auto\"\u003eHow I Met Your Mother\u003c/h1\u003e\u003ca id=\"user-content-how-i-met-your-mother\" class=\"anchor\" aria-label=\"Permalink: How I Met Your Mother\" href=\"#how-i-met-your-mother\"\u003e\u003csvg class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"\u003e\u003cpath d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"\u003e\u003c/path\u003e\u003c/svg\u003e\u003c/a\u003e\u003c/div\u003e\n\u003cp dir=\"auto\"\u003e\u003cstrong\u003e\u003cem\u003eHow I Met Your Mother (often abbreviated as\u003c/em\u003e\u003c/strong\u003e \u003cstrong\u003e\u003cem\u003eHIMYM) is an American\u003c/em\u003e\u003c/strong\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/Sitcom\" rel=\"nofollow\"\u003esitcom created by Craig Thomas and Carter Bays for CBS. The series, which\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/Ted_Mosby\" rel=\"nofollow\"\u003eaired from September 19, 2005 to March 31, 2014, follows main character Ted\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/Ted_Mosby\" rel=\"nofollow\"\u003eMosby and his group of friends in New York City's Manhattan. As a frame\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/Frame_story\" rel=\"nofollow\"\u003estory, Ted (in 2030) recounts to his daughter Penny and son Luke the events\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/The_Mother_(How_I_Met_Your_Mother)\" rel=\"nofollow\"\u003efrom September 2005 to May 2013 that led to him meeting their mother.\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eThe series was loosely inspired by Thomas and Bays' friendship when they\nboth lived in New York.[[1]] The vast majority of the episodes (196 out of 208)\n\u003ca href=\"https://en.wikipedia.org/wiki/Pamela_Fryman\" rel=\"nofollow\"\u003ewere directed by Pamela Fryman. The other directors were Rob Greenberg (7\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/Neil_Patrick_Harris\" rel=\"nofollow\"\u003eepisodes), Michael Shea (4 episodes), and Neil Patrick Harris (1 episode).\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eKnown for its non-contemporary structure, humor, and incorporation of\ndramatic elements, How I Met Your Mother was popular throughout its run. It\nreceived positive reviews initially, but reception became more mixed as the\nseasons went on.[[2][3][4]] The show was nominated for 91 awards and received\n21.\u003c/p\u003e\n\u003cdiv class=\"markdown-heading\" dir=\"auto\"\u003e\u003ch2 tabindex=\"-1\" class=\"heading-element\" dir=\"auto\"\u003ePremise\u003c/h2\u003e\u003ca id=\"user-content-premise\" class=\"anchor\" aria-label=\"Permalink: Premise\" href=\"#premise\"\u003e\u003csvg class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"\u003e\u003cpath d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"\u003e\u003c/path\u003e\u003c/svg\u003e\u003c/a\u003e\u003c/div\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Ted_Mosby\" rel=\"nofollow\"\u003eThe series follows the adventures of Ted Mosby (played by Josh Radnor) and\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/Bob_Saget\" rel=\"nofollow\"\u003ehis love life as a single man. His stories are narrated by Bob Saget as Ted\u003c/a\u003e\nMosby 25 years later as he tells them to his adolescent children, Luke and\nPenny.\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eThe story goes into a flashback and starts in 2005 with 27-year-old Ted Mosby\n\u003ca href=\"https://en.wikipedia.org/wiki/New_York_City\" rel=\"nofollow\"\u003eliving in New York City and working as an architect. The narrative deals\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/Marshall_Eriksen\" rel=\"nofollow\"\u003eprimarily with his best friends. These include the long-lasting couple Marshall\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/Marshall_Eriksen\" rel=\"nofollow\"\u003eEriksen (Jason Segel), a law student and Lily Aldrin (Alyson Hannigan), a\u003c/a\u003e\nkindergarten teacher, who have been dating for almost nine years when\n\u003ca href=\"https://en.wikipedia.org/wiki/Womanizing\" rel=\"nofollow\"\u003eMarshall proposes, as well as womanizing playboy Barney Stinson (Neil\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/Neil_Patrick_Harris\" rel=\"nofollow\"\u003ePatrick Harris), and Canadian news reporter Robin Scherbatsky (Cobie\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/Cobie_Smulders\" rel=\"nofollow\"\u003eSmulders). All of the characters' lives are entwined. The series explores many\u003c/a\u003e\nstory-lines, including a \"will they or won't they\" relationship between Robin\nand each of the two single male friends, Marshall and Lily's relationship, and\nthe ups and downs of the characters' careers.\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Frame_story\" rel=\"nofollow\"\u003eThe show's frame story depicts Ted (voice of Bob Saget, uncredited) verbally\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/David_Henrie\" rel=\"nofollow\"\u003eretelling the story to his son Luke (David Henrie) and daughter Penny (Lyndsy\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/Lyndsy_Fonseca\" rel=\"nofollow\"\u003eFonseca) as they sit on the couch in the year 2030. This future-set frame is\u003c/a\u003e\nofficially the show's \"present day\", and How I Met Your Mother exploits this\nframing device in numerous ways: to depict and re-depict events from multiple\n\u003ca href=\"https://en.wikipedia.org/wiki/Flashback_(narrative)\" rel=\"nofollow\"\u003epoints of view; to set up jokes using quick and sometimes multiple flashbacks\u003c/a\u003e\nnested within the oral retelling; to substitute visual, verbal, or aural\neuphemisms for activities Ted does not want to talk about with his children\n(sexual practices, use of illicit substances, vulgar language, etc.).\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eWhile the traditional love story structure begins when the romantic leads first\nencounter each other, \u003cem\u003eHow I Met Your Mother does not introduce Ted's wife\u003c/em\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/Cristin_Milioti\" rel=\"nofollow\"\u003e(Cristin Milioti) until the eighth-season finale and only announces her full\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/Tracy_McConnell\" rel=\"nofollow\"\u003ename, Tracy McConnell, during the series finale. Her first name, Tracy, is\u003c/a\u003e\u003c/p\u003e\n\u003cdiv class=\"markdown-heading\" dir=\"auto\"\u003e\u003ch4 tabindex=\"-1\" class=\"heading-element\" dir=\"auto\"\u003eHow I Met Your Mother\u003c/h4\u003e\u003ca id=\"user-content-how-i-met-your-mother-1\" class=\"anchor\" aria-label=\"Permalink: How I Met Your Mother\" href=\"#how-i-met-your-mother-1\"\u003e\u003csvg class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"\u003e\u003cpath d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"\u003e\u003c/path\u003e\u003c/svg\u003e\u003c/a\u003e\u003c/div\u003e\n\u003cp dir=\"auto\"\u003e\u003cstrong\u003eGenre\u003c/strong\u003e \u003ca href=\"https://en.wikipedia.org/wiki/Sitcom\" rel=\"nofollow\"\u003eSitcom\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Romantic_comedy\" rel=\"nofollow\"\u003eRomantic comedy\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Comedy_drama\" rel=\"nofollow\"\u003eComedy drama\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003cstrong\u003eCreated by\u003c/strong\u003e \u003ca href=\"https://en.wikipedia.org/wiki/Carter_Bays\" rel=\"nofollow\"\u003eCarter Bays\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Craig_Thomas_(screenwriter)\" rel=\"nofollow\"\u003eCraig Thomas\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003cstrong\u003eDirected by\u003c/strong\u003e \u003ca href=\"https://en.wikipedia.org/wiki/Pamela_Fryman\" rel=\"nofollow\"\u003ePamela Fryman\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Rob_Greenberg\" rel=\"nofollow\"\u003eRob Greenberg\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eMichael Shea\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Neil_Patrick_Harris\" rel=\"nofollow\"\u003eNeil Patrick Harris\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003cstrong\u003eStarring\u003c/strong\u003e \u003ca href=\"https://en.wikipedia.org/wiki/Josh_Radnor\" rel=\"nofollow\"\u003eJosh Radnor\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Jason_Segel\" rel=\"nofollow\"\u003eJason Segel\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Cobie_Smulders\" rel=\"nofollow\"\u003eCobie Smulders\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Neil_Patrick_Harris\" rel=\"nofollow\"\u003eNeil Patrick Harris\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Alyson_Hannigan\" rel=\"nofollow\"\u003eAlyson Hannigan\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Cristin_Milioti\" rel=\"nofollow\"\u003eCristin Milioti\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003cstrong\u003eNarrated by\u003c/strong\u003e \u003ca href=\"https://en.wikipedia.org/wiki/Bob_Saget\" rel=\"nofollow\"\u003eBob Saget\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003cstrong\u003eOpening theme\u003c/strong\u003e \u003ca href=\"https://en.wikipedia.org/wiki/The_Solids\" rel=\"nofollow\"\u003e\"Hey, Beautiful\" by The\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/The_Solids\" rel=\"nofollow\"\u003eSolids\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003cstrong\u003eComposer\u003c/strong\u003e \u003ca href=\"https://en.wikipedia.org/wiki/John_Swihart\" rel=\"nofollow\"\u003eJohn Swihart\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003cstrong\u003eCountry of origin\u003c/strong\u003e United States\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003cstrong\u003eOriginal language\u003c/strong\u003e English\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003cstrong\u003eNo. of seasons\u003c/strong\u003e 9\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003cstrong\u003eNo. of episodes\u003c/strong\u003e \u003ca href=\"https://en.wikipedia.org/wiki/List_of_How_I_Met_Your_Mother_episodes\" rel=\"nofollow\"\u003e208 (list of episodes)\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003cstrong\u003eProduction\u003c/strong\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003cstrong\u003eExecutive\u003c/strong\u003e\n\u003cstrong\u003eproducers\u003c/strong\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eCarter Bays\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eCraig Thomas\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eRob Greenberg\u003c/p\u003e\n\u003cp dir=\"auto\"\u003ePamela Fryman\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eEileen Heisler\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eDeAnn Heline\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Phil_Lord\" rel=\"nofollow\"\u003ePhil Lord\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Greg_Malins\" rel=\"nofollow\"\u003eGreg Malins\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Christopher_Miller_(filmmaker)\" rel=\"nofollow\"\u003eChristopher Miller\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eChris Harris\u003c/p\u003e\n\u003chr\u003e\n\u003cp dir=\"auto\"\u003efactors and scenes in the show that hint various hardships in the show like the\ndeath of Marshall's father, Tracy(Ted's future wife) death and many more. This\nleads to audience getting hints to understand what is coming next in the show.\u003c/p\u003e\n\u003cdiv class=\"markdown-heading\" dir=\"auto\"\u003e\u003ch2 tabindex=\"-1\" class=\"heading-element\" dir=\"auto\"\u003eProduction\u003c/h2\u003e\u003ca id=\"user-content-production\" class=\"anchor\" aria-label=\"Permalink: Production\" href=\"#production\"\u003e\u003csvg class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"\u003e\u003cpath d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"\u003e\u003c/path\u003e\u003c/svg\u003e\u003c/a\u003e\u003c/div\u003e\n\u003cp dir=\"auto\"\u003e\u003cem\u003eHow I Met Your Mother was inspired by Carter Bays and Craig Thomas' idea\u003c/em\u003e\nto \"write about our friends and the stupid stuff we did in New York\", where\nthey previously worked as writers for \u003cem\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Late_Show_with_David_Letterman\" rel=\"nofollow\"\u003eLate Show with David Letterman,\u003c/a\u003e\u003c/em\u003e\namong others.[[1]] The two drew from their friendship in creating the characters.\nTed is based loosely on Bays, and Marshall and Lily are based loosely on\nThomas and his wife.[[5][6]] Thomas' wife Rebecca was initially reluctant to\n\u003ca href=\"https://en.wikipedia.org/wiki/Alyson_Hannigan\" rel=\"nofollow\"\u003ehave a character based on her but agreed if they could get Alyson Hannigan to\u003c/a\u003e\nplay her. Hannigan was looking to do more comedy work and was available.[[5]]\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Josh_Radnor\" rel=\"nofollow\"\u003eJosh Radnor and Jason Segel, who were cast as Ted and Marshall,\u003c/a\u003e\nrespectively, were not well known, although Segel had been a cast member on\n\u003ca href=\"https://en.wikipedia.org/wiki/Freaks_and_Geeks\" rel=\"nofollow\"\u003ethe short-lived Freaks and Geeks and a recurring guest star on Judd Apatow's\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/Undeclared\" rel=\"nofollow\"\u003efollow-up show, Undeclared. The role of Barney was initially envisioned as a\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/John_Belushi\" rel=\"nofollow\"\u003e\"John Belushi-type character\"[[7]] before Neil Patrick Harris won the role after\u003c/a\u003e\nbeing invited to an audition by the show's casting director Megan Branman.[[8]]\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Bob_Saget\" rel=\"nofollow\"\u003ePamela Fryman invited Bob Saget to be the voice-over narrator, Future Ted,\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/The_Wonder_Years\" rel=\"nofollow\"\u003eexplaining to him that the show would be like The Wonder Years but \"kind of\u003c/a\u003e\ninto the future\".[[9]] Saget either went to the television studio and recorded the\nnarration while watching the episode, or did so separately and rerecorded with\n\u003ca href=\"https://en.wikipedia.org/wiki/Table_read\" rel=\"nofollow\"\u003ethe episode if necessary.[[10]] He normally did not attend table readings but did\u003c/a\u003e\nso for the last episode.[[11]]\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eIn multiple interviews Bays and Thomas have stated that \"a pretty famous\nactress\"[[12]] turned down the role of Robin, who they revealed in February\n\u003ca href=\"https://en.wikipedia.org/wiki/Jennifer_Love_Hewitt\" rel=\"nofollow\"\u003e2014 was Jennifer Love Hewitt.[[13]] They then cast the unknown Cobie\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/Cobie_Smulders\" rel=\"nofollow\"\u003eSmulders; Bays and Thomas later said, \"Thank God we did for a million\u003c/a\u003e\nreasons... when Ted's seeing her for the first time, America's seeing her for the\nfirst time—the intrigue of that propelled the show going forward and kept the\n\u003ca href=\"https://en.wikipedia.org/wiki/Pilot_(How_I_Met_Your_Mother)\" rel=\"nofollow\"\u003eshow alive\".[[12]] Although Ted is initially smitten by Robin in the pilot, it is\u003c/a\u003e\nquickly established at the end of the episode that she is not the mother, which\nThomas said was done so they would not repeat the \"will they or won't they\"\n\u003ca href=\"https://en.wikipedia.org/wiki/Friends\" rel=\"nofollow\"\u003eRoss and Rachel storyline from Friends.[[6]]\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eKourtney Kang\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eJamie Rhonheimer\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Chuck_Tatham\" rel=\"nofollow\"\u003eChuck Tatham\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003cstrong\u003eProducers\u003c/strong\u003e Randy Cordray\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eSuzy Mamann\nGreenberg\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eChris Harris\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eJamie Rhonheimer\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eKourtney Kang\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eBrenda Hsueh\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eTheresa Mulligan\nRosenthal\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eStewart Halpern\nFingerhut\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eRob Greenberg\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Tami_Sagher\" rel=\"nofollow\"\u003eTami Sagher\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003cstrong\u003eCinematography\u003c/strong\u003e Steven V. Silver (pilot)\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eChristian La Fountaine\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003cstrong\u003eEditor\u003c/strong\u003e Sue Federman\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003cstrong\u003eCamera setup\u003c/strong\u003e \u003ca href=\"https://en.wikipedia.org/wiki/Multi-camera\" rel=\"nofollow\"\u003eMulti-camera\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003cstrong\u003eRunning time\u003c/strong\u003e 22 minutes\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003cstrong\u003eProduction\u003c/strong\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003cstrong\u003ecompanies\u003c/strong\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eBays Thomas\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eProductions\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/20th_Century_Fox_Television\" rel=\"nofollow\"\u003e20th Century Fox\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/20th_Century_Fox_Television\" rel=\"nofollow\"\u003eTelevision\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003cstrong\u003eOriginal release\u003c/strong\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003cstrong\u003eNetwork\u003c/strong\u003e \u003ca href=\"https://en.wikipedia.org/wiki/CBS\" rel=\"nofollow\"\u003eCBS\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003cstrong\u003eRelease\u003c/strong\u003e September 19, 2005 –\nMarch 31, 2014\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003cstrong\u003eRelated\u003c/strong\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003cem\u003e\u003ca href=\"https://en.wikipedia.org/wiki/How_I_Met_Your_Father\" rel=\"nofollow\"\u003eHow I Met Your Father\u003c/a\u003e\u003c/em\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Entertainment_Weekly\" rel=\"nofollow\"\u003eAccording to an Entertainment Weekly article, the writers adopted facets of each main actor's personality and incorporated them\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/Neil_Patrick_Harris\" rel=\"nofollow\"\u003einto their characters. This includes Neil Patrick Harris' skills with magic, Jason Segel's passion for songwriting, Alyson\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/Alyson_Hannigan\" rel=\"nofollow\"\u003eHannigan's absent-mindedness while pregnant, and Josh Radnor's intellectualism.[[14]]\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eMacLaren's, an Irish bar in the middle of New York City, in which a lot of the show is set, is loosely based on four favorite bars\n\u003ca href=\"https://en.wikipedia.org/wiki/Ed_Sullivan_Theater\" rel=\"nofollow\"\u003eof Bays, Thomas, and others' from the Late Show staff. Others include: McGee's, a Midtown tavern near the Ed Sullivan Theater\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/Hell%27s_Kitchen\" rel=\"nofollow\"\u003ewhere the Late Show is taped; McHale's, a legendary Hell's Kitchen bar which closed in 2006; Chumley's, a since-closed historic\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/Mural\" rel=\"nofollow\"\u003eGreenwich Village pub; and Fez, another closed bar on the Upper West Side.[[15]] McGee's had a mural that Bays and Thomas\u003c/a\u003e\nboth liked and wanted to incorporate into the show.[[16]] The name for the bar is from Carter Bays' assistant, Carl MacLaren; the\nbartender in the show is also named Carl.[[17]]\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Los_Angeles\" rel=\"nofollow\"\u003eEpisodes were generally shot over a three-day period in the Los Angeles-based Soundstage Studio 22[[18]] and featured upwards of\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/Flashback_(narrative)\" rel=\"nofollow\"\u003e50 scenes with quick transitions and flashbacks. However, the \"Pilot\" episode was filmed at CBS Radford.[[19]] The laugh track\u003c/a\u003e\nwas later created by recording an audience being shown the final edited episode. Thomas claimed that shooting before a live\n\u003ca href=\"https://en.wikipedia.org/wiki/Flashforward\" rel=\"nofollow\"\u003eaudience would have been impossible because of the structure of the show and the numerous flashforwards in each episode and\u003c/a\u003e\nbecause doing so \"would blur the line between 'audience' and 'hostage situation'\".[[20]] Later seasons started filming in front of an\naudience on occasion, when smaller sets were used.\u003c/p\u003e\n\u003chr\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Cold_open\" rel=\"nofollow\"\u003egenerally started with the opening credits. A cold opening has been used since season 2. Viewers then occasionally see Ted's\u003c/a\u003e\nchildren on a couch and hear him talking to them, telling the story of how he met their mother. Alternatively, scenes from\nprevious episodes or shots of New York City with Ted narrating over the top are shown. Thomas has stated that Future Ted is an\n\u003ca href=\"https://en.wikipedia.org/wiki/Unreliable_narrator\" rel=\"nofollow\"\u003eunreliable narrator, since he is trying to tell a story that happened over 20 years earlier;[[21]] this has been a plot point in several\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/The_Goat_(How_I_Met_Your_Mother)\" rel=\"nofollow\"\u003eepisodes including \"The Goat\", \"Oh Honey\", \"How I Met Everyone Else\", and \"The Mermaid Theory\". Nevertheless, Thomas\u003c/a\u003e\nhas also emphasized maintaining a coherent and consistent universe and trying to avoid continuity errors, a problem he noticed in\nother shows.[[22]]\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Series_finale\" rel=\"nofollow\"\u003eA scene relating to the identity of the mother, involving Ted's future children, was filmed in 2006 for the show's eventual series\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/Series_finale\" rel=\"nofollow\"\u003efinale.[[23]] This was done because the teenage actors portraying them would be adults by the time the final season was shot.[[21]]\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/2007%E2%80%932008_Writers_Guild_of_America_strike\" rel=\"nofollow\"\u003eDuring the 2007–2008 Writers Guild of America strike, How I Met Your Mother shut down production; when the strike ended,\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/2008%E2%80%9309_United_States_network_television_schedule#Monday\" rel=\"nofollow\"\u003ethe show returned on March 17, 2008, with nine new episodes.[[24]] The network announced a change in the timeslot to 8:30 pm\u003c/a\u003e\nET/7:30 pm CT, flip-flopping from the summer schedule with \u003cem\u003e\u003ca href=\"https://en.wikipedia.org/wiki/The_Big_Bang_Theory\" rel=\"nofollow\"\u003eThe Big Bang Theory.[[25]] CBS renewed the show for a fourth\u003c/a\u003e\u003c/em\u003e\nseason on May 14, 2008,[[26]] which premiered on September 22, 2008.[[27]]\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Lifetime_(TV_network)\" rel=\"nofollow\"\u003eIn September 2008, Lifetime Television announced it had purchased the cable rerun rights to How I Met Your Mother at a rate of\u003c/a\u003e\nabout $725,000 per episode.[[28]] The four-year syndication contract stipulated that the studio deliver at least 110 half-hour\nepisodes by 2010 and allowed for up to eight seasons of the show. At the end of the fourth season only 88 episodes had been\nproduced, and a further 22 episodes were required, ensuring that there would be a fifth season.[[29]] There also was a complication\nwith the writing of the show because of actress Alyson Hannigans absence due to her pregnancy; in response, the writers had to\ncreate episodes that did not include one of the five main characters.[[30]] On May 19, 2009, the fifth-season renewal was\nannounced.[[31]] May 20, 2009, CBS announced that How I Met Your Mother would again be aired at 8 pm, leading into the new\ncomedy \u003cem\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Accidentally_on_Purpose_(TV_series)\" rel=\"nofollow\"\u003eAccidentally on Purpose. On January 12, 2010, the show aired its 100th episode, and CBS announced that the series\u003c/a\u003e\u003c/em\u003e\nwould return for a sixth season.[[32]] Upon learning that the series would be syndicated, Thomas said, \"We're thrilled that it will\nlive on in other forms,\" and they were proud of the show and it was great to see the strong demand.[[33]]\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Chicago\" rel=\"nofollow\"\u003eReruns of the series began airing on local American broadcast television stations and on Chicago-based cable superstation WGN\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/WGN_America\" rel=\"nofollow\"\u003eAmerica on September 14, 2010. Featured in these airings are vanity cards previously unseen in the CBS and Lifetime airings\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/Marginalized_closing_credits\" rel=\"nofollow\"\u003edue to marginalized credit sequences used by the two networks. Shown in between the closing credits and the production\u003c/a\u003e\ncompany credits, these vanity cards show portions of \"The Bro Code\", a list of rules frequently referenced by Harris' character,\nBarney Stinson, on how men should interact with each other, with an emphasis on activities involving pursuing members of the\nopposite sex. The opening theme song for the syndicated reruns is also slightly edited, running shorter and not using all the\npictures seen in the opening montage that runs on DVD and the original CBS broadcasts. The episodes are also slightly shorter,\nto allow for more commercials during a timeslot in syndication.\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Joss_Whedon\" rel=\"nofollow\"\u003eOne of the series' traditions involved giving guest roles to actors from various Joss Whedon productions, many of whom co-\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/Buffy_the_Vampire_Slayer\" rel=\"nofollow\"\u003estarred with Hannigan on Buffy the Vampire Slayer. Bays attributed this to their being \"huge fans\" and to those casts representing\u003c/a\u003e\n\"a big talent pool\".[[34]]\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eOn March 4, 2011, CBS announced that the show had been renewed for two more seasons,[[35]] with the seventh season\npremiering with back-to-back episodes on September 19, 2011.[[36]]\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/FX_(TV_channel)\" rel=\"nofollow\"\u003eOn July 27, 2011, the FX channel announced it had picked up the series for syndication. On September 5, 2011, FX began airing\u003c/a\u003e\nthe series.[[37]]\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eCast members had said the show would not run longer than eight seasons,[[38]] but a ninth season was secured in December 2012\namid tense negotiations with the studios and the actors—especially Segel, who had wanted to move on to other ventures after the\neighth season.[[39][40]] During these negotiations, Bays and Thomas originally approached the eighth season as if it were the\nshow's last, but had a \"Plan B\" in case the show were renewed.[[41]] After producers secured a ninth season, they implemented\n\u003ca href=\"https://en.wikipedia.org/wiki/Cristin_Milioti\" rel=\"nofollow\"\u003eplans to secretly cast the titular future mother, with Cristin Milioti eventually winning the role, having bested at least two other\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/Something_New_(How_I_Met_Your_Mother)\" rel=\"nofollow\"\u003econtenders.[[12]] Milioti first appeared in the last scene in the season eight finale \"Something New\" and was a regular cast member\u003c/a\u003e\nin the show's final season.[[42]] This was the first time the show had expanded its core roster.[[42][43]]\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Entertainment_Weekly\" rel=\"nofollow\"\u003eIn January 2013, How I Met Your Mother was renewed for a ninth season.[[44]] Carter Bays told Entertainment Weekly that season\u003c/a\u003e\n9 would \"feature some of the most non-linear episodes we've ever done\".[[45]]\u003c/p\u003e\n\u003chr\u003e\n\u003cdiv class=\"markdown-heading\" dir=\"auto\"\u003e\u003ch2 tabindex=\"-1\" class=\"heading-element\" dir=\"auto\"\u003eSyndication\u003c/h2\u003e\u003ca id=\"user-content-syndication\" class=\"anchor\" aria-label=\"Permalink: Syndication\" href=\"#syndication\"\u003e\u003csvg class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"\u003e\u003cpath d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"\u003e\u003c/path\u003e\u003c/svg\u003e\u003c/a\u003e\u003c/div\u003e\n\u003cp dir=\"auto\"\u003e\u003cem\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Nick_at_Nite\" rel=\"nofollow\"\u003eHow I Met Your Mother aired on Nick at Nite from September 8, 2014, to December 27, 2015, and TV Land from June 29, 2015,\u003c/a\u003e\u003c/em\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/FX_(TV_channel)\" rel=\"nofollow\"\u003eto 2018. It also aired on FX from September 5, 2011, to 2019, and Lifetime from 2009 to 2018.\u003c/a\u003e\u003c/p\u003e\n\u003cdiv class=\"markdown-heading\" dir=\"auto\"\u003e\u003ch2 tabindex=\"-1\" class=\"heading-element\" dir=\"auto\"\u003eCast and characters\u003c/h2\u003e\u003ca id=\"user-content-cast-and-characters\" class=\"anchor\" aria-label=\"Permalink: Cast and characters\" href=\"#cast-and-characters\"\u003e\u003csvg class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"\u003e\u003cpath d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"\u003e\u003c/path\u003e\u003c/svg\u003e\u003c/a\u003e\u003c/div\u003e\n\u003cp dir=\"auto\"\u003e\u003cstrong\u003eMain cast\u003c/strong\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Josh_Radnor\" rel=\"nofollow\"\u003eJosh Radnor\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Ted_Mosby\" rel=\"nofollow\"\u003eTed Mosby\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Jason_Segel\" rel=\"nofollow\"\u003eJason Segel\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/Marshall_Eriksen\" rel=\"nofollow\"\u003eMarshall Eriksen\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Cobie_Smulders\" rel=\"nofollow\"\u003eCobie Smulders\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/Robin_Scherbatsky\" rel=\"nofollow\"\u003eRobin Scherbatsky\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Cristin_Milioti\" rel=\"nofollow\"\u003eCristin Milioti\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/The_Mother_(How_I_Met_Your_Mother)\" rel=\"nofollow\"\u003eThe Mother\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Neil_Patrick_Harris\" rel=\"nofollow\"\u003eNeil Patrick Harris\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Barney_Stinson\" rel=\"nofollow\"\u003eBarney Stinson\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Alyson_Hannigan\" rel=\"nofollow\"\u003eAlyson Hannigan\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Lily_Aldrin\" rel=\"nofollow\"\u003eLily Aldrin\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Josh_Radnor\" rel=\"nofollow\"\u003eJosh Radnor as Ted Mosby, an architect, college professor and the central character of the series. He tells the\u003c/a\u003e\nstory of his adult years from his late twenties to his mid thirties, and all the obstacles he overcomes before he\n\u003ca href=\"https://en.wikipedia.org/wiki/Bob_Saget\" rel=\"nofollow\"\u003emeets \"The One\" (the Mother). This story is told by the Older Ted Mosby, and narrator of the series, Bob Saget.\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/New_York_City\" rel=\"nofollow\"\u003eTed moved to New York City with his friends Marshall and Lily after graduating from Wesleyan University. In New\u003c/a\u003e\nYork, he met Barney (at the urinal of MacLaren's) and Robin, to whom he was immediately attracted. Ted is on a\nquest for happiness and \"The One\", the woman he will marry. He has many relationships, one with Robin, that\nreveal the qualities he wants in his future wife. At the end of each relationship, with levity, he reflects on what\nwent wrong. Although hope to find \"the one\" diminishes with each failed relationship, Ted does not give up. He\nhas more elegant and higher-class interests than his friends. He goes to great lengths to profess his love to the\nwomen in his life, but they all falter eventually. Despite these qualities, Ted often acts immaturely, such as in wild\nactivities with Barney. In the show's finale, he says that, in Tracy, he had met the love of his life (the titular\nMother), but only after he is finished telling the story does he accept that he is ready to move on and admit he is\nstill in love with Robin.[[47]]\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Jason_Segel\" rel=\"nofollow\"\u003eJason Segel as Marshall Eriksen, Ted Mosby's best friend. Marshall and Ted were roommates at Wesleyan, and\u003c/a\u003e\nremained living together when they moved to New York. In season 2 Marshall marries Lily, with whom he has\n\u003ca href=\"https://en.wikipedia.org/wiki/St._Cloud,_Minnesota\" rel=\"nofollow\"\u003ebeen in love since his freshman year of college; they have a child during season 7. Marshall was born in St.\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/St._Cloud,_Minnesota\" rel=\"nofollow\"\u003eCloud, Minnesota, where his family and culture are the foundation of major conflicts he faces in the series. He\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/Sasquatch\" rel=\"nofollow\"\u003ehas an interest in the paranormal and mythical creatures, particularly Sasquatch. His dream to be an\u003c/a\u003e\nenvironmental lawyer conflicts with his immediate need for money, such as for his wedding and to raise his\nchildren. He however, eventually switches from his corporate job, to his dream, environmental lawyer job, taking\nthe pay cut willingly to help protect the environment. By the end of the sitcom, he has become a New York\nsupreme court justice.\n\u003ca href=\"https://en.wikipedia.org/wiki/Cobie_Smulders\" rel=\"nofollow\"\u003eCobie Smulders as Robin Scherbatsky, a news anchor trying to make it as a journalist who dates both Ted and\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/Canada\" rel=\"nofollow\"\u003eBarney. Robin emigrated from Canada to take a job at a news station and met Ted at MacLaren's; her Canadian\u003c/a\u003e\nbackground is a source of many jokes from her friends, for instance, ‘Robin Sparkles’ which was her stage name\nas a Canadian teenage pop-star. She is very career-centric and rejects traditional roles, such as getting married\nand having kids. Robin often drinks scotch and smokes cigars, and is an avid gun fan. She and Barney get\u003c/p\u003e\n\u003chr\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Taran_Killam\" rel=\"nofollow\"\u003eyears later. Smulders's husband Taran Killam appeared in six episodes as Gary Blauman.\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/Neil_Patrick_Harris\" rel=\"nofollow\"\u003eNeil Patrick Harris as Barney Stinson, a serial playboy, using his relative wealth and an array of outrageous\u003c/a\u003e\nstrategies to seduce women with no intention of engaging in a relationship. His catchphrases include 'Suit Up'\nand 'Legen-wait-for-it-Dary'. He is Ted's other best friend. Abandoned by his father at a young age, Barney has\n\u003ca href=\"https://en.wikipedia.org/wiki/Abandonment_(emotional)\" rel=\"nofollow\"\u003eabandonment issues and clings to his friends. He tells extravagant lies about events in his life as a defense\u003c/a\u003e\nmechanism for his substandard childhood. He marries Robin in the penultimate episode of the series but they\ndivorce after three years in the two-part series finale. In 2020, a failed one-night stand gives him a daughter, Ellie.\n\u003ca href=\"https://en.wikipedia.org/wiki/David_Burtka\" rel=\"nofollow\"\u003eHarris' husband David Burtka appeared in seven episodes as Scooter.[[47]]\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Alyson_Hannigan\" rel=\"nofollow\"\u003eAlyson Hannigan as Lily Aldrin, a kindergarten teacher, aspiring artist, and Marshall's wife. She is terrible at\u003c/a\u003e\nkeeping secrets and can be manipulative at times. She marries Marshall in season 2 and gives birth to Marvin in\nseason 7. Though appearing sweet and cute, Lily can be quite unexpectedly fierce. Her best girl friend is Robin,\n\u003ca href=\"https://en.wikipedia.org/wiki/Alexis_Denisof\" rel=\"nofollow\"\u003ewhom she met through Ted as he dated Robin. Hannigan's husband Alexis Denisof appeared in ten episodes as\u003c/a\u003e\nSandy Rivers.\n\u003ca href=\"https://en.wikipedia.org/wiki/Cristin_Milioti\" rel=\"nofollow\"\u003eCristin Milioti as The Mother, the titular character who is Ted's future wife. She makes her first official appearance\u003c/a\u003e\nin Season 8, and gradually meets all the characters throughout Season 9 leading up to her meeting Ted.\u003c/p\u003e\n\u003cdiv class=\"markdown-heading\" dir=\"auto\"\u003e\u003ch2 tabindex=\"-1\" class=\"heading-element\" dir=\"auto\"\u003eSeason synopses\u003c/h2\u003e\u003ca id=\"user-content-season-synopses\" class=\"anchor\" aria-label=\"Permalink: Season synopses\" href=\"#season-synopses\"\u003e\u003csvg class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"\u003e\u003cpath d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"\u003e\u003c/path\u003e\u003c/svg\u003e\u003c/a\u003e\u003c/div\u003e\n\u003cp dir=\"auto\"\u003e\u003cstrong\u003eOriginally aired\u003c/strong\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003cstrong\u003eSeason\u003c/strong\u003e \u003cstrong\u003eEpisodes\u003c/strong\u003e \u003cstrong\u003eRank\u003c/strong\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003cstrong\u003eFirst aired\u003c/strong\u003e \u003cstrong\u003eLast aired\u003c/strong\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/List_of_How_I_Met_Your_Mother_episodes#Season_1_(2005%E2%80%9306)\" rel=\"nofollow\"\u003e1\u003c/a\u003e 22 September 19, 2005 May 15, 2006 85\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/List_of_How_I_Met_Your_Mother_episodes#Season_2_(2006%E2%80%9307)\" rel=\"nofollow\"\u003e2\u003c/a\u003e 22 September 18, 2006 May 14, 2007 61\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/List_of_How_I_Met_Your_Mother_episodes#Season_3_(2007%E2%80%9308)\" rel=\"nofollow\"\u003e3\u003c/a\u003e 20 September 24, 2007 May 19, 2008 70\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/List_of_How_I_Met_Your_Mother_episodes#Season_4_(2008%E2%80%9309)\" rel=\"nofollow\"\u003e4\u003c/a\u003e 24 September 22, 2008 May 18, 2009 49\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/List_of_How_I_Met_Your_Mother_episodes#Season_5_(2009%E2%80%9310)\" rel=\"nofollow\"\u003e5\u003c/a\u003e 24 September 21, 2009 May 24, 2010 42\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/List_of_How_I_Met_Your_Mother_episodes#Season_6_(2010%E2%80%9311)\" rel=\"nofollow\"\u003e6\u003c/a\u003e 24 September 20, 2010 May 16, 2011 48\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/List_of_How_I_Met_Your_Mother_episodes#Season_7_(2011%E2%80%9312)\" rel=\"nofollow\"\u003e7\u003c/a\u003e 24 September 19, 2011 May 14, 2012 45\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/List_of_How_I_Met_Your_Mother_episodes#Season_8_(2012%E2%80%9313)\" rel=\"nofollow\"\u003e8\u003c/a\u003e 24 September 24, 2012 May 13, 2013 42\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/List_of_How_I_Met_Your_Mother_episodes#Season_9_(2013%E2%80%9314)\" rel=\"nofollow\"\u003e9\u003c/a\u003e 24 September 23, 2013 March 31, 2014 28\u003c/p\u003e\n\u003cdiv class=\"markdown-heading\" dir=\"auto\"\u003e\u003ch3 tabindex=\"-1\" class=\"heading-element\" dir=\"auto\"\u003eSeason 1\u003c/h3\u003e\u003ca id=\"user-content-season-1\" class=\"anchor\" aria-label=\"Permalink: Season 1\" href=\"#season-1\"\u003e\u003csvg class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"\u003e\u003cpath d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"\u003e\u003c/path\u003e\u003c/svg\u003e\u003c/a\u003e\u003c/div\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Ted_Mosby\" rel=\"nofollow\"\u003eIn 2030, Ted Mosby (voiced by Bob Saget) sits his children down to tell them the story of how he met their mother.\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Josh_Radnor\" rel=\"nofollow\"\u003eThe series begins in September 2005 with Ted (Josh Radnor) as a single, 27-year-old architect living with his two best friends\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/Jason_Segel\" rel=\"nofollow\"\u003efrom his college years: Marshall Eriksen (Jason Segel), a law student, and Lily Aldrin (Alyson Hannigan), a kindergarten teacher\u003c/a\u003e\nand an aspiring artist. Lily and Marshall have been dating for almost nine years when Marshall finally proposes. Their\nengagement causes Ted to think about marriage and finding his soul mate, much to the disgust of his self-appointed best friend\n\u003ca href=\"https://en.wikipedia.org/wiki/Barney_Stinson\" rel=\"nofollow\"\u003eBarney Stinson (Neil Patrick Harris), whom he met in the restroom at a bar four years earlier. Barney is a serial womanizer who\u003c/a\u003e\nconcocts elaborate con games, usually involving costumes and fake identities, designed to bed women, only to lose interest in\nthem immediately afterward.\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Robin_Scherbatsky\" rel=\"nofollow\"\u003eTed begins his search for his perfect soul mate and meets an ambitious young reporter from Canada, Robin Scherbatsky (Cobie\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/Cobie_Smulders\" rel=\"nofollow\"\u003eSmulders), with whom he quickly falls in love. Robin, however, does not want to rush into a relationship and the two decide to\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/Fictive_kinship\" rel=\"nofollow\"\u003ebe friends. Future Ted reveals that Robin is not the mother after referring to her as \"Aunt Robin\".\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Ashley_Williams_(actress)\" rel=\"nofollow\"\u003eTed begins dating a baker, Victoria (Ashley Williams), whom he meets at Stuart and Claudia's wedding, causing Robin to become\u003c/a\u003e\njealous, and realize she does have feelings for Ted. Victoria is offered a fellowship in pastry-making, moves to Germany and she\n\u003ca href=\"https://en.wikipedia.org/wiki/Long-distance_relationship\" rel=\"nofollow\"\u003eand Ted try a long-distance relationship. Once Ted learns Robin has feelings for him, he tells her he broke up with Victoria, even\u003c/a\u003e\nthough he has not. They almost have sex when Victoria calls and Robin answers, mistaking Ted's phone for her own. Ted and\nVictoria then break up and an angry Robin distances herself from Ted, but they eventually reconcile and decide to date.\u003c/p\u003e\n\u003cmarkdown-accessiblity-table\u003e\u003ctable\u003e\n\u003cthead\u003e\n\u003ctr\u003e\n\u003cth\u003eSeason\u003c/th\u003e\n\u003cth\u003eEpisodes\u003c/th\u003e\n\u003cth\u003eOriginally aired\u003c/th\u003e\n\u003cth\u003eCol4\u003c/th\u003e\n\u003cth\u003eRank\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd\u003e\u003c/td\u003e\n\u003ctd\u003e\u003c/td\u003e\n\u003ctd\u003eFirst aired\u003c/td\u003e\n\u003ctd\u003eLast aired\u003c/td\u003e\n\u003ctd\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e1\u003c/td\u003e\n\u003ctd\u003e22\u003c/td\u003e\n\u003ctd\u003eSeptember 19, 2005\u003c/td\u003e\n\u003ctd\u003eMay 15, 2006\u003c/td\u003e\n\u003ctd\u003e85\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e2\u003c/td\u003e\n\u003ctd\u003e22\u003c/td\u003e\n\u003ctd\u003eSeptember 18, 2006\u003c/td\u003e\n\u003ctd\u003eMay 14, 2007\u003c/td\u003e\n\u003ctd\u003e61\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e3\u003c/td\u003e\n\u003ctd\u003e20\u003c/td\u003e\n\u003ctd\u003eSeptember 24, 2007\u003c/td\u003e\n\u003ctd\u003eMay 19, 2008\u003c/td\u003e\n\u003ctd\u003e70\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e4\u003c/td\u003e\n\u003ctd\u003e24\u003c/td\u003e\n\u003ctd\u003eSeptember 22, 2008\u003c/td\u003e\n\u003ctd\u003eMay 18, 2009\u003c/td\u003e\n\u003ctd\u003e49\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e5\u003c/td\u003e\n\u003ctd\u003e24\u003c/td\u003e\n\u003ctd\u003eSeptember 21, 2009\u003c/td\u003e\n\u003ctd\u003eMay 24, 2010\u003c/td\u003e\n\u003ctd\u003e42\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e6\u003c/td\u003e\n\u003ctd\u003e24\u003c/td\u003e\n\u003ctd\u003eSeptember 20, 2010\u003c/td\u003e\n\u003ctd\u003eMay 16, 2011\u003c/td\u003e\n\u003ctd\u003e48\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e7\u003c/td\u003e\n\u003ctd\u003e24\u003c/td\u003e\n\u003ctd\u003eSeptember 19, 2011\u003c/td\u003e\n\u003ctd\u003eMay 14, 2012\u003c/td\u003e\n\u003ctd\u003e45\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e8\u003c/td\u003e\n\u003ctd\u003e24\u003c/td\u003e\n\u003ctd\u003eSeptember 24, 2012\u003c/td\u003e\n\u003ctd\u003eMay 13, 2013\u003c/td\u003e\n\u003ctd\u003e42\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e9\u003c/td\u003e\n\u003ctd\u003e24\u003c/td\u003e\n\u003ctd\u003eSeptember 23, 2013\u003c/td\u003e\n\u003ctd\u003eMarch 31, 2014\u003c/td\u003e\n\u003ctd\u003e28\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\u003c/markdown-accessiblity-table\u003e\n\u003chr\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/San_Francisco\" rel=\"nofollow\"\u003epursue an art fellowship in San Francisco, breaking up with Marshall in the process. The season ends with Ted returning to the\u003c/a\u003e\napartment, the morning after spending the night with Robin for the first time, to find Marshall sitting in the rain with Lily's\nengagement ring, devastated by their sudden break-up after nine years. Marshall must then call off their wedding.\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Olive_theory\" rel=\"nofollow\"\u003eThe phrase olive theory is most known for its appearance in the \"pilot\" episode.[[48]] In the scene, Ted tells the story of his first\u003c/a\u003e\ndate with Robin to Lily and Marshall.[[48]] Ted states that since he does not like olives but his date does, they are compatible.[[47]]\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eLily and Marshall add on that the olive theory works in their relationship, as Marshall always gives Lily his olives.[[47]] However,\nit is later said that Ted only pretended not to like them to make Robin happy.[[47]]\u003c/p\u003e\n\u003cdiv class=\"markdown-heading\" dir=\"auto\"\u003e\u003ch3 tabindex=\"-1\" class=\"heading-element\" dir=\"auto\"\u003eSeason 2\u003c/h3\u003e\u003ca id=\"user-content-season-2\" class=\"anchor\" aria-label=\"Permalink: Season 2\" href=\"#season-2\"\u003e\u003csvg class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"\u003e\u003cpath d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"\u003e\u003c/path\u003e\u003c/svg\u003e\u003c/a\u003e\u003c/div\u003e\n\u003cp dir=\"auto\"\u003eTed and Robin are now a couple; meanwhile, a heartbroken Marshall tries to continue his life without Lily. After enduring\nnumerous emotional breakdowns, Marshall's friends step in, and Barney, using sly catchphrases and pick-up lines, tries to get\nMarshall back in the dating game. Marshall becomes Barney's new ‘wingman’ as Ted is now in a relationship with Robin. Barney\nmentors Marshall in the art of flirting with women. Marshall fails at impressing women, but he finally obtains a barista's number.\nLater, Lily, after finally realizing she is not meant to be an artist, returns to New York. They remain separated as Marshall begins\nto date another girl, the barista whose number he earned, described by the gang as having 'crazy eyes'. The date with the girl does\nnot end well and eventually leads to Lily and Marshall becoming reunited, and their engagement eventually resumes. When\nRobin refuses to go to the mall or explain why, Marshall suspects she is married, and Barney suspects she has performed in adult\nfilms. They make a slap bet on it, appointing Lily as \"Slap Bet Commissioner.\" Lily oversees the search for the truth, as they\ndiscover that Robin was a teenage pop star named \"Robin Sparkles\", and Marshall eventually earns the right to slap Barney five\n\u003ca href=\"https://en.wikipedia.org/wiki/Homosexual\" rel=\"nofollow\"\u003etimes whenever he wishes. He uses one slap immediately and another later in the season. It is revealed that Barney has a gay\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/African_American\" rel=\"nofollow\"\u003eAfrican American half-brother named James (Wayne Brady) and, unaware that his mother lied to him, believes that Bob Barker\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/The_Price_Is_Right\" rel=\"nofollow\"\u003eis his father. As a result of this he takes a trip to California to be a contestant on The Price Is Right to meet his \"father\". While on\u003c/a\u003e\nthe show, Barney wins all the prizes and gives them to Lily and Marshall as a 'happy early wedding' present.\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eIn the season finale, Ted reveals to Barney that he and Robin have been broken up for some time due to their conflicting views on\nmarriage and children. They did not tell anyone, in order to avoid taking attention away from Lily and Marshall's wedding. The\nseason ends with Barney's excitement by the prospect of being an unfettered single man with Ted again. Barney's final words are\n\"this is going to be legen- wait for it...\".\u003c/p\u003e\n\u003cdiv class=\"markdown-heading\" dir=\"auto\"\u003e\u003ch3 tabindex=\"-1\" class=\"heading-element\" dir=\"auto\"\u003eSeason 3\u003c/h3\u003e\u003ca id=\"user-content-season-3\" class=\"anchor\" aria-label=\"Permalink: Season 3\" href=\"#season-3\"\u003e\u003csvg class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"\u003e\u003cpath d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"\u003e\u003c/path\u003e\u003c/svg\u003e\u003c/a\u003e\u003c/div\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Argentina\" rel=\"nofollow\"\u003eBarney begins the season with the word, \"-dary!\" Robin returns from a trip to Argentina with her new boyfriend, Gael (Enrique\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/Enrique_Iglesias\" rel=\"nofollow\"\u003eIglesias), and Ted must adjust to life as just her friend, while watching Robin and Gael fawning over each other. Marshall and\u003c/a\u003e\nLily decide to move out on their own, falling in love with a place they cannot afford. Marshall is fighting his temptation to take a\ncorporate job with high pay and focusing instead to follow his dream of becoming an environmental lawyer to protect the world\nfrom pollution. Robin learns of Lily's bad credit rating due to her compulsive shopping for designer brands, and forces Lily to tell\nMarshall. Despite this, they are able to finally secure their dream apartment, in Dowisetrepla, only to discover it is in a bad\nlocation (DOwnWInd of the SEwage TREatment PLAnt) and more poorly constructed than they thought (the floor is tilted).\n\u003ca href=\"https://en.wikipedia.org/wiki/Thanksgiving\" rel=\"nofollow\"\u003eBarney is slapped for the third time on Thanksgiving, which Marshall dubs \"Slapsgiving.\"\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eTed tells his children he met their mother through a story concerning her yellow umbrella. He finds the umbrella at a club and\n\u003ca href=\"https://en.wikipedia.org/wiki/St._Patrick%27s_Day\" rel=\"nofollow\"\u003etakes it home after attending a St. Patrick's Day party where his future wife was, although they did not meet. Ted attempts to woo\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/Sarah_Chalke\" rel=\"nofollow\"\u003eStella (Sarah Chalke), a dermatologist he sees to remove an embarrassing butterfly tattoo. This culminates in a \"two-minute\u003c/a\u003e\ndate,\" which incorporates small talk, dinner, a movie, coffee, two cab rides, and a goodnight kiss. Robin sleeps with Barney after\nhe comforts her following a break-up with a past Canadian love; Ted is infuriated, and decides to stop being friends with Barney.\n\u003ca href=\"https://en.wiktionary.org/wiki/hook_up\" rel=\"nofollow\"\u003eMeanwhile, an unknown woman begins to sabotage Barney's attempts to hook up. His saboteur is revealed to be Abby (Britney\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/Britney_Spears\" rel=\"nofollow\"\u003eSpears), Stella's receptionist, with a vendetta against him for not calling her after they had sex.\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eIn the season finale, Ted gets into a car accident and ends up in hospital after breaking up with Stella. Subsequently, Barney is hit\nby a bus while he is on his way to visit Ted and receives treatment in the same hospital. Ted realizes Barney cares about him and\nthey renew their friendship. Barney's true feelings for Robin are revealed while Ted proposes to Stella in an arcade with a toy\nkangaroo.\u003c/p\u003e\n\u003cdiv class=\"markdown-heading\" dir=\"auto\"\u003e\u003ch3 tabindex=\"-1\" class=\"heading-element\" dir=\"auto\"\u003eSeason 4\u003c/h3\u003e\u003ca id=\"user-content-season-4\" class=\"anchor\" aria-label=\"Permalink: Season 4\" href=\"#season-4\"\u003e\u003csvg class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"\u003e\u003cpath d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"\u003e\u003c/path\u003e\u003c/svg\u003e\u003c/a\u003e\u003c/div\u003e\n\u003chr\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Jason_Jones_(actor)\" rel=\"nofollow\"\u003ewedding, after realizing how much she misses her friends. Stella leaves Ted at the altar to get back together with Tony (Jason\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/Jason_Jones_(actor)\" rel=\"nofollow\"\u003eJones), the father of her daughter. Barney struggles with his feelings for Robin as his company shifts him to the management\u003c/a\u003e\nteam of a new acquisition, Goliath National Bank (GNB), where Marshall has accepted a position.\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eMarshall and Lily move to their new apartment and debate over whether or not they are ready to have kids. Robin is threatened to\nbe deported for not having a job in her field, which opens an opportunity for Barney to spend time with Robin. Robin gets a job\nas an anchor for a 4 AM news show after Barney submits her video resume, and becomes roommates with Ted. Ted and Robin\ndecide to sleep together constantly so they will not fight over each other's bad co-living habits. Barney attempts to make them\nstop fighting to prevent this, revealing to Ted his love for Robin.\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eTed finds out Lily has sabotaged all of his relationships with anyone she does not approve of and indirectly may have inspired his\nbreakup with Robin. Robin and Ted end up talking about it, causing their friendship to begin moving toward a positive note.\nAfter Barney finally sleeps with his 200th woman (and rubs it in the face of the childhood bully who taunted him into pursuing\nit), he begins to question the purpose of the remainder of his life, leaving him more certain of his feelings for Robin. Barney\nsecures Ted a job to design the new Goliath National Bank headquarters. When the company later suspends the project, Marshall\nand Barney try to hide this fact from Ted. Ted starts his own architectural design company, Mosbius Designs, after getting laid\noff; however, he is too afraid of failing and refuses to call clients.\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eTed, while carrying the yellow umbrella, bumps into Stella and Tony. Tony later decides to visit him, sympathizing with Ted over\n\u003ca href=\"https://en.wikipedia.org/wiki/Columbia_University\" rel=\"nofollow\"\u003ehis loss of Stella. Tony offers Ted a job as a professor of architecture at Columbia University, which Ted initially turns down.\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eIn the season finale Robin finds out that Barney loves her, and initially refuses to commit to anything but a sex-only relationship;\nthey seemingly end up together anyway. Ted decides that being an architect is leading nowhere, and finally decides instead to\nbecome a college professor. The finale ends with Ted preparing to teach his first class and Future Ted revealing to his children\nthat one of the women in the class is their mother.\u003c/p\u003e\n\u003cdiv class=\"markdown-heading\" dir=\"auto\"\u003e\u003ch3 tabindex=\"-1\" class=\"heading-element\" dir=\"auto\"\u003eSeason 5\u003c/h3\u003e\u003ca id=\"user-content-season-5\" class=\"anchor\" aria-label=\"Permalink: Season 5\" href=\"#season-5\"\u003e\u003csvg class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"\u003e\u003cpath d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"\u003e\u003c/path\u003e\u003c/svg\u003e\u003c/a\u003e\u003c/div\u003e\n\u003cp dir=\"auto\"\u003eTed begins his job as a professor of architecture, standing in the middle of a classroom – although the mother was present, it\n\u003ca href=\"https://en.wikipedia.org/wiki/Economics\" rel=\"nofollow\"\u003eturns out to be an economics class as he's in the wrong lecture hall. Barney and Robin have had a sexual relationship throughout\u003c/a\u003e\nthe summer and Lily locks them in a room, forcing them to come to terms with their relationship. After a rough patch they decide\nto break up. Robin describes it instead as \"two friends getting back together.\" Barney immediately goes back to his old ways,\n\u003ca href=\"https://en.wikipedia.org/wiki/The_Playbook_(How_I_Met_Your_Mother)\" rel=\"nofollow\"\u003eusing the playbook to score with women. Throughout the season Barney and Robin show feelings of regret over their break-up.\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Rachel_Bilson\" rel=\"nofollow\"\u003eTed dates a graduate student named Cindy (Rachel Bilson) and it is revealed her roommate is his future wife. Robin meets Don\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/Benjamin_Koldyke\" rel=\"nofollow\"\u003eFrank (Benjamin Koldyke), her new co-anchor on her 4 AM TV show. Though she initially dislikes him, the two start dating and\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/Chicago\" rel=\"nofollow\"\u003eeventually she moves in with him. At the end of the season they break up when Don takes a job in Chicago — a job which Robin\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/Chris_Elliott\" rel=\"nofollow\"\u003ehad previously turned down to stay in New York with Don. Robin moves back into Ted's apartment. Lily's father, Mickey (Chris\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/Chris_Elliott\" rel=\"nofollow\"\u003eElliott), who was absent during her childhood, makes an appearance at Thanksgiving. Mickey and Lily are able to mend their\u003c/a\u003e\nrelationship at the end of the meal, where Marshall uses his fourth slap on Barney. Ted discovered that Tony, who stole Stella\naway from Ted at the altar, wrote a movie on Ted and Stella's relationship. The movie, \"The Wedding Bride,\" portrays Tony as\nthe hero and Ted as the villain. The movie becomes popular and Ted unexpectedly sees it while on a date with another girl. He is\n\u003ca href=\"https://en.wikipedia.org/wiki/Home_Wreckers\" rel=\"nofollow\"\u003einfuriated by how he is portrayed in the movie, and views the actual story as the complete opposite. Ted buys a house, which\u003c/a\u003e\nneeds to be fixed up badly, but is later revealed to be the future home for him and his children.\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Doppelg%C3%A4nger\" rel=\"nofollow\"\u003eLily and Marshall are still unsure about having children. After watching four doppelgangers of their group (Lesbian Robin,\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/Moustache\" rel=\"nofollow\"\u003eMoustache Marshall, Stripper Lily and Mexican Wrestler Ted) they decide to leave the big decision to the universe's \"infinite\u003c/a\u003e\nwisdom\" and start trying when they have seen Barney's doppelganger.\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eIn the season finale, Barney disguises himself to have sex with a girl from every country in the world, and Lily and Marshall\nmistake him for the final doppelganger. When Marshall finds out, he decides not to tell Lily, fearing she will want to wait even\nlonger to have children. Lily eventually finds out and decides to wait. Lily thinks she sees Barney's doppelganger as a hot dog\nvendor, which causes the group to realize she is seeing what she wants to see, and play along. Eventually Barney agrees having\nbabies is not a stupid idea and Lily and Marshall should go forth. The season ends with Lily asking Marshall to \"put a baby in my\nbelly\".\u003c/p\u003e\n\u003cdiv class=\"markdown-heading\" dir=\"auto\"\u003e\u003ch3 tabindex=\"-1\" class=\"heading-element\" dir=\"auto\"\u003eSeason 6\u003c/h3\u003e\u003ca id=\"user-content-season-6\" class=\"anchor\" aria-label=\"Permalink: Season 6\" href=\"#season-6\"\u003e\u003csvg class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"\u003e\u003cpath d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"\u003e\u003c/path\u003e\u003c/svg\u003e\u003c/a\u003e\u003c/div\u003e\n\u003chr\u003e\n\u003cp dir=\"auto\"\u003egirlfriend whom she later marries. After prodding by Barney, Ted is eventually hired by GNB once more as the architect of the\nbank's new headquarters, which was originally scrapped in Season 4. However, he encounters opposition when he meets Zoey\n\u003ca href=\"https://en.wikipedia.org/wiki/Jennifer_Morrison\" rel=\"nofollow\"\u003ePierson (Jennifer Morrison), a woman who is protesting against GNB for selecting a decrepit hotel, the Arcadian, to be torn down\u003c/a\u003e\nfor the headquarters. Over the season, Ted's encounters with Zoey eventually blossom into a relationship after she divorces her\n\u003ca href=\"https://en.wikipedia.org/wiki/Kyle_MacLachlan\" rel=\"nofollow\"\u003erich husband, the Captain (Kyle MacLachlan). However, when their relationship is challenging and turbulent, they break up,\u003c/a\u003e\nleading to Ted supporting the Arcadian's demolition.\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eHaving agreed to conceive a baby at the end of the previous season, Lily and Marshall keep having sex, hoping she will get\npregnant. Around Christmas, they have a false alarm and later seek fertility testing. The fertility specialist, Dr. Stangel, turns out\nto be Barney's doppelganger, fulfilling their promise with the universe in regard to their decision to have a child. However,\ntragedy strikes when Marshall's father passes away, leaving him devastated and the gang comforting him. Marshall tries to get\nover his father's death and live again. Despite a pledge to Lily to work harder for their future, Marshall resigns from GNB and\nfollows his dream of being an environmental lawyer. Zoey also hires him as her lawyer in what became a futile battle to save the\nArcadian.\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eBarney finally admits to the gang that Bob Barker is not his real father, especially when his mother decides to sell the house he\ngrew up in and his brother, James, meets his own father. Loretta offers the identity of Barney's father on a sheet of paper, but\nBarney tears this up after realizing her efforts as a single mother. At the funeral of Marshall's father, Barney tells Loretta that he\n\u003ca href=\"https://en.wikipedia.org/wiki/John_Lithgow\" rel=\"nofollow\"\u003ewants to see his father at last. The man, Jerry Whittaker (John Lithgow), is eventually revealed to be someone whom Barney\u003c/a\u003e\nthought was his uncle. Barney, who remembers Jerry as a fun-loving man, is disappointed after learning how Jerry has grown out\nof his free-wheeling ways. Although he tries to bring back Jerry's old behaviors, Barney admits that he wants to settle down\n\u003ca href=\"https://en.wikipedia.org/wiki/Nazanin_Boniadi\" rel=\"nofollow\"\u003esomeday. He is also introduced to Nora (Nazanin Boniadi), a co-worker of Robin, for whom he develops feelings. After an initial\u003c/a\u003e\nfalling out, the two reconcile at the end of the season after Barney asks her for coffee.\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eRobin continues to work at her talk show, Come On, Get Up, New York!, but the presence of a new hyperactive co-host forces her\nto leave. She is accepted as a researcher in another network, World Wide News. The gang also discovers more of her past as the\n\u003ca href=\"https://en.wikipedia.org/wiki/Michael_Trucco\" rel=\"nofollow\"\u003eCanadian pop star Robin Sparkles. Robin also encounters a man (Michael Trucco) she has had a secret crush on since first seeing\u003c/a\u003e\nhim when she and Ted were dating, and Future Ted hints that they will see more of him later.\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eIn the season finale, Ted makes the decision that he wants to get back with Zoey. Robin and Barney try to stop them from getting\nback together. Marshall's interview goes wrong as food poisoning hits him during the meeting; Lily's similar sickness was\n\u003ca href=\"https://en.wikipedia.org/wiki/Morning_sickness\" rel=\"nofollow\"\u003ethought to be food poisoning as well, but is revealed to be morning sickness, as she has become pregnant. Barney and Robin get\u003c/a\u003e\nclosure by helping Ted not get back together with Zoey. Short scenes during the season premiere and finale feature a wedding set\nsometime in the future, where Ted will meet his future wife. In the final scene of the season, the groom is revealed to be Barney.\u003c/p\u003e\n\u003cdiv class=\"markdown-heading\" dir=\"auto\"\u003e\u003ch3 tabindex=\"-1\" class=\"heading-element\" dir=\"auto\"\u003eSeason 7\u003c/h3\u003e\u003ca id=\"user-content-season-7\" class=\"anchor\" aria-label=\"Permalink: Season 7\" href=\"#season-7\"\u003e\u003csvg class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"\u003e\u003cpath d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"\u003e\u003c/path\u003e\u003c/svg\u003e\u003c/a\u003e\u003c/div\u003e\n\u003cp dir=\"auto\"\u003eSeason seven opens with another flash forward, in which Ted is helping Barney get ready for his wedding to a still-unknown\nbride. In the present, Marshall gets a job in environmental law while Lily's pregnancy progresses. Barney proves to Nora that he\ncan be a good boyfriend to her, while Robin is revealed to still have feelings for Barney. After a court case for assault, Robin\n\u003ca href=\"https://en.wikipedia.org/wiki/Kal_Penn\" rel=\"nofollow\"\u003ereceives mandated therapy. Robin meets a therapist, Kevin (Kal Penn), and they start to date. Meanwhile, after a period of\u003c/a\u003e\nunemployment since leaving GNB, Marshall finally manages to land his dream job at a top environmental law firm. After losing\na bet, Barney is forced to wear a tie with a duck pattern on it (nicknamed the 'Ducky Tie') which he hates. Marshall allows him to\ntake it off when meeting Nora's parents on the condition that Barney has three slaps added to the one still remaining from the\nSlap Bet. Marshall uses two slaps immediately, leaving two left.\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Hurricane_Irene_(2011)\" rel=\"nofollow\"\u003eWhile reminiscing about Hurricane Irene, Lily and Marshall reveal that they conceived their baby in Barney's apartment, and\u003c/a\u003e\nBarney and Robin end up sleeping together. Barney and Robin decide to break up with their partners, but Robin reneges on the\ndeal, returning to Kevin and leaving Barney alone and heartbroken. Robin has a pregnancy scare at Thanksgiving and tells\nBarney the child is his, since she and Kevin had not yet slept together. However, Robin's doctor informs her that she cannot have\nchildren at all. Kevin, who wants children, proposes to Robin, who decides that they must break up. Ted comforts Robin and\nreveals he still loves her, but the gesture is unrequited. Eventually, she moves out to give him some space.\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eMarshall and Lily decide they want to move to Long Island, after Lily's paternal grandparents offer them their house there.\nEventually, they move back to the old apartment in New York City after realizing suburban life is not for them. Ted gives them\nhis apartment because he believes he cannot move on from Robin while living there, while he and Robin become estranged and\u003c/p\u003e\n\u003chr\u003e\n\u003cp dir=\"auto\"\u003epreventing a helicopter she is flying in from crashing.\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Becki_Newton\" rel=\"nofollow\"\u003eBarney starts dating a stripper named Quinn (Becki Newton), to the group's initial apprehension. The gang begins to meddle in\u003c/a\u003e\ntheir relationship, but Barney and Quinn outsmart their attempts and win their approval. Quinn moves in with Barney, while Ted\nrents Quinn's old apartment. Lily goes into labor and frantically calls Barney and Marshall, who are out at a casino in Atlantic\nCity and heavily intoxicated. Barney helps Marshall arrive in time for Lily's delivery and chooses the middle name for the baby,\nMarvin Waitforit Eriksen. Ted and Robin's friendship also recovers as a result of Marvin's birth. As the season concludes,\nMarshall and Lily begin a new family with their baby, Marvin. Barney proposes to Quinn performing an extravagant magic trick\nin airport security. Ted contacts his old girlfriend Victoria; unhappy with her own impending wedding, she leaves her fiancé for\nTed and the pair drive off into the sunset. A final flash forward shows the day of Barney's wedding, where Robin is revealed as\nthe bride.\u003c/p\u003e\n\u003cdiv class=\"markdown-heading\" dir=\"auto\"\u003e\u003ch3 tabindex=\"-1\" class=\"heading-element\" dir=\"auto\"\u003eSeason 8\u003c/h3\u003e\u003ca id=\"user-content-season-8\" class=\"anchor\" aria-label=\"Permalink: Season 8\" href=\"#season-8\"\u003e\u003csvg class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"\u003e\u003cpath d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"\u003e\u003c/path\u003e\u003c/svg\u003e\u003c/a\u003e\u003c/div\u003e\n\u003cp dir=\"auto\"\u003eTed visits Robin on the day of her wedding to Barney, causing him to remember how he and Victoria ran away from her wedding\nto be together. The summer is spent with Ted, Barney, and Robin enjoying their current relationships; however, all subsequently\nbreak up with their partners. Victoria splits up with Ted over his friendship with Robin, Barney and Quinn break up due to their\ninability to trust each other, and Robin breaks up with Nick realizing his immaturity. Robin and Barney kiss but decide not to get\n\u003ca href=\"https://en.wikipedia.org/wiki/Ellen_D._Williams\" rel=\"nofollow\"\u003etogether, despite Barney's wishes. Barney then begins dating Robin's hated co-worker Patrice (Ellen D. Williams), a relationship\u003c/a\u003e\nlater exposed as a ruse to make Robin realize her true feelings for him. In a culminating scene, Barney proposes to Robin, who\nsays yes.\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eMarshall and Lily attempt to get used to being parents, which causes a brief estrangement from the gang as Baby Marvin takes\nup the majority of their time. Lily's father Mickey becomes Marvin's nanny, freeing the two up to spend more time with their\nfriends. The Captain, ex-husband of Ted's old girlfriend Zoey, offers Lily a job as an art consultant after she identifies a painting\nthat made a huge profit for him. Lily accepts, happy to finally achieve her dream of having a job in the art industry, while\nMarshall decides to apply to become a judge. The Captain offers Lily a year's work in Rome, which she accepts with Marshall's\nblessing. However, just before Barney and Robin's wedding, Marshall is informed that his application to become a judge has\nbeen granted, a development that would require them to stay in the US.\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Abby_Elliott\" rel=\"nofollow\"\u003eTed briefly dates Jeanette (Abby Elliott), a girl who stalked him after he appeared on the cover of\u003c/a\u003e \u003cem\u003e\u003ca href=\"https://en.wikipedia.org/wiki/New_York_(magazine)\" rel=\"nofollow\"\u003eNew York Magazine for\u003c/a\u003e\u003c/em\u003e\ndesigning GNB's headquarters. He quickly realizes he's made a mistake and breaks up with her. Ted's feelings of loneliness grow,\nespecially as he is now the only single member of the group, and he decides he is truly ready to settle down. He argues with Lily\nover hiring a DJ or a band for Barney and Robin's wedding, but is forced to provide a band at short notice when Lily concedes\nthe argument. During a chance meeting on the subway, Cindy offers the services of her roommate's wedding band. This\nroommate is Ted's future wife.\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eAs the week of the wedding approaches, Robin has doubts about marrying Barney and shares an emotional moment with Ted.\nFeeling guilty, Ted realizes he cannot be around Barney and Robin after they are married and decides to move to Chicago the day\nafter the wedding. The season concludes with everyone traveling to Barney and Robin's wedding, including the mother of Ted's\n\u003ca href=\"https://en.wikipedia.org/wiki/Cristin_Milioti\" rel=\"nofollow\"\u003echildren (revealed on screen for the first time and portrayed by Cristin Milioti), who is seen buying a train ticket to the venue and\u003c/a\u003e\nholding her yellow umbrella.\u003c/p\u003e\n\u003cdiv class=\"markdown-heading\" dir=\"auto\"\u003e\u003ch3 tabindex=\"-1\" class=\"heading-element\" dir=\"auto\"\u003eSeason 9\u003c/h3\u003e\u003ca id=\"user-content-season-9\" class=\"anchor\" aria-label=\"Permalink: Season 9\" href=\"#season-9\"\u003e\u003csvg class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"\u003e\u003cpath d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"\u003e\u003c/path\u003e\u003c/svg\u003e\u003c/a\u003e\u003c/div\u003e\n\u003cp dir=\"auto\"\u003eWith the exception of the last episode, the entirety of season nine takes place in the 56 hours leading up to Barney and Robin's\nwedding.\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eMarshall, who is stuck in Minnesota, desperately tries to find a way to get to the wedding in time. Meanwhile, in Farhampton,\nthe time is slowly counting down to the wedding, with a new problem arising in almost every episode. It is revealed that Lily is\npregnant and that she and Marshall will have a daughter. It is also revealed that Ted's children are named Penny and Luke. In the\n200th episode, the Mother's eight years before meeting Ted are revealed, while later episodes give viewers a glimpse of Ted and\nthe Mother together in flash forward scenes. Also, Marshall uses his final two slaps from the slap bet: the first being used as an\napology present for missing the rehearsal dinner, and the second when Barney begins to panic just before the beginning of the\nwedding ceremony.\u003c/p\u003e\n\u003chr\u003e\n\u003cp dir=\"auto\"\u003efathering a child during a one-night stand. Marshall eventually becomes a judge, and he and Lily have three children. Ted's wife,\nwhose name is revealed to be Tracy McConnell, dies of an unknown illness in 2024, six years prior to the time of Ted telling his\nchildren the full story of how they met. Upon finishing the story, at the urging of his kids, Ted decides to ask Robin out. Alluding\n\u003ca href=\"https://en.wikipedia.org/wiki/Pilot_(How_I_Met_Your_Mother)\" rel=\"nofollow\"\u003eto the first episode, the finale ends with Robin, as she looks out of her apartment window to see Ted holding the blue french horn,\u003c/a\u003e\nsmiling with tears in her eyes.\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eFollowing backlash from fans over the ending of the series, an alternative ending was cut together and released on the Season 9\nDVD, in which future Ted narrates over the scene in which Ted and Tracy meet at the train station, recapping all major events\nfrom the series. He delivers the final line \"and that kids is how I met your mother\", and the episode ends, completely cutting the\nfinal scene with Penny and Luke.\u003c/p\u003e\n\u003cdiv class=\"markdown-heading\" dir=\"auto\"\u003e\u003ch2 tabindex=\"-1\" class=\"heading-element\" dir=\"auto\"\u003eCritical reception\u003c/h2\u003e\u003ca id=\"user-content-critical-reception\" class=\"anchor\" aria-label=\"Permalink: Critical reception\" href=\"#critical-reception\"\u003e\u003csvg class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"\u003e\u003cpath d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"\u003e\u003c/path\u003e\u003c/svg\u003e\u003c/a\u003e\u003c/div\u003e\n\u003cp dir=\"auto\"\u003eThe first season was met with generally favorable reviews from critics, although some compared the series unfavorably to\n\u003cem\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Friends\" rel=\"nofollow\"\u003eFriends. On Metacritic, a review aggregation site that collected 25 reviews for the series, it scored a 69 out of 100.[[49]] Michael\u003c/a\u003e\u003c/em\u003e\nAbernethy of \u003cem\u003e\u003ca href=\"https://en.wikipedia.org/wiki/PopMatters\" rel=\"nofollow\"\u003ePopMatters gave the season a negative review, writing that \"The comedy that does occur in\u003c/a\u003e\u003c/em\u003e \u003cem\u003eHow I Met Your\u003c/em\u003e\n\u003cem\u003e\u003ca href=\"https://en.wikipedia.org/wiki/The_Washington_Post\" rel=\"nofollow\"\u003eMother isn't enough to compensate for its inconsistencies.\"[[50]] Tom Shales of The Washington Post gave the season a lukewarm\u003c/a\u003e\u003c/em\u003e\nreview, saying it's \"a little better than most other sitcoms, past and present -- especially those featuring wacky urban friends in\n\u003ca href=\"https://en.wikipedia.org/wiki/Seattle_Post-Intelligencer\" rel=\"nofollow\"\u003etheir twenties experiencing the bittersweet mysteries of life.\"[[51]] Melanie Macfarlane of the Seattle Post-Intelligencer gave the\u003c/a\u003e\nseason a positive review, saying the show \"may not break any comedic ground, but it's the sort of comfortable, reliable hitter\nCBS needs on Monday nights.\"[[52]]\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/IGN\" rel=\"nofollow\"\u003eThe second season received critical acclaim. Staci Krause of IGN gave the season a positive review,[[53]] calling it \"great\".[[54]]\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eThe third season was met with mostly positive reviews.[[55]] Michelle Zoromski of IGN gave the season a positive review, saying\nthat \"the season was fun and clever, a good, consistent flow from the first two seasons\".[[56]]\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/IGN\" rel=\"nofollow\"\u003eThe fourth season received critical acclaim. Michelle Zoromski of IGN gave Season 4 an overall rating of 8.5 out of 10, stating\u003c/a\u003e\nthat \"This fourth season seemed to settle down the chase for the titular mother. While Ted was busy dating Stella, the gang settled\ninto many stand alone episodes which were every bit as entertaining as episodes devoted to Ted's love life\". Zoromski went on to\n\u003ca href=\"https://en.wikipedia.org/wiki/Little_Minnesota\" rel=\"nofollow\"\u003esay: \"A stellar Robin-Marshall episode, titled 'Little Minnesota', makes it clear that these two do not get enough screen time\u003c/a\u003e\ntogether. With Robin homesick and unemployed (and at risk of being deported), this pairing brought out the best Robin Sparkles\n\u003ca href=\"https://en.wikipedia.org/wiki/Let%27s_Go_to_the_Mall\" rel=\"nofollow\"\u003ereference of the season, when Marshall leads a rousing karaoke version of 'Let's Go to the Mall!' \"[[57]]\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Television_Without_Pity\" rel=\"nofollow\"\u003eThe fifth season received mixed reviews. Cindy McLennan of Television Without Pity gave the season a mixed review, and at the\u003c/a\u003e\nend of the season wrote: \"I'm okay with any given season not being primarily focused on mother-meeting, but this season, the\ncharacters seemed to regress -- particularly Barney and Ted. Usually, when a season ends, I have to deal with a week or two\nweeks' worth of letdown. Right now, all I'm feeling is relief.\"[[58]]\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eThe sixth season received generally positive reviews.[[59]] Justin Fowler of \u003cem\u003eLater Reviews gave the season a positive review,\u003c/em\u003e\nsaying that the season was \"a pretty good season of television\" and better than the \"poor\" fifth season. He also said that\n\"Seventeen out of the 24 episodes are what I would consider good\".[[60]]\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eThe seventh season received mixed reviews. Alan Sepinwall gave the season a mixed review and criticized the flash-forwards\nthroughout the season, saying that \"the show is just much, much stronger when its stories dwell on matters of the present or the\npast, and where the writers don't have to act like magicians trying to keep the audience from figuring out how the trick works.\nAnd the finale affirmed that belief for me. The parts that had little or nothing to do with things to come were quite good; the parts\nthat were all about the future made me roll my eyes and ask, for the umpteenth time, 'Really? This is where you're going with\nthis?' \"[[61]]\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Rotten_Tomatoes\" rel=\"nofollow\"\u003eThe eighth season received mixed reviews and is often considered the worst season of the series. Rotten Tomatoes reported that\u003c/a\u003e\n54% of critics gave the show a positive review. The consensus reads: \"How I Met Your Mother wears out its welcome this season,\nwith an anticlimactic reveal and rote, less-than-fruitful humor.\"[[62]]\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eThe ninth season received mixed-to-positive reviews from critics, though fans found it worse than prior seasons.[[63]] Rotten\nTomatoes reported that 80% of critics gave the show a positive review, with an average rating of 7.3 out of 10.[[64]] Gareth\nMitchell at \"House of Geekery\" responded negatively, mostly criticizing the structure of the season, stating that they are\u003c/p\u003e\n\u003chr\u003e\n\u003cp dir=\"auto\"\u003eThe finale of the show received a largely negative reaction from critics and fans. Some complained that the last few seasons\n(particularly the final season before the finale which took place over one weekend) had built towards an end game that was\ndiscarded within the hour-long episode, while others defended it as true to both the initial concept of the show and to life\nitself.[[66]] In the years succeeding its airing, it continued to be singled out as one of the worst television series finales,[[67][68][69]]\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/USA_Today\" rel=\"nofollow\"\u003ee.g., topping USA Today's list of \"Worst Series Finales of All Time\".[[70]]\u003c/a\u003e\u003c/p\u003e\n\u003cdiv class=\"markdown-heading\" dir=\"auto\"\u003e\u003ch2 tabindex=\"-1\" class=\"heading-element\" dir=\"auto\"\u003eSubplots\u003c/h2\u003e\u003ca id=\"user-content-subplots\" class=\"anchor\" aria-label=\"Permalink: Subplots\" href=\"#subplots\"\u003e\u003csvg class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"\u003e\u003cpath d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"\u003e\u003c/path\u003e\u003c/svg\u003e\u003c/a\u003e\u003c/div\u003e\n\u003cdiv class=\"markdown-heading\" dir=\"auto\"\u003e\u003ch3 tabindex=\"-1\" class=\"heading-element\" dir=\"auto\"\u003eThe Slap Bet\u003c/h3\u003e\u003ca id=\"user-content-the-slap-bet\" class=\"anchor\" aria-label=\"Permalink: The Slap Bet\" href=\"#the-slap-bet\"\u003e\u003csvg class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"\u003e\u003cpath d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"\u003e\u003c/path\u003e\u003c/svg\u003e\u003c/a\u003e\u003c/div\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Slap_Bet\" rel=\"nofollow\"\u003eIt is in Season 2, episode 9, named \"Slap Bet\"[[71]] when viewers are introduced to what is a slap bet, as explained by Marshall to\u003c/a\u003e\nLily. The first slap bet of the series is made in this episode when Ted is adamant on discovering why Robin refuses to go to\nmalls.[[72]] In response Barney is positive that Robin is hiding pornography that she has starred in, while Marshall believes Robin\nis married. This is when Barney suggests a slap bet instead of betting money, Marshall explains that \"whoever is right gets to slap\nthe other person in the face as hard as they can -- but no rings\". Lily initially believes it is immature until Marshall states she can\nbe slap bet commissioner. Ted continues to badger Robin about why she refuses to go to malls, and when trying to figure out if\nshe was married, Robin lies and says she was married. When Ted tells the group that Robin is married, Marshall preemptively\nslaps Barney. Marshall then tries to look up Robin's marital records at his law school library, and it is revealed that Robin lied.\nEventually Marshall tells Lily, so Lily as slap bet commissioner imparts a slap penalty allowing Barney to slap Marshall three\ntimes, one for lying about finding out the truth and two for the premature slap.[[73]] Barney then discovers someone that has the\n\u003ca href=\"https://en.wikipedia.org/wiki/MySpace\" rel=\"nofollow\"\u003etape with proof of Robin's secret, a man in Malaysia, and he has posted the video onto MySpace. When Barney plays the video,\u003c/a\u003e\nhe stops the video at a seemingly suggestive part and believing he has won the bet he slaps Marshall.[[74]] Robin then to show that\nher secret was not pornography plays the entire video, revealing to the group that she was Robin Sparkles, a teenage popstar in\n\u003ca href=\"https://en.wikipedia.org/wiki/Let%27s_Go_to_the_Mall\" rel=\"nofollow\"\u003eCanada. Viewers and the group are introduced to Robin's song \"Let's Go to the Mall\". Marshall wins the slap bet, and Lily allows\u003c/a\u003e\nBarney to choose between two punishments, 10 slaps at that moment or 5 slaps that be doled out any time from then to eternity.\nAlthough Ted states that Barney should just take the ten slaps, Barney chooses the five slaps. When Ted apologizes for forcing\nthe secret out of her, Robin tells Ted that she is glad he knows her better and they kiss, Marshall then slaps Barney, using his first\nslap stating \"That's one\".[[75]] The slaps won by Marshall are an ongoing trope within the series and last through to the twenty\n\u003ca href=\"https://en.wikipedia.org/wiki/The_End_of_the_Aisle\" rel=\"nofollow\"\u003esecond episode of season 9 \"The End of the Aisle\", the last episode before the two-episode series finale \"Last Forever\".\u003c/a\u003e\u003c/p\u003e\n\u003cdiv class=\"markdown-heading\" dir=\"auto\"\u003e\u003ch2 tabindex=\"-1\" class=\"heading-element\" dir=\"auto\"\u003eTie-ins\u003c/h2\u003e\u003ca id=\"user-content-tie-ins\" class=\"anchor\" aria-label=\"Permalink: Tie-ins\" href=\"#tie-ins\"\u003e\u003csvg class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"\u003e\u003cpath d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"\u003e\u003c/path\u003e\u003c/svg\u003e\u003c/a\u003e\u003c/div\u003e\n\u003cdiv class=\"markdown-heading\" dir=\"auto\"\u003e\u003ch3 tabindex=\"-1\" class=\"heading-element\" dir=\"auto\"\u003eBooks\u003c/h3\u003e\u003ca id=\"user-content-books\" class=\"anchor\" aria-label=\"Permalink: Books\" href=\"#books\"\u003e\u003csvg class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"\u003e\u003cpath d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"\u003e\u003c/path\u003e\u003c/svg\u003e\u003c/a\u003e\u003c/div\u003e\n\u003cp dir=\"auto\"\u003e\u003cem\u003e\u003ca href=\"https://en.wikipedia.org/wiki/The_Bro_Code\" rel=\"nofollow\"\u003eThe Bro Code, cited by Barney many times throughout the series, is a set of written rules for bros to follow, and\u003c/a\u003e\u003c/em\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/Tie-in_novel\" rel=\"nofollow\"\u003ehas been published as a tie-in novel, an audiobook,[[76]] an iPhone Application and an Android Application. Barney\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/George_Washington\" rel=\"nofollow\"\u003ealleges it was written by Barnabus Stinson, a contemporary of George Washington and Benjamin Franklin. Many\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/Vanity_card\" rel=\"nofollow\"\u003eof the rules listed in this book also appear in the show's closing vanity cards in syndication.\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003cem\u003eBro on the Go, a companion to The Bro Code, released in 2009.[[77]]\u003c/em\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003cem\u003eBro Code for Parents: What to Expect When You're Awesome, released in 2012.[[78]]\u003c/em\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003cem\u003e\u003ca href=\"https://en.wikipedia.org/wiki/The_Playbook_(How_I_Met_Your_Mother)\" rel=\"nofollow\"\u003eThe Playbook, based on the fifth season episode of the same name, by Barney Stinson and Matt Kuhn.[[79]]\u003c/a\u003e\u003c/em\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003cem\u003eHow I Met Your Mother and Philosophy, released in 2013.[[80]]\u003c/em\u003e\u003c/p\u003e\n\u003cdiv class=\"markdown-heading\" dir=\"auto\"\u003e\u003ch3 tabindex=\"-1\" class=\"heading-element\" dir=\"auto\"\u003eSoundtracks\u003c/h3\u003e\u003ca id=\"user-content-soundtracks\" class=\"anchor\" aria-label=\"Permalink: Soundtracks\" href=\"#soundtracks\"\u003e\u003csvg class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"\u003e\u003cpath d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"\u003e\u003c/path\u003e\u003c/svg\u003e\u003c/a\u003e\u003c/div\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Soundtrack\" rel=\"nofollow\"\u003eA soundtrack album entitled How I Met Your Music: Original Songs from the Hit Series was released digitally to\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/ITunes_Store\" rel=\"nofollow\"\u003eiTunes on September 24, 2012, featuring songs from the first seven seasons[[81]]\u003c/a\u003e\u003c/p\u003e\n\u003chr\u003e\n\u003cp dir=\"auto\"\u003e23, 2014, featuring songs from the final two seasons.[[82]]\u003c/p\u003e\n\u003cdiv class=\"markdown-heading\" dir=\"auto\"\u003e\u003ch3 tabindex=\"-1\" class=\"heading-element\" dir=\"auto\"\u003ePineapple Incident explained\u003c/h3\u003e\u003ca id=\"user-content-pineapple-incident-explained\" class=\"anchor\" aria-label=\"Permalink: Pineapple Incident explained\" href=\"#pineapple-incident-explained\"\u003e\u003csvg class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"\u003e\u003cpath d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"\u003e\u003c/path\u003e\u003c/svg\u003e\u003c/a\u003e\u003c/div\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/The_Pineapple_Incident\" rel=\"nofollow\"\u003eAfter the end of the series, the officials released a short video, explaining the running mystery of the pineapple in \"The Pineapple\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/The_Pineapple_Incident\" rel=\"nofollow\"\u003eIncident\", the tenth episode of the first season. The extra footage revealed that a character featured in the 6th season, the Captain\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/Kyle_MacLachlan\" rel=\"nofollow\"\u003e(Kyle MacLachlan), had put a pineapple in front of his door as a tradition and Ted took the pineapple while he was drunk.[[83]]\u003c/a\u003e\u003c/p\u003e\n\u003cdiv class=\"markdown-heading\" dir=\"auto\"\u003e\u003ch3 tabindex=\"-1\" class=\"heading-element\" dir=\"auto\"\u003eWebsites\u003c/h3\u003e\u003ca id=\"user-content-websites\" class=\"anchor\" aria-label=\"Permalink: Websites\" href=\"#websites\"\u003e\u003csvg class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"\u003e\u003cpath d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"\u003e\u003c/path\u003e\u003c/svg\u003e\u003c/a\u003e\u003c/div\u003e\n\u003cp dir=\"auto\"\u003eWebsites were consistently mentioned throughout the \u003cem\u003eHow I Met Your Mother series. Many of the websites directly tie in to\u003c/em\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/Running_gag\" rel=\"nofollow\"\u003erunning gags on the show. CBS turned nearly every website mentioned in the series into a real functioning website. Since the\u003c/a\u003e\nshow's ending in 2014, a majority of the websites remain active.[[84]]\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/How_I_Met_Your_Mother_season_3\" rel=\"nofollow\"\u003eThe first Instance of a website tie-in on How I Met Your Mother was on Season 3, Episode 14 'The Bracket' with\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/Barney_Stinson\" rel=\"nofollow\"\u003eone of Barney's one-night-stands creating both http://tedmosbyisajerk.com (http://tedmosbyisajerk.com/) Archived\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20190812003811/http://tedmosbyisajerk.com/\" rel=\"nofollow\"\u003e(https://web.archive.org/web/20190812003811/http://tedmosbyisajerk.com/) August 12, 2019, at the Wayback\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/Wayback_Machine\" rel=\"nofollow\"\u003eMachine [[85]] and http://tedmosbyisnotajerk.com.[[86]]\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/How_I_Met_Your_Mother_season_3\" rel=\"nofollow\"\u003eIn Season 3, Episode 19, 'Everything Must Go', Lily is forced to sell her clothes on the internet because she is in\u003c/a\u003e\nserious credit card debt. She jokes they should call the website\n\u003ca href=\"http://www.guyforceshiswifetodressinagarbagebagforthenextthreeyears.com/\" rel=\"nofollow\"\u003ehttp://www.guyforceshiswifetodressinagarbagebagforthenextthreeyears.com Archived (https://web.archive.org/we\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20100306180240/http://www.guyforceshiswifetodressinagarbagebagforthenextthreeyears.com/\" rel=\"nofollow\"\u003eb/20100306180240/http://www.guyforceshiswifetodressinagarbagebagforthenextthreeyears.com/) March 6, 2010,\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/Wayback_Machine\" rel=\"nofollow\"\u003eat the Wayback Machine.[[87]]\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/How_I_Met_Your_Mother_season_4\" rel=\"nofollow\"\u003eGoliath National Bank (GNB) is first introduced in Season 4, Episode 2 'The Best Burger in New York' and is\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/Barney_Stinson\" rel=\"nofollow\"\u003econsistently mentioned throughout the show's run. Barney Stinson, Marshall Eriksen, and Ted Mosby have all\u003c/a\u003e\n\u003ca href=\"http://www.goliathbank.com/\" rel=\"nofollow\"\u003eworked for GNB. Goliath National Bank - Your Financial Wingman (http://www.goliathbank.com).[[88]]\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/How_I_Met_Your_Mother_season_4\" rel=\"nofollow\"\u003eIn Season 4, Episode 7 'Not a Fathers Day' as a form of celebration, Barney Stinson creates a fake holiday called\u003c/a\u003e\n\"Not a Father's Day\" as well as a subsequent website to promote it: \u003ca href=\"http://www.notafathersday.com.%5B%5B89%5D%5D\" rel=\"nofollow\"\u003ehttp://www.notafathersday.com.[[89]]\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/How_I_Met_Your_Mother_season_4\" rel=\"nofollow\"\u003eIn Season 4, Episode 14 'The Possimpible' Ted Mosby's alter-ego Doctor X was introduced. The episode\u003c/a\u003e\nexplained Doctor X's origins and shared his website: \u003ca href=\"http://mysteriousdrx.com.%5B%5B90%5D%5D\" rel=\"nofollow\"\u003ehttp://mysteriousdrx.com.[[90]]\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/How_I_Met_Your_Mother_season_4\" rel=\"nofollow\"\u003eIn Season 4, Episode 14 'The Possimpible' Robin Sherbatsky is facing deportation due to unemployment, Barney\u003c/a\u003e\nattempts to help her by sharing his video resume website: \u003ca href=\"http://www.barneysvideoresume.com.%5B%5B91%5D%5D\" rel=\"nofollow\"\u003ehttp://www.barneysvideoresume.com.[[91]]\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/How_I_Met_Your_Mother_season_4\" rel=\"nofollow\"\u003eIn Season 4, Episode 18 'Old King Clancy' -- the gang is attempting to guess facts about Robins sexual history\u003c/a\u003e\nwith the help of \u003ca href=\"http://canadiansexacts.org.%5B%5B92%5D%5D\" rel=\"nofollow\"\u003ehttp://canadiansexacts.org.[[92]]\u003c/a\u003e This website is now inactive.\n\u003ca href=\"https://en.wikipedia.org/wiki/How_I_Met_Your_Mother_season_5\" rel=\"nofollow\"\u003eIn Season 5, Episode 4 'The Sexless Innkeeper' Marshall Eriksen creates http://www.itwasthebestnightever.com\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20100209090541/http://www.itwasthebestnightever.com/\" rel=\"nofollow\"\u003eArchived (https://web.archive.org/web/20100209090541/http://www.itwasthebestnightever.com/) February 9,\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/Wayback_Machine\" rel=\"nofollow\"\u003e2010, at the Wayback Machine[[93]] to celebrate \"the best night ever\".\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/How_I_Met_Your_Mother_season_5\" rel=\"nofollow\"\u003eIn Season 5, Episode 8 'The Playbook' -- Barney Stinson creates http://www.extremitiesquarterly.com,[[94]]\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"http://balloonexplorersclub.com,%5B%5B95%5D%5D\" rel=\"nofollow\"\u003ehttp://balloonexplorersclub.com,[[95]]\u003c/a\u003e \u003ca href=\"http://www.lorenzovonmatterhorn.com,%5B%5B96%5D%5D\" rel=\"nofollow\"\u003ehttp://www.lorenzovonmatterhorn.com,[[96]]\u003c/a\u003e and\n\u003ca href=\"https://en.wikipedia.org/wiki/Lorenzo_von_Matterhorn\" rel=\"nofollow\"\u003ehttp://bigbusinessjournal.com[[97]] to solidify his fake identity as Lorenzo von Matterhorn as a part of a play in \"The\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/The_Playbook_(How_I_Met_Your_Mother)\" rel=\"nofollow\"\u003ePlaybook\".[[48]]\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/How_I_Met_Your_Mother_season_5\" rel=\"nofollow\"\u003eIn Season 5, Episode 23 'The Wedding Bride' Ted Mosby's ex-finance Stella's new husband releases a\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/Ted_Mosby\" rel=\"nofollow\"\u003esuccessful movie about Ted and Stella's relationship. The website http://www.weddingbridemovie.com[[98]] was\u003c/a\u003e\ncreated to promote the fictional movie.\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/How_I_Met_Your_Mother_season_6\" rel=\"nofollow\"\u003eIn Season 6, Episode 4 'Subway Wars' Ted uses http://grademyteacher.net[[99]] to see what his college students\u003c/a\u003e\nare writing about him as a professor.\n\u003ca href=\"https://en.wikipedia.org/wiki/How_I_Met_Your_Mother_season_7\" rel=\"nofollow\"\u003eIn Season 7, Episode 4 'Stinson Missile Crisis' Barney creates two websites:\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/The_Playbook_(How_I_Met_Your_Mother)\" rel=\"nofollow\"\u003ehttp://www.stinsonbreastreduction.com [[100]] and http://www.linsonbreastlawsuit.com[[101]] as part of a play in \"The\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/The_Playbook_(How_I_Met_Your_Mother)\" rel=\"nofollow\"\u003ePlaybook\".[[48]]\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/How_I_Met_Your_Mother_season_7\" rel=\"nofollow\"\u003eIn Season 7, Episode 9 'Disaster Averted' Marshall creates the countdown website:\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/Barney_Stinson\" rel=\"nofollow\"\u003ehttp://www.theslapbetcountdown.com[[102]] to warn Barney of his next slap as a part of their \"Slap Bet\", which was\u003c/a\u003e\ncreated five seasons earlier.\n\u003ca href=\"https://en.wikipedia.org/wiki/How_I_Met_Your_Mother_season_7\" rel=\"nofollow\"\u003eIn Season 7, Episode 13 'Tailgate' Barney and Ted start a bar titled Puzzles and use\u003c/a\u003e\n\u003ca href=\"http://www.puzzlesthebar.com%5B%5B103%5D%5D\" rel=\"nofollow\"\u003ehttp://www.puzzlesthebar.com[[103]]\u003c/a\u003e to promote the bar.\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/How_I_Met_Your_Mother_season_7\" rel=\"nofollow\"\u003eIn Season 7, Episode 23 'The Magician's Code (Part 1)' Ted creates http://www.lilysinlabor.com[[104]] to announce\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/Lily_Aldrin\" rel=\"nofollow\"\u003ethat Lily is in labor.\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/How_I_Met_Your_Mother_season_8\" rel=\"nofollow\"\u003eIn Season 8, Episode 3 'Nannies' Marshall and Lily use http://www.heynannynanny.com[[105]] to find a nanny.\u003c/a\u003e\u003c/p\u003e\n\u003chr\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Barney_Stinson\" rel=\"nofollow\"\u003ehttp://www.brobibs.com[[106]] to sell his product. Barney's company is challenged by the competing brand\u003c/a\u003e\n\u003ca href=\"http://www.dudeaprons.com.%5B%5B107%5D%5D\" rel=\"nofollow\"\u003ehttp://www.dudeaprons.com.[[107]]\u003c/a\u003e\u003c/p\u003e\n\u003cdiv class=\"markdown-heading\" dir=\"auto\"\u003e\u003ch3 tabindex=\"-1\" class=\"heading-element\" dir=\"auto\"\u003eSpin-offs\u003c/h3\u003e\u003ca id=\"user-content-spin-offs\" class=\"anchor\" aria-label=\"Permalink: Spin-offs\" href=\"#spin-offs\"\u003e\u003csvg class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"\u003e\u003cpath d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"\u003e\u003c/path\u003e\u003c/svg\u003e\u003c/a\u003e\u003c/div\u003e\n\u003cp dir=\"auto\"\u003e\u003cstrong\u003e\u003cem\u003eHow I Met Your Dad\u003c/em\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eOn November 15, 2013, it was announced that CBS and the series' producer 20th Television would launch How I Met Your Dad,\n\u003ca href=\"https://en.wikipedia.org/wiki/Emily_Spivey\" rel=\"nofollow\"\u003ea woman-centric variation executive-produced by Bays, Thomas, and Emily Spivey.[[108]] The new series would possibly have\u003c/a\u003e\nfeatured a new bar and would not have tied into the original series.[[109]] The primary cast of the series was revealed on March 14,\n\u003ca href=\"https://en.wikipedia.org/wiki/Greta_Gerwig\" rel=\"nofollow\"\u003e2014, to be Greta Gerwig, Drew Tarver, Nicholas D'Agosto, Krysta Rodriguez and Andrew Santino.[[110]] Tiya Sircar was cast not\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/Meg_Ryan\" rel=\"nofollow\"\u003elong after on March 26, 2014, replacing Krysta Rodriguez's role in the series.[[111]] On April 23, 2014, Meg Ryan was announced\u003c/a\u003e\nto voice future Sally.[[112]]\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eOn May 14, 2014, CBS passed on picking up How I Met Your Dad since show creators Craig Thomas and Carter Bays did not\n\u003ca href=\"https://en.wikipedia.org/wiki/Nina_Tassler\" rel=\"nofollow\"\u003ewant to reshoot the pilot.[[113]] Nina Tassler, the entertainment president at CBS, stated that \"there were elements of the pilot that\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/Netflix\" rel=\"nofollow\"\u003edidn't work out\". Talks of the series being \"shopped\" to other networks emerged.[[113][114]] Netflix, FOX and NBC were named as\u003c/a\u003e\npossible candidates for picking up the show.[[115]]\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eUltimately, nothing came of those talks. It was reported that the options on the cast contracts had expired and they had been\nreleased from their contracts and co-creator Carter Bays denied any rumors that the spin-off pilot will be reshot. On July 11,\n2014, Bays confirmed that the spin-off project was officially dead.[[116]] Six days later, Nina Tassler said that CBS would \"love the\nopportunity to take another shot\" at the pilot and that she would continue to \"hound\" Carter Bays and Craig Thomas, even though\nthey shot down the idea of a new version of the project stating that they had both moved on.[[117]]\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eIn 2016, two years after the project was announced \"dead\", a full script of the pilot episode was leaked online.[[118]] In 2020, the\n\u003ca href=\"https://en.wikipedia.org/wiki/Subreddit\" rel=\"nofollow\"\u003efull pilot episode was also leaked by a Reddit user on the How I Met Your Mother subreddit, which included a modified ending\u003c/a\u003e\ncompared to the leaked script from 2016.\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003cstrong\u003e\u003cem\u003eHow I Met Your Father\u003c/em\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eOn December 14, 2016, it was reported that Isaac Aptaker and Elizabeth Berger were set to write a new version of the previous\nspin-off's pilot, re-titled How I Met Your Father, with Bays and Thomas serving as executive producers.[[119]] On March 6, 2017,\nit was announced that following signing new contracts with 20th Television that would see both Aptaker and Berger being\npromoted to executive producers and co-showrunners on \u003cem\u003e\u003ca href=\"https://en.wikipedia.org/wiki/This_Is_Us\" rel=\"nofollow\"\u003eThis Is Us alongside Dan Fogelman, their completed spec script for\u003c/a\u003e\u003c/em\u003e\n\u003cem\u003eHow I Met Your Father would be placed on the back burner in light of their new duties.[[120]]\u003c/em\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Dana_Walden\" rel=\"nofollow\"\u003eOn August 8, 2017, Fox chairman Dana Walden told\u003c/a\u003e \u003cem\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Deadline_Hollywood\" rel=\"nofollow\"\u003eDeadline that the studio was set to try a third attempt at a spin-off with\u003c/a\u003e\u003c/em\u003e\ndifferent writers due to the unavailability of Aptaker and Berger. It was also stated that all ideas from the previous two attempts\nare not carried over and the new attempt are created from scratch.[[121]] On August 11, 2017, Deadline reported that Alison\nBennett had been selected to write the spin-off. It was also confirmed that this incarnation would be developed under the title\nused for the Aptaker and Berger project, and that Bays and Thomas are once again attached as executive producers.[[122]]\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Hulu\" rel=\"nofollow\"\u003eOn April 21, 2021, it was announced that the spin-off series was ordered by Hulu, with Hilary Duff attached to play lead\u003c/a\u003e\ncharacter Sophie. Aptaker and Berger would helm the project as creators, writers, and executive producers.[[123]] On June 16,\n\u003ca href=\"https://en.wikipedia.org/wiki/Chris_Lowell\" rel=\"nofollow\"\u003e2021, Chris Lowell was announced to have joined the cast in a starring role.[[124]] On August 10, 2021, Francia Raisa, Tom\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/Suraj_Sharma\" rel=\"nofollow\"\u003eAinsley, Tien Tran and Suraj Sharma joined the cast in a starring roles.[[125]] On August 30, 2021, Daniel Augustin joined the cast\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/Brandon_Micheal_Hall\" rel=\"nofollow\"\u003ein a recurring role, replacing Brandon Micheal Hall, who exited the project due to scheduling conflicts.[[126]]\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/How_I_Met_Your_Father\" rel=\"nofollow\"\u003eOn January 18, 2022, How I Met Your Father began streaming on Hulu in the US, Disney+ internationally and Star+ in Latin\u003c/a\u003e\nAmerica.\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eIn September 2023, the show was cancelled after 2 seasons.[[127]]\u003c/p\u003e\n\u003cdiv class=\"markdown-heading\" dir=\"auto\"\u003e\u003ch2 tabindex=\"-1\" class=\"heading-element\" dir=\"auto\"\u003eNielsen ratings\u003c/h2\u003e\u003ca id=\"user-content-nielsen-ratings\" class=\"anchor\" aria-label=\"Permalink: Nielsen ratings\" href=\"#nielsen-ratings\"\u003e\u003csvg class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"\u003e\u003cpath d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"\u003e\u003c/path\u003e\u003c/svg\u003e\u003c/a\u003e\u003c/div\u003e\n\u003chr\u003e\n\u003cp dir=\"auto\"\u003e13.13 million viewers.[[128]] Previously, the most viewed episode was the season 1 episode\n\u003ca href=\"https://en.wikipedia.org/wiki/The_Pineapple_Incident\" rel=\"nofollow\"\u003e\"The Pineapple Incident\", watched by 12.3 million viewers. The lowest-viewed episode\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/Landmarks_(How_I_Met_Your_Mother)\" rel=\"nofollow\"\u003ewas the season 6 episode \"Landmarks\", watched by 6.4 million viewers, approximately\u003c/a\u003e\n52% of the show's previous series high, and approximately 49% of the show's finale\nviewership.\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eSeason nine was the highest watched season overall and among the 18-49 adults, scoring\na 4.5 rating in that sector[[129]] up from the second-highest rating of 4.1 in season\nseven.[[130]]\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003cstrong\u003eFirst aired\u003c/strong\u003e \u003cstrong\u003eLast aired\u003c/strong\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003cstrong\u003eTimeslot\u003c/strong\u003e\n\u003cstrong\u003eSeason\u003c/strong\u003e \u003cstrong\u003eEpisodes\u003c/strong\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003cstrong\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Eastern_Time_Zone\" rel=\"nofollow\"\u003e(ET)\u003c/a\u003e\u003c/strong\u003e \u003cstrong\u003eViewers\u003c/strong\u003e \u003cstrong\u003eViewers\u003c/strong\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003cstrong\u003eDate\u003c/strong\u003e \u003cstrong\u003eDate\u003c/strong\u003e\n\u003cstrong\u003e(millions)\u003c/strong\u003e \u003cstrong\u003e(millions)\u003c/strong\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eMonday\n\u003ca href=\"https://en.wikipedia.org/wiki/How_I_Met_Your_Mother_(season_1)\" rel=\"nofollow\"\u003e1\u003c/a\u003e 22 September 19, 2005 10.94[[131]] May 15, 2006 8.64\n8:30 pm\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eMonday\n8:30 pm\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e(1–3)\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/How_I_Met_Your_Mother_season_2\" rel=\"nofollow\"\u003e2\u003c/a\u003e 22 September 18, 2006 10.48[[134]] May 14, 2007 9.90\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eMonday\n8:00 pm\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e(4–22)\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eMonday\n8:00 pm\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e(1–11)\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/How_I_Met_Your_Mother_season_3\" rel=\"nofollow\"\u003e3\u003c/a\u003e 20 September 24, 2007 8.12[[136]] May 19, 2008 7.99\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eMonday\n8:30 pm\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e(12–20)\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eMonday\n\u003ca href=\"https://en.wikipedia.org/wiki/How_I_Met_Your_Mother_season_4\" rel=\"nofollow\"\u003e4\u003c/a\u003e 24 September 22, 2008 9.79[[139]] May 18, 2009 8.73\n8:30 pm\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/How_I_Met_Your_Mother_season_5\" rel=\"nofollow\"\u003e5\u003c/a\u003e 24 September 21, 2009 9.09[[142]] May 24, 2010 8.06\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/How_I_Met_Your_Mother_season_6\" rel=\"nofollow\"\u003e6\u003c/a\u003e 24 September 20, 2010 8.79[[145]] May 16, 2011 7.15\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eMonday\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/How_I_Met_Your_Mother_season_7\" rel=\"nofollow\"\u003e7\u003c/a\u003e 24 September 19, 2011 11.00[[148]] May 14, 2012 8.58\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e8:00 pm\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/How_I_Met_Your_Mother_season_8\" rel=\"nofollow\"\u003e8\u003c/a\u003e 24 September 24, 2012 8.84[[150]] May 13, 2013 8.57\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/How_I_Met_Your_Mother_season_9\" rel=\"nofollow\"\u003e9\u003c/a\u003e 24 September 23, 2013 9.40[[153]] March 31, 2014 13.13\u003c/p\u003e\n\u003cdiv class=\"markdown-heading\" dir=\"auto\"\u003e\u003ch2 tabindex=\"-1\" class=\"heading-element\" dir=\"auto\"\u003eAwards and nominations\u003c/h2\u003e\u003ca id=\"user-content-awards-and-nominations\" class=\"anchor\" aria-label=\"Permalink: Awards and nominations\" href=\"#awards-and-nominations\"\u003e\u003csvg class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"\u003e\u003cpath d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"\u003e\u003c/path\u003e\u003c/svg\u003e\u003c/a\u003e\u003c/div\u003e\n\u003cp dir=\"auto\"\u003eViewership represented in a line\ngraph\u003c/p\u003e\n\u003cmarkdown-accessiblity-table\u003e\u003ctable\u003e\n\u003cthead\u003e\n\u003ctr\u003e\n\u003cth\u003eSeason\u003c/th\u003e\n\u003cth\u003eTimeslot (ET)\u003c/th\u003e\n\u003cth\u003eEpisodes\u003c/th\u003e\n\u003cth\u003eFirst aired\u003c/th\u003e\n\u003cth\u003eCol5\u003c/th\u003e\n\u003cth\u003eLast aired\u003c/th\u003e\n\u003cth\u003eCol7\u003c/th\u003e\n\u003cth\u003eTV season\u003c/th\u003e\n\u003cth\u003eViewership rank\u003c/th\u003e\n\u003cth\u003eAvg. viewers (millions)\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd\u003e\u003c/td\u003e\n\u003ctd\u003e\u003c/td\u003e\n\u003ctd\u003e\u003c/td\u003e\n\u003ctd\u003eDate\u003c/td\u003e\n\u003ctd\u003eViewers (millions)\u003c/td\u003e\n\u003ctd\u003eDate\u003c/td\u003e\n\u003ctd\u003eViewers (millions)\u003c/td\u003e\n\u003ctd\u003e\u003c/td\u003e\n\u003ctd\u003e\u003c/td\u003e\n\u003ctd\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e1\u003c/td\u003e\n\u003ctd\u003eMonday 8:30 pm\u003c/td\u003e\n\u003ctd\u003e22\u003c/td\u003e\n\u003ctd\u003eSeptember 19, 2005\u003c/td\u003e\n\u003ctd\u003e10.94[131]\u003c/td\u003e\n\u003ctd\u003eMay 15, 2006\u003c/td\u003e\n\u003ctd\u003e8.64[132]\u003c/td\u003e\n\u003ctd\u003e2005– 06\u003c/td\u003e\n\u003ctd\u003e54[133]\u003c/td\u003e\n\u003ctd\u003e9.47[133]\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e2\u003c/td\u003e\n\u003ctd\u003eMonday 8:30 pm (1–3) Monday 8:00 pm (4–22)\u003c/td\u003e\n\u003ctd\u003e22\u003c/td\u003e\n\u003ctd\u003eSeptember 18, 2006\u003c/td\u003e\n\u003ctd\u003e10.48[134]\u003c/td\u003e\n\u003ctd\u003eMay 14, 2007\u003c/td\u003e\n\u003ctd\u003e9.90[134]\u003c/td\u003e\n\u003ctd\u003e2006– 07\u003c/td\u003e\n\u003ctd\u003e61[135]\u003c/td\u003e\n\u003ctd\u003e8.94[135]\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e3\u003c/td\u003e\n\u003ctd\u003eMonday 8:00 pm (1–11) Monday 8:30 pm (12–20)\u003c/td\u003e\n\u003ctd\u003e20\u003c/td\u003e\n\u003ctd\u003eSeptember 24, 2007\u003c/td\u003e\n\u003ctd\u003e8.12[136]\u003c/td\u003e\n\u003ctd\u003eMay 19, 2008\u003c/td\u003e\n\u003ctd\u003e7.99[137]\u003c/td\u003e\n\u003ctd\u003e2007– 08\u003c/td\u003e\n\u003ctd\u003e70[138]\u003c/td\u003e\n\u003ctd\u003e8.21[138]\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e4\u003c/td\u003e\n\u003ctd\u003eMonday 8:30 pm\u003c/td\u003e\n\u003ctd\u003e24\u003c/td\u003e\n\u003ctd\u003eSeptember 22, 2008\u003c/td\u003e\n\u003ctd\u003e9.79[139]\u003c/td\u003e\n\u003ctd\u003eMay 18, 2009\u003c/td\u003e\n\u003ctd\u003e8.73[140]\u003c/td\u003e\n\u003ctd\u003e2008– 09\u003c/td\u003e\n\u003ctd\u003e49[141]\u003c/td\u003e\n\u003ctd\u003e9.42[141]\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e5\u003c/td\u003e\n\u003ctd\u003eMonday 8:00 pm\u003c/td\u003e\n\u003ctd\u003e24\u003c/td\u003e\n\u003ctd\u003eSeptember 21, 2009\u003c/td\u003e\n\u003ctd\u003e9.09[142]\u003c/td\u003e\n\u003ctd\u003eMay 24, 2010\u003c/td\u003e\n\u003ctd\u003e8.06[143]\u003c/td\u003e\n\u003ctd\u003e2009– 10\u003c/td\u003e\n\u003ctd\u003e42[144]\u003c/td\u003e\n\u003ctd\u003e8.60[144]\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e6\u003c/td\u003e\n\u003ctd\u003e\u003c/td\u003e\n\u003ctd\u003e24\u003c/td\u003e\n\u003ctd\u003eSeptember 20, 2010\u003c/td\u003e\n\u003ctd\u003e8.79[145]\u003c/td\u003e\n\u003ctd\u003eMay 16, 2011\u003c/td\u003e\n\u003ctd\u003e7.15[146]\u003c/td\u003e\n\u003ctd\u003e2010– 11\u003c/td\u003e\n\u003ctd\u003e48[147]\u003c/td\u003e\n\u003ctd\u003e8.79[147]\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e7\u003c/td\u003e\n\u003ctd\u003e\u003c/td\u003e\n\u003ctd\u003e24\u003c/td\u003e\n\u003ctd\u003eSeptember 19, 2011\u003c/td\u003e\n\u003ctd\u003e11.00[148]\u003c/td\u003e\n\u003ctd\u003eMay 14, 2012\u003c/td\u003e\n\u003ctd\u003e8.58[149]\u003c/td\u003e\n\u003ctd\u003e2011– 12\u003c/td\u003e\n\u003ctd\u003e45[130]\u003c/td\u003e\n\u003ctd\u003e9.67[130]\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e8\u003c/td\u003e\n\u003ctd\u003e\u003c/td\u003e\n\u003ctd\u003e24\u003c/td\u003e\n\u003ctd\u003eSeptember 24, 2012\u003c/td\u003e\n\u003ctd\u003e8.84[150]\u003c/td\u003e\n\u003ctd\u003eMay 13, 2013\u003c/td\u003e\n\u003ctd\u003e8.57[151]\u003c/td\u003e\n\u003ctd\u003e2012– 13\u003c/td\u003e\n\u003ctd\u003e42[152]\u003c/td\u003e\n\u003ctd\u003e9.02[152]\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e9\u003c/td\u003e\n\u003ctd\u003e\u003c/td\u003e\n\u003ctd\u003e24\u003c/td\u003e\n\u003ctd\u003eSeptember 23, 2013\u003c/td\u003e\n\u003ctd\u003e9.40[153]\u003c/td\u003e\n\u003ctd\u003eMarch 31, 2014\u003c/td\u003e\n\u003ctd\u003e13.13[154]\u003c/td\u003e\n\u003ctd\u003e2013– 14\u003c/td\u003e\n\u003ctd\u003e28[129]\u003c/td\u003e\n\u003ctd\u003e10.51[129]\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\u003c/markdown-accessiblity-table\u003e\n\u003chr\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Primetime_Emmy_Award_for_Outstanding_Comedy_Series\" rel=\"nofollow\"\u003enomination for Outstanding Comedy Series. Stars Alyson Hannigan and Neil Patrick Harris have each received acting accolades,\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/People%27s_Choice_Awards\" rel=\"nofollow\"\u003ewith both winning People's Choice Awards, and Harris receiving Emmy and Golden Globe nominations. In 2012, seven years\u003c/a\u003e\nafter its premiere, the series won the People's Choice for Favorite Network TV Comedy. The show's art direction, editing and\ncinematography have also been awarded.\u003c/p\u003e\n\u003cdiv class=\"markdown-heading\" dir=\"auto\"\u003e\u003ch2 tabindex=\"-1\" class=\"heading-element\" dir=\"auto\"\u003eHome media\u003c/h2\u003e\u003ca id=\"user-content-home-media\" class=\"anchor\" aria-label=\"Permalink: Home media\" href=\"#home-media\"\u003e\u003csvg class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"\u003e\u003cpath d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"\u003e\u003c/path\u003e\u003c/svg\u003e\u003c/a\u003e\u003c/div\u003e\n\u003cmarkdown-accessiblity-table\u003e\u003ctable\u003e\n\u003cthead\u003e\n\u003ctr\u003e\n\u003cth\u003eDVD season\u003c/th\u003e\n\u003cth\u003eRelease dates\u003c/th\u003e\n\u003cth\u003eCol3\u003c/th\u003e\n\u003cth\u003eCol4\u003c/th\u003e\n\u003cth\u003eEpisodes\u003c/th\u003e\n\u003cth\u003eAdditional information\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd\u003e\u003c/td\u003e\n\u003ctd\u003eRegion 1\u003c/td\u003e\n\u003ctd\u003eRegion 2\u003c/td\u003e\n\u003ctd\u003eRegion 4\u003c/td\u003e\n\u003ctd\u003e\u003c/td\u003e\n\u003ctd\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eSeason 1\u003c/td\u003e\n\u003ctd\u003eNovember 21, 2006\u003c/td\u003e\n\u003ctd\u003eMay 7, 2007\u003c/td\u003e\n\u003ctd\u003eJanuary 10, 2007\u003c/td\u003e\n\u003ctd\u003e22\u003c/td\u003e\n\u003ctd\u003eIncludes: commentaries on six episodes a video yearbook 2 music videos (\"First Round\" and \"Last Call\") a gag reel Episodes have been cropped from the broadcast widescreen to a full frame 4:3 format\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eSeason 2\u003c/td\u003e\n\u003ctd\u003eOctober 2, 2007\u003c/td\u003e\n\u003ctd\u003eFebruary 8, 2010\u003c/td\u003e\n\u003ctd\u003eApril 8, 2008\u003c/td\u003e\n\u003ctd\u003e22\u003c/td\u003e\n\u003ctd\u003eIncludes: commentaries on seven episodes How We Make Your Mother 2 music videos (\"Let's Go To The Mall\" and \"Hey Beautiful\") 3 \"How It Really Happened\" scenes a gag reel an Easter Egg.\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eThe Legendary Season 3\u003c/td\u003e\n\u003ctd\u003eOctober 7, 2008\u003c/td\u003e\n\u003ctd\u003eMay 10, 2010\u003c/td\u003e\n\u003ctd\u003eFebruary 11, 2009\u003c/td\u003e\n\u003ctd\u003e20\u003c/td\u003e\n\u003ctd\u003eIncludes: commentaries on 7 episodes a series retrospective Lily \u0026amp; Marshall's honeymoon videos cast favorites a behind the scenes of \"We're Not From Here\" 6 \"How It Really Happened\" scenes 2 music videos (\"You Just Got Slapped\" and \"Sandcastles in the Sand\") \"Ted Mosby Is A Jerk\" audio track a gag reel.\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eThe Awesome Season 4\u003c/td\u003e\n\u003ctd\u003eSeptember 29, 2009\u003c/td\u003e\n\u003ctd\u003eJuly 19, 2010\u003c/td\u003e\n\u003ctd\u003eOctober 27, 2009\u003c/td\u003e\n\u003ctd\u003e24\u003c/td\u003e\n\u003ctd\u003eIncludes: commentaries on 4 episodes A Night With Your Mother: Academy of Television Arts \u0026amp; Sciences Panel Discussion season recap Eriksen's Fight Club a music video (\"That Guy's Awesome\") a gag reel Also available on Blu-ray, and is the only season to have a subsequent Blu- ray release.\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\u003c/markdown-accessiblity-table\u003e\n\u003chr\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/How_I_Met_Your_Mother_season_5\" rel=\"nofollow\"\u003eThe Complete Season 5.\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/How_I_Met_Your_Mother_season_5\" rel=\"nofollow\"\u003eThe Suited-Up Edition\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eSeptember\n21, 2010\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eNovember 8,\n2010\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eOctober 27,\n24\n2010\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eIncludes:\u003c/p\u003e\n\u003cp dir=\"auto\"\u003ea gag reel\n\u003ca href=\"https://en.wikipedia.org/wiki/Nothing_Suits_Me_Like_a_Suit\" rel=\"nofollow\"\u003emusic videos for \"Super Date\", \"Nothing\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/Nothing_Suits_Me_Like_a_Suit\" rel=\"nofollow\"\u003eSuits Me Like a Suit\", and \"Best Night\u003c/a\u003e\nEver\"\n2 behind the scenes features\nmaking of \"Super Date\"\nbehind the scenes of the 100th episode\nan extended version of the \"Wedding\nBride\" trailer\na musical series recap.\u003c/p\u003e\n\u003cmarkdown-accessiblity-table\u003e\u003ctable\u003e\n\u003cthead\u003e\n\u003ctr\u003e\n\u003cth\u003eCol1\u003c/th\u003e\n\u003cth\u003eCol2\u003c/th\u003e\n\u003cth\u003eCol3\u003c/th\u003e\n\u003cth\u003eCol4\u003c/th\u003e\n\u003cth\u003eCol5\u003c/th\u003e\n\u003cth\u003emaking of \"Super Date\" behind the scenes of the 100th episode an extended version of the \"Wedding Bride\" trailer a musical series recap.\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd\u003eThe Complete Season 6. The New Is Always Better Edition\u003c/td\u003e\n\u003ctd\u003eSeptember 27, 2011\u003c/td\u003e\n\u003ctd\u003eOctober 3, 2011\u003c/td\u003e\n\u003ctd\u003eOctober 5, 2011\u003c/td\u003e\n\u003ctd\u003e24\u003c/td\u003e\n\u003ctd\u003eIncludes: a gag reel making of \"Subway Wars\" behind the scenes of \"Glitter\" commentaries on 3 episodes an extended performance of \"Stand By Me\" a season recap[155]\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eThe Complete Season 7. The Ducky Tie Edition\u003c/td\u003e\n\u003ctd\u003eOctober 2, 2012\u003c/td\u003e\n\u003ctd\u003eOctober 15, 2012\u003c/td\u003e\n\u003ctd\u003eOctober 10, 2012\u003c/td\u003e\n\u003ctd\u003e24\u003c/td\u003e\n\u003ctd\u003eIncludes: a gag reel 2 behind the scenes featurettes deleted scenes audio commentaries on 3 episodes a feature on Neil Patrick Harris' Hollywood Walk of Fame star.[156]\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eThe Complete Season 8. The Yellow Umbrella Edition\u003c/td\u003e\n\u003ctd\u003eOctober 1, 2013\u003c/td\u003e\n\u003ctd\u003eSeptember 30, 2013\u003c/td\u003e\n\u003ctd\u003eNovember 9, 2013\u003c/td\u003e\n\u003ctd\u003e24\u003c/td\u003e\n\u003ctd\u003eIncludes: deleted scenes audio commentary on \"Farmhampton\" and \"The Final Page\" music video for \"PS I Love You\" making of \"PS I Love You\" Where We Make Your Mother: Set Tour a gag reel.\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eThe 9th and Legendary Final Season. The Rest of Your Life Edition[157]\u003c/td\u003e\n\u003ctd\u003eSeptember 23, 2014\u003c/td\u003e\n\u003ctd\u003eOctober 13, 2014\u003c/td\u003e\n\u003ctd\u003eOctober 22, 2014\u003c/td\u003e\n\u003ctd\u003e24\u003c/td\u003e\n\u003ctd\u003eIncludes: Deleted Scenes Audio Commentary on \"The Locket\" Audio Commentary on \"The Rehearsal Dinner\" Audio Commentary on \"How Your Mother Met Me\" Last Forever Alternate Ending How It All Ends Cristin Milioti Audition Behind the Scenes of \"Gary Blauman\" Gag Reel[157]\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eThe Whole Story Seasons 1–9[157]\u003c/td\u003e\n\u003ctd\u003eSeptember 23, 2014\u003c/td\u003e\n\u003ctd\u003eOctober 13, 2014\u003c/td\u003e\n\u003ctd\u003eOctober 22, 2014\u003c/td\u003e\n\u003ctd\u003e208\u003c/td\u003e\n\u003ctd\u003eIncludes: All Out of Spoilers: Looking Back at Your Mother – A Retrospective Table Read of the Series Finale with the Entire Cast The Secret of the Pineapple Incident Revealed Meeting the Mother How I Met Your Mother at Comic-Con 2013–2014\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\u003c/markdown-accessiblity-table\u003e\n\u003chr\u003e\n\u003cp dir=\"auto\"\u003eHow We Filmed the Kids\nPlus All the Special Features from Every\nPrevious Season[[157]]\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Netflix\" rel=\"nofollow\"\u003eSeasons 1 through 9 were available to stream on Netflix in Austria, Canada, Finland, France, Germany, Ireland, Israel, Italy,\u003c/a\u003e\nLatin America, Lebanon, Turkey, Spain, Sweden, the Philippines, Romania, Russia, and the UK; season 9 was released on\n\u003ca href=\"https://en.wikipedia.org/wiki/Netflix\" rel=\"nofollow\"\u003eSeptember 26, 2014. But they were ultimately pulled and relocated to Disney+.[[158][159]] Seasons 1-9 were removed from Netflix\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/Hulu\" rel=\"nofollow\"\u003ein the United States as of November 13, 2017 and are now available on Hulu.[[160]] As of March 2020, Seasons 1 through 9 are\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/Amazon_Prime_Video\" rel=\"nofollow\"\u003eavailable on Amazon Prime Video in Brazil.[[161]] Seasons 1 through 9 are available to stream on Hotstar in India.[[162]] As of\u003c/a\u003e\nDecember 31, 2020, seasons 1-9 are removed from Netflix in The Netherlands. Seasons 1 to 9 were Previously available on\n\u003ca href=\"https://en.wikipedia.org/wiki/Netflix\" rel=\"nofollow\"\u003eNetflix, Stan and Star on Disney+ in Australia. But Disney has pulled the show from both Stan and Netflix making Disney+ the\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/Hulu\" rel=\"nofollow\"\u003eonly streaming service in Australia to watch the show. All nine seasons are available to stream on Hulu and Amazon Prime Video\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/7flix\" rel=\"nofollow\"\u003ein the US. Repeats in Australia are often shown on 7flix and on 7plus and are shown on Fox Comedy.\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003cstrong\u003eNote: The whole story DVD had a different package in Region 1 as opposed to Region 2 + 4\u003c/strong\u003e\u003c/p\u003e\n\u003cdiv class=\"markdown-heading\" dir=\"auto\"\u003e\u003ch2 tabindex=\"-1\" class=\"heading-element\" dir=\"auto\"\u003eReferences\u003c/h2\u003e\u003ca id=\"user-content-references\" class=\"anchor\" aria-label=\"Permalink: References\" href=\"#references\"\u003e\u003csvg class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"\u003e\u003cpath d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"\u003e\u003c/path\u003e\u003c/svg\u003e\u003c/a\u003e\u003c/div\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://web.archive.org/web/20110629050959/http://www.eonline.com/print/index.jsp?uuid=ae969501-d9e3-4679-900e-28fd88bbe95d\u0026amp;contentType=watchWithKristin\" rel=\"nofollow\"\u003e1. \"TV Summer School: How to Create and Run a Successful Sitcom\" (https://web.archive.org/web/2011062905095\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://web.archive.org/web/20110629050959/http://www.eonline.com/print/index.jsp?uuid=ae969501-d9e3-4679-900e-28fd88bbe95d\u0026amp;contentType=watchWithKristin\" rel=\"nofollow\"\u003e9/http://www.eonline.com/print/index.jsp?uuid=ae969501-d9e3-4679-900e-28fd88bbe95d\u0026amp;contentType=watchWit\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20110629050959/http://www.eonline.com/print/index.jsp?uuid=ae969501-d9e3-4679-900e-28fd88bbe95d\u0026amp;contentType=watchWithKristin\" rel=\"nofollow\"\u003ehKristin). E! Online. August 6, 2007. Archived from the original (http://www.eonline.com/print/index.jsp?uuid=ae96\u003c/a\u003e\n\u003ca href=\"http://www.eonline.com/print/index.jsp?uuid=ae969501-d9e3-4679-900e-28fd88bbe95d\u0026amp;contentType=watchWithKristin\" rel=\"nofollow\"\u003e9501-d9e3-4679-900e-28fd88bbe95d\u0026amp;contentType=watchWithKristin) on June 29, 2011. Retrieved\u003c/a\u003e\nNovember 11, 2009.\n\u003ca href=\"https://www.rottentomatoes.com/tv/how-i-met-your-mother/s08/\" rel=\"nofollow\"\u003e2. \"How I Met Your Mother: Season 8 (2012-2013)\" (https://www.rottentomatoes.com/tv/how-i-met-your-mother/s0\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://www.rottentomatoes.com/tv/how-i-met-your-mother/s08/\" rel=\"nofollow\"\u003e8/). Rotten Tomatoes. Archived (https://web.archive.org/web/20140530151629/http://www.rottentomatoes.com/tv/\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20140530151629/http://www.rottentomatoes.com/tv/how-i-met-your-mother/s08/\" rel=\"nofollow\"\u003ehow-i-met-your-mother/s08/) from the original on May 30, 2014. Retrieved June 9, 2014.\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20140531123734/http://www.televisionwithoutpity.com/show/how-i-met-your-mother/doppelgangers-1/10/\" rel=\"nofollow\"\u003e3. McLennan, Cindy. \"This Just In\" (https://web.archive.org/web/20140531123734/http://www.televisionwithoutpity.co\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://web.archive.org/web/20140531123734/http://www.televisionwithoutpity.com/show/how-i-met-your-mother/doppelgangers-1/10/\" rel=\"nofollow\"\u003em/show/how-i-met-your-mother/doppelgangers-1/10/). Television Without Pitty. Bravo Media. Archived from the\u003c/a\u003e\n\u003ca href=\"http://www.televisionwithoutpity.com/show/how-i-met-your-mother/doppelgangers-1/10/\" rel=\"nofollow\"\u003eoriginal (http://www.televisionwithoutpity.com/show/how-i-met-your-mother/doppelgangers-1/10/) on May 31,\u003c/a\u003e\n2014. Retrieved June 9, 2014.\n\u003ca href=\"https://www.ign.com/articles/2014/04/03/how-i-met-your-mother-season-9-review\" rel=\"nofollow\"\u003e4. Nicholson, Max (April 3, 2014). \"HOW I MET YOUR MOTHER: SEASON 9 REVIEW: THE BIG FAT MISDIRECT\"\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://www.ign.com/articles/2014/04/03/how-i-met-your-mother-season-9-review\" rel=\"nofollow\"\u003e(https://www.ign.com/articles/2014/04/03/how-i-met-your-mother-season-9-review). IGN Entertainment Inc.\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20181006160742/http://www.ign.com/articles/2014/04/03/how-i-met-your-mother-season-9-review\" rel=\"nofollow\"\u003eArchived (https://web.archive.org/web/20181006160742/http://www.ign.com/articles/2014/04/03/how-i-met-your-m\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20181006160742/http://www.ign.com/articles/2014/04/03/how-i-met-your-mother-season-9-review\" rel=\"nofollow\"\u003eother-season-9-review) from the original on October 6, 2018. Retrieved June 9, 2014.\u003c/a\u003e\n\u003ca href=\"http://www.whedon.info/Alyson-Hannigan-How-I-Met-Your,14745.html\" rel=\"nofollow\"\u003e5. \"Alyson Hannigan – \"How I Met Your Mother\" Sitcom – William S. Paley TV Fest\" (http://www.whedon.info/Alyson-\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"http://www.whedon.info/Alyson-Hannigan-How-I-Met-Your,14745.html\" rel=\"nofollow\"\u003eHannigan-How-I-Met-Your,14745.html). Whedon.info. March 28, 2006. Archived (https://web.archive.org/web/200\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20091124094436/http://www.whedon.info/Alyson-Hannigan-How-I-Met-Your,14745.html\" rel=\"nofollow\"\u003e91124094436/http://www.whedon.info/Alyson-Hannigan-How-I-Met-Your,14745.html) from the original on\u003c/a\u003e\nNovember 24, 2009. Retrieved February 13, 2010.\n\u003ca href=\"http://featuresblogs.chicagotribune.com/entertainment_tv/2006/04/craig_thomas.html#more\" rel=\"nofollow\"\u003e6. Ryan, Maureen (April 27, 2006). \"Craig Thomas: 'Sitcoms used to be about something' \" (http://featuresblogs.chic\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"http://featuresblogs.chicagotribune.com/entertainment_tv/2006/04/craig_thomas.html#more\" rel=\"nofollow\"\u003eagotribune.com/entertainment_tv/2006/04/craig_thomas.html#more). Chicago Tribune. Archived (https://web.archi\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20180920011544/http://featuresblogs.chicagotribune.com/entertainment_tv/2006/04/craig_thomas.html#more\" rel=\"nofollow\"\u003eve.org/web/20180920011544/http://featuresblogs.chicagotribune.com/entertainment_tv/2006/04/craig_thomas.ht\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20180920011544/http://featuresblogs.chicagotribune.com/entertainment_tv/2006/04/craig_thomas.html#more\" rel=\"nofollow\"\u003eml#more) from the original on September 20, 2018. Retrieved April 8, 2014.\u003c/a\u003e\n\u003ca href=\"http://www.thefutoncritic.com/interviews/2010/01/08/live-at-the-paley-center-for-media-how-i-met-your-mother-34073/20100108_howimetyourmother/\" rel=\"nofollow\"\u003e7. Sullivan, Brian Ford (January 8, 2010). \"Live at the Paley Center for Media: \"How I Met Your Mother\" \" (http://ww\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"http://www.thefutoncritic.com/interviews/2010/01/08/live-at-the-paley-center-for-media-how-i-met-your-mother-34073/20100108_howimetyourmother/\" rel=\"nofollow\"\u003ew.thefutoncritic.com/interviews/2010/01/08/live-at-the-paley-center-for-media-how-i-met-your-mother-34073/2010\u003c/a\u003e\n\u003ca href=\"http://www.thefutoncritic.com/interviews/2010/01/08/live-at-the-paley-center-for-media-how-i-met-your-mother-34073/20100108_howimetyourmother/\" rel=\"nofollow\"\u003e0108_howimetyourmother/). The Futon Critic. Archived (https://archive.today/20130111132428/http://www.thefuto\u003c/a\u003e\n\u003ca href=\"https://archive.today/20130111132428/http://www.thefutoncritic.com/interviews/2010/01/08/live-at-the-paley-center-for-media-how-i-met-your-mother-34073/20100108_howimetyourmother/\" rel=\"nofollow\"\u003encritic.com/interviews/2010/01/08/live-at-the-paley-center-for-media-how-i-met-your-mother-34073/20100108_ho\u003c/a\u003e\n\u003ca href=\"https://archive.today/20130111132428/http://www.thefutoncritic.com/interviews/2010/01/08/live-at-the-paley-center-for-media-how-i-met-your-mother-34073/20100108_howimetyourmother/\" rel=\"nofollow\"\u003ewimetyourmother/) from the original on January 11, 2013. Retrieved June 10, 2012.\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20090314121342/http://www.venturacountystar.com/news/2008/apr/26/well-dressed-womanizer/\" rel=\"nofollow\"\u003e8. Dransfeldt, Jeffrey (April 26, 2008). \"Harris is enjoying Barney's adventures in How I Met Your Mother\" (https://we\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://web.archive.org/web/20090314121342/http://www.venturacountystar.com/news/2008/apr/26/well-dressed-womanizer/\" rel=\"nofollow\"\u003eb.archive.org/web/20090314121342/http://www.venturacountystar.com/news/2008/apr/26/well-dressed-womanize\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20090314121342/http://www.venturacountystar.com/news/2008/apr/26/well-dressed-womanizer/\" rel=\"nofollow\"\u003er/). Ventura County Star. Archived from the original (http://www.venturacountystar.com/news/2008/apr/26/well-dre\u003c/a\u003e\n\u003ca href=\"http://www.venturacountystar.com/news/2008/apr/26/well-dressed-womanizer/\" rel=\"nofollow\"\u003essed-womanizer/) on March 14, 2009. Retrieved April 8, 2014.\u003c/a\u003e\n\u003ca href=\"https://archive.today/20130615175533/http://www.buffalo.com/arts-entertainment/blog/a-chat-with-bob-saget-interview\" rel=\"nofollow\"\u003e9. Przybyla, Kathryn (April 30, 2012). \"A Chat with Bob Saget\" (https://archive.today/20130615175533/http://www.bu\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://archive.today/20130615175533/http://www.buffalo.com/arts-entertainment/blog/a-chat-with-bob-saget-interview\" rel=\"nofollow\"\u003effalo.com/arts-entertainment/blog/a-chat-with-bob-saget-interview). The Buffalo News. Archived from the original\u003c/a\u003e\n\u003ca href=\"http://www.buffalo.com/arts-entertainment/blog/a-chat-with-bob-saget-interview\" rel=\"nofollow\"\u003e(http://www.buffalo.com/arts-entertainment/blog/a-chat-with-bob-saget-interview) on June 15, 2013. Retrieved\u003c/a\u003e\nMay 25, 2013.\n\u003ca href=\"https://www.reddit.com/r/IAmA/comments/227c04/im_bob_sagetcomedian_actor_and_author_of_the_new/cgk1ws4?context=3\" rel=\"nofollow\"\u003e10. Saget, Bob (April 4, 2014). \"Did they show you filmed and cut episodes, or did you just do it all at once?\" (https://\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://www.reddit.com/r/IAmA/comments/227c04/im_bob_sagetcomedian_actor_and_author_of_the_new/cgk1ws4?context=3\" rel=\"nofollow\"\u003ewww.reddit.com/r/IAmA/comments/227c04/im_bob_sagetcomedian_actor_and_author_of_the_new/cgk1ws4?con\u003c/a\u003e\n\u003ca href=\"https://www.reddit.com/r/IAmA/comments/227c04/im_bob_sagetcomedian_actor_and_author_of_the_new/cgk1ws4?context=3\" rel=\"nofollow\"\u003etext=3). Reddit. Archived (https://web.archive.org/web/20141208203725/http://www.reddit.com/r/IAmA/comments/\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20141208203725/http://www.reddit.com/r/IAmA/comments/227c04/im_bob_sagetcomedian_actor_and_author_of_the_new/cgk1ws4?context=3\" rel=\"nofollow\"\u003e227c04/im_bob_sagetcomedian_actor_and_author_of_the_new/cgk1ws4?context=3) from the original on\u003c/a\u003e\nDecember 8, 2014. Retrieved April 4, 2014.\u003c/p\u003e\n\u003chr\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://www.reddit.com/r/IAmA/comments/227c04/im_bob_sagetcomedian_actor_and_author_of_the_new/cgk1zxu?context=3\" rel=\"nofollow\"\u003ethe series finale of HIMYM and not you?\" (https://www.reddit.com/r/IAmA/comments/227c04/im_bob_sagetcomed\u003c/a\u003e\n\u003ca href=\"https://www.reddit.com/r/IAmA/comments/227c04/im_bob_sagetcomedian_actor_and_author_of_the_new/cgk1zxu?context=3\" rel=\"nofollow\"\u003eian_actor_and_author_of_the_new/cgk1zxu?context=3). Reddit. Archived (https://web.archive.org/web/20170301\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20170301004833/https://www.reddit.com/r/IAmA/comments/227c04/im_bob_sagetcomedian_actor_and_author_of_the_new/cgk1zxu/?context=3\" rel=\"nofollow\"\u003e004833/https://www.reddit.com/r/IAmA/comments/227c04/im_bob_sagetcomedian_actor_and_author_of_the_ne\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20170301004833/https://www.reddit.com/r/IAmA/comments/227c04/im_bob_sagetcomedian_actor_and_author_of_the_new/cgk1zxu/?context=3\" rel=\"nofollow\"\u003ew/cgk1zxu/?context=3) from the original on March 1, 2017. Retrieved April 4, 2014.\u003c/a\u003e\n\u003ca href=\"http://insidetv.ew.com/2013/05/13/how-i-met-your-mother-cristin-milioti/\" rel=\"nofollow\"\u003e12. Stransky, Tanner (May 13, 2013). \" 'HIMYM' unveils the mother! The creators answer your burning questions\" (htt\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"http://insidetv.ew.com/2013/05/13/how-i-met-your-mother-cristin-milioti/\" rel=\"nofollow\"\u003ep://insidetv.ew.com/2013/05/13/how-i-met-your-mother-cristin-milioti/). Entertainment Weekly. Archived (https://we\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20130808135748/http://insidetv.ew.com/2013/05/13/how-i-met-your-mother-cristin-milioti/\" rel=\"nofollow\"\u003eb.archive.org/web/20130808135748/http://insidetv.ew.com/2013/05/13/how-i-met-your-mother-cristin-milioti/) from\u003c/a\u003e\nthe original on August 8, 2013. Retrieved May 13, 2013.\n\u003ca href=\"http://www.eonline.com/news/506849/jennifer-love-hewitt-turned-down-how-i-met-your-mother-plus-series-finale-secrets-revealed\" rel=\"nofollow\"\u003e13. \"Jennifer Love Hewitt Turned Down How I Met Your Mother?!\" (http://www.eonline.com/news/506849/jennifer-love\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"http://www.eonline.com/news/506849/jennifer-love-hewitt-turned-down-how-i-met-your-mother-plus-series-finale-secrets-revealed\" rel=\"nofollow\"\u003e-hewitt-turned-down-how-i-met-your-mother-plus-series-finale-secrets-revealed). E! Online. February 3, 2014.\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20140222221019/http://www.eonline.com/news/506849/jennifer-love-hewitt-turned-down-how-i-met-your-mother-plus-series-finale-secrets-revealed\" rel=\"nofollow\"\u003eArchived (https://web.archive.org/web/20140222221019/http://www.eonline.com/news/506849/jennifer-love-hewitt\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20140222221019/http://www.eonline.com/news/506849/jennifer-love-hewitt-turned-down-how-i-met-your-mother-plus-series-finale-secrets-revealed\" rel=\"nofollow\"\u003e-turned-down-how-i-met-your-mother-plus-series-finale-secrets-revealed) from the original on February 22, 2014.\u003c/a\u003e\nRetrieved February 3, 2014.\n14. Entertainment Weekly (September 6, 2013).\n\u003ca href=\"http://www.jimcolucci.com/files/CBS_Watch_Apr_08_How_They_Created_Mother.pdf\" rel=\"nofollow\"\u003e15. Colucci, Jim (April 2008). \"How They Created Mother\" (http://www.jimcolucci.com/files/CBS_Watch_Apr_08_How\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"http://www.jimcolucci.com/files/CBS_Watch_Apr_08_How_They_Created_Mother.pdf\" rel=\"nofollow\"\u003e_They_Created_Mother.pdf) (PDF). Watch! The CBS Magazine. Archived (https://web.archive.org/web/20131017\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20131017231451/http://www.jimcolucci.com/files/CBS_Watch_Apr_08_How_They_Created_Mother.pdf\" rel=\"nofollow\"\u003e231451/http://www.jimcolucci.com/files/CBS_Watch_Apr_08_How_They_Created_Mother.pdf) (PDF) from the\u003c/a\u003e\noriginal on October 17, 2013. Retrieved April 8, 2014.\n16. How I Met Your Mother 1st Season DVD Commentary\n\u003ca href=\"https://web.archive.org/web/20070513030858/http://www.tvsquad.com/2007/05/11/carter-bays-of-how-i-met-your-mother-the-tv-squad-interview/\" rel=\"nofollow\"\u003e17. Keller, Joel (May 11, 2007). \"Carter Bays of How I Met Your Mother: The TV Squad Interview\" (https://web.archiv\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://web.archive.org/web/20070513030858/http://www.tvsquad.com/2007/05/11/carter-bays-of-how-i-met-your-mother-the-tv-squad-interview/\" rel=\"nofollow\"\u003ee.org/web/20070513030858/http://www.tvsquad.com/2007/05/11/carter-bays-of-how-i-met-your-mother-the-tv-squ\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20070513030858/http://www.tvsquad.com/2007/05/11/carter-bays-of-how-i-met-your-mother-the-tv-squad-interview/\" rel=\"nofollow\"\u003ead-interview/). tvsquad.com. Archived from the original (http://www.tvsquad.com/2007/05/11/carter-bays-of-how-i-\u003c/a\u003e\n\u003ca href=\"http://www.tvsquad.com/2007/05/11/carter-bays-of-how-i-met-your-mother-the-tv-squad-interview/\" rel=\"nofollow\"\u003emet-your-mother-the-tv-squad-interview/) on May 13, 2007. Retrieved November 11, 2009.\u003c/a\u003e\n\u003ca href=\"http://www.cbs.com/shows/how_i_met_your_mother/photos/62453/season-7-behind-the-scenes/62450\" rel=\"nofollow\"\u003e18. \"Season 7 Behind the Scenes\" (http://www.cbs.com/shows/how_i_met_your_mother/photos/62453/season-7-behi\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"http://www.cbs.com/shows/how_i_met_your_mother/photos/62453/season-7-behind-the-scenes/62450\" rel=\"nofollow\"\u003end-the-scenes/62450). CBS. August 13, 2011. Archived (https://web.archive.org/web/20111027075347/http://ww\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20111027075347/http://www.cbs.com/shows/how_i_met_your_mother/photos/62453/season-7-behind-the-scenes/62450\" rel=\"nofollow\"\u003ew.cbs.com/shows/how_i_met_your_mother/photos/62453/season-7-behind-the-scenes/62450) from the original\u003c/a\u003e\non October 27, 2011. Retrieved April 8, 2014.\n19. Audio commentary at 00:58 min. of the HIMYM – Season 1 DVD\n\u003ca href=\"https://web.archive.org/web/20181019175749/http://featuresblogs.chicagotribune.com/entertainment_tv/2007/01/how_i_met_your_.html\" rel=\"nofollow\"\u003e20. Ryan, Maureen (January 15, 2007). \"The Watcher: How 'How I Met Your Mother' is not a traditional sitcom\" (http\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://web.archive.org/web/20181019175749/http://featuresblogs.chicagotribune.com/entertainment_tv/2007/01/how_i_met_your_.html\" rel=\"nofollow\"\u003es://web.archive.org/web/20181019175749/http://featuresblogs.chicagotribune.com/entertainment_tv/2007/01/how\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20181019175749/http://featuresblogs.chicagotribune.com/entertainment_tv/2007/01/how_i_met_your_.html\" rel=\"nofollow\"\u003e\u003cem\u003ei_met_your\u003c/em\u003e.html). Chicago Tribune. Archived from the original (http://featuresblogs.chicagotribune.com/entertai\u003c/a\u003e\n\u003ca href=\"http://featuresblogs.chicagotribune.com/entertainment_tv/2007/01/how_i_met_your_.html\" rel=\"nofollow\"\u003enment_tv/2007/01/how_i_met_your_.html) on October 19, 2018. Retrieved December 22, 2009.\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20100515042234/http://blog.zap2it.com/korbitv/2008/05/how-i-met-your-mothers-craig-thomas-on-ted-barneys-breakup-eriksen-babies-and-the-future-of-robarn.html\" rel=\"nofollow\"\u003e21. Ghosh, Korbi. \" 'How I Met Your Mother's' Craig Thomas on Ted \u0026amp; Barney's Breakup, Eriksen Babies and The\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://web.archive.org/web/20100515042234/http://blog.zap2it.com/korbitv/2008/05/how-i-met-your-mothers-craig-thomas-on-ted-barneys-breakup-eriksen-babies-and-the-future-of-robarn.html\" rel=\"nofollow\"\u003eFuture of Robarn\" (https://web.archive.org/web/20100515042234/http://blog.zap2it.com/korbitv/2008/05/how-i-me\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20100515042234/http://blog.zap2it.com/korbitv/2008/05/how-i-met-your-mothers-craig-thomas-on-ted-barneys-breakup-eriksen-babies-and-the-future-of-robarn.html\" rel=\"nofollow\"\u003et-your-mothers-craig-thomas-on-ted-barneys-breakup-eriksen-babies-and-the-future-of-robarn.html). Zap2it.com.\u003c/a\u003e\n\u003ca href=\"http://blog.zap2it.com/korbitv/2008/05/how-i-met-your-mothers-craig-thomas-on-ted-barneys-breakup-eriksen-babies-and-the-future-of-robarn.html\" rel=\"nofollow\"\u003eArchived from the original (http://blog.zap2it.com/korbitv/2008/05/how-i-met-your-mothers-craig-thomas-on-ted-ba\u003c/a\u003e\n\u003ca href=\"http://blog.zap2it.com/korbitv/2008/05/how-i-met-your-mothers-craig-thomas-on-ted-barneys-breakup-eriksen-babies-and-the-future-of-robarn.html\" rel=\"nofollow\"\u003erneys-breakup-eriksen-babies-and-the-future-of-robarn.html) on May 15, 2010. Retrieved April 8, 2014. \"[He is] a\u003c/a\u003e\nguy who is telling the story so many years in the future, and he jumbles it up in his memory a little bit. He can be\nan unreliable narrator.\"\n\u003ca href=\"https://web.archive.org/web/20081004125236/http://www.televisionwithoutpity.com/show/how_i_met_your_mother/the_craig_thomas_interview.php\" rel=\"nofollow\"\u003e22. \"Suit Up for How I Met Your Mother Scoops\" (https://web.archive.org/web/20081004125236/http://www.television\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://web.archive.org/web/20081004125236/http://www.televisionwithoutpity.com/show/how_i_met_your_mother/the_craig_thomas_interview.php\" rel=\"nofollow\"\u003ewithoutpity.com/show/how_i_met_your_mother/the_craig_thomas_interview.php). Television Without Pity.\u003c/a\u003e\n\u003ca href=\"http://www.televisionwithoutpity.com/show/how_i_met_your_mother/the_craig_thomas_interview.php\" rel=\"nofollow\"\u003eOctober 3, 2008. Archived from the original (http://www.televisionwithoutpity.com/show/how_i_met_your_mother/t\u003c/a\u003e\n\u003ca href=\"http://www.televisionwithoutpity.com/show/how_i_met_your_mother/the_craig_thomas_interview.php\" rel=\"nofollow\"\u003ehe_craig_thomas_interview.php) on October 4, 2008. Retrieved October 7, 2011. \"It's nice to go [online] and see\u003c/a\u003e\nhow much continuity matters to people within the universe of a show. That's absolutely true for me, too.\n\u003ca href=\"https://en.wikipedia.org/wiki/Buffy_the_Vampire_Slayer\" rel=\"nofollow\"\u003eWhenever there's the slightest inconsistency in a Buffy episode or Friends or something, my wife and I would sit\u003c/a\u003e\non the couch and throw stuff at the TV ... When we're doing stuff in the writers room, I really try and remember\nthat.\"\n\u003ca href=\"http://featuresblogs.chicagotribune.com/entertainment_tv/2008/07/barney-writes-a.html\" rel=\"nofollow\"\u003e23. Ryan, Maureen (July 19, 2008). \"Barney writes a book, Barney + Robin, Ted + Stella and other 'How I Met Your\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"http://featuresblogs.chicagotribune.com/entertainment_tv/2008/07/barney-writes-a.html\" rel=\"nofollow\"\u003eMother' news\" (http://featuresblogs.chicagotribune.com/entertainment_tv/2008/07/barney-writes-a.html). Chicago\u003c/a\u003e\n\u003cem\u003e\u003ca href=\"https://web.archive.org/web/20080723002345/http://featuresblogs.chicagotribune.com/entertainment_tv/2008/07/barney-writes-a.html\" rel=\"nofollow\"\u003eTribune. Archived (https://web.archive.org/web/20080723002345/http://featuresblogs.chicagotribune.com/entertai\u003c/a\u003e\u003c/em\u003e\n\u003ca href=\"https://web.archive.org/web/20080723002345/http://featuresblogs.chicagotribune.com/entertainment_tv/2008/07/barney-writes-a.html\" rel=\"nofollow\"\u003enment_tv/2008/07/barney-writes-a.html) from the original on July 23, 2008. Retrieved April 8, 2014. \"He did reveal\u003c/a\u003e\nthat more than two years ago ... With only the two kids who play Ted's future children ... they shot a scene that\ndirectly relates to the identity of the mother. That scene will be included in the show's series finale, which Thomas\nsaid he hopes 'people will see in 2012.' \"\n\u003ca href=\"https://web.archive.org/web/20080216054051/http://www.zap2it.com/tv/news/zap-cbsreturndates%2C0%2C7656374.story\" rel=\"nofollow\"\u003e24. \"CBS Sets Series Return Dates\" (https://web.archive.org/web/20080216054051/http://www.zap2it.com/tv/news/za\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://web.archive.org/web/20080216054051/http://www.zap2it.com/tv/news/zap-cbsreturndates%2C0%2C7656374.story\" rel=\"nofollow\"\u003ep-cbsreturndates%2C0%2C7656374.story). zap2it. Archived from the original (http://www.zap2it.com/tv/news/zap\u003c/a\u003e\n\u003ca href=\"http://www.zap2it.com/tv/news/zap-cbsreturndates,0,7656374.story\" rel=\"nofollow\"\u003e-cbsreturndates,0,7656374.story) on February 16, 2008. Retrieved February 13, 2008.\u003c/a\u003e\n\u003ca href=\"http://www.thefutoncritic.com/news.aspx?id=20080220cbs01\" rel=\"nofollow\"\u003e25. \"Breaking News – \"The Big Bang Theory\" And \"How I Met Your Mother\" To Swap Time Periods\" (http://www.thefut\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"http://www.thefutoncritic.com/news.aspx?id=20080220cbs01\" rel=\"nofollow\"\u003eoncritic.com/news.aspx?id=20080220cbs01). TheFutonCritic.com. February 20, 2008. Retrieved April 8, 2014.\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20081216075634/http://www.broadcastingcable.com/article/CA6560732.html?industryid=47172\" rel=\"nofollow\"\u003e26. \"Upfront: CBS Releases Full Schedule\" (https://web.archive.org/web/20081216075634/http://www.broadcastingca\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://web.archive.org/web/20081216075634/http://www.broadcastingcable.com/article/CA6560732.html?industryid=47172\" rel=\"nofollow\"\u003eble.com/article/CA6560732.html?industryid=47172). Broadcastingcable.co. Archived from the original (http://www.\u003c/a\u003e\n\u003ca href=\"http://www.broadcastingcable.com/article/CA6560732.html?industryid=47172\" rel=\"nofollow\"\u003ebroadcastingcable.com/article/CA6560732.html?industryid=47172) on December 16, 2008. Retrieved May 14,\u003c/a\u003e\n2008.\u003c/p\u003e\n\u003chr\u003e\n\u003cp dir=\"auto\"\u003e\u003cem\u003e\u003ca href=\"https://web.archive.org/web/20081216104104/http://futoncritic.com/news.aspx?id=20080626cbs01\" rel=\"nofollow\"\u003eCritic. June 26, 2008. Archived (https://web.archive.org/web/20081216104104/http://futoncritic.com/news.aspx?id\u003c/a\u003e\u003c/em\u003e\n\u003ca href=\"https://web.archive.org/web/20081216104104/http://futoncritic.com/news.aspx?id=20080626cbs01\" rel=\"nofollow\"\u003e=20080626cbs01) from the original on December 16, 2008. Retrieved April 8, 2014.\u003c/a\u003e\n\u003ca href=\"https://www.hollywoodreporter.com/hr/content_display/television/news/e3i6981db61c01d2a4deec48edaedd4cde9\" rel=\"nofollow\"\u003e28. Nordyke, Kimberly (September 24, 2008). \" 'Mother' reruns nest at Lifetime\" (https://www.hollywoodreporter.com/h\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://www.hollywoodreporter.com/hr/content_display/television/news/e3i6981db61c01d2a4deec48edaedd4cde9\" rel=\"nofollow\"\u003er/content_display/television/news/e3i6981db61c01d2a4deec48edaedd4cde9). The Hollywood Reporter. Archived\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20081122105804/http://www.hollywoodreporter.com/hr/content_display/television/news/e3i6981db61c01d2a4deec48edaedd4cde9\" rel=\"nofollow\"\u003e(https://web.archive.org/web/20081122105804/http://www.hollywoodreporter.com/hr/content_display/television/ne\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20081122105804/http://www.hollywoodreporter.com/hr/content_display/television/news/e3i6981db61c01d2a4deec48edaedd4cde9\" rel=\"nofollow\"\u003ews/e3i6981db61c01d2a4deec48edaedd4cde9) from the original on November 22, 2008. Retrieved April 17, 2020.\u003c/a\u003e\n\"Lifetime's four-year licensing deal includes up to eight seasons of \"Mother\", should the CBS comedy run that\nlong. \"Mother\" had a big fourth-season premiere Monday, jumping 21% in the ratings over last season.\"\n\u003ca href=\"http://tvseriesfinale.com/tv-show/how-i-met-your-mother-syndication-deal-ensures-season-five-for-sitcom/\" rel=\"nofollow\"\u003e29. \"How I Met Your Mother: Syndication Deal Ensures Season Five for Sitcom\" (http://tvseriesfinale.com/tv-show/ho\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"http://tvseriesfinale.com/tv-show/how-i-met-your-mother-syndication-deal-ensures-season-five-for-sitcom/\" rel=\"nofollow\"\u003ew-i-met-your-mother-syndication-deal-ensures-season-five-for-sitcom/). tvseriesfinale.co. September 17, 2008.\u003c/a\u003e\n\u003ca href=\"https://archive.today/20140408205954/http://tvseriesfinale.com/tv-show/how-i-met-your-mother-syndication-deal-ensures-season-five-for-sitcom/\" rel=\"nofollow\"\u003eArchived (https://archive.today/20140408205954/http://tvseriesfinale.com/tv-show/how-i-met-your-mother-syndica\u003c/a\u003e\n\u003ca href=\"https://archive.today/20140408205954/http://tvseriesfinale.com/tv-show/how-i-met-your-mother-syndication-deal-ensures-season-five-for-sitcom/\" rel=\"nofollow\"\u003etion-deal-ensures-season-five-for-sitcom/) from the original on April 8, 2014. Retrieved April 8, 2014.\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20180930102458/http://featuresblogs.chicagotribune.com/entertainment_tv/2009/04/how-i-met-your-mother-cbs-alyson-hannigan.html\" rel=\"nofollow\"\u003e30. \"How 'How I Met Your Mother' dealt with 2 pregnant stars, and what's coming next on the comedy - The Watcher\"\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://web.archive.org/web/20180930102458/http://featuresblogs.chicagotribune.com/entertainment_tv/2009/04/how-i-met-your-mother-cbs-alyson-hannigan.html\" rel=\"nofollow\"\u003e(https://web.archive.org/web/20180930102458/http://featuresblogs.chicagotribune.com/entertainment_tv/2009/04/\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20180930102458/http://featuresblogs.chicagotribune.com/entertainment_tv/2009/04/how-i-met-your-mother-cbs-alyson-hannigan.html\" rel=\"nofollow\"\u003ehow-i-met-your-mother-cbs-alyson-hannigan.html). featuresblogs.chicagotribune.com. Archived from the original\u003c/a\u003e\n\u003ca href=\"http://featuresblogs.chicagotribune.com/entertainment_tv/2009/04/how-i-met-your-mother-cbs-alyson-hannigan.html\" rel=\"nofollow\"\u003e(http://featuresblogs.chicagotribune.com/entertainment_tv/2009/04/how-i-met-your-mother-cbs-alyson-hannigan.h\u003c/a\u003e\n\u003ca href=\"http://featuresblogs.chicagotribune.com/entertainment_tv/2009/04/how-i-met-your-mother-cbs-alyson-hannigan.html\" rel=\"nofollow\"\u003etml) on September 30, 2018. Retrieved June 8, 2017.\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20090522102831/http://ausiellofiles.ew.com/2009/05/exclusive-witho.html\" rel=\"nofollow\"\u003e31. Ausiello, Michael (May 19, 2009). \"Exclusive: 'Without a Trace,' 'Privileged,' canceled, 'Gossip' spin-off DOA\" (http\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://web.archive.org/web/20090522102831/http://ausiellofiles.ew.com/2009/05/exclusive-witho.html\" rel=\"nofollow\"\u003es://web.archive.org/web/20090522102831/http://ausiellofiles.ew.com/2009/05/exclusive-witho.html).\u003c/a\u003e\n\u003cem\u003e\u003ca href=\"http://ausiellofiles.ew.com/2009/05/exclusive-witho.html\" rel=\"nofollow\"\u003eEntertainment Weekly. Archived from the original (http://ausiellofiles.ew.com/2009/05/exclusive-witho.html) on\u003c/a\u003e\u003c/em\u003e\nMay 22, 2009. Retrieved April 8, 2014.\n\u003ca href=\"https://www.hollywoodreporter.com/hr/content_display/news/e3iab98e96f89cc5a36341b1e5e5ec23dbc\" rel=\"nofollow\"\u003e32. Andreeva, Nellie (January 25, 2010). \" 'How I Met Your Mother' meets Season 6\" (https://www.hollywoodreporter.c\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://www.hollywoodreporter.com/hr/content_display/news/e3iab98e96f89cc5a36341b1e5e5ec23dbc\" rel=\"nofollow\"\u003eom/hr/content_display/news/e3iab98e96f89cc5a36341b1e5e5ec23dbc). The Hollywood Reporter. Archived (http\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20100130112728/http://www.hollywoodreporter.com/hr/content_display/news/e3iab98e96f89cc5a36341b1e5e5ec23dbc\" rel=\"nofollow\"\u003es://web.archive.org/web/20100130112728/http://www.hollywoodreporter.com/hr/content_display/news/e3iab98e9\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20100130112728/http://www.hollywoodreporter.com/hr/content_display/news/e3iab98e96f89cc5a36341b1e5e5ec23dbc\" rel=\"nofollow\"\u003e6f89cc5a36341b1e5e5ec23dbc) from the original on January 30, 2010. Retrieved April 8, 2014.\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20081009011641/http://www.televisionwithoutpity.com/show/how_i_met_your_mother/the_craig_thomas_interview.php?page=10\" rel=\"nofollow\"\u003e33. Cohn, Angel (October 3, 2008). \"Suit Up for How I Met Your Mother Scoops\" (https://web.archive.org/web/200810\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://web.archive.org/web/20081009011641/http://www.televisionwithoutpity.com/show/how_i_met_your_mother/the_craig_thomas_interview.php?page=10\" rel=\"nofollow\"\u003e09011641/http://www.televisionwithoutpity.com/show/how_i_met_your_mother/the_craig_thomas_interview.php?p\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20081009011641/http://www.televisionwithoutpity.com/show/how_i_met_your_mother/the_craig_thomas_interview.php?page=10\" rel=\"nofollow\"\u003eage=10). Television Without Pity. Archived from the original (http://www.televisionwithoutpity.com/show/how_i_me\u003c/a\u003e\n\u003ca href=\"http://www.televisionwithoutpity.com/show/how_i_met_your_mother/the_craig_thomas_interview.php?page=10\" rel=\"nofollow\"\u003et_your_mother/the_craig_thomas_interview.php?page=10) on October 9, 2008. Retrieved April 8, 2014.\u003c/a\u003e\n\u003ca href=\"http://latimesblogs.latimes.com/showtracker/2010/12/how-i-met-your-mother-buffys-danny-strong-alexis-denisof-to-guest.html\" rel=\"nofollow\"\u003e34. Gelman, Vlada (April 8, 2014). \" 'How I Met Your Mother': 'Buffy's' Danny Strong, Alexis Denisof to guest\" (http://la\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"http://latimesblogs.latimes.com/showtracker/2010/12/how-i-met-your-mother-buffys-danny-strong-alexis-denisof-to-guest.html\" rel=\"nofollow\"\u003etimesblogs.latimes.com/showtracker/2010/12/how-i-met-your-mother-buffys-danny-strong-alexis-denisof-to-guest.\u003c/a\u003e\n\u003ca href=\"http://latimesblogs.latimes.com/showtracker/2010/12/how-i-met-your-mother-buffys-danny-strong-alexis-denisof-to-guest.html\" rel=\"nofollow\"\u003ehtml). Los Angeles Times. Archived (https://web.archive.org/web/20101219165942/http://latimesblogs.latimes.co\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20101219165942/http://latimesblogs.latimes.com/showtracker/2010/12/how-i-met-your-mother-buffys-danny-strong-alexis-denisof-to-guest.html\" rel=\"nofollow\"\u003em/showtracker/2010/12/how-i-met-your-mother-buffys-danny-strong-alexis-denisof-to-guest.html) from the\u003c/a\u003e\noriginal on December 19, 2010. Retrieved January 4, 2011.\n\u003ca href=\"http://insidetv.ew.com/2011/03/04/how-i-met-your-mother-renewed/\" rel=\"nofollow\"\u003e35. Hibberd, James (March 4, 2011). \" 'How I met Your Mother' renewed for two seasons\" (http://insidetv.ew.com/201\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"http://insidetv.ew.com/2011/03/04/how-i-met-your-mother-renewed/\" rel=\"nofollow\"\u003e1/03/04/how-i-met-your-mother-renewed/). Entertainment Weekly. Archived (https://web.archive.org/web/2011030\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20110306072905/http://insidetv.ew.com/2011/03/04/how-i-met-your-mother-renewed/\" rel=\"nofollow\"\u003e6072905/http://insidetv.ew.com/2011/03/04/how-i-met-your-mother-renewed/) from the original on March 6, 2011.\u003c/a\u003e\nRetrieved April 8, 2014.\n\u003ca href=\"http://www.cbspressexpress.com/div.php/cbs_entertainment/release?id=28633\" rel=\"nofollow\"\u003e36. \"CBS announces 2011–2012 premiere dates\" (http://www.cbspressexpress.com/div.php/cbs_entertainment/releas\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"http://www.cbspressexpress.com/div.php/cbs_entertainment/release?id=28633\" rel=\"nofollow\"\u003ee?id=28633) (Press release). CBS Express. June 29, 2011. Archived (https://web.archive.org/web/201109240137\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20110924013728/http://www.cbspressexpress.com/div.php/cbs_entertainment/release?id=28633\" rel=\"nofollow\"\u003e28/http://www.cbspressexpress.com/div.php/cbs_entertainment/release?id=28633) from the original on\u003c/a\u003e\nSeptember 24, 2011. Retrieved April 8, 2014.\n\u003ca href=\"http://blog.sitcomsonline.com/2011/07/fx-fall-2011-schedule-has-how-i-met.html\" rel=\"nofollow\"\u003e37. \"FX Fall 2011 Schedule Has How I Met Your Mother; The Nanny Reunion on Happily Divorced\" (http://blog.sitcom\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"http://blog.sitcomsonline.com/2011/07/fx-fall-2011-schedule-has-how-i-met.html\" rel=\"nofollow\"\u003esonline.com/2011/07/fx-fall-2011-schedule-has-how-i-met.html) (Press release). Sitcoms Online. July 27, 2011.\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20110824031750/http://blog.sitcomsonline.com/2011/07/fx-fall-2011-schedule-has-how-i-met.html\" rel=\"nofollow\"\u003eArchived (https://web.archive.org/web/20110824031750/http://blog.sitcomsonline.com/2011/07/fx-fall-2011-sched\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20110824031750/http://blog.sitcomsonline.com/2011/07/fx-fall-2011-schedule-has-how-i-met.html\" rel=\"nofollow\"\u003eule-has-how-i-met.html) from the original on August 24, 2011. Retrieved April 8, 2014.\u003c/a\u003e\n\u003ca href=\"http://tvseriesfinale.com/tv-show/how-i-met-your-mother-continue-cancelled-jason-segel/\" rel=\"nofollow\"\u003e38. \"How I Met Your Mother to end after 8 seasons?\" (http://tvseriesfinale.com/tv-show/how-i-met-your-mother-contin\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"http://tvseriesfinale.com/tv-show/how-i-met-your-mother-continue-cancelled-jason-segel/\" rel=\"nofollow\"\u003eue-cancelled-jason-segel/). TV Series Finale. July 7, 2010. Archived (https://archive.today/20120529141235/htt\u003c/a\u003e\n\u003ca href=\"https://archive.today/20120529141235/http://tvseriesfinale.com/tv-show/how-i-met-your-mother-continue-cancelled-jason-segel/\" rel=\"nofollow\"\u003ep://tvseriesfinale.com/tv-show/how-i-met-your-mother-continue-cancelled-jason-segel/) from the original on May\u003c/a\u003e\n29, 2012. Retrieved April 8, 2014.\n\u003ca href=\"https://web.archive.org/web/20200808124504/https://collider.com/how-i-met-your-mother-season-9/219625/\" rel=\"nofollow\"\u003e39. Chitwood, Adam (December 22, 2012). \"HOW I MET YOUR MOTHER Renewed for Ninth and Final Season;\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://web.archive.org/web/20200808124504/https://collider.com/how-i-met-your-mother-season-9/219625/\" rel=\"nofollow\"\u003eEntire Cast Will Return\" (https://web.archive.org/web/20200808124504/https://collider.com/how-i-met-your-mother\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20200808124504/https://collider.com/how-i-met-your-mother-season-9/219625/\" rel=\"nofollow\"\u003e-season-9/219625/). collider.com. Archived from the original (https://collider.com/how-i-met-your-mother-season-\u003c/a\u003e\n\u003ca href=\"https://collider.com/how-i-met-your-mother-season-9/219625\" rel=\"nofollow\"\u003e9/219625) on August 8, 2020. Retrieved April 8, 2014.\u003c/a\u003e\n\u003ca href=\"http://tvline.com/2012/12/21/how-i-met-your-mother-renewed-season-9\" rel=\"nofollow\"\u003e40. Mitovich, Matt (December 21, 2012). \"Report: How I Met Your Mother Renewed for 9th Season After Jason\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"http://tvline.com/2012/12/21/how-i-met-your-mother-renewed-season-9\" rel=\"nofollow\"\u003eSegel's 11th-Hour Reversal\" (http://tvline.com/2012/12/21/how-i-met-your-mother-renewed-season-9). tvline.com.\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20121224112215/http://tvline.com/2012/12/21/how-i-met-your-mother-renewed-season-9/\" rel=\"nofollow\"\u003eArchived (https://web.archive.org/web/20121224112215/http://tvline.com/2012/12/21/how-i-met-your-mother-rene\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20121224112215/http://tvline.com/2012/12/21/how-i-met-your-mother-renewed-season-9/\" rel=\"nofollow\"\u003ewed-season-9/) from the original on December 24, 2012. Retrieved December 22, 2012.\u003c/a\u003e\n\u003ca href=\"http://insidetv.ew.com/2012/09/24/how-i-met-your-mother-season-8-premiere/\" rel=\"nofollow\"\u003e41. Rome, Emily (September 24, 2012). \" 'How I Met Your Mother': Showrunners talk about the (possible) beginning\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"http://insidetv.ew.com/2012/09/24/how-i-met-your-mother-season-8-premiere/\" rel=\"nofollow\"\u003eof the end\" (http://insidetv.ew.com/2012/09/24/how-i-met-your-mother-season-8-premiere/). Entertainment\u003c/a\u003e\n\u003cem\u003e\u003ca href=\"https://web.archive.org/web/20140327234519/http://insidetv.ew.com/2012/09/24/how-i-met-your-mother-season-8-premiere/\" rel=\"nofollow\"\u003eWeekly. Archived (https://web.archive.org/web/20140327234519/http://insidetv.ew.com/2012/09/24/how-i-met-you\u003c/a\u003e\u003c/em\u003e\n\u003ca href=\"https://web.archive.org/web/20140327234519/http://insidetv.ew.com/2012/09/24/how-i-met-your-mother-season-8-premiere/\" rel=\"nofollow\"\u003er-mother-season-8-premiere/) from the original on March 27, 2014. Retrieved April 8, 2014.\u003c/a\u003e\u003c/p\u003e\n\u003chr\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"http://tvline.com/2013/05/17/how-i-met-your-mother-season-9-spoilers-cristin-milioti-series-regular/\" rel=\"nofollow\"\u003eSeries Regular\" (http://tvline.com/2013/05/17/how-i-met-your-mother-season-9-spoilers-cristin-milioti-series-regul\u003c/a\u003e\n\u003ca href=\"http://tvline.com/2013/05/17/how-i-met-your-mother-season-9-spoilers-cristin-milioti-series-regular/\" rel=\"nofollow\"\u003ear/). TVLine.com. Archived (https://web.archive.org/web/20130809094737/http://tvline.com/2013/05/17/how-i-met-\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20130809094737/http://tvline.com/2013/05/17/how-i-met-your-mother-season-9-spoilers-cristin-milioti-series-regular/\" rel=\"nofollow\"\u003eyour-mother-season-9-spoilers-cristin-milioti-series-regular/) from the original on August 9, 2013. Retrieved\u003c/a\u003e\nApril 8, 2014. \"Cristin Milioti, who was unmasked as the titular mom in this week's season finale, took the title of\nseries regular during the comedy's upcoming ninth and final season. This marks the first time HIMYM will have\nexpanded its core group of regulars beyond stars Josh Radnor, Alyson Hannigan, Neil Patrick Harris, Cobie\nSmulders and Jason Segel.\"\n\u003ca href=\"https://www.hollywoodreporter.com/live-feed/how-i-met-your-mother-524654\" rel=\"nofollow\"\u003e43. \" 'How I Met Your Mother' Makes Cristin Milioti a Series Regular\" (https://www.hollywoodreporter.com/live-feed/ho\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://www.hollywoodreporter.com/live-feed/how-i-met-your-mother-524654\" rel=\"nofollow\"\u003ew-i-met-your-mother-524654). The Hollywood Reporter. May 17, 2013. Archived (https://web.archive.org/web/201\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20130607103422/http://www.hollywoodreporter.com/live-feed/how-i-met-your-mother-524654\" rel=\"nofollow\"\u003e30607103422/http://www.hollywoodreporter.com/live-feed/how-i-met-your-mother-524654) from the original on\u003c/a\u003e\nJune 7, 2013. Retrieved May 18, 2013.\n\u003ca href=\"http://tvline.com/2013/01/30/how-i-met-your-mother-season-9-spoilers-whos-the-mother/\" rel=\"nofollow\"\u003e44. Ausiello, Michael (January 30, 2013). \" 'How I Met Your Mother' Season 9 Spoilers — We Will Meet the Mother\" (h\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"http://tvline.com/2013/01/30/how-i-met-your-mother-season-9-spoilers-whos-the-mother/\" rel=\"nofollow\"\u003ettp://tvline.com/2013/01/30/how-i-met-your-mother-season-9-spoilers-whos-the-mother/). TVLine. Archived (http\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20131115032355/http://tvline.com/2013/01/30/how-i-met-your-mother-season-9-spoilers-whos-the-mother/\" rel=\"nofollow\"\u003es://web.archive.org/web/20131115032355/http://tvline.com/2013/01/30/how-i-met-your-mother-season-9-spoilers-\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20131115032355/http://tvline.com/2013/01/30/how-i-met-your-mother-season-9-spoilers-whos-the-mother/\" rel=\"nofollow\"\u003ewhos-the-mother/) from the original on November 15, 2013. Retrieved November 16, 2013.\u003c/a\u003e\n\u003ca href=\"http://insidetv.ew.com/2013/05/16/ncis-downton-abbey-scandal-spoiler-room/2/\" rel=\"nofollow\"\u003e45. \" 'NCIS,' 'Downton Abbey,' 'Scandal,' 'Grey's Anatomy': Find out what's next in the Spoiler Room\" (http://insidetv.e\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"http://insidetv.ew.com/2013/05/16/ncis-downton-abbey-scandal-spoiler-room/2/\" rel=\"nofollow\"\u003ew.com/2013/05/16/ncis-downton-abbey-scandal-spoiler-room/2/). Entertainment Weekly. May 16, 2013. Archived\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20141129035022/http://insidetv.ew.com/2013/05/16/ncis-downton-abbey-scandal-spoiler-room/2/\" rel=\"nofollow\"\u003e(https://web.archive.org/web/20141129035022/http://insidetv.ew.com/2013/05/16/ncis-downton-abbey-scandal-sp\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20141129035022/http://insidetv.ew.com/2013/05/16/ncis-downton-abbey-scandal-spoiler-room/2/\" rel=\"nofollow\"\u003eoiler-room/2/) from the original on November 29, 2014. Retrieved May 20, 2013.\u003c/a\u003e\n\u003ca href=\"https://variety.com/2013/tv/news/cbs-how-i-met-your-mother-to-get-hourlong-series-finale-1200977469/\" rel=\"nofollow\"\u003e46. Kissell, Rick (December 19, 2013). \"CBS' 'How I Met Your Mother' to Get Hourlong Series Finale\" (https://variety.c\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://variety.com/2013/tv/news/cbs-how-i-met-your-mother-to-get-hourlong-series-finale-1200977469/\" rel=\"nofollow\"\u003eom/2013/tv/news/cbs-how-i-met-your-mother-to-get-hourlong-series-finale-1200977469/). Variety. Archived (http\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20190305151142/https://variety.com/2013/tv/news/cbs-how-i-met-your-mother-to-get-hourlong-series-finale-1200977469/\" rel=\"nofollow\"\u003es://web.archive.org/web/20190305151142/https://variety.com/2013/tv/news/cbs-how-i-met-your-mother-to-get-hou\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20190305151142/https://variety.com/2013/tv/news/cbs-how-i-met-your-mother-to-get-hourlong-series-finale-1200977469/\" rel=\"nofollow\"\u003erlong-series-finale-1200977469/) from the original on March 5, 2019. Retrieved April 8, 2014.\u003c/a\u003e\n\u003ca href=\"https://www.thedailybeast.com/articles/2014/03/31/everything-you-need-to-know-about-how-i-met-your-mother\" rel=\"nofollow\"\u003e47. Agard, Chancellor (March 31, 2014). \"Everything You Need to Know About 'How I Met Your Mother' \" (https://www.\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://www.thedailybeast.com/articles/2014/03/31/everything-you-need-to-know-about-how-i-met-your-mother\" rel=\"nofollow\"\u003ethedailybeast.com/articles/2014/03/31/everything-you-need-to-know-about-how-i-met-your-mother). The Daily\u003c/a\u003e\n\u003cem\u003eBeast. Retrieved April 4, 2024. Cite error: The named reference \":1\" was defined multiple times with\u003c/em\u003e\n\u003cstrong\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Help:Cite_errors/Cite_error_references_duplicate_key\" rel=\"nofollow\"\u003edifferent content (see the help page).\u003c/a\u003e\u003c/strong\u003e\n48. \"Pilot.\" How I Met Your Mother, created by Carter Bays and Craig Thomas, season 1, episode 1, CBS, September\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e19, 2005 Cite error: The named reference \":0\" was defined multiple times with different content (see the\n\u003cstrong\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Help:Cite_errors/Cite_error_references_duplicate_key\" rel=\"nofollow\"\u003ehelp page).\u003c/a\u003e\u003c/strong\u003e\n\u003ca href=\"https://www.metacritic.com/tv/how-i-met-your-mother/critic-reviews\" rel=\"nofollow\"\u003e49. \"How I Met Your Mother: Season 1\" (https://www.metacritic.com/tv/how-i-met-your-mother/critic-reviews).\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Metacritic\" rel=\"nofollow\"\u003eMetacritic. Archived (https://web.archive.org/web/20171024160400/http://www.metacritic.com/tv/how-i-met-your-\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20171024160400/http://www.metacritic.com/tv/how-i-met-your-mother/critic-reviews\" rel=\"nofollow\"\u003emother/critic-reviews) from the original on October 24, 2017. Retrieved November 27, 2017.\u003c/a\u003e\n\u003ca href=\"https://www.popmatters.com/review/how-i-met-your-mother-051003/\" rel=\"nofollow\"\u003e50. Abernethy, Michael (October 2, 2005). \"How I Met Your Mother Review\" (https://www.popmatters.com/review/how\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://www.popmatters.com/review/how-i-met-your-mother-051003/\" rel=\"nofollow\"\u003e-i-met-your-mother-051003/). PopMatters. Archived (https://web.archive.org/web/20140531071411/http://www.po\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20140531071411/http://www.popmatters.com/review/how-i-met-your-mother-051003/\" rel=\"nofollow\"\u003epmatters.com/review/how-i-met-your-mother-051003/) from the original on May 31, 2014. Retrieved June 9, 2014.\u003c/a\u003e\n\u003ca href=\"https://www.washingtonpost.com/wp-dyn/content/article/2005/09/18/AR2005091801272.html\" rel=\"nofollow\"\u003e51. Shales, Tom (September 19, 2005). \"How I Met Your Mother Review\" (https://www.washingtonpost.com/wp-dyn/c\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://www.washingtonpost.com/wp-dyn/content/article/2005/09/18/AR2005091801272.html\" rel=\"nofollow\"\u003eontent/article/2005/09/18/AR2005091801272.html). The Washington Post. Archived (https://web.archive.org/web/\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20140706225206/http://www.washingtonpost.com/wp-dyn/content/article/2005/09/18/AR2005091801272.html\" rel=\"nofollow\"\u003e20140706225206/http://www.washingtonpost.com/wp-dyn/content/article/2005/09/18/AR2005091801272.html)\u003c/a\u003e\nfrom the original on July 6, 2014. Retrieved June 9, 2014.\n\u003ca href=\"https://web.archive.org/web/20140319192351/http://www.seattlepi.com/ae/tv/article/Fall-TV-Seek-and-ye-shall-find-something-worth-1182652.php\" rel=\"nofollow\"\u003e52. MacFarland, Melanie (September 11, 2005). \"Fall TV: Seek and ye shall find something worth watching\" (https://w\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://web.archive.org/web/20140319192351/http://www.seattlepi.com/ae/tv/article/Fall-TV-Seek-and-ye-shall-find-something-worth-1182652.php\" rel=\"nofollow\"\u003eeb.archive.org/web/20140319192351/http://www.seattlepi.com/ae/tv/article/Fall-TV-Seek-and-ye-shall-find-somet\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20140319192351/http://www.seattlepi.com/ae/tv/article/Fall-TV-Seek-and-ye-shall-find-something-worth-1182652.php\" rel=\"nofollow\"\u003ehing-worth-1182652.php). Seattle Post-Intelligencer. Archived from the original (http://www.seattlepi.com/ae/tv/arti\u003c/a\u003e\n\u003ca href=\"http://www.seattlepi.com/ae/tv/article/Fall-TV-Seek-and-ye-shall-find-something-worth-1182652.php\" rel=\"nofollow\"\u003ecle/Fall-TV-Seek-and-ye-shall-find-something-worth-1182652.php) on March 19, 2014. Retrieved May 9, 2022.\u003c/a\u003e\n\u003ca href=\"https://www.ign.com/tv/how-i-met-your-mother/2\" rel=\"nofollow\"\u003e53. \"How I Met Your Mother Season 2 Review\" (https://www.ign.com/tv/how-i-met-your-mother/2). IGN. November 20,\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://web.archive.org/web/20140408014220/http://www.ign.com/tv/how-i-met-your-mother/2\" rel=\"nofollow\"\u003e2006. Archived (https://web.archive.org/web/20140408014220/http://www.ign.com/tv/how-i-met-your-mother/2)\u003c/a\u003e\nfrom the original on April 8, 2014. Retrieved June 9, 2014.\n\u003ca href=\"https://www.ign.com/articles/2007/05/15/how-i-met-your-mother-something-blue-review\" rel=\"nofollow\"\u003e54. Krause, Staci (May 15, 2007). \"How I Met Your Mother: \"Something Blue\" Review\" (https://www.ign.com/articles/2\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://www.ign.com/articles/2007/05/15/how-i-met-your-mother-something-blue-review\" rel=\"nofollow\"\u003e007/05/15/how-i-met-your-mother-something-blue-review). IGN. San Francisco, California: j2 Global. Archived (htt\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20140714170147/http://www.ign.com/articles/2007/05/15/how-i-met-your-mother-something-blue-review\" rel=\"nofollow\"\u003eps://web.archive.org/web/20140714170147/http://www.ign.com/articles/2007/05/15/how-i-met-your-mother-somet\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20140714170147/http://www.ign.com/articles/2007/05/15/how-i-met-your-mother-something-blue-review\" rel=\"nofollow\"\u003ehing-blue-review) from the original on July 14, 2014. Retrieved June 9, 2014. \"this great cap to a great season.\"\u003c/a\u003e\n\u003ca href=\"https://ew.com/article/2008/10/08/how-i-met-your-mother-season-3/\" rel=\"nofollow\"\u003e55. Wheat, Alynda (October 8, 2008). \"How I Met Your Mother: Season 3\" (https://ew.com/article/2008/10/08/how-i-m\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://ew.com/article/2008/10/08/how-i-met-your-mother-season-3/\" rel=\"nofollow\"\u003eet-your-mother-season-3/). Entertainment Weekly. New York City: Meredith Corporation. Archived (https://web.arc\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20140531090950/http://www.ew.com/ew/article/0,,20739448_20231637,00.html\" rel=\"nofollow\"\u003ehive.org/web/20140531090950/http://www.ew.com/ew/article/0,,20739448_20231637,00.html) from the original\u003c/a\u003e\non May 31, 2014. Retrieved May 31, 2014.\n\u003ca href=\"https://www.ign.com/articles/2008/05/30/how-i-met-your-mother-season-3-review\" rel=\"nofollow\"\u003e56. Zoromski, Michelle (May 29, 2008). \"How I Met Your Mother: Season 3 Review\" (https://www.ign.com/articles/200\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://www.ign.com/articles/2008/05/30/how-i-met-your-mother-season-3-review\" rel=\"nofollow\"\u003e8/05/30/how-i-met-your-mother-season-3-review). IGN. San Francisco, California: j2 Global. Archived (https://we\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20140531105225/http://www.ign.com/articles/2008/05/30/how-i-met-your-mother-season-3-review\" rel=\"nofollow\"\u003eb.archive.org/web/20140531105225/http://www.ign.com/articles/2008/05/30/how-i-met-your-mother-season-3-revi\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20140531105225/http://www.ign.com/articles/2008/05/30/how-i-met-your-mother-season-3-review\" rel=\"nofollow\"\u003eew) from the original on May 31, 2014. Retrieved May 31, 2014.\u003c/a\u003e\n\u003ca href=\"http://tv.ign.com/articles/986/986576p1.html\" rel=\"nofollow\"\u003e57. Zoromski, Michelle (May 27, 2009). \"How I Met Your Mother: Season 4 Review: The one where they hide the\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"http://tv.ign.com/articles/986/986576p1.html\" rel=\"nofollow\"\u003epregnancies\" (http://tv.ign.com/articles/986/986576p1.html). IGN. San Francisco, California: j2 Global. Archived (h\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20120817201808/http://tv.ign.com/articles/986/986576p1.html\" rel=\"nofollow\"\u003ettps://web.archive.org/web/20120817201808/http://tv.ign.com/articles/986/986576p1.html) from the original on\u003c/a\u003e\nAugust 17, 2012. Retrieved June 9, 2014.\u003c/p\u003e\n\u003chr\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://web.archive.org/web/20140531123734/http://www.televisionwithoutpity.com/show/how-i-met-your-mother/doppelgangers-1/10/\" rel=\"nofollow\"\u003em/show/how-i-met-your-mother/doppelgangers-1/10/). Television Without Pity. New York City: Bravo Media.\u003c/a\u003e\n\u003ca href=\"http://www.televisionwithoutpity.com/show/how-i-met-your-mother/doppelgangers-1/10/\" rel=\"nofollow\"\u003eArchived from the original (http://www.televisionwithoutpity.com/show/how-i-met-your-mother/doppelgangers-1/1\u003c/a\u003e\n\u003ca href=\"http://www.televisionwithoutpity.com/show/how-i-met-your-mother/doppelgangers-1/10/\" rel=\"nofollow\"\u003e0/) on May 31, 2014. Retrieved May 30, 2014.\u003c/a\u003e\n\u003ca href=\"https://www.avclub.com/tv/how-i-met-your-mother/?season=6\" rel=\"nofollow\"\u003e59. \"How I Met Your Mother Season 6 Episode Reviews\" (https://www.avclub.com/tv/how-i-met-your-mother/?season\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://www.avclub.com/tv/how-i-met-your-mother/?season=6\" rel=\"nofollow\"\u003e=6). The A.V. Club. April 2014. Archived (https://web.archive.org/web/20140531142743/http://www.avclub.com/tv/\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20140531142743/http://www.avclub.com/tv/how-i-met-your-mother/?season=6\" rel=\"nofollow\"\u003ehow-i-met-your-mother/?season=6) from the original on May 31, 2014. Retrieved June 9, 2014.\u003c/a\u003e\n\u003ca href=\"http://latereviews.wordpress.com/2011/05/28/how-i-met-your-mother-season-6-in-review-or-ranking-the-episodes/\" rel=\"nofollow\"\u003e60. Fowler, Justin (May 28, 2011). \"How I Met Your Mother: Season 6 in Review or Ranking the Episodes\" (http://later\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"http://latereviews.wordpress.com/2011/05/28/how-i-met-your-mother-season-6-in-review-or-ranking-the-episodes/\" rel=\"nofollow\"\u003eeviews.wordpress.com/2011/05/28/how-i-met-your-mother-season-6-in-review-or-ranking-the-episodes/).\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20140531105258/http://latereviews.wordpress.com/2011/05/28/how-i-met-your-mother-season-6-in-review-or-ranking-the-episodes/\" rel=\"nofollow\"\u003eArchived (https://web.archive.org/web/20140531105258/http://latereviews.wordpress.com/2011/05/28/how-i-met-\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20140531105258/http://latereviews.wordpress.com/2011/05/28/how-i-met-your-mother-season-6-in-review-or-ranking-the-episodes/\" rel=\"nofollow\"\u003eyour-mother-season-6-in-review-or-ranking-the-episodes/) from the original on May 31, 2014. Retrieved June 9,\u003c/a\u003e\n2014.\n\u003ca href=\"http://www.hitfix.com/blogs/whats-alan-watching/posts/season-finale-review-how-i-met-your-mother-the-magicians-code-miss-direction\" rel=\"nofollow\"\u003e61. Sepinwall, Alan. \"Season finale review: 'How I Met Your Mother' - 'The Magician's Code': Miss Direction\" (http://w\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"http://www.hitfix.com/blogs/whats-alan-watching/posts/season-finale-review-how-i-met-your-mother-the-magicians-code-miss-direction\" rel=\"nofollow\"\u003eww.hitfix.com/blogs/whats-alan-watching/posts/season-finale-review-how-i-met-your-mother-the-magicians-code-\u003c/a\u003e\n\u003ca href=\"http://www.hitfix.com/blogs/whats-alan-watching/posts/season-finale-review-how-i-met-your-mother-the-magicians-code-miss-direction\" rel=\"nofollow\"\u003emiss-direction). Hitfix. Hitfix INC. Archived (https://web.archive.org/web/20140531144718/http://www.hitfix.com/bl\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20140531144718/http://www.hitfix.com/blogs/whats-alan-watching/posts/season-finale-review-how-i-met-your-mother-the-magicians-code-miss-direction\" rel=\"nofollow\"\u003eogs/whats-alan-watching/posts/season-finale-review-how-i-met-your-mother-the-magicians-code-miss-direction)\u003c/a\u003e\nfrom the original on May 31, 2014. Retrieved June 9, 2014.\n\u003ca href=\"https://www.rottentomatoes.com/tv/how-i-met-your-mother/s08/\" rel=\"nofollow\"\u003e62. \"How I Met Your Mother: Season 8 (2012-2013)\" (https://www.rottentomatoes.com/tv/how-i-met-your-mother/s0\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://www.rottentomatoes.com/tv/how-i-met-your-mother/s08/\" rel=\"nofollow\"\u003e8/). Rotten Tomatoes. San Francisco, California: Fandango Media. Archived (https://web.archive.org/web/201405\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20140530151629/http://www.rottentomatoes.com/tv/how-i-met-your-mother/s08/\" rel=\"nofollow\"\u003e30151629/http://www.rottentomatoes.com/tv/how-i-met-your-mother/s08/) from the original on May 30, 2014.\u003c/a\u003e\nRetrieved May 30, 2014.\n\u003ca href=\"https://www.metacritic.com/tv/how-i-met-your-mother/season-9\" rel=\"nofollow\"\u003e63. \"How I Met Your Mother: Season 9\" (https://www.metacritic.com/tv/how-i-met-your-mother/season-9). Metacritic.\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://web.archive.org/web/20171113062508/http://www.metacritic.com/tv/how-i-met-your-mother/season-9\" rel=\"nofollow\"\u003eArchived (https://web.archive.org/web/20171113062508/http://www.metacritic.com/tv/how-i-met-your-mother/seas\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20171113062508/http://www.metacritic.com/tv/how-i-met-your-mother/season-9\" rel=\"nofollow\"\u003eon-9) from the original on November 13, 2017. Retrieved November 27, 2017.\u003c/a\u003e\n\u003ca href=\"https://www.rottentomatoes.com/tv/how_i_met_your_mother/s09\" rel=\"nofollow\"\u003e64. \"How I Met Your Mother: Season 9\" (https://www.rottentomatoes.com/tv/how_i_met_your_mother/s09). Rotten\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003cem\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Rotten_Tomatoes\" rel=\"nofollow\"\u003eTomatoes. Archived (https://web.archive.org/web/20210303032334/https://www.rottentomatoes.com/tv/how_i_met\u003c/a\u003e\u003c/em\u003e\n\u003ca href=\"https://web.archive.org/web/20210303032334/https://www.rottentomatoes.com/tv/how_i_met_your_mother/s09\" rel=\"nofollow\"\u003e_your_mother/s09) from the original on March 3, 2021. Retrieved February 14, 2021.\u003c/a\u003e\n\u003ca href=\"http://houseofgeekery.com/2013/11/05/how-i-met-your-mother-final-season-needs-to-be-left-at-the-alter/\" rel=\"nofollow\"\u003e65. Mitchell, Gareth (November 5, 2013). \"How I Met Your Mother Final Season Needs to be Left at the Altar\" (http://h\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"http://houseofgeekery.com/2013/11/05/how-i-met-your-mother-final-season-needs-to-be-left-at-the-alter/\" rel=\"nofollow\"\u003eouseofgeekery.com/2013/11/05/how-i-met-your-mother-final-season-needs-to-be-left-at-the-alter/). House of\u003c/a\u003e\n\u003cem\u003e\u003ca href=\"https://en.wikipedia.org/wiki/WordPress\" rel=\"nofollow\"\u003eGeekery. San Francisco, California: WordPress. Archived (https://web.archive.org/web/20131106230415/http://ho\u003c/a\u003e\u003c/em\u003e\n\u003ca href=\"https://web.archive.org/web/20131106230415/http://houseofgeekery.com/2013/11/05/how-i-met-your-mother-final-season-needs-to-be-left-at-the-alter/\" rel=\"nofollow\"\u003euseofgeekery.com/2013/11/05/how-i-met-your-mother-final-season-needs-to-be-left-at-the-alter/) from the original\u003c/a\u003e\non November 6, 2013. Retrieved November 5, 2013.\n\u003ca href=\"https://web.archive.org/web/20160424082441/http://www.people.com/people/article/0,,20802157,00.html\" rel=\"nofollow\"\u003e66. Alex Heigl; Cara Shultz (April 1, 2014). \"How I Met Your Mother Fans Split on Finale: Great Finish, or\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://web.archive.org/web/20160424082441/http://www.people.com/people/article/0,,20802157,00.html\" rel=\"nofollow\"\u003eDisappointment?\" (https://web.archive.org/web/20160424082441/http://www.people.com/people/article/0,,208021\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20160424082441/http://www.people.com/people/article/0,,20802157,00.html\" rel=\"nofollow\"\u003e57,00.html). People. Archived from the original (http://www.people.com/people/article/0,,20802157,00.html) on\u003c/a\u003e\nApril 24, 2016. Retrieved March 22, 2015.\n\u003ca href=\"https://www.rollingstone.com/tv/tv-lists/end-game-tvs-best-and-worst-series-finales-170942/worst-how-i-met-your-mother-171680/\" rel=\"nofollow\"\u003e67. \"End Game: TV's Best and Worst Series Finales\" (https://www.rollingstone.com/tv/tv-lists/end-game-tvs-best-and-\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://www.rollingstone.com/tv/tv-lists/end-game-tvs-best-and-worst-series-finales-170942/worst-how-i-met-your-mother-171680/\" rel=\"nofollow\"\u003eworst-series-finales-170942/worst-how-i-met-your-mother-171680/). Rolling Stone. New York City: Wenner\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/Wenner_Media\" rel=\"nofollow\"\u003eMedia. May 12, 2015. Archived (https://web.archive.org/web/20180731123259/https://www.rollingstone.com/tv/tv-l\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20180731123259/https://www.rollingstone.com/tv/tv-lists/end-game-tvs-best-and-worst-series-finales-170942/worst-how-i-met-your-mother-171680/\" rel=\"nofollow\"\u003eists/end-game-tvs-best-and-worst-series-finales-170942/worst-how-i-met-your-mother-171680/) from the original\u003c/a\u003e\non July 31, 2018. Retrieved July 31, 2018.\n\u003ca href=\"https://www.businessinsider.com/12-worst-series-finales-of-all-time-seinfeld-girls-dexter-2018-6#how-i-met-your-mother-season-9-episodes-23-24-last-forever-3\" rel=\"nofollow\"\u003e68. \"The 12 worst TV series finales of all time, from 'Seinfeld' to 'Girls' \" (https://www.businessinsider.com/12-worst-se\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://www.businessinsider.com/12-worst-series-finales-of-all-time-seinfeld-girls-dexter-2018-6#how-i-met-your-mother-season-9-episodes-23-24-last-forever-3\" rel=\"nofollow\"\u003eries-finales-of-all-time-seinfeld-girls-dexter-2018-6#how-i-met-your-mother-season-9-episodes-23-24-last-forever-\u003c/a\u003e\n\u003ca href=\"https://www.businessinsider.com/12-worst-series-finales-of-all-time-seinfeld-girls-dexter-2018-6#how-i-met-your-mother-season-9-episodes-23-24-last-forever-3\" rel=\"nofollow\"\u003e3). Business Insider. Archived (https://web.archive.org/web/20180731093506/https://www.businessinsider.com/12\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20180731093506/https://www.businessinsider.com/12-worst-series-finales-of-all-time-seinfeld-girls-dexter-2018-6#how-i-met-your-mother-season-9-episodes-23-24-last-forever-3\" rel=\"nofollow\"\u003e-worst-series-finales-of-all-time-seinfeld-girls-dexter-2018-6#how-i-met-your-mother-season-9-episodes-23-24-las\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20180731093506/https://www.businessinsider.com/12-worst-series-finales-of-all-time-seinfeld-girls-dexter-2018-6#how-i-met-your-mother-season-9-episodes-23-24-last-forever-3\" rel=\"nofollow\"\u003et-forever-3) from the original on July 31, 2018. Retrieved July 31, 2018.\u003c/a\u003e\n\u003ca href=\"https://www.foxnews.com/entertainment/10-of-the-best-and-worst-tv-series-finales-through-the-years/\" rel=\"nofollow\"\u003e69. \"10 of the best and worst TV series finales through the years\" (https://www.foxnews.com/entertainment/10-of-the-\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://www.foxnews.com/entertainment/10-of-the-best-and-worst-tv-series-finales-through-the-years/\" rel=\"nofollow\"\u003ebest-and-worst-tv-series-finales-through-the-years/). Fox News. March 20, 2018. Archived (https://web.archive.or\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20180731093655/http://www.foxnews.com/entertainment/2018/04/03/10-best-and-worst-tv-series-finales-through-years.html\" rel=\"nofollow\"\u003eg/web/20180731093655/http://www.foxnews.com/entertainment/2018/04/03/10-best-and-worst-tv-series-finales-th\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20180731093655/http://www.foxnews.com/entertainment/2018/04/03/10-best-and-worst-tv-series-finales-through-years.html\" rel=\"nofollow\"\u003erough-years.html) from the original on July 31, 2018. Retrieved July 31, 2018.\u003c/a\u003e\n\u003ca href=\"https://www.usatoday.com/story/life/tv/2018/05/31/series-finales-10-best-and-five-worst-all-time-americans-breaking-bad-mash-lost-himym-newhart-cheers/636504002/\" rel=\"nofollow\"\u003e70. Lawler, Kelly (May 31, 2018). \"The 10 best (and five worst) TV series finales of all time\" (https://www.usatoday.co\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://www.usatoday.com/story/life/tv/2018/05/31/series-finales-10-best-and-five-worst-all-time-americans-breaking-bad-mash-lost-himym-newhart-cheers/636504002/\" rel=\"nofollow\"\u003em/story/life/tv/2018/05/31/series-finales-10-best-and-five-worst-all-time-americans-breaking-bad-mash-lost-himym\u003c/a\u003e\n\u003ca href=\"https://www.usatoday.com/story/life/tv/2018/05/31/series-finales-10-best-and-five-worst-all-time-americans-breaking-bad-mash-lost-himym-newhart-cheers/636504002/\" rel=\"nofollow\"\u003e-newhart-cheers/636504002/). USA Today. Mclean, Virginia: Gannett. Archived (https://web.archive.org/web/2019\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20190618044133/https://www.usatoday.com/story/life/tv/2018/05/31/series-finales-10-best-and-five-worst-all-time-americans-breaking-bad-mash-lost-himym-newhart-cheers/636504002/\" rel=\"nofollow\"\u003e0618044133/https://www.usatoday.com/story/life/tv/2018/05/31/series-finales-10-best-and-five-worst-all-time-ame\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20190618044133/https://www.usatoday.com/story/life/tv/2018/05/31/series-finales-10-best-and-five-worst-all-time-americans-breaking-bad-mash-lost-himym-newhart-cheers/636504002/\" rel=\"nofollow\"\u003ericans-breaking-bad-mash-lost-himym-newhart-cheers/636504002/) from the original on June 18, 2019. Retrieved\u003c/a\u003e\nJuly 30, 2018.\n\u003ca href=\"https://www.imdb.com/title/tt0885872/?ref_=ttep_ep9\" rel=\"nofollow\"\u003e71. Fryman, Pamela (November 20, 2006). \"Slap Bet\" (https://www.imdb.com/title/tt0885872/?ref_=ttep_ep9). How I\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003cem\u003eMet Your Mother.\u003c/em\u003e\n\u003ca href=\"https://www.cbr.com/himym-how-slap-bet-started/\" rel=\"nofollow\"\u003e72. Waxman, Nicole (December 15, 2021). \"HIMYM: How the Slap Bet Started\" (https://www.cbr.com/himym-how-sla\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://www.cbr.com/himym-how-slap-bet-started/\" rel=\"nofollow\"\u003ep-bet-started/). CBR.\u003c/a\u003e\n\u003ca href=\"https://www.ign.com/articles/2007/04/24/how-i-met-your-mother-slap-bet-review\" rel=\"nofollow\"\u003e73. Krause, Staci (April 24, 2007). \"How I Met Your Mother: \"Slap Bet\" Review\" (https://www.ign.com/articles/2007/04/\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://www.ign.com/articles/2007/04/24/how-i-met-your-mother-slap-bet-review\" rel=\"nofollow\"\u003e24/how-i-met-your-mother-slap-bet-review). IGN.\u003c/a\u003e\n\u003ca href=\"https://tvtropes.org/pmwiki/pmwiki.php/Recap/HowIMetYourMotherS2E09SlapBet\" rel=\"nofollow\"\u003e74. \"How I Met Your Mother S 2 E 09 Slap Bet\" (https://tvtropes.org/pmwiki/pmwiki.php/Recap/HowIMetYourMotherS\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://tvtropes.org/pmwiki/pmwiki.php/Recap/HowIMetYourMotherS2E09SlapBet\" rel=\"nofollow\"\u003e2E09SlapBet). TV Tropes.\u003c/a\u003e\u003c/p\u003e\n\u003chr\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://screenrant.com/how-met-mother-slaps-bet-marshall-barney-explained/\" rel=\"nofollow\"\u003ent.com/how-met-mother-slaps-bet-marshall-barney-explained/). ScreenRant.\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/Barney_Stinson\" rel=\"nofollow\"\u003e76. Stinson, Barney (2008). The Bro Code (https://archive.org/details/isbn_9781439110003). New York: Fireside.\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/ISBN_(identifier)\" rel=\"nofollow\"\u003eISBN 978-1-4391-1000-3.\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/Barney_Stinson\" rel=\"nofollow\"\u003e77. Stinson, Barney (2009). Bro on the Go (https://archive.org/details/broongo00kuhn). Fireside. ISBN 978-1-4391-\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Special:BookSources/978-1-4391-7313-8\" rel=\"nofollow\"\u003e7313-8.\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/Barney_Stinson\" rel=\"nofollow\"\u003e78. Stinson, Barney (2012). Bro Code for Parents: What to Expect When You're Awesome. Touchstone. ISBN 978-1-\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Special:BookSources/978-1-4516-9058-3\" rel=\"nofollow\"\u003e4516-9058-3.\u003c/a\u003e\n\u003ca href=\"https://archive.org/details/playbook00kuhn\" rel=\"nofollow\"\u003e79. The Playbook (https://archive.org/details/playbook00kuhn). Touchstone. October 5, 2010. ISBN 978-1-4391-\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Special:BookSources/978-1-4391-9683-0\" rel=\"nofollow\"\u003e9683-0.\u003c/a\u003e\n\u003ca href=\"http://www.opencourtbooks.com/categories/pcp.htm\" rel=\"nofollow\"\u003e80. von Matterhorn, Lorenzo, ed. (October 5, 2010). Popular Culture and Philosophy (http://www.opencourtbooks.co\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"http://www.opencourtbooks.com/categories/pcp.htm\" rel=\"nofollow\"\u003em/categories/pcp.htm). Open Court Books. ISBN 978-0-8126-9835-0. Archived (https://web.archive.org/web/2019\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20191203165250/http://www.opencourtbooks.com/categories/pcp.htm\" rel=\"nofollow\"\u003e1203165250/http://www.opencourtbooks.com/categories/pcp.htm) from the original on December 3, 2019.\u003c/a\u003e\nRetrieved April 8, 2014.\n\u003ca href=\"http://insidetv.ew.com/2012/09/18/himym-soundtrack-full-listings/\" rel=\"nofollow\"\u003e81. Gonzalez, Sandra (September 18, 2012). \" 'How I Met Your Mother' soundtrack: See the full listings! –\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"http://insidetv.ew.com/2012/09/18/himym-soundtrack-full-listings/\" rel=\"nofollow\"\u003eEXCLUSIVE\" (http://insidetv.ew.com/2012/09/18/himym-soundtrack-full-listings/). Entertainment Weekly. Archived\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20150114060242/http://insidetv.ew.com/2012/09/18/himym-soundtrack-full-listings/\" rel=\"nofollow\"\u003e(https://web.archive.org/web/20150114060242/http://insidetv.ew.com/2012/09/18/himym-soundtrack-full-listings/)\u003c/a\u003e\nfrom the original on January 14, 2015. Retrieved February 5, 2013.\n\u003ca href=\"https://itunes.apple.com/us/album/how-i-met-your-music-deluxe/id920657233\" rel=\"nofollow\"\u003e82. \"How I met your music deluxe\" (https://itunes.apple.com/us/album/how-i-met-your-music-deluxe/id920657233).\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://web.archive.org/web/20170410132903/https://itunes.apple.com/us/album/how-i-met-your-music-deluxe/id920657233\" rel=\"nofollow\"\u003e20th Century Fox. September 23, 2014. Archived (https://web.archive.org/web/20170410132903/https://itunes.ap\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20170410132903/https://itunes.apple.com/us/album/how-i-met-your-music-deluxe/id920657233\" rel=\"nofollow\"\u003eple.com/us/album/how-i-met-your-music-deluxe/id920657233) from the original on April 10, 2017. Retrieved\u003c/a\u003e\nApril 9, 2017 – via Apple iTunes.\n\u003ca href=\"https://www.huffingtonpost.com/2014/09/19/how-i-met-your-mother-pineapple-incident_n_5849240.html\" rel=\"nofollow\"\u003e83. Goodman, Jessica (September 19, 2014). \" 'How I Met Your Mother' Pineapple Incident Mystery Is Finally\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://www.huffingtonpost.com/2014/09/19/how-i-met-your-mother-pineapple-incident_n_5849240.html\" rel=\"nofollow\"\u003eRevealed\" (https://www.huffingtonpost.com/2014/09/19/how-i-met-your-mother-pineapple-incident_n_5849240.ht\u003c/a\u003e\n\u003ca href=\"https://www.huffingtonpost.com/2014/09/19/how-i-met-your-mother-pineapple-incident_n_5849240.html\" rel=\"nofollow\"\u003eml). The Huffington Post. New York City: Huffington Post Media Group. Archived (https://web.archive.org/web/201\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20170317143413/http://www.huffingtonpost.com/2014/09/19/how-i-met-your-mother-pineapple-incident_n_5849240.html\" rel=\"nofollow\"\u003e70317143413/http://www.huffingtonpost.com/2014/09/19/how-i-met-your-mother-pineapple-incident_n_5849240.h\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20170317143413/http://www.huffingtonpost.com/2014/09/19/how-i-met-your-mother-pineapple-incident_n_5849240.html\" rel=\"nofollow\"\u003etml) from the original on March 17, 2017. Retrieved March 16, 2017.\u003c/a\u003e\n\u003ca href=\"https://www.mensxp.com/entertainment/news/78896-how-i-met-your-mother-websites.html\" rel=\"nofollow\"\u003e84. \"Every Website Used In 'How I Met Your Mother' Really Exists, Including Barney Stinson's Blog\" (https://www.men\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://www.mensxp.com/entertainment/news/78896-how-i-met-your-mother-websites.html\" rel=\"nofollow\"\u003esxp.com/entertainment/news/78896-how-i-met-your-mother-websites.html). www.mensxp.com. August 1, 2020.\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20220302001835/https://www.mensxp.com/entertainment/news/78896-how-i-met-your-mother-websites.html\" rel=\"nofollow\"\u003eArchived (https://web.archive.org/web/20220302001835/https://www.mensxp.com/entertainment/news/78896-ho\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20220302001835/https://www.mensxp.com/entertainment/news/78896-how-i-met-your-mother-websites.html\" rel=\"nofollow\"\u003ew-i-met-your-mother-websites.html) from the original on March 2, 2022. Retrieved March 2, 2022.\u003c/a\u003e\n\u003ca href=\"http://tedmosbyisajerk.com/\" rel=\"nofollow\"\u003e85. \"WARNING !!!\" (http://tedmosbyisajerk.com/). Archived (https://web.archive.org/web/20190812003811/http://tedm\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://web.archive.org/web/20190812003811/http://tedmosbyisajerk.com/\" rel=\"nofollow\"\u003eosbyisajerk.com/) from the original on August 12, 2019. Retrieved March 2, 2022.\u003c/a\u003e\n\u003ca href=\"http://tedmosbyisnotajerk.com/\" rel=\"nofollow\"\u003e86. \"Ted Mosby is Not a Jerk!!!\" (http://tedmosbyisnotajerk.com/). tedmosbyisnotajerk.com. Archived (https://web.arch\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://web.archive.org/web/20110830145957/http://tedmosbyisnotajerk.com/\" rel=\"nofollow\"\u003eive.org/web/20110830145957/http://tedmosbyisnotajerk.com/) from the original on August 30, 2011. Retrieved\u003c/a\u003e\nMarch 2, 2022.\n\u003ca href=\"http://www.guyforceshiswifetodressinagarbagebagforthenextthreeyears.com/\" rel=\"nofollow\"\u003e87. \"guy forces his wife to dress in a garbage bag for the next three years\" (http://www.guyforceshiswifetodressinagar\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"http://www.guyforceshiswifetodressinagarbagebagforthenextthreeyears.com/\" rel=\"nofollow\"\u003ebagebagforthenextthreeyears.com/). www.guyforceshiswifetodressinagarbagebagforthenextthreeyears.com.\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20100306180240/http://www.guyforceshiswifetodressinagarbagebagforthenextthreeyears.com/\" rel=\"nofollow\"\u003eArchived (https://web.archive.org/web/20100306180240/http://www.guyforceshiswifetodressinagarbagebagforthe\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20100306180240/http://www.guyforceshiswifetodressinagarbagebagforthenextthreeyears.com/\" rel=\"nofollow\"\u003enextthreeyears.com/) from the original on March 6, 2010. Retrieved March 2, 2022.\u003c/a\u003e\n\u003ca href=\"http://www.goliathbank.com/\" rel=\"nofollow\"\u003e88. \"Goliath National Bank - Your Financial Wingman\" (http://www.goliathbank.com/). www.goliathbank.com. Archived\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://web.archive.org/web/20211208231527/http://www.goliathbank.com/\" rel=\"nofollow\"\u003e(https://web.archive.org/web/20211208231527/http://www.goliathbank.com/) from the original on December 8,\u003c/a\u003e\n2021. Retrieved March 2, 2022.\n\u003ca href=\"http://www.notafathersday.com/\" rel=\"nofollow\"\u003e89. \"Fox Shop - Not A Fathers Day\" (http://www.notafathersday.com/). www.notafathersday.com. Archived (https://we\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://web.archive.org/web/20110114151117/http://www.notafathersday.com/\" rel=\"nofollow\"\u003eb.archive.org/web/20110114151117/http://www.notafathersday.com/) from the original on January 14, 2011.\u003c/a\u003e\nRetrieved March 2, 2022.\n\u003ca href=\"http://mysteriousdrx.com/\" rel=\"nofollow\"\u003e90. \"//////// D O C T O R X \\\\\\\\\" (http://mysteriousdrx.com/). mysteriousdrx.com. Archived (https://web.archive.org/we\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://web.archive.org/web/20100310025856/http://mysteriousdrx.com/\" rel=\"nofollow\"\u003eb/20100310025856/http://mysteriousdrx.com/) from the original on March 10, 2010. Retrieved March 2, 2022.\u003c/a\u003e\n\u003ca href=\"http://www.barneysvideoresume.com/\" rel=\"nofollow\"\u003e91. \"Barney Stinson's Video Resume\" (http://www.barneysvideoresume.com/). www.barneysvideoresume.com.\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://web.archive.org/web/20190330041801/http://www.barneysvideoresume.com/\" rel=\"nofollow\"\u003eArchived (https://web.archive.org/web/20190330041801/http://www.barneysvideoresume.com/) from the original\u003c/a\u003e\non March 30, 2019. Retrieved March 2, 2022.\n\u003ca href=\"https://web.archive.org/web/20210609030712/http://canadiansexacts.org/\" rel=\"nofollow\"\u003e92. \"Canadian Sex Acts\" (https://web.archive.org/web/20210609030712/http://canadiansexacts.org/). Archived from\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"http://canadiansexacts.org/\" rel=\"nofollow\"\u003ethe original (http://canadiansexacts.org) on June 9, 2021. Retrieved March 2, 2022.\u003c/a\u003e\n\u003ca href=\"http://www.itwasthebestnightever.com/\" rel=\"nofollow\"\u003e93. \"Best Night Ever\" (http://www.itwasthebestnightever.com/). www.itwasthebestnightever.com. Archived (https://we\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://web.archive.org/web/20100209090541/http://www.itwasthebestnightever.com/\" rel=\"nofollow\"\u003eb.archive.org/web/20100209090541/http://www.itwasthebestnightever.com/) from the original on February 9,\u003c/a\u003e\n2010. Retrieved March 2, 2022.\n\u003ca href=\"http://www.extremitiesquarterly.com/\" rel=\"nofollow\"\u003e94. \"Extremities Quarterly | Phallumegaly - Lorenzo von Matterhorn\" (http://www.extremitiesquarterly.com/).\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003cem\u003e\u003ca href=\"https://web.archive.org/web/20100722031111/http://www.extremitiesquarterly.com/\" rel=\"nofollow\"\u003ewww.extremitiesquarterly.com. Archived (https://web.archive.org/web/20100722031111/http://www.extremitiesqua\u003c/a\u003e\u003c/em\u003e\n\u003ca href=\"https://web.archive.org/web/20100722031111/http://www.extremitiesquarterly.com/\" rel=\"nofollow\"\u003erterly.com/) from the original on July 22, 2010. Retrieved March 2, 2022.\u003c/a\u003e\n\u003ca href=\"http://balloonexplorersclub.com/\" rel=\"nofollow\"\u003e95. \"Balloon Explorers Club | Featured Member\" (http://balloonexplorersclub.com/). balloonexplorersclub.com.\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://web.archive.org/web/20101011000438/http://www.balloonexplorersclub.com/\" rel=\"nofollow\"\u003eArchived (https://web.archive.org/web/20101011000438/http://www.balloonexplorersclub.com/) from the original\u003c/a\u003e\non October 11, 2010. Retrieved March 2, 2022.\u003c/p\u003e\n\u003chr\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://web.archive.org/web/20120210211537/http://www.lorenzovonmatterhorn.com/\" rel=\"nofollow\"\u003eArchived (https://web.archive.org/web/20120210211537/http://www.lorenzovonmatterhorn.com/) from the original\u003c/a\u003e\non February 10, 2012. Retrieved March 2, 2022.\n\u003ca href=\"https://web.archive.org/web/20100814022526/http://bigbusinessjournal.com/\" rel=\"nofollow\"\u003e97. \"bigbusinessjournal\" (https://web.archive.org/web/20100814022526/http://bigbusinessjournal.com/). Archived\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"http://bigbusinessjournal.com/\" rel=\"nofollow\"\u003efrom the original (http://bigbusinessjournal.com) on August 14, 2010. Retrieved July 27, 2010.\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20121214015335/http://www.weddingbridemovie.com/\" rel=\"nofollow\"\u003e98. \"The Wedding Bride Movie\" (https://web.archive.org/web/20121214015335/http://www.weddingbridemovie.com/).\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"http://www.weddingbridemovie.com/\" rel=\"nofollow\"\u003eArchived from the original (http://www.weddingbridemovie.com) on December 14, 2012. Retrieved January 6,\u003c/a\u003e\n2010.\n\u003ca href=\"http://grademyteacher.net/\" rel=\"nofollow\"\u003e99. \"Grade My Teacher - Ted Mosby Page\" (http://grademyteacher.net/). grademyteacher.net. Archived (https://web.ar\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://web.archive.org/web/20120426050508/http://grademyteacher.net/\" rel=\"nofollow\"\u003echive.org/web/20120426050508/http://grademyteacher.net/) from the original on April 26, 2012. Retrieved\u003c/a\u003e\nMarch 2, 2022.\n\u003ca href=\"http://www.stinsonbreastreduction.com/\" rel=\"nofollow\"\u003e100. \"Stinson Breast Reduction\" (http://www.stinsonbreastreduction.com/). www.stinsonbreastreduction.com. Archived\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://web.archive.org/web/20210511113100/http://stinsonbreastreduction.com/\" rel=\"nofollow\"\u003e(https://web.archive.org/web/20210511113100/http://stinsonbreastreduction.com/) from the original on May 11,\u003c/a\u003e\n2021. Retrieved March 2, 2022.\n\u003ca href=\"http://www.linsonbreastlawsuit.com/\" rel=\"nofollow\"\u003e101. \"Linson Breast Lawsuit\" (http://www.linsonbreastlawsuit.com). Archived (https://web.archive.org/web/2020111120\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://web.archive.org/web/20201111203407/http://linsonbreastlawsuit.com//\" rel=\"nofollow\"\u003e3407/http://linsonbreastlawsuit.com//) from the original on November 11, 2020. Retrieved March 2, 2022.\u003c/a\u003e\n\u003ca href=\"http://www.theslapbetcountdown.com/\" rel=\"nofollow\"\u003e102. \"Slapbet Countdown\" (http://www.theslapbetcountdown.com/). www.theslapbetcountdown.com. Archived (https://\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://web.archive.org/web/20220116233620/http://www.theslapbetcountdown.com/\" rel=\"nofollow\"\u003eweb.archive.org/web/20220116233620/http://www.theslapbetcountdown.com/) from the original on January 16,\u003c/a\u003e\n2022. Retrieved March 2, 2022.\n\u003ca href=\"https://web.archive.org/web/20181112153536/http://puzzlesthebar.com/\" rel=\"nofollow\"\u003e103. \"Puzzles the Bar\" (https://web.archive.org/web/20181112153536/http://puzzlesthebar.com/). Archived from the\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"http://www.puzzlesthebar.com/\" rel=\"nofollow\"\u003eoriginal (http://www.puzzlesthebar.com) on November 12, 2018. Retrieved March 2, 2022.\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20140517201956/http://lilysinlabor.com/\" rel=\"nofollow\"\u003e104. \"Lily is in Labor\" (https://web.archive.org/web/20140517201956/http://lilysinlabor.com/). Archived from the original\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"http://www.lilysinlabor.com/\" rel=\"nofollow\"\u003e(http://www.lilysinlabor.com) on May 17, 2014. Retrieved March 2, 2022.\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20130907101352/http://heynannynanny.com/\" rel=\"nofollow\"\u003e105. \"Hey Nanny Nanny\" (https://web.archive.org/web/20130907101352/http://heynannynanny.com/). Archived from\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"http://www.heynannynanny.com/\" rel=\"nofollow\"\u003ethe original (http://www.heynannynanny.com) on September 7, 2013. Retrieved March 2, 2022.\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20121208222627/http://www.brobibs.com/\" rel=\"nofollow\"\u003e106. \"Bro Bibs\" (https://web.archive.org/web/20121208222627/http://www.brobibs.com/). Archived from the original (htt\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"http://www.brobibs.com/\" rel=\"nofollow\"\u003ep://www.brobibs.com) on December 8, 2012. Retrieved March 2, 2022.\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20130906233844/http://www.dudeaprons.com/\" rel=\"nofollow\"\u003e107. \"Dude Aprons\" (https://web.archive.org/web/20130906233844/http://www.dudeaprons.com/). Archived from the\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"http://www.dudeaprons.com/\" rel=\"nofollow\"\u003eoriginal (http://www.dudeaprons.com) on September 6, 2013. Retrieved March 2, 2022.\u003c/a\u003e\n\u003ca href=\"https://deadline.com/2013/11/how-i-met-your-mother-spinoff-cbs-pilot-636218/\" rel=\"nofollow\"\u003e108. Andreeva, Nellie (November 15, 2013). \" 'How I Met Your Mother' Spinoff – CBS Orders Pilot\" (https://deadline.co\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://deadline.com/2013/11/how-i-met-your-mother-spinoff-cbs-pilot-636218/\" rel=\"nofollow\"\u003em/2013/11/how-i-met-your-mother-spinoff-cbs-pilot-636218/). Deadline Hollywood. Los Angeles, California:\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/Penske_Media_Corporation\" rel=\"nofollow\"\u003ePenske Media Corporation. Archived (https://web.archive.org/web/20131117063948/http://www.deadline.com/201\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20131117063948/http://www.deadline.com/2013/11/how-i-met-your-mother-spinoff-cbs-pilot/\" rel=\"nofollow\"\u003e3/11/how-i-met-your-mother-spinoff-cbs-pilot/) from the original on November 17, 2013. Retrieved November 16,\u003c/a\u003e\n2013.\n\u003ca href=\"https://archive.today/20131118022242/http://www.hypable.com/2013/11/16/himym-spinoff-how-i-met-your-dad-ordered-show-creators-tweet-info/\" rel=\"nofollow\"\u003e109. Lintz, Kristina (November 16, 2013). \" 'HIMYM' spinoff 'How I Met Your Dad' ordered, show creators tweet info\" (ht\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://archive.today/20131118022242/http://www.hypable.com/2013/11/16/himym-spinoff-how-i-met-your-dad-ordered-show-creators-tweet-info/\" rel=\"nofollow\"\u003etps://archive.today/20131118022242/http://www.hypable.com/2013/11/16/himym-spinoff-how-i-met-your-dad-orde\u003c/a\u003e\n\u003ca href=\"https://archive.today/20131118022242/http://www.hypable.com/2013/11/16/himym-spinoff-how-i-met-your-dad-ordered-show-creators-tweet-info/\" rel=\"nofollow\"\u003ered-show-creators-tweet-info/). Hypable.com. Archived from the original (http://www.hypable.com/2013/11/16/him\u003c/a\u003e\n\u003ca href=\"http://www.hypable.com/2013/11/16/himym-spinoff-how-i-met-your-dad-ordered-show-creators-tweet-info/\" rel=\"nofollow\"\u003eym-spinoff-how-i-met-your-dad-ordered-show-creators-tweet-info/) on November 18, 2013. Retrieved\u003c/a\u003e\nNovember 16, 2013.\n\u003ca href=\"https://deadline.com/2014/03/nick-dagosto-andrew-santino-cbs-himym-spinoff-how-i-met-your-dad-699569/\" rel=\"nofollow\"\u003e110. Andreeva, Nellie (March 14, 2014). \"Nick D'Agosto \u0026amp; Andrew Santino To Star In CBS' 'HIMYM' Spinoff 'How I Met\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://deadline.com/2014/03/nick-dagosto-andrew-santino-cbs-himym-spinoff-how-i-met-your-dad-699569/\" rel=\"nofollow\"\u003eYour Dad' \" (https://deadline.com/2014/03/nick-dagosto-andrew-santino-cbs-himym-spinoff-how-i-met-your-dad-6\u003c/a\u003e\n\u003ca href=\"https://deadline.com/2014/03/nick-dagosto-andrew-santino-cbs-himym-spinoff-how-i-met-your-dad-699569/\" rel=\"nofollow\"\u003e99569/). Deadline Hollywood. Los Angeles, California: Penske Media Corporation. Archived (https://web.archive.o\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20140619185313/http://www.deadline.com/2014/03/nick-dagosto-andrew-santino-cbs-himym-spinoff-how-i-met-your-dad/\" rel=\"nofollow\"\u003erg/web/20140619185313/http://www.deadline.com/2014/03/nick-dagosto-andrew-santino-cbs-himym-spinoff-how-\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20140619185313/http://www.deadline.com/2014/03/nick-dagosto-andrew-santino-cbs-himym-spinoff-how-i-met-your-dad/\" rel=\"nofollow\"\u003ei-met-your-dad/) from the original on June 19, 2014. Retrieved April 17, 2020.\u003c/a\u003e\n\u003ca href=\"https://deadline.com/2014/03/tiya-sircar-lands-vancant-lead-role-in-cbs-how-i-met-your-dad-pilot-704823/\" rel=\"nofollow\"\u003e111. \"Tiya Sircar Lands Vacant Lead Role in CBS' 'How I Met Your Dad' Pilot\" (https://deadline.com/2014/03/tiya-sircar\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://deadline.com/2014/03/tiya-sircar-lands-vancant-lead-role-in-cbs-how-i-met-your-dad-pilot-704823/\" rel=\"nofollow\"\u003e-lands-vancant-lead-role-in-cbs-how-i-met-your-dad-pilot-704823/). March 26, 2014. Archived (https://web.archiv\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20210518073414/https://deadline.com/2014/03/tiya-sircar-lands-vancant-lead-role-in-cbs-how-i-met-your-dad-pilot-704823/\" rel=\"nofollow\"\u003ee.org/web/20210518073414/https://deadline.com/2014/03/tiya-sircar-lands-vancant-lead-role-in-cbs-how-i-met-yo\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20210518073414/https://deadline.com/2014/03/tiya-sircar-lands-vancant-lead-role-in-cbs-how-i-met-your-dad-pilot-704823/\" rel=\"nofollow\"\u003eur-dad-pilot-704823/) from the original on May 18, 2021. Retrieved May 18, 2021.\u003c/a\u003e\n\u003ca href=\"https://deadline.com/2014/04/meg-ryan-to-voice-mother-in-how-i-met-your-dad-718910/\" rel=\"nofollow\"\u003e112. Andreeva, Nellie (April 23, 2014). \"Meg Ryan To Voice The Mother In CBS' 'How I Met Your Dad' \" (https://deadlin\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://deadline.com/2014/04/meg-ryan-to-voice-mother-in-how-i-met-your-dad-718910/\" rel=\"nofollow\"\u003ee.com/2014/04/meg-ryan-to-voice-mother-in-how-i-met-your-dad-718910/). Deadline Hollywood. Los Angeles,\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/Penske_Media_Corporation\" rel=\"nofollow\"\u003eCalifornia: Penske Media Corporation. Archived (https://web.archive.org/web/20140423210811/http://www.deadlin\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20140423210811/http://www.deadline.com/2014/04/meg-ryan-to-voice-mother-in-how-i-met-your-dad/\" rel=\"nofollow\"\u003ee.com/2014/04/meg-ryan-to-voice-mother-in-how-i-met-your-dad/) from the original on April 23, 2014. Retrieved\u003c/a\u003e\nApril 23, 2014.\n\u003ca href=\"https://www.ign.com/articles/2014/05/14/cbs-passes-on-how-i-met-your-mother-spinoff-how-i-met-your-dad\" rel=\"nofollow\"\u003e113. \"CBS Passes on How I Met Your Dad\" (https://www.ign.com/articles/2014/05/14/cbs-passes-on-how-i-met-your-m\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://www.ign.com/articles/2014/05/14/cbs-passes-on-how-i-met-your-mother-spinoff-how-i-met-your-dad\" rel=\"nofollow\"\u003eother-spinoff-how-i-met-your-dad). IGN. San Francisco, California: j2 Global. May 14, 2014. Archived (https://web.\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20140515230932/http://www.ign.com/articles/2014/05/14/cbs-passes-on-how-i-met-your-mother-spinoff-how-i-met-your-dad\" rel=\"nofollow\"\u003earchive.org/web/20140515230932/http://www.ign.com/articles/2014/05/14/cbs-passes-on-how-i-met-your-mother-\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20140515230932/http://www.ign.com/articles/2014/05/14/cbs-passes-on-how-i-met-your-mother-spinoff-how-i-met-your-dad\" rel=\"nofollow\"\u003espinoff-how-i-met-your-dad) from the original on May 15, 2014. Retrieved May 14, 2014.\u003c/a\u003e\n\u003ca href=\"https://time.com/99144/cbs-has-passed-on-how-i-met-your-dad/\" rel=\"nofollow\"\u003e114. Frizell, Sam (May 14, 2014). \"CBS Has Passed On How I Met Your Dad\" (https://time.com/99144/cbs-has-passed\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://time.com/99144/cbs-has-passed-on-how-i-met-your-dad/\" rel=\"nofollow\"\u003e-on-how-i-met-your-dad/). Time. New York City: Meredith Corporation. Archived (https://web.archive.org/web/2014\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20140515004734/http://time.com/99144/cbs-has-passed-on-how-i-met-your-dad/\" rel=\"nofollow\"\u003e0515004734/http://time.com/99144/cbs-has-passed-on-how-i-met-your-dad/) from the original on May 15, 2014.\u003c/a\u003e\nRetrieved May 14, 2014.\u003c/p\u003e\n\u003chr\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://deadline.com/2014/05/upfronts-2014-what-pilots-are-still-alive-what-projects-are-being-shopped-731259/\" rel=\"nofollow\"\u003em/2014/05/upfronts-2014-what-pilots-are-still-alive-what-projects-are-being-shopped-731259/). Deadline\u003c/a\u003e\n\u003cem\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Deadline_Hollywood\" rel=\"nofollow\"\u003eHollywood. Los Angeles, California: Penske Media Corporation. Archived (https://web.archive.org/web/201405171\u003c/a\u003e\u003c/em\u003e\n\u003ca href=\"https://web.archive.org/web/20140517101034/http://www.deadline.com/2014/05/upfronts-2014-what-pilots-are-still-alive-what-projects-are-being-shopped/\" rel=\"nofollow\"\u003e01034/http://www.deadline.com/2014/05/upfronts-2014-what-pilots-are-still-alive-what-projects-are-being-shoppe\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20140517101034/http://www.deadline.com/2014/05/upfronts-2014-what-pilots-are-still-alive-what-projects-are-being-shopped/\" rel=\"nofollow\"\u003ed/) from the original on May 17, 2014. Retrieved May 16, 2014.\u003c/a\u003e\n\u003ca href=\"https://twitter.com/CarterBays/statuses/487538367492395008\" rel=\"nofollow\"\u003e116. \"Carter Bays on Twitter\" (https://twitter.com/CarterBays/statuses/487538367492395008). Twitter. Archived (http\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://web.archive.org/web/20150129152122/https://twitter.com/CarterBays/statuses/487538367492395008\" rel=\"nofollow\"\u003es://web.archive.org/web/20150129152122/https://twitter.com/CarterBays/statuses/487538367492395008) from\u003c/a\u003e\nthe original on January 29, 2015. Retrieved December 2, 2014.\n\u003ca href=\"https://deadline.com/2014/07/pilots-2014-still-alive-list-jim-gaffigan-clementine-sober-companion-cabot-college-805417/\" rel=\"nofollow\"\u003e117. Andreeva, Nellie (July 17, 2014). \"What 2014 Broadcast Pilots Are Still Alive — Full List\" (https://deadline.com/20\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://deadline.com/2014/07/pilots-2014-still-alive-list-jim-gaffigan-clementine-sober-companion-cabot-college-805417/\" rel=\"nofollow\"\u003e14/07/pilots-2014-still-alive-list-jim-gaffigan-clementine-sober-companion-cabot-college-805417/). Deadline\u003c/a\u003e\n\u003cem\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Deadline_Hollywood\" rel=\"nofollow\"\u003eHollywood. Los Angeles, California: Penske Media Corporation. Archived (https://web.archive.org/web/201407260\u003c/a\u003e\u003c/em\u003e\n\u003ca href=\"https://web.archive.org/web/20140726015013/http://www.deadline.com/2014/07/pilots-2014-still-alive-list-jim-gaffigan-clementine-sober-companion-cabot-college/\" rel=\"nofollow\"\u003e15013/http://www.deadline.com/2014/07/pilots-2014-still-alive-list-jim-gaffigan-clementine-sober-companion-cabot\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20140726015013/http://www.deadline.com/2014/07/pilots-2014-still-alive-list-jim-gaffigan-clementine-sober-companion-cabot-college/\" rel=\"nofollow\"\u003e-college/) from the original on July 26, 2014. Retrieved December 2, 2014.\u003c/a\u003e\n\u003ca href=\"https://hellogiggles.com/reviews-coverage/how-i-met-your-dad-pilot-script/\" rel=\"nofollow\"\u003e118. \"The \"How I Met Your Dad\" pilot script leaked online and we're bummed it's not happening\" (https://hellogiggles.c\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://hellogiggles.com/reviews-coverage/how-i-met-your-dad-pilot-script/\" rel=\"nofollow\"\u003eom/reviews-coverage/how-i-met-your-dad-pilot-script/). HelloGiggles. April 13, 2016. Archived (https://web.archiv\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20210504230718/https://hellogiggles.com/reviews-coverage/how-i-met-your-dad-pilot-script/\" rel=\"nofollow\"\u003ee.org/web/20210504230718/https://hellogiggles.com/reviews-coverage/how-i-met-your-dad-pilot-script/) from the\u003c/a\u003e\noriginal on May 4, 2021. Retrieved May 4, 2021.\n\u003ca href=\"https://deadline.com/2016/12/new-how-i-met-your-mother-dad-spinoff-how-i-met-your-father-this-is-us-1201869407/\" rel=\"nofollow\"\u003e119. Andreeva, Nellie (December 14, 2016). \"New 'How I Met Your Mother' Dad Spinoff In Works With 'This Is Us'\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://deadline.com/2016/12/new-how-i-met-your-mother-dad-spinoff-how-i-met-your-father-this-is-us-1201869407/\" rel=\"nofollow\"\u003eWriting Duo\" (https://deadline.com/2016/12/new-how-i-met-your-mother-dad-spinoff-how-i-met-your-father-this-is-\u003c/a\u003e\n\u003ca href=\"https://deadline.com/2016/12/new-how-i-met-your-mother-dad-spinoff-how-i-met-your-father-this-is-us-1201869407/\" rel=\"nofollow\"\u003eus-1201869407/). Deadline Hollywood. Los Angeles, California: Penske Media Corporation. Archived (https://web.\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20170422115504/http://deadline.com/2016/12/new-how-i-met-your-mother-dad-spinoff-how-i-met-your-father-this-is-us-1201869407/\" rel=\"nofollow\"\u003earchive.org/web/20170422115504/http://deadline.com/2016/12/new-how-i-met-your-mother-dad-spinoff-how-i-me\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20170422115504/http://deadline.com/2016/12/new-how-i-met-your-mother-dad-spinoff-how-i-met-your-father-this-is-us-1201869407/\" rel=\"nofollow\"\u003et-your-father-this-is-us-1201869407/) from the original on April 22, 2017. Retrieved March 15, 2017.\u003c/a\u003e\n\u003ca href=\"https://deadline.com/2017/03/this-is-us-isaac-aptaker-elizabeth-berger-co-showrunners-nbc-series-new-20th-tv-overall-deal-himym-spinoff-1202037636/\" rel=\"nofollow\"\u003e120. Andreeva, Nellie (March 6, 2017). \" 'This Is Us': Isaac Aptaker \u0026amp; Elizabeth Berger Named Co-Showrunners In\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://deadline.com/2017/03/this-is-us-isaac-aptaker-elizabeth-berger-co-showrunners-nbc-series-new-20th-tv-overall-deal-himym-spinoff-1202037636/\" rel=\"nofollow\"\u003eNew 20th TV Deal, 'HIMYM' Spinoff On Hold\" (https://deadline.com/2017/03/this-is-us-isaac-aptaker-elizabeth-ber\u003c/a\u003e\n\u003ca href=\"https://deadline.com/2017/03/this-is-us-isaac-aptaker-elizabeth-berger-co-showrunners-nbc-series-new-20th-tv-overall-deal-himym-spinoff-1202037636/\" rel=\"nofollow\"\u003eger-co-showrunners-nbc-series-new-20th-tv-overall-deal-himym-spinoff-1202037636/). Deadline Hollywood. Los\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/wiki/Penske_Media_Corporation\" rel=\"nofollow\"\u003eAngeles, California: Penske Media Corporation. Archived (https://web.archive.org/web/20170813011651/http://de\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20170813011651/http://deadline.com/2017/03/this-is-us-isaac-aptaker-elizabeth-berger-co-showrunners-nbc-series-new-20th-tv-overall-deal-himym-spinoff-1202037636/\" rel=\"nofollow\"\u003eadline.com/2017/03/this-is-us-isaac-aptaker-elizabeth-berger-co-showrunners-nbc-series-new-20th-tv-overall-dea\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20170813011651/http://deadline.com/2017/03/this-is-us-isaac-aptaker-elizabeth-berger-co-showrunners-nbc-series-new-20th-tv-overall-deal-himym-spinoff-1202037636/\" rel=\"nofollow\"\u003el-himym-spinoff-1202037636/) from the original on August 13, 2017. Retrieved March 15, 2017.\u003c/a\u003e\n\u003ca href=\"https://deadline.com/2017/08/how-i-met-your-mother-spinoff-how-i-met-your-dad-new-writers-modern-family-empire-spinoffs-1202145158/\" rel=\"nofollow\"\u003e121. Andreeva, Nellie (August 8, 2017). \" 'How I Met Your Mother' Spinoff To Get Another Shot With New Writers,\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://deadline.com/2017/08/how-i-met-your-mother-spinoff-how-i-met-your-dad-new-writers-modern-family-empire-spinoffs-1202145158/\" rel=\"nofollow\"\u003e'Modern Family' \u0026amp; 'Empire' Spinoffs Also Possible\" (https://deadline.com/2017/08/how-i-met-your-mother-spinoff-h\u003c/a\u003e\n\u003ca href=\"https://deadline.com/2017/08/how-i-met-your-mother-spinoff-how-i-met-your-dad-new-writers-modern-family-empire-spinoffs-1202145158/\" rel=\"nofollow\"\u003eow-i-met-your-dad-new-writers-modern-family-empire-spinoffs-1202145158/). Archived (https://web.archive.org/w\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20170825071929/http://deadline.com/2017/08/how-i-met-your-mother-spinoff-how-i-met-your-dad-new-writers-modern-family-empire-spinoffs-1202145158/\" rel=\"nofollow\"\u003eeb/20170825071929/http://deadline.com/2017/08/how-i-met-your-mother-spinoff-how-i-met-your-dad-new-writers-\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20170825071929/http://deadline.com/2017/08/how-i-met-your-mother-spinoff-how-i-met-your-dad-new-writers-modern-family-empire-spinoffs-1202145158/\" rel=\"nofollow\"\u003emodern-family-empire-spinoffs-1202145158/) from the original on August 25, 2017. Retrieved September 1, 2017.\u003c/a\u003e\n\u003ca href=\"https://deadline.com/2017/08/how-i-met-your-father-alison-bennett-writer-new-himym-spinoff-1202147370/\" rel=\"nofollow\"\u003e122. Andreeva, Nellie (August 11, 2017). \" 'How I Met Your Father': Alison Bennett Tapped To Write New 'HIMYM'\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://deadline.com/2017/08/how-i-met-your-father-alison-bennett-writer-new-himym-spinoff-1202147370/\" rel=\"nofollow\"\u003eSpinoff\" (https://deadline.com/2017/08/how-i-met-your-father-alison-bennett-writer-new-himym-spinoff-120214737\u003c/a\u003e\n\u003ca href=\"https://deadline.com/2017/08/how-i-met-your-father-alison-bennett-writer-new-himym-spinoff-1202147370/\" rel=\"nofollow\"\u003e0/). Deadline Hollywood. Los Angeles, California: Penske Media Corporation. Archived (https://web.archive.org/w\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20170907081212/http://deadline.com/2017/08/how-i-met-your-father-alison-bennett-writer-new-himym-spinoff-1202147370/\" rel=\"nofollow\"\u003eeb/20170907081212/http://deadline.com/2017/08/how-i-met-your-father-alison-bennett-writer-new-himym-spinoff-\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20170907081212/http://deadline.com/2017/08/how-i-met-your-father-alison-bennett-writer-new-himym-spinoff-1202147370/\" rel=\"nofollow\"\u003e1202147370/) from the original on September 7, 2017. Retrieved September 1, 2017.\u003c/a\u003e\n\u003ca href=\"https://deadline.com/2021/04/how-i-met-your-father-hulu-how-i-met-your-mother-spinoff-hilary-duff-1234741018/\" rel=\"nofollow\"\u003e123. White, Peter (April 21, 2021). \" 'How I Met Your Father': Hulu Hands 'How I Met Your Mother' Spinoff Straight-To-\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://deadline.com/2021/04/how-i-met-your-father-hulu-how-i-met-your-mother-spinoff-hilary-duff-1234741018/\" rel=\"nofollow\"\u003eSeries Order With Hilary Duff To Star, Isaac Aptaker \u0026amp; Elizabeth Berger To Run\" (https://deadline.com/2021/04/ho\u003c/a\u003e\n\u003ca href=\"https://deadline.com/2021/04/how-i-met-your-father-hulu-how-i-met-your-mother-spinoff-hilary-duff-1234741018/\" rel=\"nofollow\"\u003ew-i-met-your-father-hulu-how-i-met-your-mother-spinoff-hilary-duff-1234741018/). Deadline. Archived (https://web.\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20210502205131/https://deadline.com/2021/04/how-i-met-your-father-hulu-how-i-met-your-mother-spinoff-hilary-duff-1234741018/\" rel=\"nofollow\"\u003earchive.org/web/20210502205131/https://deadline.com/2021/04/how-i-met-your-father-hulu-how-i-met-your-moth\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20210502205131/https://deadline.com/2021/04/how-i-met-your-father-hulu-how-i-met-your-mother-spinoff-hilary-duff-1234741018/\" rel=\"nofollow\"\u003eer-spinoff-hilary-duff-1234741018/) from the original on May 2, 2021. Retrieved April 21, 2021.\u003c/a\u003e\n\u003ca href=\"https://deadline.com/2021/06/how-i-met-your-father-chris-lowell-hilary-duff-hulu-how-i-met-your-mother-spinoff-1234775937/\" rel=\"nofollow\"\u003e124. Andreeva, Nellie; Petski, Denise (June 16, 2021). \" 'How I Met Your Father': Chris Lowell Joins Hilary Duff In\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://deadline.com/2021/06/how-i-met-your-father-chris-lowell-hilary-duff-hulu-how-i-met-your-mother-spinoff-1234775937/\" rel=\"nofollow\"\u003eHulu's 'How I Met Your Mother' Spinoff Series\" (https://deadline.com/2021/06/how-i-met-your-father-chris-lowell-hi\u003c/a\u003e\n\u003ca href=\"https://deadline.com/2021/06/how-i-met-your-father-chris-lowell-hilary-duff-hulu-how-i-met-your-mother-spinoff-1234775937/\" rel=\"nofollow\"\u003elary-duff-hulu-how-i-met-your-mother-spinoff-1234775937/). Deadline Hollywood. Archived (https://web.archive.or\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20210624200232/https://deadline.com/2021/06/how-i-met-your-father-chris-lowell-hilary-duff-hulu-how-i-met-your-mother-spinoff-1234775937/\" rel=\"nofollow\"\u003eg/web/20210624200232/https://deadline.com/2021/06/how-i-met-your-father-chris-lowell-hilary-duff-hulu-how-i-m\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20210624200232/https://deadline.com/2021/06/how-i-met-your-father-chris-lowell-hilary-duff-hulu-how-i-met-your-mother-spinoff-1234775937/\" rel=\"nofollow\"\u003eet-your-mother-spinoff-1234775937/) from the original on June 24, 2021. Retrieved June 25, 2021.\u003c/a\u003e\n\u003ca href=\"https://deadline.com/2021/08/how-i-met-your-father-francia-raisa-tom-ainsley-tien-tran-suraj-sharma-1234811888/\" rel=\"nofollow\"\u003e125. Petski, Denise (August 10, 2021). \" 'How I Met Your Father': Francia Raisa, Tom Ainsley, Tien Tran \u0026amp; Suraj\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://deadline.com/2021/08/how-i-met-your-father-francia-raisa-tom-ainsley-tien-tran-suraj-sharma-1234811888/\" rel=\"nofollow\"\u003eSharma Join Hulu's 'How I Met Your Mother' Spinoff\" (https://deadline.com/2021/08/how-i-met-your-father-francia-\u003c/a\u003e\n\u003ca href=\"https://deadline.com/2021/08/how-i-met-your-father-francia-raisa-tom-ainsley-tien-tran-suraj-sharma-1234811888/\" rel=\"nofollow\"\u003eraisa-tom-ainsley-tien-tran-suraj-sharma-1234811888/). Deadline Hollywood. Archived (https://web.archive.org/w\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20210810155139/https://deadline.com/2021/08/how-i-met-your-father-francia-raisa-tom-ainsley-tien-tran-suraj-sharma-1234811888/\" rel=\"nofollow\"\u003eeb/20210810155139/https://deadline.com/2021/08/how-i-met-your-father-francia-raisa-tom-ainsley-tien-tran-suraj-\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20210810155139/https://deadline.com/2021/08/how-i-met-your-father-francia-raisa-tom-ainsley-tien-tran-suraj-sharma-1234811888/\" rel=\"nofollow\"\u003esharma-1234811888/) from the original on August 10, 2021. Retrieved August 10, 2021.\u003c/a\u003e\n\u003ca href=\"https://deadline.com/2021/08/how-i-met-your-father-daniel-augustin-hulus-how-i-met-your-mother-spinoff-recasting-1234824595/\" rel=\"nofollow\"\u003e126. Petski, Denise (August 31, 2021). \" 'How I Met Your Father': Daniel Augustin Joins Hulu's 'How I Met Your Mother'\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://deadline.com/2021/08/how-i-met-your-father-daniel-augustin-hulus-how-i-met-your-mother-spinoff-recasting-1234824595/\" rel=\"nofollow\"\u003eSpinoff In Recasting\" (https://deadline.com/2021/08/how-i-met-your-father-daniel-augustin-hulus-how-i-met-your-\u003c/a\u003e\n\u003ca href=\"https://deadline.com/2021/08/how-i-met-your-father-daniel-augustin-hulus-how-i-met-your-mother-spinoff-recasting-1234824595/\" rel=\"nofollow\"\u003emother-spinoff-recasting-1234824595/). Deadline. Archived (https://web.archive.org/web/20210831003123/http\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20210831003123/https://deadline.com/2021/08/how-i-met-your-father-daniel-augustin-hulus-how-i-met-your-mother-spinoff-recasting-1234824595/\" rel=\"nofollow\"\u003es://deadline.com/2021/08/how-i-met-your-father-daniel-augustin-hulus-how-i-met-your-mother-spinoff-recasting-1\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20210831003123/https://deadline.com/2021/08/how-i-met-your-father-daniel-augustin-hulus-how-i-met-your-mother-spinoff-recasting-1234824595/\" rel=\"nofollow\"\u003e234824595/) from the original on August 31, 2021. Retrieved August 31, 2021.\u003c/a\u003e\n\u003ca href=\"https://variety.com/2023/tv/news/how-i-met-your-father-canceled-hulu-season-2-1235711231/\" rel=\"nofollow\"\u003e127. Maas, Jennifer (September 1, 2023). \" 'How I Met Your Father' Canceled at Hulu After Two Seasons\" (https://varie\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://variety.com/2023/tv/news/how-i-met-your-father-canceled-hulu-season-2-1235711231/\" rel=\"nofollow\"\u003ety.com/2023/tv/news/how-i-met-your-father-canceled-hulu-season-2-1235711231/).\u003c/a\u003e\u003c/p\u003e\n\u003chr\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://web.archive.org/web/20140404081958/http://tvbythenumbers.zap2it.com/2014/04/01/tv-ratings-monday-how-i-met-your-mother-finale-hits-high-bones-the-tomorrow-people-up-the-voice-down/249449/\" rel=\"nofollow\"\u003eTomorrow People' Up, 'The Voice' Down\" (https://web.archive.org/web/20140404081958/http://tvbythenumbers.za\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20140404081958/http://tvbythenumbers.zap2it.com/2014/04/01/tv-ratings-monday-how-i-met-your-mother-finale-hits-high-bones-the-tomorrow-people-up-the-voice-down/249449/\" rel=\"nofollow\"\u003ep2it.com/2014/04/01/tv-ratings-monday-how-i-met-your-mother-finale-hits-high-bones-the-tomorrow-people-up-th\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20140404081958/http://tvbythenumbers.zap2it.com/2014/04/01/tv-ratings-monday-how-i-met-your-mother-finale-hits-high-bones-the-tomorrow-people-up-the-voice-down/249449/\" rel=\"nofollow\"\u003ee-voice-down/249449/). TV by the Numbers. Archived from the original (http://tvbythenumbers.zap2it.com/2014/0\u003c/a\u003e\n\u003ca href=\"http://tvbythenumbers.zap2it.com/2014/04/01/tv-ratings-monday-how-i-met-your-mother-finale-hits-high-bones-the-tomorrow-people-up-the-voice-down/249449/\" rel=\"nofollow\"\u003e4/01/tv-ratings-monday-how-i-met-your-mother-finale-hits-high-bones-the-tomorrow-people-up-the-voice-down/24\u003c/a\u003e\n\u003ca href=\"http://tvbythenumbers.zap2it.com/2014/04/01/tv-ratings-monday-how-i-met-your-mother-finale-hits-high-bones-the-tomorrow-people-up-the-voice-down/249449/\" rel=\"nofollow\"\u003e9449/) on April 4, 2014. Retrieved April 8, 2014.\u003c/a\u003e\n\u003ca href=\"https://deadline.com/2014/05/tv-season-series-rankings-2013-full-list-2-733762/\" rel=\"nofollow\"\u003e129. \"Full 2013-2014 TV Season Series Rankings\" (https://deadline.com/2014/05/tv-season-series-rankings-2013-full-li\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://deadline.com/2014/05/tv-season-series-rankings-2013-full-list-2-733762/\" rel=\"nofollow\"\u003est-2-733762/). Deadline Hollywood. Los Angeles, California: Penske Media Corporation. May 22, 2014. Archived\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20140525201152/http://www.deadline.com/2014/05/tv-season-series-rankings-2013-full-list-2/\" rel=\"nofollow\"\u003e(https://web.archive.org/web/20140525201152/http://www.deadline.com/2014/05/tv-season-series-rankings-2013-\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20140525201152/http://www.deadline.com/2014/05/tv-season-series-rankings-2013-full-list-2/\" rel=\"nofollow\"\u003efull-list-2/) from the original on May 25, 2014. Retrieved May 28, 2014.\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20131202231824/http://tvbythenumbers.zap2it.com/2012/05/24/final-list-of-2011-12-season-tv-show-ratings-sunday-night-footb,all-tops-followed-by-american-idol-the-voice-modern-family/135747/\" rel=\"nofollow\"\u003e130. Gorman, Bill (May 24, 2012). \"Complete List Of 2011–12 Season TV Show Ratings: 'Sunday Night Football' Tops,\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://web.archive.org/web/20131202231824/http://tvbythenumbers.zap2it.com/2012/05/24/final-list-of-2011-12-season-tv-show-ratings-sunday-night-footb,all-tops-followed-by-american-idol-the-voice-modern-family/135747/\" rel=\"nofollow\"\u003eFollowed By 'American Idol,' 'NCIS' \u0026amp; 'Dancing With The Stars' \" (https://web.archive.org/web/20131202231824/ht\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20131202231824/http://tvbythenumbers.zap2it.com/2012/05/24/final-list-of-2011-12-season-tv-show-ratings-sunday-night-footb,all-tops-followed-by-american-idol-the-voice-modern-family/135747/\" rel=\"nofollow\"\u003etp://tvbythenumbers.zap2it.com/2012/05/24/final-list-of-2011-12-season-tv-show-ratings-sunday-night-footb,all-to\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20131202231824/http://tvbythenumbers.zap2it.com/2012/05/24/final-list-of-2011-12-season-tv-show-ratings-sunday-night-footb,all-tops-followed-by-american-idol-the-voice-modern-family/135747/\" rel=\"nofollow\"\u003eps-followed-by-american-idol-the-voice-modern-family/135747/). Tvbythenumbers. New York City: Nexstar\u003c/a\u003e\n\u003ca href=\"https://en.wikipedia.org/w/index.php?title=Nexstar_Communications\u0026amp;action=edit\u0026amp;redlink=1\" rel=\"nofollow\"\u003eCommunications. Archived from the original (http://tvbythenumbers.zap2it.com/2012/05/24/final-list-of-2011-12-se\u003c/a\u003e\n\u003ca href=\"http://tvbythenumbers.zap2it.com/2012/05/24/final-list-of-2011-12-season-tv-show-ratings-sunday-night-footb,all-tops-followed-by-american-idol-the-voice-modern-family/135747/\" rel=\"nofollow\"\u003eason-tv-show-ratings-sunday-night-footb,all-tops-followed-by-american-idol-the-voice-modern-family/135747/) on\u003c/a\u003e\nDecember 2, 2013. Retrieved April 8, 2014.\n\u003ca href=\"https://web.archive.org/web/20090601190247/http://abcmedianet.com/web/dnr/dispDNR.aspx?id=092705_03\" rel=\"nofollow\"\u003e131. \"September 19–25, 2005 weekly program rankings\" (https://web.archive.org/web/20090601190247/http://abcmedi\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://web.archive.org/web/20090601190247/http://abcmedianet.com/web/dnr/dispDNR.aspx?id=092705_03\" rel=\"nofollow\"\u003eanet.com/web/dnr/dispDNR.aspx?id=092705_03). ABC Television Group. Archived from the original (http://abcme\u003c/a\u003e\n\u003ca href=\"http://abcmedianet.com/web/dnr/dispDNR.aspx?id=092705_03\" rel=\"nofollow\"\u003edianet.com/web/dnr/dispDNR.aspx?id=092705_03) on June 1, 2009. Retrieved December 19, 2010.\u003c/a\u003e\n\u003ca href=\"http://abcmedianet.com/web/dnr/dispDNR.aspx?id=052306_05\" rel=\"nofollow\"\u003e132. \"May 15–21, 2006 weekly program rankings\" (http://abcmedianet.com/web/dnr/dispDNR.aspx?id=052306_05).\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003cem\u003e\u003ca href=\"https://web.archive.org/web/20150311232233/http://abcmedianet.com/web/dnr/dispDNR.aspx?id=052306_05\" rel=\"nofollow\"\u003eABC Television Group. Archived (https://web.archive.org/web/20150311232233/http://abcmedianet.com/web/dnr/\u003c/a\u003e\u003c/em\u003e\n\u003ca href=\"https://web.archive.org/web/20150311232233/http://abcmedianet.com/web/dnr/dispDNR.aspx?id=052306_05\" rel=\"nofollow\"\u003edispDNR.aspx?id=052306_05) from the original on March 11, 2015. Retrieved December 19, 2010.\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20070310210300/http://www.abcmedianet.com/pressrel/dispDNR.html?id=053106_05\" rel=\"nofollow\"\u003e133. \"How I Met Your Mother ratings\" (https://web.archive.org/web/20070310210300/http://www.abcmedianet.com/pre\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://web.archive.org/web/20070310210300/http://www.abcmedianet.com/pressrel/dispDNR.html?id=053106_05\" rel=\"nofollow\"\u003essrel/dispDNR.html?id=053106_05). ABCmedianet. Archived from the original (http://www.abcmedianet.com/pres\u003c/a\u003e\n\u003ca href=\"http://www.abcmedianet.com/pressrel/dispDNR.html?id=053106_05\" rel=\"nofollow\"\u003esrel/dispDNR.html?id=053106_05) on March 10, 2007. Retrieved December 24, 2009.\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20120329105628/http://abcmedianet.com/web/dnr/dispDNR.aspx?id=092606_07\" rel=\"nofollow\"\u003e134. \"ABC Medianet\" (https://web.archive.org/web/20120329105628/http://abcmedianet.com/web/dnr/dispDNR.aspx?i\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://web.archive.org/web/20120329105628/http://abcmedianet.com/web/dnr/dispDNR.aspx?id=092606_07\" rel=\"nofollow\"\u003ed=092606_07). ABC Television Group. Archived from the original (http://abcmedianet.com/web/dnr/dispDNR.asp\u003c/a\u003e\n\u003ca href=\"http://abcmedianet.com/web/dnr/dispDNR.aspx?id=092606_07\" rel=\"nofollow\"\u003ex?id=092606_07) on March 29, 2012. Retrieved August 12, 2013.\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20120102063804/http://www1.hollywoodreporter.com/hr/content_display/television/features/e3ifbfdd1bcb53266ad8d9a71cad261604f\" rel=\"nofollow\"\u003e135. \"How I Met Your Mother ratings\" (https://web.archive.org/web/20120102063804/http://www1.hollywoodreporter.co\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://web.archive.org/web/20120102063804/http://www1.hollywoodreporter.com/hr/content_display/television/features/e3ifbfdd1bcb53266ad8d9a71cad261604f\" rel=\"nofollow\"\u003em/hr/content_display/television/features/e3ifbfdd1bcb53266ad8d9a71cad261604f). ABCmedianet. Archived from\u003c/a\u003e\n\u003ca href=\"https://www.hollywoodreporter.com/hr/content_display/television/features/e3ifbfdd1bcb53266ad8d9a71cad261604f\" rel=\"nofollow\"\u003ethe original (https://www.hollywoodreporter.com/hr/content_display/television/features/e3ifbfdd1bcb53266ad8d9a\u003c/a\u003e\n\u003ca href=\"https://www.hollywoodreporter.com/hr/content_display/television/features/e3ifbfdd1bcb53266ad8d9a71cad261604f\" rel=\"nofollow\"\u003e71cad261604f) on January 2, 2012. Retrieved December 24, 2009.\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20110501042023/http://abcmedianet.com/web/dnr/dispDNR.aspx?id=100207_05\" rel=\"nofollow\"\u003e136. \"Weekly Program Rankings\" (https://web.archive.org/web/20110501042023/http://abcmedianet.com/web/dnr/disp\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://web.archive.org/web/20110501042023/http://abcmedianet.com/web/dnr/dispDNR.aspx?id=100207_05\" rel=\"nofollow\"\u003eDNR.aspx?id=100207_05). ABC Medianet. October 2, 2007. Archived from the original (http://abcmedianet.com/\u003c/a\u003e\n\u003ca href=\"http://abcmedianet.com/web/dnr/dispDNR.aspx?id=100207_05\" rel=\"nofollow\"\u003eweb/dnr/dispDNR.aspx?id=100207_05) on May 1, 2011. Retrieved August 13, 2013.\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20080925154923/http://tvbythenumbers.com/2008/05/28/top-cbs-primetime-shows-may-19-25/3922\" rel=\"nofollow\"\u003e137. Gorman, Bill (May 28, 2008). \"Top CBS Primetime Shows, May 19–25\" (https://web.archive.org/web/2008092515\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://web.archive.org/web/20080925154923/http://tvbythenumbers.com/2008/05/28/top-cbs-primetime-shows-may-19-25/3922\" rel=\"nofollow\"\u003e4923/http://tvbythenumbers.com/2008/05/28/top-cbs-primetime-shows-may-19-25/3922). Archived from the\u003c/a\u003e\n\u003ca href=\"http://tvbythenumbers.com/2008/05/28/top-cbs-primetime-shows-may-19-25/3922\" rel=\"nofollow\"\u003eoriginal (http://tvbythenumbers.com/2008/05/28/top-cbs-primetime-shows-may-19-25/3922) on September 25,\u003c/a\u003e\n2008. Retrieved August 13, 2013.\n\u003ca href=\"https://web.archive.org/web/20100413172935/http://abcmedianet.com/web/dnr/dispDNR.aspx?id=052808_06\" rel=\"nofollow\"\u003e138. \"Season Program Rankings from 09/24/07 through 05/25/08\" (https://web.archive.org/web/20100413172935/htt\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://web.archive.org/web/20100413172935/http://abcmedianet.com/web/dnr/dispDNR.aspx?id=052808_06\" rel=\"nofollow\"\u003ep://abcmedianet.com/web/dnr/dispDNR.aspx?id=052808_06). ABC Medianet. May 28, 2008. Archived from the\u003c/a\u003e\n\u003ca href=\"http://abcmedianet.com/web/dnr/dispDNR.aspx?id=052808_06\" rel=\"nofollow\"\u003eoriginal (http://abcmedianet.com/web/dnr/dispDNR.aspx?id=052808_06) on April 13, 2010. Retrieved July 3,\u003c/a\u003e\n2009.\n\u003ca href=\"https://web.archive.org/web/20131105003324/http://tvbythenumbers.zap2it.com/2008/09/30/top-cbs-primetime-shows-september-22-28/5427/\" rel=\"nofollow\"\u003e139. Gorman, Bill (September 30, 2008). \"Top CBS Primetime Shows, September 22–28\" (https://web.archive.org/we\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://web.archive.org/web/20131105003324/http://tvbythenumbers.zap2it.com/2008/09/30/top-cbs-primetime-shows-september-22-28/5427/\" rel=\"nofollow\"\u003eb/20131105003324/http://tvbythenumbers.zap2it.com/2008/09/30/top-cbs-primetime-shows-september-22-28/542\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20131105003324/http://tvbythenumbers.zap2it.com/2008/09/30/top-cbs-primetime-shows-september-22-28/5427/\" rel=\"nofollow\"\u003e7/). TV by the Numbers. Archived from the original (http://tvbythenumbers.zap2it.com/2008/09/30/top-cbs-primeti\u003c/a\u003e\n\u003ca href=\"http://tvbythenumbers.zap2it.com/2008/09/30/top-cbs-primetime-shows-september-22-28/5427/\" rel=\"nofollow\"\u003eme-shows-september-22-28/5427/) on November 5, 2013. Retrieved August 12, 2013.\u003c/a\u003e\n\u003ca href=\"http://abcmedianet.com/web/dnr/dispDNR.aspx?id=052709_06\" rel=\"nofollow\"\u003e140. \"PRESS RELEASE - ENTERTAINMENT - WEEKLY RANKINGS (WK OF 5/18)\" (http://abcmedianet.com/web/dn\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"http://abcmedianet.com/web/dnr/dispDNR.aspx?id=052709_06\" rel=\"nofollow\"\u003er/dispDNR.aspx?id=052709_06). ABCMedianet. Archived (https://web.archive.org/web/20120612090654/http://w\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20120612090654/http://www.abcmedianet.com/web/dnr/dispDNR.aspx?id=052709_06\" rel=\"nofollow\"\u003eww.abcmedianet.com/web/dnr/dispDNR.aspx?id=052709_06) from the original on June 12, 2012. Retrieved\u003c/a\u003e\nAugust 12, 2013.\n\u003ca href=\"https://web.archive.org/web/20090623063544/http://abcmedianet.com/web/dnr/dispDNR.aspx?id=051909_05\" rel=\"nofollow\"\u003e141. \"Season Program Rankings from 09/22/08 through 05/17/09\" (https://web.archive.org/web/20090623063544/htt\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://web.archive.org/web/20090623063544/http://abcmedianet.com/web/dnr/dispDNR.aspx?id=051909_05\" rel=\"nofollow\"\u003ep://abcmedianet.com/web/dnr/dispDNR.aspx?id=051909_05). ABC Medianet. May 19, 2009. Archived from the\u003c/a\u003e\n\u003ca href=\"http://abcmedianet.com/web/dnr/dispDNR.aspx?id=051909_05\" rel=\"nofollow\"\u003eoriginal (http://abcmedianet.com/web/dnr/dispDNR.aspx?id=051909_05) on June 23, 2009. Retrieved July 3,\u003c/a\u003e\n2009.\n\u003ca href=\"https://web.archive.org/web/20091005070730/http://tvbythenumbers.com/2009/09/22/monday-broadcast-final-numbers/28114\" rel=\"nofollow\"\u003e142. Seidman, Robert (September 22, 2009). \"Monday broadcast final numbers\" (https://web.archive.org/web/2009100\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://web.archive.org/web/20091005070730/http://tvbythenumbers.com/2009/09/22/monday-broadcast-final-numbers/28114\" rel=\"nofollow\"\u003e5070730/http://tvbythenumbers.com/2009/09/22/monday-broadcast-final-numbers/28114). TV by the Numbers.\u003c/a\u003e\n\u003ca href=\"http://tvbythenumbers.com/2009/09/22/monday-broadcast-final-numbers/28114\" rel=\"nofollow\"\u003eArchived from the original (http://tvbythenumbers.com/2009/09/22/monday-broadcast-final-numbers/28114) on\u003c/a\u003e\nOctober 5, 2009. Retrieved August 12, 2013.\n\u003ca href=\"http://www.thefutoncritic.com/ratings/2010/06/02/cbs-finishes-the-last-week-of-the-season-with-nine-of-the-top-10-scripted-series-35954/20100602cbs02/\" rel=\"nofollow\"\u003e143. \"CBS Finishes the Last Week of the Season with Nine of the Top 10 Scripted Series\" (http://www.thefutoncritic.co\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"http://www.thefutoncritic.com/ratings/2010/06/02/cbs-finishes-the-last-week-of-the-season-with-nine-of-the-top-10-scripted-series-35954/20100602cbs02/\" rel=\"nofollow\"\u003em/ratings/2010/06/02/cbs-finishes-the-last-week-of-the-season-with-nine-of-the-top-10-scripted-series-35954/201\u003c/a\u003e\n\u003ca href=\"http://www.thefutoncritic.com/ratings/2010/06/02/cbs-finishes-the-last-week-of-the-season-with-nine-of-the-top-10-scripted-series-35954/20100602cbs02/\" rel=\"nofollow\"\u003e00602cbs02/). The Futon Critic. June 2, 2010. Retrieved June 5, 2023.\u003c/a\u003e\u003c/p\u003e\n\u003chr\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://deadline.com/2010/05/full-series-rankings-for-the-2009-10-broadcast-season-44277/\" rel=\"nofollow\"\u003em/2010/05/full-series-rankings-for-the-2009-10-broadcast-season-44277/). Deadline Hollywood. Archived (https://\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20130709180259/http://www.deadline.com/2010/05/full-series-rankings-for-the-2009-10-broadcast-season/\" rel=\"nofollow\"\u003eweb.archive.org/web/20130709180259/http://www.deadline.com/2010/05/full-series-rankings-for-the-2009-10-bro\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20130709180259/http://www.deadline.com/2010/05/full-series-rankings-for-the-2009-10-broadcast-season/\" rel=\"nofollow\"\u003eadcast-season/) from the original on July 9, 2013. Retrieved December 18, 2010.\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20101116143816/http://tvbythenumbers.zap2it.com/2010/09/21/monday-finals-hawaii-five-0-two-and-a-half-men-dwts-house-gain-chuck-the-event-chase-castle-drop/64472\" rel=\"nofollow\"\u003e145. Seidman, Robert (September 21, 2010). \"Monday Finals: 'Hawaii Five-0,' 'Two and a Half Men,' 'DWTS,' 'House'\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://web.archive.org/web/20101116143816/http://tvbythenumbers.zap2it.com/2010/09/21/monday-finals-hawaii-five-0-two-and-a-half-men-dwts-house-gain-chuck-the-event-chase-castle-drop/64472\" rel=\"nofollow\"\u003eGain; 'Chuck,' 'The Event', Chase, Castle Drop\" (https://web.archive.org/web/20101116143816/http://tvbythenum\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20101116143816/http://tvbythenumbers.zap2it.com/2010/09/21/monday-finals-hawaii-five-0-two-and-a-half-men-dwts-house-gain-chuck-the-event-chase-castle-drop/64472\" rel=\"nofollow\"\u003ebers.zap2it.com/2010/09/21/monday-finals-hawaii-five-0-two-and-a-half-men-dwts-house-gain-chuck-the-event-c\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20101116143816/http://tvbythenumbers.zap2it.com/2010/09/21/monday-finals-hawaii-five-0-two-and-a-half-men-dwts-house-gain-chuck-the-event-chase-castle-drop/64472\" rel=\"nofollow\"\u003ehase-castle-drop/64472). TV by the Numbers. Archived from the original (http://tvbythenumbers.zap2it.com/2010/\u003c/a\u003e\n\u003ca href=\"http://tvbythenumbers.zap2it.com/2010/09/21/monday-finals-hawaii-five-0-two-and-a-half-men-dwts-house-gain-chuck-the-event-chase-castle-drop/64472\" rel=\"nofollow\"\u003e09/21/monday-finals-hawaii-five-0-two-and-a-half-men-dwts-house-gain-chuck-the-event-chase-castle-drop/6447\u003c/a\u003e\n\u003ca href=\"http://tvbythenumbers.zap2it.com/2010/09/21/monday-finals-hawaii-five-0-two-and-a-half-men-dwts-house-gain-chuck-the-event-chase-castle-drop/64472\" rel=\"nofollow\"\u003e2) on November 16, 2010. Retrieved September 21, 2010.\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20110521181640/http://tvbythenumbers.zap2it.com/2011/05/18/monday-final-ratings-dancing-hawaii-five-0-how-i-met-your-mother-mad-love-mike-the-chicago-code-adjusted-down/93127/\" rel=\"nofollow\"\u003e146. Seidman, Robert (May 18, 2011). \"Monday Final Ratings: 'Dancing,' 'Hawaii Five-0,' 'How I Met Your Mother,'\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://web.archive.org/web/20110521181640/http://tvbythenumbers.zap2it.com/2011/05/18/monday-final-ratings-dancing-hawaii-five-0-how-i-met-your-mother-mad-love-mike-the-chicago-code-adjusted-down/93127/\" rel=\"nofollow\"\u003e'Mad Love,' 'Mike \u0026amp; Molly' Adjusted Up; 'The Chicago Code' Adjusted Down\" (https://web.archive.org/web/201105\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20110521181640/http://tvbythenumbers.zap2it.com/2011/05/18/monday-final-ratings-dancing-hawaii-five-0-how-i-met-your-mother-mad-love-mike-the-chicago-code-adjusted-down/93127/\" rel=\"nofollow\"\u003e21181640/http://tvbythenumbers.zap2it.com/2011/05/18/monday-final-ratings-dancing-hawaii-five-0-how-i-met-yo\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20110521181640/http://tvbythenumbers.zap2it.com/2011/05/18/monday-final-ratings-dancing-hawaii-five-0-how-i-met-your-mother-mad-love-mike-the-chicago-code-adjusted-down/93127/\" rel=\"nofollow\"\u003eur-mother-mad-love-mike-the-chicago-code-adjusted-down/93127/). TV by the Numbers. Archived from the\u003c/a\u003e\n\u003ca href=\"http://tvbythenumbers.zap2it.com/2011/05/18/monday-final-ratings-dancing-hawaii-five-0-how-i-met-your-mother-mad-love-mike-the-chicago-code-adjusted-down/93127/\" rel=\"nofollow\"\u003eoriginal (http://tvbythenumbers.zap2it.com/2011/05/18/monday-final-ratings-dancing-hawaii-five-0-how-i-met-your\u003c/a\u003e\n\u003ca href=\"http://tvbythenumbers.zap2it.com/2011/05/18/monday-final-ratings-dancing-hawaii-five-0-how-i-met-your-mother-mad-love-mike-the-chicago-code-adjusted-down/93127/\" rel=\"nofollow\"\u003e-mother-mad-love-mike-the-chicago-code-adjusted-down/93127/) on May 21, 2011. Retrieved May 18, 2011.\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20110604160109/http://tvbythenumbers.zap2it.com/2011/06/01/2010-11-season-broadcast-primetime-show-viewership-averages/94407/\" rel=\"nofollow\"\u003e147. Gorman, Bill (June 1, 2011). \"2010–11 Season Broadcast Primetime Show Viewership Averages\" (https://web.arc\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://web.archive.org/web/20110604160109/http://tvbythenumbers.zap2it.com/2011/06/01/2010-11-season-broadcast-primetime-show-viewership-averages/94407/\" rel=\"nofollow\"\u003ehive.org/web/20110604160109/http://tvbythenumbers.zap2it.com/2011/06/01/2010-11-season-broadcast-primeti\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20110604160109/http://tvbythenumbers.zap2it.com/2011/06/01/2010-11-season-broadcast-primetime-show-viewership-averages/94407/\" rel=\"nofollow\"\u003eme-show-viewership-averages/94407/). TV by Numbers. Archived from the original (http://tvbythenumbers.zap2it.\u003c/a\u003e\n\u003ca href=\"http://tvbythenumbers.zap2it.com/2011/06/01/2010-11-season-broadcast-primetime-show-viewership-averages/94407/\" rel=\"nofollow\"\u003ecom/2011/06/01/2010-11-season-broadcast-primetime-show-viewership-averages/94407/) on June 4, 2011.\u003c/a\u003e\nRetrieved August 6, 2011.\n\u003ca href=\"https://web.archive.org/web/20111024184042/http://tvbythenumbers.zap2it.com/2011/09/20/monday-broadcast-final-ratings-two-and-a-half-men-2-broke-girls-dwts-adjusted-up-castle-adjusted-down/104333/\" rel=\"nofollow\"\u003e148. Seidman, Robert (September 20, 2011). \"Monday Broadcast Final Ratings: 'Two and a Half Men,' '2 Broke Girls,'\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://web.archive.org/web/20111024184042/http://tvbythenumbers.zap2it.com/2011/09/20/monday-broadcast-final-ratings-two-and-a-half-men-2-broke-girls-dwts-adjusted-up-castle-adjusted-down/104333/\" rel=\"nofollow\"\u003eDWTS Adjusted Up; 'Castle' Adjusted Down\" (https://web.archive.org/web/20111024184042/http://tvbythenumber\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20111024184042/http://tvbythenumbers.zap2it.com/2011/09/20/monday-broadcast-final-ratings-two-and-a-half-men-2-broke-girls-dwts-adjusted-up-castle-adjusted-down/104333/\" rel=\"nofollow\"\u003es.zap2it.com/2011/09/20/monday-broadcast-final-ratings-two-and-a-half-men-2-broke-girls-dwts-adjusted-up-castl\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20111024184042/http://tvbythenumbers.zap2it.com/2011/09/20/monday-broadcast-final-ratings-two-and-a-half-men-2-broke-girls-dwts-adjusted-up-castle-adjusted-down/104333/\" rel=\"nofollow\"\u003ee-adjusted-down/104333/). TV by the Numbers. Archived from the original (http://tvbythenumbers.zap2it.com/201\u003c/a\u003e\n\u003ca href=\"http://tvbythenumbers.zap2it.com/2011/09/20/monday-broadcast-final-ratings-two-and-a-half-men-2-broke-girls-dwts-adjusted-up-castle-adjusted-down/104333\" rel=\"nofollow\"\u003e1/09/20/monday-broadcast-final-ratings-two-and-a-half-men-2-broke-girls-dwts-adjusted-up-castle-adjusted-dow\u003c/a\u003e\n\u003ca href=\"http://tvbythenumbers.zap2it.com/2011/09/20/monday-broadcast-final-ratings-two-and-a-half-men-2-broke-girls-dwts-adjusted-up-castle-adjusted-down/104333\" rel=\"nofollow\"\u003en/104333) on October 24, 2011. Retrieved March 3, 2012.\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20120518004259/http://tvbythenumbers.zap2it.com/2012/05/15/monday-final-ratings-how-i-met-your-mother-two-and-a-half-men-mike-molly-americas-got-talent-the-bachelorette-adjusted-up/134437/\" rel=\"nofollow\"\u003e149. Bibel, Sara (May 15, 2012). \"Monday Final Ratings: 'How I Met Your Mother', 'Two and a Half Men', 'Mike \u0026amp;\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://web.archive.org/web/20120518004259/http://tvbythenumbers.zap2it.com/2012/05/15/monday-final-ratings-how-i-met-your-mother-two-and-a-half-men-mike-molly-americas-got-talent-the-bachelorette-adjusted-up/134437/\" rel=\"nofollow\"\u003eMolly', 'America's Got Talent' \u0026amp; 'The Bachelorette' Adjusted Up\" (https://web.archive.org/web/20120518004259/htt\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20120518004259/http://tvbythenumbers.zap2it.com/2012/05/15/monday-final-ratings-how-i-met-your-mother-two-and-a-half-men-mike-molly-americas-got-talent-the-bachelorette-adjusted-up/134437/\" rel=\"nofollow\"\u003ep://tvbythenumbers.zap2it.com/2012/05/15/monday-final-ratings-how-i-met-your-mother-two-and-a-half-men-mike\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20120518004259/http://tvbythenumbers.zap2it.com/2012/05/15/monday-final-ratings-how-i-met-your-mother-two-and-a-half-men-mike-molly-americas-got-talent-the-bachelorette-adjusted-up/134437/\" rel=\"nofollow\"\u003e-molly-americas-got-talent-the-bachelorette-adjusted-up/134437/). TV by the Numbers. Archived from the original\u003c/a\u003e\n\u003ca href=\"http://tvbythenumbers.zap2it.com/2012/05/15/monday-final-ratings-how-i-met-your-mother-two-and-a-half-men-mike-molly-americas-got-talent-the-bachelorette-adjusted-up/134437/\" rel=\"nofollow\"\u003e(http://tvbythenumbers.zap2it.com/2012/05/15/monday-final-ratings-how-i-met-your-mother-two-and-a-half-men-\u003c/a\u003e\n\u003ca href=\"http://tvbythenumbers.zap2it.com/2012/05/15/monday-final-ratings-how-i-met-your-mother-two-and-a-half-men-mike-molly-americas-got-talent-the-bachelorette-adjusted-up/134437/\" rel=\"nofollow\"\u003emike-molly-americas-got-talent-the-bachelorette-adjusted-up/134437/) on May 18, 2012. Retrieved May 15, 2012.\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20121014113016/http://tvbythenumbers.zap2it.com/2012/09/25/monday-final-ratings-tt/150036/\" rel=\"nofollow\"\u003e150. Kondolojy, Amanda (September 25, 2012). \"Monday Final Ratings: 'How I Met Your Mother', 'Mike and Molly',\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://web.archive.org/web/20121014113016/http://tvbythenumbers.zap2it.com/2012/09/25/monday-final-ratings-tt/150036/\" rel=\"nofollow\"\u003e'Voice', 'Bones' Adjusted Up; 'DWTS', 'Revolution', 'Castle' 'Hawaii Five-0' \u0026amp; 'LA Complex' Adjusted Down\" (https://\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20121014113016/http://tvbythenumbers.zap2it.com/2012/09/25/monday-final-ratings-tt/150036/\" rel=\"nofollow\"\u003eweb.archive.org/web/20121014113016/http://tvbythenumbers.zap2it.com/2012/09/25/monday-final-ratings-tt/1500\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20121014113016/http://tvbythenumbers.zap2it.com/2012/09/25/monday-final-ratings-tt/150036/\" rel=\"nofollow\"\u003e36/). TV by the Numbers. Archived from the original (http://tvbythenumbers.zap2it.com/2012/09/25/monday-final-r\u003c/a\u003e\n\u003ca href=\"http://tvbythenumbers.zap2it.com/2012/09/25/monday-final-ratings-tt/150036/\" rel=\"nofollow\"\u003eatings-tt/150036/) on October 14, 2012. Retrieved September 25, 2012.\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20130607114206/http://tvbythenumbers.zap2it.com/2013/05/14/monday-final-ratings-the-voice-2-broke-girls-90210-castle-adjusted-down/182604/\" rel=\"nofollow\"\u003e151. Kondolojy, Amanda (May 14, 2013). \"Monday Final Ratings: 'The Voice', '2 Broke Girls' \u0026amp; 'Hell's Kitchen' Adjusted\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://web.archive.org/web/20130607114206/http://tvbythenumbers.zap2it.com/2013/05/14/monday-final-ratings-the-voice-2-broke-girls-90210-castle-adjusted-down/182604/\" rel=\"nofollow\"\u003eUp; '90210' \u0026amp; 'Castle' Adjusted Down\" (https://web.archive.org/web/20130607114206/http://tvbythenumbers.zap2i\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20130607114206/http://tvbythenumbers.zap2it.com/2013/05/14/monday-final-ratings-the-voice-2-broke-girls-90210-castle-adjusted-down/182604/\" rel=\"nofollow\"\u003et.com/2013/05/14/monday-final-ratings-the-voice-2-broke-girls-90210-castle-adjusted-down/182604/). Archived\u003c/a\u003e\n\u003ca href=\"http://tvbythenumbers.zap2it.com/2013/05/14/monday-final-ratings-the-voice-2-broke-girls-90210-castle-adjusted-down/182604/\" rel=\"nofollow\"\u003efrom the original (http://tvbythenumbers.zap2it.com/2013/05/14/monday-final-ratings-the-voice-2-broke-girls-9021\u003c/a\u003e\n\u003ca href=\"http://tvbythenumbers.zap2it.com/2013/05/14/monday-final-ratings-the-voice-2-broke-girls-90210-castle-adjusted-down/182604/\" rel=\"nofollow\"\u003e0-castle-adjusted-down/182604/) on June 7, 2013. Retrieved May 14, 2013.\u003c/a\u003e\n\u003ca href=\"https://deadline.com/2014/05/tv-season-series-rankings-2013-full-list-2-733762/\" rel=\"nofollow\"\u003e152. Patten, Dominic (May 23, 2013). \"Full 2012–2013 TV Season Series Rankings\" (https://deadline.com/2014/05/tv-\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://deadline.com/2014/05/tv-season-series-rankings-2013-full-list-2-733762/\" rel=\"nofollow\"\u003eseason-series-rankings-2013-full-list-2-733762/). Deadline Hollywood. Archived (https://web.archive.org/web/201\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20130607071812/http://www.deadline.com/2013/05/tv-season-series-rankings-2013-full-list/\" rel=\"nofollow\"\u003e30607071812/http://www.deadline.com/2013/05/tv-season-series-rankings-2013-full-list/) from the original on\u003c/a\u003e\nJune 7, 2013. Retrieved May 27, 2013.\n\u003ca href=\"https://web.archive.org/web/20130927103023/http://tvbythenumbers.zap2it.com/2013/09/24/monday-final-tv-ratings-the-voice-no-adjustment-for-hostages-or-the-blacklist/204423/\" rel=\"nofollow\"\u003e153. Kondolojy, Amanda. \"Monday Final TV Ratings: 'The Voice' \u0026amp; 'How I Met Your Mother' Adjusted Up; No\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://web.archive.org/web/20130927103023/http://tvbythenumbers.zap2it.com/2013/09/24/monday-final-tv-ratings-the-voice-no-adjustment-for-hostages-or-the-blacklist/204423/\" rel=\"nofollow\"\u003eAdjustment for 'Hostages' or 'The Blacklist' \" (https://web.archive.org/web/20130927103023/http://tvbythenumber\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20130927103023/http://tvbythenumbers.zap2it.com/2013/09/24/monday-final-tv-ratings-the-voice-no-adjustment-for-hostages-or-the-blacklist/204423/\" rel=\"nofollow\"\u003es.zap2it.com/2013/09/24/monday-final-tv-ratings-the-voice-no-adjustment-for-hostages-or-the-blacklist/204423/).\u003c/a\u003e\n\u003ca href=\"http://tvbythenumbers.zap2it.com/2013/09/24/monday-final-tv-ratings-the-voice-no-adjustment-for-hostages-or-the-blacklist/204423/\" rel=\"nofollow\"\u003eTV by the Numbers. Archived from the original (http://tvbythenumbers.zap2it.com/2013/09/24/monday-final-tv-rati\u003c/a\u003e\n\u003ca href=\"http://tvbythenumbers.zap2it.com/2013/09/24/monday-final-tv-ratings-the-voice-no-adjustment-for-hostages-or-the-blacklist/204423/\" rel=\"nofollow\"\u003engs-the-voice-no-adjustment-for-hostages-or-the-blacklist/204423/) on September 27, 2013. Retrieved\u003c/a\u003e\nSeptember 24, 2013.\n\u003ca href=\"https://web.archive.org/web/20140404082038/http://tvbythenumbers.zap2it.com/2014/04/01/monday-final-tv-ratings-how-i-met-your-mother-friends-with-better-lives-adjusted-down/249839/\" rel=\"nofollow\"\u003e154. Bibel, Sara (April 1, 2014). \"Monday Final TV Ratings: 'How I Met Your Mother' \u0026amp; 'Dancing With The Stars'\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://web.archive.org/web/20140404082038/http://tvbythenumbers.zap2it.com/2014/04/01/monday-final-tv-ratings-how-i-met-your-mother-friends-with-better-lives-adjusted-down/249839/\" rel=\"nofollow\"\u003eAdjusted Up; 'Friends With Better Lives' Adjusted Down\" (https://web.archive.org/web/20140404082038/http://tvb\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20140404082038/http://tvbythenumbers.zap2it.com/2014/04/01/monday-final-tv-ratings-how-i-met-your-mother-friends-with-better-lives-adjusted-down/249839/\" rel=\"nofollow\"\u003eythenumbers.zap2it.com/2014/04/01/monday-final-tv-ratings-how-i-met-your-mother-friends-with-better-lives-adju\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20140404082038/http://tvbythenumbers.zap2it.com/2014/04/01/monday-final-tv-ratings-how-i-met-your-mother-friends-with-better-lives-adjusted-down/249839/\" rel=\"nofollow\"\u003ested-down/249839/). Twitter. Archived from the original (http://tvbythenumbers.zap2it.com/2014/04/01/monday-fin\u003c/a\u003e\n\u003ca href=\"http://tvbythenumbers.zap2it.com/2014/04/01/monday-final-tv-ratings-how-i-met-your-mother-friends-with-better-lives-adjusted-down/249839/\" rel=\"nofollow\"\u003eal-tv-ratings-how-i-met-your-mother-friends-with-better-lives-adjusted-down/249839/) on April 4, 2014. Retrieved\u003c/a\u003e\nApril 1, 2014.\n\u003ca href=\"https://web.archive.org/web/20110803011526/http://www.tvshowsondvd.com/news/Met-Mother-Season-6/15586\" rel=\"nofollow\"\u003e155. \"How I Met Your Mother DVD news: Announcement for How I Met Your Mother – Season 6\" (https://web.archive.o\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://web.archive.org/web/20110803011526/http://www.tvshowsondvd.com/news/Met-Mother-Season-6/15586\" rel=\"nofollow\"\u003erg/web/20110803011526/http://www.tvshowsondvd.com/news/Met-Mother-Season-6/15586).\u003c/a\u003e\n\u003ca href=\"https://www.tvshowsondvd.com/news/Met-Mother-Season-6/15586\" rel=\"nofollow\"\u003eTVShowsOnDVD.com. Archived from the original (https://www.tvshowsondvd.com/news/Met-Mother-Season-6/15\u003c/a\u003e\n\u003ca href=\"https://www.tvshowsondvd.com/news/Met-Mother-Season-6/15586\" rel=\"nofollow\"\u003e586) on August 3, 2011. Retrieved August 6, 2011.\u003c/a\u003e\u003c/p\u003e\n\u003chr\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://web.archive.org/web/20120721071915/http://www.tvshowsondvd.com/news/Met-Mother-Season-7/17250\" rel=\"nofollow\"\u003erg/web/20120721071915/http://www.tvshowsondvd.com/news/Met-Mother-Season-7/17250).\u003c/a\u003e\n\u003ca href=\"https://www.tvshowsondvd.com/news/Met-Mother-Season-7/17250\" rel=\"nofollow\"\u003eTVShowsOnDVD.com. Archived from the original (https://www.tvshowsondvd.com/news/Met-Mother-Season-7/17\u003c/a\u003e\n\u003ca href=\"https://www.tvshowsondvd.com/news/Met-Mother-Season-7/17250\" rel=\"nofollow\"\u003e250) on July 21, 2012. Retrieved September 2, 2012.\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20141207121907/http://www.tvshowsondvd.com/news/Met-Mother-Season-9-and-The-Whole-Story/20089\" rel=\"nofollow\"\u003e157. \"How I Met Your Mother DVD news: Press Release for Season 9 and The Whole Story\" (https://web.archive.org/w\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://web.archive.org/web/20141207121907/http://www.tvshowsondvd.com/news/Met-Mother-Season-9-and-The-Whole-Story/20089\" rel=\"nofollow\"\u003eeb/20141207121907/http://www.tvshowsondvd.com/news/Met-Mother-Season-9-and-The-Whole-Story/20089).\u003c/a\u003e\n\u003ca href=\"https://www.tvshowsondvd.com/news/Met-Mother-Season-9-and-The-Whole-Story/20089\" rel=\"nofollow\"\u003eTVShowsOnDVD.com. Archived from the original (https://www.tvshowsondvd.com/news/Met-Mother-Season-9-a\u003c/a\u003e\n\u003ca href=\"https://www.tvshowsondvd.com/news/Met-Mother-Season-9-and-The-Whole-Story/20089\" rel=\"nofollow\"\u003end-The-Whole-Story/20089) on December 7, 2014. Retrieved December 2, 2014.\u003c/a\u003e\n\u003ca href=\"http://www.ibtimes.com/fall-tv-2014-preview-catch-your-favorite-tv-shows-netflix-new-releases-1674674\" rel=\"nofollow\"\u003e158. Remling, Amanda (August 31, 2014). \"Fall TV 2014 Preview: Catch Up On Your Favorite TV Shows With Netflix\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"http://www.ibtimes.com/fall-tv-2014-preview-catch-your-favorite-tv-shows-netflix-new-releases-1674674\" rel=\"nofollow\"\u003eNew Releases\" (http://www.ibtimes.com/fall-tv-2014-preview-catch-your-favorite-tv-shows-netflix-new-releases-16\u003c/a\u003e\n\u003ca href=\"http://www.ibtimes.com/fall-tv-2014-preview-catch-your-favorite-tv-shows-netflix-new-releases-1674674\" rel=\"nofollow\"\u003e74674). International Business Times. IBT Media. Archived (https://web.archive.org/web/20150111203949/http://\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20150111203949/http://www.ibtimes.com/fall-tv-2014-preview-catch-your-favorite-tv-shows-netflix-new-releases-1674674\" rel=\"nofollow\"\u003ewww.ibtimes.com/fall-tv-2014-preview-catch-your-favorite-tv-shows-netflix-new-releases-1674674) from the\u003c/a\u003e\noriginal on January 11, 2015. Retrieved January 11, 2015.\n\u003ca href=\"http://www.ibtimes.co.uk/top-5-netflix-recommendations-week-how-i-met-your-mother-american-beauty-more-1531630\" rel=\"nofollow\"\u003e159. West, Amy (December 3, 2015). \"Top 5 Netflix recommendations of the week: How I Met Your Mother, American\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"http://www.ibtimes.co.uk/top-5-netflix-recommendations-week-how-i-met-your-mother-american-beauty-more-1531630\" rel=\"nofollow\"\u003eBeauty and more\" (http://www.ibtimes.co.uk/top-5-netflix-recommendations-week-how-i-met-your-mother-america\u003c/a\u003e\n\u003ca href=\"http://www.ibtimes.co.uk/top-5-netflix-recommendations-week-how-i-met-your-mother-american-beauty-more-1531630\" rel=\"nofollow\"\u003en-beauty-more-1531630). IBTimes. Archived (https://web.archive.org/web/20160414065042/http://www.ibtimes.c\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20160414065042/http://www.ibtimes.co.uk/top-5-netflix-recommendations-week-how-i-met-your-mother-american-beauty-more-1531630\" rel=\"nofollow\"\u003eo.uk/top-5-netflix-recommendations-week-how-i-met-your-mother-american-beauty-more-1531630) from the\u003c/a\u003e\noriginal on April 14, 2016. Retrieved April 5, 2016.\n\u003ca href=\"https://variety.com/2017/tv/news/movies-tv-shows-leaving-netflix-november-2017-1202602649/\" rel=\"nofollow\"\u003e160. Rubin, Rebecca (October 30, 2017). \"What's Leaving Netflix in November 2017\" (https://variety.com/2017/tv/new\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://variety.com/2017/tv/news/movies-tv-shows-leaving-netflix-november-2017-1202602649/\" rel=\"nofollow\"\u003es/movies-tv-shows-leaving-netflix-november-2017-1202602649/). Variety. Archived (https://web.archive.org/web/2\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20171116174444/http://variety.com/2017/tv/news/movies-tv-shows-leaving-netflix-november-2017-1202602649/\" rel=\"nofollow\"\u003e0171116174444/http://variety.com/2017/tv/news/movies-tv-shows-leaving-netflix-november-2017-1202602649/)\u003c/a\u003e\nfrom the original on November 16, 2017. Retrieved November 21, 2017.\n\u003ca href=\"https://popcultura.com.br/2020/02/28/how-i-met-your-mother-amazon-prime/#:~:text=A%20Amazon%20anunciou%2C%20durante%20a,o%20cat%C3%A1logo%20da%20concorrente%20Netflix.\" rel=\"nofollow\"\u003e161. Gusman, Giullia (February 28, 2020). \" \"How I Met Your Mother\" ficará disponível no Amazon Prime em março\" (h\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://popcultura.com.br/2020/02/28/how-i-met-your-mother-amazon-prime/#:~:text=A%20Amazon%20anunciou%2C%20durante%20a,o%20cat%C3%A1logo%20da%20concorrente%20Netflix.\" rel=\"nofollow\"\u003ettps://popcultura.com.br/2020/02/28/how-i-met-your-mother-amazon-prime/#:~:text=A%20Amazon%20anuncio\u003c/a\u003e\n\u003ca href=\"https://popcultura.com.br/2020/02/28/how-i-met-your-mother-amazon-prime/#:~:text=A%20Amazon%20anunciou%2C%20durante%20a,o%20cat%C3%A1logo%20da%20concorrente%20Netflix.\" rel=\"nofollow\"\u003eu%2C%20durante%20a,o%20cat%C3%A1logo%20da%20concorrente%20Netflix.). PopCultura. Archived (http\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20200916224043/https://popcultura.com.br/2020/02/28/how-i-met-your-mother-amazon-prime/#:~:text=A%20Amazon%20anunciou%2C%20durante%20a,o%20cat%C3%A1logo%20da%20concorrente%20Netflix.\" rel=\"nofollow\"\u003es://web.archive.org/web/20200916224043/https://popcultura.com.br/2020/02/28/how-i-met-your-mother-amazon-\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20200916224043/https://popcultura.com.br/2020/02/28/how-i-met-your-mother-amazon-prime/#:~:text=A%20Amazon%20anunciou%2C%20durante%20a,o%20cat%C3%A1logo%20da%20concorrente%20Netflix.\" rel=\"nofollow\"\u003eprime/#:~:text=A%20Amazon%20anunciou%2C%20durante%20a,o%20cat%C3%A1logo%20da%20concorrent\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20200916224043/https://popcultura.com.br/2020/02/28/how-i-met-your-mother-amazon-prime/#:~:text=A%20Amazon%20anunciou%2C%20durante%20a,o%20cat%C3%A1logo%20da%20concorrente%20Netflix.\" rel=\"nofollow\"\u003ee%20Netflix.) from the original on September 16, 2020. Retrieved September 15, 2020.\u003c/a\u003e\n\u003ca href=\"https://www.hotstar.com/in/tv/how-i-met-your-mother/8323\" rel=\"nofollow\"\u003e162. How I Met Your Mother - Disney+ Hotstar (https://www.hotstar.com/in/tv/how-i-met-your-mother/8323), December\u003c/a\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://web.archive.org/web/20211221100741/https://www.hotstar.com/in/tv/how-i-met-your-mother/8323\" rel=\"nofollow\"\u003e2021, archived (https://web.archive.org/web/20211221100741/https://www.hotstar.com/in/tv/how-i-met-your-moth\u003c/a\u003e\n\u003ca href=\"https://web.archive.org/web/20211221100741/https://www.hotstar.com/in/tv/how-i-met-your-mother/8323\" rel=\"nofollow\"\u003eer/8323) from the original on December 21, 2021, retrieved December 21, 2021\u003c/a\u003e\u003c/p\u003e\n\u003cdiv class=\"markdown-heading\" dir=\"auto\"\u003e\u003ch2 tabindex=\"-1\" class=\"heading-element\" dir=\"auto\"\u003eExternal links\u003c/h2\u003e\u003ca id=\"user-content-external-links\" class=\"anchor\" aria-label=\"Permalink: External links\" href=\"#external-links\"\u003e\u003csvg class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"\u003e\u003cpath d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"\u003e\u003c/path\u003e\u003c/svg\u003e\u003c/a\u003e\u003c/div\u003e\n\u003cp dir=\"auto\"\u003e\u003cem\u003e\u003ca href=\"https://www.imdb.com/title/tt0460649/\" rel=\"nofollow\"\u003eHow I Met Your Mother (https://www.imdb.com/title/tt0460649/) at IMDb\u003c/a\u003e\u003c/em\u003e\n\u003cem\u003e\u003ca href=\"https://www.imdb.com/title/tt3300610/\" rel=\"nofollow\"\u003eHow I Met Your Dad (https://www.imdb.com/title/tt3300610/) at IMDb\u003c/a\u003e\u003c/em\u003e\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\u003ca href=\"https://en.wikipedia.org/w/index.php?title=How_I_Met_Your_Mother\u0026amp;oldid=1263077991\" rel=\"nofollow\"\u003eRetrieved from \"https://en.wikipedia.org/w/index.php?title=How_I_Met_Your_Mother\u0026amp;oldid=1263077991\"\u003c/a\u003e\u003c/p\u003e\n\u003chr\u003e\n\u003c/article\u003e","renderedFileInfo":null,"shortPath":null,"symbolsEnabled":true,"tabSize":8,"topBannersInfo":{"overridingGlobalFundingFile":false,"globalPreferredFundingPath":null,"showInvalidCitationWarning":false,"citationHelpUrl":"https://docs.github.com/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files","actionsOnboardingTip":null},"truncated":false,"viewable":true,"workflowRedirectUrl":null,"symbols":{"timed_out":false,"not_analyzed":false,"symbols":[{"name":"How I Met Your Mother","kind":"section_1","ident_start":2,"ident_end":23,"extent_start":0,"extent_end":207527,"fully_qualified_name":"How I Met Your Mother","ident_utf16":{"start":{"line_number":0,"utf16_col":2},"end":{"line_number":0,"utf16_col":23}},"extent_utf16":{"start":{"line_number":0,"utf16_col":0},"end":{"line_number":1957,"utf16_col":0}}},{"name":"Premise","kind":"section_2","ident_start":1422,"ident_end":1429,"extent_start":1419,"extent_end":6194,"fully_qualified_name":"Premise","ident_utf16":{"start":{"line_number":20,"utf16_col":3},"end":{"line_number":20,"utf16_col":10}},"extent_utf16":{"start":{"line_number":20,"utf16_col":0},"end":{"line_number":138,"utf16_col":0}}},{"name":"How I Met Your Mother","kind":"section_4","ident_start":4132,"ident_end":4153,"extent_start":4127,"extent_end":6194,"fully_qualified_name":"How I Met Your Mother","ident_utf16":{"start":{"line_number":55,"utf16_col":5},"end":{"line_number":55,"utf16_col":26}},"extent_utf16":{"start":{"line_number":55,"utf16_col":0},"end":{"line_number":138,"utf16_col":0}}},{"name":"Production","kind":"section_2","ident_start":6197,"ident_end":6207,"extent_start":6194,"extent_end":18683,"fully_qualified_name":"Production","ident_utf16":{"start":{"line_number":138,"utf16_col":3},"end":{"line_number":138,"utf16_col":13}},"extent_utf16":{"start":{"line_number":138,"utf16_col":0},"end":{"line_number":324,"utf16_col":0}}},{"name":"Syndication","kind":"section_2","ident_start":18686,"ident_end":18697,"extent_start":18683,"extent_end":19013,"fully_qualified_name":"Syndication","ident_utf16":{"start":{"line_number":324,"utf16_col":3},"end":{"line_number":324,"utf16_col":14}},"extent_utf16":{"start":{"line_number":324,"utf16_col":0},"end":{"line_number":329,"utf16_col":0}}},{"name":"Cast and characters","kind":"section_2","ident_start":19016,"ident_end":19035,"extent_start":19013,"extent_end":24953,"fully_qualified_name":"Cast and characters","ident_utf16":{"start":{"line_number":329,"utf16_col":3},"end":{"line_number":329,"utf16_col":22}},"extent_utf16":{"start":{"line_number":329,"utf16_col":0},"end":{"line_number":410,"utf16_col":0}}},{"name":"Season synopses","kind":"section_2","ident_start":24956,"ident_end":24971,"extent_start":24953,"extent_end":53227,"fully_qualified_name":"Season synopses","ident_utf16":{"start":{"line_number":410,"utf16_col":3},"end":{"line_number":410,"utf16_col":18}},"extent_utf16":{"start":{"line_number":410,"utf16_col":0},"end":{"line_number":726,"utf16_col":0}}},{"name":"Season 1","kind":"section_3","ident_start":26327,"ident_end":26335,"extent_start":26323,"extent_end":30104,"fully_qualified_name":"Season 1","ident_utf16":{"start":{"line_number":436,"utf16_col":4},"end":{"line_number":436,"utf16_col":12}},"extent_utf16":{"start":{"line_number":436,"utf16_col":0},"end":{"line_number":484,"utf16_col":0}}},{"name":"Season 2","kind":"section_3","ident_start":30108,"ident_end":30116,"extent_start":30104,"extent_end":32466,"fully_qualified_name":"Season 2","ident_utf16":{"start":{"line_number":484,"utf16_col":4},"end":{"line_number":484,"utf16_col":12}},"extent_utf16":{"start":{"line_number":484,"utf16_col":0},"end":{"line_number":506,"utf16_col":0}}},{"name":"Season 3","kind":"section_3","ident_start":32470,"ident_end":32478,"extent_start":32466,"extent_end":35059,"fully_qualified_name":"Season 3","ident_utf16":{"start":{"line_number":506,"utf16_col":4},"end":{"line_number":506,"utf16_col":12}},"extent_utf16":{"start":{"line_number":506,"utf16_col":0},"end":{"line_number":530,"utf16_col":0}}},{"name":"Season 4","kind":"section_3","ident_start":35063,"ident_end":35071,"extent_start":35059,"extent_end":37698,"fully_qualified_name":"Season 4","ident_utf16":{"start":{"line_number":530,"utf16_col":4},"end":{"line_number":530,"utf16_col":12}},"extent_utf16":{"start":{"line_number":530,"utf16_col":0},"end":{"line_number":561,"utf16_col":0}}},{"name":"Season 5","kind":"section_3","ident_start":37702,"ident_end":37710,"extent_start":37698,"extent_end":41033,"fully_qualified_name":"Season 5","ident_utf16":{"start":{"line_number":561,"utf16_col":4},"end":{"line_number":561,"utf16_col":12}},"extent_utf16":{"start":{"line_number":561,"utf16_col":0},"end":{"line_number":591,"utf16_col":0}}},{"name":"Season 6","kind":"section_3","ident_start":41037,"ident_end":41045,"extent_start":41033,"extent_end":44910,"fully_qualified_name":"Season 6","ident_utf16":{"start":{"line_number":591,"utf16_col":4},"end":{"line_number":591,"utf16_col":12}},"extent_utf16":{"start":{"line_number":591,"utf16_col":0},"end":{"line_number":631,"utf16_col":0}}},{"name":"Season 7","kind":"section_3","ident_start":44914,"ident_end":44922,"extent_start":44910,"extent_end":48223,"fully_qualified_name":"Season 7","ident_utf16":{"start":{"line_number":631,"utf16_col":4},"end":{"line_number":631,"utf16_col":12}},"extent_utf16":{"start":{"line_number":631,"utf16_col":0},"end":{"line_number":668,"utf16_col":0}}},{"name":"Season 8","kind":"section_3","ident_start":48227,"ident_end":48235,"extent_start":48223,"extent_end":51238,"fully_qualified_name":"Season 8","ident_utf16":{"start":{"line_number":668,"utf16_col":4},"end":{"line_number":668,"utf16_col":12}},"extent_utf16":{"start":{"line_number":668,"utf16_col":0},"end":{"line_number":699,"utf16_col":0}}},{"name":"Season 9","kind":"section_3","ident_start":51242,"ident_end":51250,"extent_start":51238,"extent_end":53227,"fully_qualified_name":"Season 9","ident_utf16":{"start":{"line_number":699,"utf16_col":4},"end":{"line_number":699,"utf16_col":12}},"extent_utf16":{"start":{"line_number":699,"utf16_col":0},"end":{"line_number":726,"utf16_col":0}}},{"name":"Critical reception","kind":"section_2","ident_start":53230,"ident_end":53248,"extent_start":53227,"extent_end":58549,"fully_qualified_name":"Critical reception","ident_utf16":{"start":{"line_number":726,"utf16_col":3},"end":{"line_number":726,"utf16_col":21}},"extent_utf16":{"start":{"line_number":726,"utf16_col":0},"end":{"line_number":783,"utf16_col":0}}},{"name":"Subplots","kind":"section_2","ident_start":58552,"ident_end":58560,"extent_start":58549,"extent_end":61224,"fully_qualified_name":"Subplots","ident_utf16":{"start":{"line_number":783,"utf16_col":3},"end":{"line_number":783,"utf16_col":11}},"extent_utf16":{"start":{"line_number":783,"utf16_col":0},"end":{"line_number":807,"utf16_col":0}}},{"name":"The Slap Bet","kind":"section_3","ident_start":58566,"ident_end":58578,"extent_start":58562,"extent_end":61224,"fully_qualified_name":"The Slap Bet","ident_utf16":{"start":{"line_number":785,"utf16_col":4},"end":{"line_number":785,"utf16_col":16}},"extent_utf16":{"start":{"line_number":785,"utf16_col":0},"end":{"line_number":807,"utf16_col":0}}},{"name":"Tie-ins","kind":"section_2","ident_start":61227,"ident_end":61234,"extent_start":61224,"extent_end":74405,"fully_qualified_name":"Tie-ins","ident_utf16":{"start":{"line_number":807,"utf16_col":3},"end":{"line_number":807,"utf16_col":10}},"extent_utf16":{"start":{"line_number":807,"utf16_col":0},"end":{"line_number":959,"utf16_col":0}}},{"name":"Books","kind":"section_3","ident_start":61240,"ident_end":61245,"extent_start":61236,"extent_end":62270,"fully_qualified_name":"Books","ident_utf16":{"start":{"line_number":809,"utf16_col":4},"end":{"line_number":809,"utf16_col":9}},"extent_utf16":{"start":{"line_number":809,"utf16_col":0},"end":{"line_number":824,"utf16_col":0}}},{"name":"Soundtracks","kind":"section_3","ident_start":62274,"ident_end":62285,"extent_start":62270,"extent_end":62639,"fully_qualified_name":"Soundtracks","ident_utf16":{"start":{"line_number":824,"utf16_col":4},"end":{"line_number":824,"utf16_col":15}},"extent_utf16":{"start":{"line_number":824,"utf16_col":0},"end":{"line_number":834,"utf16_col":0}}},{"name":"Pineapple Incident explained","kind":"section_3","ident_start":62643,"ident_end":62671,"extent_start":62639,"extent_end":63230,"fully_qualified_name":"Pineapple Incident explained","ident_utf16":{"start":{"line_number":834,"utf16_col":4},"end":{"line_number":834,"utf16_col":32}},"extent_utf16":{"start":{"line_number":834,"utf16_col":0},"end":{"line_number":840,"utf16_col":0}}},{"name":"Websites","kind":"section_3","ident_start":63234,"ident_end":63242,"extent_start":63230,"extent_end":69638,"fully_qualified_name":"Websites","ident_utf16":{"start":{"line_number":840,"utf16_col":4},"end":{"line_number":840,"utf16_col":12}},"extent_utf16":{"start":{"line_number":840,"utf16_col":0},"end":{"line_number":908,"utf16_col":0}}},{"name":"Spin-offs","kind":"section_3","ident_start":69642,"ident_end":69651,"extent_start":69638,"extent_end":74405,"fully_qualified_name":"Spin-offs","ident_utf16":{"start":{"line_number":908,"utf16_col":4},"end":{"line_number":908,"utf16_col":13}},"extent_utf16":{"start":{"line_number":908,"utf16_col":0},"end":{"line_number":959,"utf16_col":0}}},{"name":"Nielsen ratings","kind":"section_2","ident_start":74408,"ident_end":74423,"extent_start":74405,"extent_end":76534,"fully_qualified_name":"Nielsen ratings","ident_utf16":{"start":{"line_number":959,"utf16_col":3},"end":{"line_number":959,"utf16_col":18}},"extent_utf16":{"start":{"line_number":959,"utf16_col":0},"end":{"line_number":1030,"utf16_col":0}}},{"name":"Awards and nominations","kind":"section_2","ident_start":76537,"ident_end":76559,"extent_start":76534,"extent_end":78319,"fully_qualified_name":"Awards and nominations","ident_utf16":{"start":{"line_number":1030,"utf16_col":3},"end":{"line_number":1030,"utf16_col":25}},"extent_utf16":{"start":{"line_number":1030,"utf16_col":0},"end":{"line_number":1057,"utf16_col":0}}},{"name":"Home media","kind":"section_2","ident_start":78322,"ident_end":78332,"extent_start":78319,"extent_end":83697,"fully_qualified_name":"Home media","ident_utf16":{"start":{"line_number":1057,"utf16_col":3},"end":{"line_number":1057,"utf16_col":13}},"extent_utf16":{"start":{"line_number":1057,"utf16_col":0},"end":{"line_number":1128,"utf16_col":0}}},{"name":"References","kind":"section_2","ident_start":83700,"ident_end":83710,"extent_start":83697,"extent_end":207091,"fully_qualified_name":"References","ident_utf16":{"start":{"line_number":1128,"utf16_col":3},"end":{"line_number":1128,"utf16_col":13}},"extent_utf16":{"start":{"line_number":1128,"utf16_col":0},"end":{"line_number":1947,"utf16_col":0}}},{"name":"External links","kind":"section_2","ident_start":207094,"ident_end":207108,"extent_start":207091,"extent_end":207527,"fully_qualified_name":"External links","ident_utf16":{"start":{"line_number":1947,"utf16_col":3},"end":{"line_number":1947,"utf16_col":17}},"extent_utf16":{"start":{"line_number":1947,"utf16_col":0},"end":{"line_number":1957,"utf16_col":0}}}]}},"copilotInfo":null,"copilotAccessAllowed":false,"modelsAccessAllowed":false,"csrf_tokens":{"/olivermueller/amlta-2024/branches":{"post":"Pof3YYVcevIKsFr_EYCKoRzOEEinbxKhe6IiwShaL6K4KT4VYmFrPECQNDE0o6H6FPpV-AIns8udEdHWjGbaVg"},"/repos/preferences":{"post":"YcQ3oKOLCzQo1fTD3VJxfAV_UDlODSrp4MPoRGapTI-n9xYAOw288XrYNvRZtL_hpJ2R7En95-H5mQbNyXnUbw"}}},"title":"amlta-2024/Session_08/markdown_documents/How_I_Met_Your_Mother.md at main · olivermueller/amlta-2024","appPayload":{"helpUrl":"https://docs.github.com","findFileWorkerPath":"/assets-cdn/worker/find-file-worker-9f8a877aa99f.js","findInFileWorkerPath":"/assets-cdn/worker/find-in-file-worker-eb3d353f90ce.js","githubDevUrl":null,"enabled_features":{"code_nav_ui_events":false,"overview_shared_code_dropdown_button":false,"react_blob_overlay":false,"copilot_conversational_ux_embedding_update":false,"copilot_smell_icebreaker_ux":true,"accessible_code_button":true}}}</script>
-  <div data-target="react-app.reactRoot"></div>
-</react-app>
-</turbo-frame>
-
-
-
-  </div>
-
-</turbo-frame>
-
-    </main>
-  </div>
-
-  </div>
-
-          <footer class="footer pt-8 pb-6 f6 color-fg-muted p-responsive" role="contentinfo" >
-  <h2 class='sr-only'>Footer</h2>
-
-  
-
-
-  <div class="d-flex flex-justify-center flex-items-center flex-column-reverse flex-lg-row flex-wrap flex-lg-nowrap">
-    <div class="d-flex flex-items-center flex-shrink-0 mx-2">
-      <a aria-label="Homepage" title="GitHub" class="footer-octicon mr-2" href="https://github.com">
-        <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-mark-github">
-    <path d="M12.5.75C6.146.75 1 5.896 1 12.25c0 5.089 3.292 9.387 7.863 10.91.575.101.79-.244.79-.546 0-.273-.014-1.178-.014-2.142-2.889.532-3.636-.704-3.866-1.35-.13-.331-.69-1.352-1.18-1.625-.402-.216-.977-.748-.014-.762.906-.014 1.553.834 1.769 1.179 1.035 1.74 2.688 1.25 3.349.948.1-.747.402-1.25.733-1.538-2.559-.287-5.232-1.279-5.232-5.678 0-1.25.445-2.285 1.178-3.09-.115-.288-.517-1.467.115-3.048 0 0 .963-.302 3.163 1.179.92-.259 1.897-.388 2.875-.388.977 0 1.955.13 2.875.388 2.2-1.495 3.162-1.179 3.162-1.179.633 1.581.23 2.76.115 3.048.733.805 1.179 1.825 1.179 3.09 0 4.413-2.688 5.39-5.247 5.678.417.36.776 1.05.776 2.128 0 1.538-.014 2.774-.014 3.162 0 .302.216.662.79.547C20.709 21.637 24 17.324 24 12.25 24 5.896 18.854.75 12.5.75Z"></path>
-</svg>
-</a>
-      <span>
-        &copy; 2025 GitHub,&nbsp;Inc.
-      </span>
-    </div>
-
-    <nav aria-label="Footer">
-      <h3 class="sr-only" id="sr-footer-heading">Footer navigation</h3>
-
-      <ul class="list-style-none d-flex flex-justify-center flex-wrap mb-2 mb-lg-0" aria-labelledby="sr-footer-heading">
-
-          <li class="mx-2">
-            <a data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Terms&quot;,&quot;label&quot;:&quot;text:terms&quot;}" href="https://docs.github.com/site-policy/github-terms/github-terms-of-service" data-view-component="true" class="Link--secondary Link">Terms</a>
-          </li>
-
-          <li class="mx-2">
-            <a data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;}" href="https://docs.github.com/site-policy/privacy-policies/github-privacy-statement" data-view-component="true" class="Link--secondary Link">Privacy</a>
-          </li>
-
-          <li class="mx-2">
-            <a data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;}" href="https://github.com/security" data-view-component="true" class="Link--secondary Link">Security</a>
-          </li>
-
-          <li class="mx-2">
-            <a data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;}" href="https://www.githubstatus.com/" data-view-component="true" class="Link--secondary Link">Status</a>
-          </li>
-
-          <li class="mx-2">
-            <a data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to docs&quot;,&quot;label&quot;:&quot;text:docs&quot;}" href="https://docs.github.com/" data-view-component="true" class="Link--secondary Link">Docs</a>
-          </li>
-
-          <li class="mx-2">
-            <a data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;}" href="https://support.github.com?tags=dotcom-footer" data-view-component="true" class="Link--secondary Link">Contact</a>
-          </li>
-
-          <li class="mx-2" >
-  <cookie-consent-link>
-    <button
-      type="button"
-      class="Link--secondary underline-on-hover border-0 p-0 color-bg-transparent"
-      data-action="click:cookie-consent-link#showConsentManagement"
-      data-analytics-event="{&quot;location&quot;:&quot;footer&quot;,&quot;action&quot;:&quot;cookies&quot;,&quot;context&quot;:&quot;subfooter&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;cookies_link_subfooter_footer&quot;}"
-    >
-      Manage cookies
-    </button>
-  </cookie-consent-link>
-</li>
-
-<li class="mx-2">
-  <cookie-consent-link>
-    <button
-      type="button"
-      class="Link--secondary underline-on-hover border-0 p-0 color-bg-transparent"
-      data-action="click:cookie-consent-link#showConsentManagement"
-      data-analytics-event="{&quot;location&quot;:&quot;footer&quot;,&quot;action&quot;:&quot;dont_share_info&quot;,&quot;context&quot;:&quot;subfooter&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;dont_share_info_link_subfooter_footer&quot;}"
-    >
-      Do not share my personal information
-    </button>
-  </cookie-consent-link>
-</li>
-
-      </ul>
-    </nav>
-  </div>
-</footer>
-
-
-
-
-    <ghcc-consent id="ghcc" class="position-fixed bottom-0 left-0" style="z-index: 999999" data-initial-cookie-consent-allowed="" data-cookie-consent-required="true"></ghcc-consent>
-
-
-  <div id="ajax-error-message" class="ajax-error-message flash flash-error" hidden>
-    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
-    <path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
-</svg>
-    <button type="button" class="flash-close js-ajax-error-dismiss" aria-label="Dismiss error">
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
-    <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
-</svg>
-    </button>
-    You can’t perform that action at this time.
-  </div>
-
-    <template id="site-details-dialog">
-  <details class="details-reset details-overlay details-overlay-dark lh-default color-fg-default hx_rsm" open>
-    <summary role="button" aria-label="Close dialog"></summary>
-    <details-dialog class="Box Box--overlay d-flex flex-column anim-fade-in fast hx_rsm-dialog hx_rsm-modal">
-      <button class="Box-btn-octicon m-0 btn-octicon position-absolute right-0 top-0" type="button" aria-label="Close dialog" data-close-dialog>
-        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
-    <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
-</svg>
-      </button>
-      <div class="octocat-spinner my-6 js-details-dialog-spinner"></div>
-    </details-dialog>
-  </details>
-</template>
-
-    <div class="Popover js-hovercard-content position-absolute" style="display: none; outline: none;">
-  <div class="Popover-message Popover-message--bottom-left Popover-message--large Box color-shadow-large" style="width:360px;">
-  </div>
-</div>
-
-    <template id="snippet-clipboard-copy-button">
-  <div class="zeroclipboard-container position-absolute right-0 top-0">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0" data-copy-feedback="Copied!" data-tooltip-direction="w">
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon m-2">
-    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
-</svg>
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none m-2">
-    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
-</svg>
-    </clipboard-copy>
-  </div>
-</template>
-<template id="snippet-clipboard-copy-button-unpositioned">
-  <div class="zeroclipboard-container">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w">
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
-    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
-</svg>
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
-    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
-</svg>
-    </clipboard-copy>
-  </div>
-</template>
-
-
-
-
-    </div>
-
-    <div id="js-global-screen-reader-notice" class="sr-only mt-n1" aria-live="polite" aria-atomic="true" ></div>
-    <div id="js-global-screen-reader-notice-assertive" class="sr-only mt-n1" aria-live="assertive" aria-atomic="true"></div>
-  </body>
-</html>
+
+[Cobie Smulders](https://en.wikipedia.org/wiki/Cobie_Smulders)
+[Robin Scherbatsky](https://en.wikipedia.org/wiki/Robin_Scherbatsky)
+
+[Cristin Milioti](https://en.wikipedia.org/wiki/Cristin_Milioti)
+
+[The Mother](https://en.wikipedia.org/wiki/The_Mother_(How_I_Met_Your_Mother))
+
+
+[Neil Patrick Harris](https://en.wikipedia.org/wiki/Neil_Patrick_Harris)
+
+[Barney Stinson](https://en.wikipedia.org/wiki/Barney_Stinson)
+
+
+[Alyson Hannigan](https://en.wikipedia.org/wiki/Alyson_Hannigan)
+
+[Lily Aldrin](https://en.wikipedia.org/wiki/Lily_Aldrin)
+
+
+[Josh Radnor as Ted Mosby, an architect, college professor and the central character of the series. He tells the](https://en.wikipedia.org/wiki/Josh_Radnor)
+story of his adult years from his late twenties to his mid thirties, and all the obstacles he overcomes before he
+[meets "The One" (the Mother). This story is told by the Older Ted Mosby, and narrator of the series, Bob Saget.](https://en.wikipedia.org/wiki/Bob_Saget)
+[Ted moved to New York City with his friends Marshall and Lily after graduating from Wesleyan University. In New](https://en.wikipedia.org/wiki/New_York_City)
+York, he met Barney (at the urinal of MacLaren's) and Robin, to whom he was immediately attracted. Ted is on a
+quest for happiness and "The One", the woman he will marry. He has many relationships, one with Robin, that
+reveal the qualities he wants in his future wife. At the end of each relationship, with levity, he reflects on what
+went wrong. Although hope to find "the one" diminishes with each failed relationship, Ted does not give up. He
+has more elegant and higher-class interests than his friends. He goes to great lengths to profess his love to the
+women in his life, but they all falter eventually. Despite these qualities, Ted often acts immaturely, such as in wild
+activities with Barney. In the show's finale, he says that, in Tracy, he had met the love of his life (the titular
+Mother), but only after he is finished telling the story does he accept that he is ready to move on and admit he is
+still in love with Robin.[[47]]
+
+[Jason Segel as Marshall Eriksen, Ted Mosby's best friend. Marshall and Ted were roommates at Wesleyan, and](https://en.wikipedia.org/wiki/Jason_Segel)
+remained living together when they moved to New York. In season 2 Marshall marries Lily, with whom he has
+[been in love since his freshman year of college; they have a child during season 7. Marshall was born in St.](https://en.wikipedia.org/wiki/St._Cloud,_Minnesota)
+[Cloud, Minnesota, where his family and culture are the foundation of major conflicts he faces in the series. He](https://en.wikipedia.org/wiki/St._Cloud,_Minnesota)
+[has an interest in the paranormal and mythical creatures, particularly Sasquatch. His dream to be an](https://en.wikipedia.org/wiki/Sasquatch)
+environmental lawyer conflicts with his immediate need for money, such as for his wedding and to raise his
+children. He however, eventually switches from his corporate job, to his dream, environmental lawyer job, taking
+the pay cut willingly to help protect the environment. By the end of the sitcom, he has become a New York
+supreme court justice.
+[Cobie Smulders as Robin Scherbatsky, a news anchor trying to make it as a journalist who dates both Ted and](https://en.wikipedia.org/wiki/Cobie_Smulders)
+[Barney. Robin emigrated from Canada to take a job at a news station and met Ted at MacLaren's; her Canadian](https://en.wikipedia.org/wiki/Canada)
+background is a source of many jokes from her friends, for instance, ‘Robin Sparkles’ which was her stage name
+as a Canadian teenage pop-star. She is very career-centric and rejects traditional roles, such as getting married
+and having kids. Robin often drinks scotch and smokes cigars, and is an avid gun fan. She and Barney get
+
+
+-----
+
+[years later. Smulders's husband Taran Killam appeared in six episodes as Gary Blauman.](https://en.wikipedia.org/wiki/Taran_Killam)
+[Neil Patrick Harris as Barney Stinson, a serial playboy, using his relative wealth and an array of outrageous](https://en.wikipedia.org/wiki/Neil_Patrick_Harris)
+strategies to seduce women with no intention of engaging in a relationship. His catchphrases include 'Suit Up'
+and 'Legen-wait-for-it-Dary'. He is Ted's other best friend. Abandoned by his father at a young age, Barney has
+[abandonment issues and clings to his friends. He tells extravagant lies about events in his life as a defense](https://en.wikipedia.org/wiki/Abandonment_(emotional))
+mechanism for his substandard childhood. He marries Robin in the penultimate episode of the series but they
+divorce after three years in the two-part series finale. In 2020, a failed one-night stand gives him a daughter, Ellie.
+[Harris' husband David Burtka appeared in seven episodes as Scooter.[[47]]](https://en.wikipedia.org/wiki/David_Burtka)
+
+[Alyson Hannigan as Lily Aldrin, a kindergarten teacher, aspiring artist, and Marshall's wife. She is terrible at](https://en.wikipedia.org/wiki/Alyson_Hannigan)
+keeping secrets and can be manipulative at times. She marries Marshall in season 2 and gives birth to Marvin in
+season 7. Though appearing sweet and cute, Lily can be quite unexpectedly fierce. Her best girl friend is Robin,
+[whom she met through Ted as he dated Robin. Hannigan's husband Alexis Denisof appeared in ten episodes as](https://en.wikipedia.org/wiki/Alexis_Denisof)
+Sandy Rivers.
+[Cristin Milioti as The Mother, the titular character who is Ted's future wife. She makes her first official appearance](https://en.wikipedia.org/wiki/Cristin_Milioti)
+in Season 8, and gradually meets all the characters throughout Season 9 leading up to her meeting Ted.
+
+## Season synopses
+
+**Originally aired**
+
+**Season** **Episodes** **Rank**
+
+**First aired** **Last aired**
+
+[1](https://en.wikipedia.org/wiki/List_of_How_I_Met_Your_Mother_episodes#Season_1_(2005%E2%80%9306)) 22 September 19, 2005 May 15, 2006 85
+
+[2](https://en.wikipedia.org/wiki/List_of_How_I_Met_Your_Mother_episodes#Season_2_(2006%E2%80%9307)) 22 September 18, 2006 May 14, 2007 61
+
+[3](https://en.wikipedia.org/wiki/List_of_How_I_Met_Your_Mother_episodes#Season_3_(2007%E2%80%9308)) 20 September 24, 2007 May 19, 2008 70
+
+[4](https://en.wikipedia.org/wiki/List_of_How_I_Met_Your_Mother_episodes#Season_4_(2008%E2%80%9309)) 24 September 22, 2008 May 18, 2009 49
+
+[5](https://en.wikipedia.org/wiki/List_of_How_I_Met_Your_Mother_episodes#Season_5_(2009%E2%80%9310)) 24 September 21, 2009 May 24, 2010 42
+
+[6](https://en.wikipedia.org/wiki/List_of_How_I_Met_Your_Mother_episodes#Season_6_(2010%E2%80%9311)) 24 September 20, 2010 May 16, 2011 48
+
+[7](https://en.wikipedia.org/wiki/List_of_How_I_Met_Your_Mother_episodes#Season_7_(2011%E2%80%9312)) 24 September 19, 2011 May 14, 2012 45
+
+[8](https://en.wikipedia.org/wiki/List_of_How_I_Met_Your_Mother_episodes#Season_8_(2012%E2%80%9313)) 24 September 24, 2012 May 13, 2013 42
+
+[9](https://en.wikipedia.org/wiki/List_of_How_I_Met_Your_Mother_episodes#Season_9_(2013%E2%80%9314)) 24 September 23, 2013 March 31, 2014 28
+
+### Season 1
+
+[In 2030, Ted Mosby (voiced by Bob Saget) sits his children down to tell them the story of how he met their mother.](https://en.wikipedia.org/wiki/Ted_Mosby)
+
+[The series begins in September 2005 with Ted (Josh Radnor) as a single, 27-year-old architect living with his two best friends](https://en.wikipedia.org/wiki/Josh_Radnor)
+[from his college years: Marshall Eriksen (Jason Segel), a law student, and Lily Aldrin (Alyson Hannigan), a kindergarten teacher](https://en.wikipedia.org/wiki/Jason_Segel)
+and an aspiring artist. Lily and Marshall have been dating for almost nine years when Marshall finally proposes. Their
+engagement causes Ted to think about marriage and finding his soul mate, much to the disgust of his self-appointed best friend
+[Barney Stinson (Neil Patrick Harris), whom he met in the restroom at a bar four years earlier. Barney is a serial womanizer who](https://en.wikipedia.org/wiki/Barney_Stinson)
+concocts elaborate con games, usually involving costumes and fake identities, designed to bed women, only to lose interest in
+them immediately afterward.
+
+[Ted begins his search for his perfect soul mate and meets an ambitious young reporter from Canada, Robin Scherbatsky (Cobie](https://en.wikipedia.org/wiki/Robin_Scherbatsky)
+[Smulders), with whom he quickly falls in love. Robin, however, does not want to rush into a relationship and the two decide to](https://en.wikipedia.org/wiki/Cobie_Smulders)
+[be friends. Future Ted reveals that Robin is not the mother after referring to her as "Aunt Robin".](https://en.wikipedia.org/wiki/Fictive_kinship)
+
+[Ted begins dating a baker, Victoria (Ashley Williams), whom he meets at Stuart and Claudia's wedding, causing Robin to become](https://en.wikipedia.org/wiki/Ashley_Williams_(actress))
+jealous, and realize she does have feelings for Ted. Victoria is offered a fellowship in pastry-making, moves to Germany and she
+[and Ted try a long-distance relationship. Once Ted learns Robin has feelings for him, he tells her he broke up with Victoria, even](https://en.wikipedia.org/wiki/Long-distance_relationship)
+though he has not. They almost have sex when Victoria calls and Robin answers, mistaking Ted's phone for her own. Ted and
+Victoria then break up and an angry Robin distances herself from Ted, but they eventually reconcile and decide to date.
+
+|Season|Episodes|Originally aired|Col4|Rank|
+|---|---|---|---|---|
+|||First aired|Last aired||
+|1|22|September 19, 2005|May 15, 2006|85|
+|2|22|September 18, 2006|May 14, 2007|61|
+|3|20|September 24, 2007|May 19, 2008|70|
+|4|24|September 22, 2008|May 18, 2009|49|
+|5|24|September 21, 2009|May 24, 2010|42|
+|6|24|September 20, 2010|May 16, 2011|48|
+|7|24|September 19, 2011|May 14, 2012|45|
+|8|24|September 24, 2012|May 13, 2013|42|
+|9|24|September 23, 2013|March 31, 2014|28|
+
+
+-----
+
+[pursue an art fellowship in San Francisco, breaking up with Marshall in the process. The season ends with Ted returning to the](https://en.wikipedia.org/wiki/San_Francisco)
+apartment, the morning after spending the night with Robin for the first time, to find Marshall sitting in the rain with Lily's
+engagement ring, devastated by their sudden break-up after nine years. Marshall must then call off their wedding.
+
+[The phrase olive theory is most known for its appearance in the "pilot" episode.[[48]] In the scene, Ted tells the story of his first](https://en.wikipedia.org/wiki/Olive_theory)
+date with Robin to Lily and Marshall.[[48]] Ted states that since he does not like olives but his date does, they are compatible.[[47]]
+
+Lily and Marshall add on that the olive theory works in their relationship, as Marshall always gives Lily his olives.[[47]] However,
+it is later said that Ted only pretended not to like them to make Robin happy.[[47]]
+
+### Season 2
+
+Ted and Robin are now a couple; meanwhile, a heartbroken Marshall tries to continue his life without Lily. After enduring
+numerous emotional breakdowns, Marshall's friends step in, and Barney, using sly catchphrases and pick-up lines, tries to get
+Marshall back in the dating game. Marshall becomes Barney's new ‘wingman’ as Ted is now in a relationship with Robin. Barney
+mentors Marshall in the art of flirting with women. Marshall fails at impressing women, but he finally obtains a barista's number.
+Later, Lily, after finally realizing she is not meant to be an artist, returns to New York. They remain separated as Marshall begins
+to date another girl, the barista whose number he earned, described by the gang as having 'crazy eyes'. The date with the girl does
+not end well and eventually leads to Lily and Marshall becoming reunited, and their engagement eventually resumes. When
+Robin refuses to go to the mall or explain why, Marshall suspects she is married, and Barney suspects she has performed in adult
+films. They make a slap bet on it, appointing Lily as "Slap Bet Commissioner." Lily oversees the search for the truth, as they
+discover that Robin was a teenage pop star named "Robin Sparkles", and Marshall eventually earns the right to slap Barney five
+[times whenever he wishes. He uses one slap immediately and another later in the season. It is revealed that Barney has a gay](https://en.wikipedia.org/wiki/Homosexual)
+[African American half-brother named James (Wayne Brady) and, unaware that his mother lied to him, believes that Bob Barker](https://en.wikipedia.org/wiki/African_American)
+[is his father. As a result of this he takes a trip to California to be a contestant on The Price Is Right to meet his "father". While on](https://en.wikipedia.org/wiki/The_Price_Is_Right)
+the show, Barney wins all the prizes and gives them to Lily and Marshall as a 'happy early wedding' present.
+
+In the season finale, Ted reveals to Barney that he and Robin have been broken up for some time due to their conflicting views on
+marriage and children. They did not tell anyone, in order to avoid taking attention away from Lily and Marshall's wedding. The
+season ends with Barney's excitement by the prospect of being an unfettered single man with Ted again. Barney's final words are
+"this is going to be legen- wait for it...".
+
+### Season 3
+
+[Barney begins the season with the word, "-dary!" Robin returns from a trip to Argentina with her new boyfriend, Gael (Enrique](https://en.wikipedia.org/wiki/Argentina)
+[Iglesias), and Ted must adjust to life as just her friend, while watching Robin and Gael fawning over each other. Marshall and](https://en.wikipedia.org/wiki/Enrique_Iglesias)
+Lily decide to move out on their own, falling in love with a place they cannot afford. Marshall is fighting his temptation to take a
+corporate job with high pay and focusing instead to follow his dream of becoming an environmental lawyer to protect the world
+from pollution. Robin learns of Lily's bad credit rating due to her compulsive shopping for designer brands, and forces Lily to tell
+Marshall. Despite this, they are able to finally secure their dream apartment, in Dowisetrepla, only to discover it is in a bad
+location (DOwnWInd of the SEwage TREatment PLAnt) and more poorly constructed than they thought (the floor is tilted).
+[Barney is slapped for the third time on Thanksgiving, which Marshall dubs "Slapsgiving."](https://en.wikipedia.org/wiki/Thanksgiving)
+
+Ted tells his children he met their mother through a story concerning her yellow umbrella. He finds the umbrella at a club and
+[takes it home after attending a St. Patrick's Day party where his future wife was, although they did not meet. Ted attempts to woo](https://en.wikipedia.org/wiki/St._Patrick%27s_Day)
+[Stella (Sarah Chalke), a dermatologist he sees to remove an embarrassing butterfly tattoo. This culminates in a "two-minute](https://en.wikipedia.org/wiki/Sarah_Chalke)
+date," which incorporates small talk, dinner, a movie, coffee, two cab rides, and a goodnight kiss. Robin sleeps with Barney after
+he comforts her following a break-up with a past Canadian love; Ted is infuriated, and decides to stop being friends with Barney.
+[Meanwhile, an unknown woman begins to sabotage Barney's attempts to hook up. His saboteur is revealed to be Abby (Britney](https://en.wiktionary.org/wiki/hook_up)
+[Spears), Stella's receptionist, with a vendetta against him for not calling her after they had sex.](https://en.wikipedia.org/wiki/Britney_Spears)
+
+In the season finale, Ted gets into a car accident and ends up in hospital after breaking up with Stella. Subsequently, Barney is hit
+by a bus while he is on his way to visit Ted and receives treatment in the same hospital. Ted realizes Barney cares about him and
+they renew their friendship. Barney's true feelings for Robin are revealed while Ted proposes to Stella in an arcade with a toy
+kangaroo.
+
+### Season 4
+
+
+-----
+
+[wedding, after realizing how much she misses her friends. Stella leaves Ted at the altar to get back together with Tony (Jason](https://en.wikipedia.org/wiki/Jason_Jones_(actor))
+[Jones), the father of her daughter. Barney struggles with his feelings for Robin as his company shifts him to the management](https://en.wikipedia.org/wiki/Jason_Jones_(actor))
+team of a new acquisition, Goliath National Bank (GNB), where Marshall has accepted a position.
+
+Marshall and Lily move to their new apartment and debate over whether or not they are ready to have kids. Robin is threatened to
+be deported for not having a job in her field, which opens an opportunity for Barney to spend time with Robin. Robin gets a job
+as an anchor for a 4 AM news show after Barney submits her video resume, and becomes roommates with Ted. Ted and Robin
+decide to sleep together constantly so they will not fight over each other's bad co-living habits. Barney attempts to make them
+stop fighting to prevent this, revealing to Ted his love for Robin.
+
+Ted finds out Lily has sabotaged all of his relationships with anyone she does not approve of and indirectly may have inspired his
+breakup with Robin. Robin and Ted end up talking about it, causing their friendship to begin moving toward a positive note.
+After Barney finally sleeps with his 200th woman (and rubs it in the face of the childhood bully who taunted him into pursuing
+it), he begins to question the purpose of the remainder of his life, leaving him more certain of his feelings for Robin. Barney
+secures Ted a job to design the new Goliath National Bank headquarters. When the company later suspends the project, Marshall
+and Barney try to hide this fact from Ted. Ted starts his own architectural design company, Mosbius Designs, after getting laid
+off; however, he is too afraid of failing and refuses to call clients.
+
+Ted, while carrying the yellow umbrella, bumps into Stella and Tony. Tony later decides to visit him, sympathizing with Ted over
+[his loss of Stella. Tony offers Ted a job as a professor of architecture at Columbia University, which Ted initially turns down.](https://en.wikipedia.org/wiki/Columbia_University)
+
+In the season finale Robin finds out that Barney loves her, and initially refuses to commit to anything but a sex-only relationship;
+they seemingly end up together anyway. Ted decides that being an architect is leading nowhere, and finally decides instead to
+become a college professor. The finale ends with Ted preparing to teach his first class and Future Ted revealing to his children
+that one of the women in the class is their mother.
+
+### Season 5
+
+Ted begins his job as a professor of architecture, standing in the middle of a classroom – although the mother was present, it
+[turns out to be an economics class as he's in the wrong lecture hall. Barney and Robin have had a sexual relationship throughout](https://en.wikipedia.org/wiki/Economics)
+the summer and Lily locks them in a room, forcing them to come to terms with their relationship. After a rough patch they decide
+to break up. Robin describes it instead as "two friends getting back together." Barney immediately goes back to his old ways,
+[using the playbook to score with women. Throughout the season Barney and Robin show feelings of regret over their break-up.](https://en.wikipedia.org/wiki/The_Playbook_(How_I_Met_Your_Mother))
+
+[Ted dates a graduate student named Cindy (Rachel Bilson) and it is revealed her roommate is his future wife. Robin meets Don](https://en.wikipedia.org/wiki/Rachel_Bilson)
+[Frank (Benjamin Koldyke), her new co-anchor on her 4 AM TV show. Though she initially dislikes him, the two start dating and](https://en.wikipedia.org/wiki/Benjamin_Koldyke)
+[eventually she moves in with him. At the end of the season they break up when Don takes a job in Chicago — a job which Robin](https://en.wikipedia.org/wiki/Chicago)
+[had previously turned down to stay in New York with Don. Robin moves back into Ted's apartment. Lily's father, Mickey (Chris](https://en.wikipedia.org/wiki/Chris_Elliott)
+[Elliott), who was absent during her childhood, makes an appearance at Thanksgiving. Mickey and Lily are able to mend their](https://en.wikipedia.org/wiki/Chris_Elliott)
+relationship at the end of the meal, where Marshall uses his fourth slap on Barney. Ted discovered that Tony, who stole Stella
+away from Ted at the altar, wrote a movie on Ted and Stella's relationship. The movie, "The Wedding Bride," portrays Tony as
+the hero and Ted as the villain. The movie becomes popular and Ted unexpectedly sees it while on a date with another girl. He is
+[infuriated by how he is portrayed in the movie, and views the actual story as the complete opposite. Ted buys a house, which](https://en.wikipedia.org/wiki/Home_Wreckers)
+needs to be fixed up badly, but is later revealed to be the future home for him and his children.
+
+[Lily and Marshall are still unsure about having children. After watching four doppelgangers of their group (Lesbian Robin,](https://en.wikipedia.org/wiki/Doppelg%C3%A4nger)
+[Moustache Marshall, Stripper Lily and Mexican Wrestler Ted) they decide to leave the big decision to the universe's "infinite](https://en.wikipedia.org/wiki/Moustache)
+wisdom" and start trying when they have seen Barney's doppelganger.
+
+In the season finale, Barney disguises himself to have sex with a girl from every country in the world, and Lily and Marshall
+mistake him for the final doppelganger. When Marshall finds out, he decides not to tell Lily, fearing she will want to wait even
+longer to have children. Lily eventually finds out and decides to wait. Lily thinks she sees Barney's doppelganger as a hot dog
+vendor, which causes the group to realize she is seeing what she wants to see, and play along. Eventually Barney agrees having
+babies is not a stupid idea and Lily and Marshall should go forth. The season ends with Lily asking Marshall to "put a baby in my
+belly".
+
+### Season 6
+
+
+-----
+
+girlfriend whom she later marries. After prodding by Barney, Ted is eventually hired by GNB once more as the architect of the
+bank's new headquarters, which was originally scrapped in Season 4. However, he encounters opposition when he meets Zoey
+[Pierson (Jennifer Morrison), a woman who is protesting against GNB for selecting a decrepit hotel, the Arcadian, to be torn down](https://en.wikipedia.org/wiki/Jennifer_Morrison)
+for the headquarters. Over the season, Ted's encounters with Zoey eventually blossom into a relationship after she divorces her
+[rich husband, the Captain (Kyle MacLachlan). However, when their relationship is challenging and turbulent, they break up,](https://en.wikipedia.org/wiki/Kyle_MacLachlan)
+leading to Ted supporting the Arcadian's demolition.
+
+Having agreed to conceive a baby at the end of the previous season, Lily and Marshall keep having sex, hoping she will get
+pregnant. Around Christmas, they have a false alarm and later seek fertility testing. The fertility specialist, Dr. Stangel, turns out
+to be Barney's doppelganger, fulfilling their promise with the universe in regard to their decision to have a child. However,
+tragedy strikes when Marshall's father passes away, leaving him devastated and the gang comforting him. Marshall tries to get
+over his father's death and live again. Despite a pledge to Lily to work harder for their future, Marshall resigns from GNB and
+follows his dream of being an environmental lawyer. Zoey also hires him as her lawyer in what became a futile battle to save the
+Arcadian.
+
+Barney finally admits to the gang that Bob Barker is not his real father, especially when his mother decides to sell the house he
+grew up in and his brother, James, meets his own father. Loretta offers the identity of Barney's father on a sheet of paper, but
+Barney tears this up after realizing her efforts as a single mother. At the funeral of Marshall's father, Barney tells Loretta that he
+[wants to see his father at last. The man, Jerry Whittaker (John Lithgow), is eventually revealed to be someone whom Barney](https://en.wikipedia.org/wiki/John_Lithgow)
+thought was his uncle. Barney, who remembers Jerry as a fun-loving man, is disappointed after learning how Jerry has grown out
+of his free-wheeling ways. Although he tries to bring back Jerry's old behaviors, Barney admits that he wants to settle down
+[someday. He is also introduced to Nora (Nazanin Boniadi), a co-worker of Robin, for whom he develops feelings. After an initial](https://en.wikipedia.org/wiki/Nazanin_Boniadi)
+falling out, the two reconcile at the end of the season after Barney asks her for coffee.
+
+Robin continues to work at her talk show, Come On, Get Up, New York!, but the presence of a new hyperactive co-host forces her
+to leave. She is accepted as a researcher in another network, World Wide News. The gang also discovers more of her past as the
+[Canadian pop star Robin Sparkles. Robin also encounters a man (Michael Trucco) she has had a secret crush on since first seeing](https://en.wikipedia.org/wiki/Michael_Trucco)
+him when she and Ted were dating, and Future Ted hints that they will see more of him later.
+
+In the season finale, Ted makes the decision that he wants to get back with Zoey. Robin and Barney try to stop them from getting
+back together. Marshall's interview goes wrong as food poisoning hits him during the meeting; Lily's similar sickness was
+[thought to be food poisoning as well, but is revealed to be morning sickness, as she has become pregnant. Barney and Robin get](https://en.wikipedia.org/wiki/Morning_sickness)
+closure by helping Ted not get back together with Zoey. Short scenes during the season premiere and finale feature a wedding set
+sometime in the future, where Ted will meet his future wife. In the final scene of the season, the groom is revealed to be Barney.
+
+### Season 7
+
+Season seven opens with another flash forward, in which Ted is helping Barney get ready for his wedding to a still-unknown
+bride. In the present, Marshall gets a job in environmental law while Lily's pregnancy progresses. Barney proves to Nora that he
+can be a good boyfriend to her, while Robin is revealed to still have feelings for Barney. After a court case for assault, Robin
+[receives mandated therapy. Robin meets a therapist, Kevin (Kal Penn), and they start to date. Meanwhile, after a period of](https://en.wikipedia.org/wiki/Kal_Penn)
+unemployment since leaving GNB, Marshall finally manages to land his dream job at a top environmental law firm. After losing
+a bet, Barney is forced to wear a tie with a duck pattern on it (nicknamed the 'Ducky Tie') which he hates. Marshall allows him to
+take it off when meeting Nora's parents on the condition that Barney has three slaps added to the one still remaining from the
+Slap Bet. Marshall uses two slaps immediately, leaving two left.
+
+[While reminiscing about Hurricane Irene, Lily and Marshall reveal that they conceived their baby in Barney's apartment, and](https://en.wikipedia.org/wiki/Hurricane_Irene_(2011))
+Barney and Robin end up sleeping together. Barney and Robin decide to break up with their partners, but Robin reneges on the
+deal, returning to Kevin and leaving Barney alone and heartbroken. Robin has a pregnancy scare at Thanksgiving and tells
+Barney the child is his, since she and Kevin had not yet slept together. However, Robin's doctor informs her that she cannot have
+children at all. Kevin, who wants children, proposes to Robin, who decides that they must break up. Ted comforts Robin and
+reveals he still loves her, but the gesture is unrequited. Eventually, she moves out to give him some space.
+
+Marshall and Lily decide they want to move to Long Island, after Lily's paternal grandparents offer them their house there.
+Eventually, they move back to the old apartment in New York City after realizing suburban life is not for them. Ted gives them
+his apartment because he believes he cannot move on from Robin while living there, while he and Robin become estranged and
+
+
+-----
+
+preventing a helicopter she is flying in from crashing.
+
+[Barney starts dating a stripper named Quinn (Becki Newton), to the group's initial apprehension. The gang begins to meddle in](https://en.wikipedia.org/wiki/Becki_Newton)
+their relationship, but Barney and Quinn outsmart their attempts and win their approval. Quinn moves in with Barney, while Ted
+rents Quinn's old apartment. Lily goes into labor and frantically calls Barney and Marshall, who are out at a casino in Atlantic
+City and heavily intoxicated. Barney helps Marshall arrive in time for Lily's delivery and chooses the middle name for the baby,
+Marvin Waitforit Eriksen. Ted and Robin's friendship also recovers as a result of Marvin's birth. As the season concludes,
+Marshall and Lily begin a new family with their baby, Marvin. Barney proposes to Quinn performing an extravagant magic trick
+in airport security. Ted contacts his old girlfriend Victoria; unhappy with her own impending wedding, she leaves her fiancé for
+Ted and the pair drive off into the sunset. A final flash forward shows the day of Barney's wedding, where Robin is revealed as
+the bride.
+
+### Season 8
+
+Ted visits Robin on the day of her wedding to Barney, causing him to remember how he and Victoria ran away from her wedding
+to be together. The summer is spent with Ted, Barney, and Robin enjoying their current relationships; however, all subsequently
+break up with their partners. Victoria splits up with Ted over his friendship with Robin, Barney and Quinn break up due to their
+inability to trust each other, and Robin breaks up with Nick realizing his immaturity. Robin and Barney kiss but decide not to get
+[together, despite Barney's wishes. Barney then begins dating Robin's hated co-worker Patrice (Ellen D. Williams), a relationship](https://en.wikipedia.org/wiki/Ellen_D._Williams)
+later exposed as a ruse to make Robin realize her true feelings for him. In a culminating scene, Barney proposes to Robin, who
+says yes.
+
+Marshall and Lily attempt to get used to being parents, which causes a brief estrangement from the gang as Baby Marvin takes
+up the majority of their time. Lily's father Mickey becomes Marvin's nanny, freeing the two up to spend more time with their
+friends. The Captain, ex-husband of Ted's old girlfriend Zoey, offers Lily a job as an art consultant after she identifies a painting
+that made a huge profit for him. Lily accepts, happy to finally achieve her dream of having a job in the art industry, while
+Marshall decides to apply to become a judge. The Captain offers Lily a year's work in Rome, which she accepts with Marshall's
+blessing. However, just before Barney and Robin's wedding, Marshall is informed that his application to become a judge has
+been granted, a development that would require them to stay in the US.
+
+[Ted briefly dates Jeanette (Abby Elliott), a girl who stalked him after he appeared on the cover of](https://en.wikipedia.org/wiki/Abby_Elliott) _[New York Magazine for](https://en.wikipedia.org/wiki/New_York_(magazine))_
+designing GNB's headquarters. He quickly realizes he's made a mistake and breaks up with her. Ted's feelings of loneliness grow,
+especially as he is now the only single member of the group, and he decides he is truly ready to settle down. He argues with Lily
+over hiring a DJ or a band for Barney and Robin's wedding, but is forced to provide a band at short notice when Lily concedes
+the argument. During a chance meeting on the subway, Cindy offers the services of her roommate's wedding band. This
+roommate is Ted's future wife.
+
+As the week of the wedding approaches, Robin has doubts about marrying Barney and shares an emotional moment with Ted.
+Feeling guilty, Ted realizes he cannot be around Barney and Robin after they are married and decides to move to Chicago the day
+after the wedding. The season concludes with everyone traveling to Barney and Robin's wedding, including the mother of Ted's
+[children (revealed on screen for the first time and portrayed by Cristin Milioti), who is seen buying a train ticket to the venue and](https://en.wikipedia.org/wiki/Cristin_Milioti)
+holding her yellow umbrella.
+
+### Season 9
+
+With the exception of the last episode, the entirety of season nine takes place in the 56 hours leading up to Barney and Robin's
+wedding.
+
+Marshall, who is stuck in Minnesota, desperately tries to find a way to get to the wedding in time. Meanwhile, in Farhampton,
+the time is slowly counting down to the wedding, with a new problem arising in almost every episode. It is revealed that Lily is
+pregnant and that she and Marshall will have a daughter. It is also revealed that Ted's children are named Penny and Luke. In the
+200th episode, the Mother's eight years before meeting Ted are revealed, while later episodes give viewers a glimpse of Ted and
+the Mother together in flash forward scenes. Also, Marshall uses his final two slaps from the slap bet: the first being used as an
+apology present for missing the rehearsal dinner, and the second when Barney begins to panic just before the beginning of the
+wedding ceremony.
+
+
+-----
+
+fathering a child during a one-night stand. Marshall eventually becomes a judge, and he and Lily have three children. Ted's wife,
+whose name is revealed to be Tracy McConnell, dies of an unknown illness in 2024, six years prior to the time of Ted telling his
+children the full story of how they met. Upon finishing the story, at the urging of his kids, Ted decides to ask Robin out. Alluding
+[to the first episode, the finale ends with Robin, as she looks out of her apartment window to see Ted holding the blue french horn,](https://en.wikipedia.org/wiki/Pilot_(How_I_Met_Your_Mother))
+smiling with tears in her eyes.
+
+Following backlash from fans over the ending of the series, an alternative ending was cut together and released on the Season 9
+DVD, in which future Ted narrates over the scene in which Ted and Tracy meet at the train station, recapping all major events
+from the series. He delivers the final line "and that kids is how I met your mother", and the episode ends, completely cutting the
+final scene with Penny and Luke.
+
+## Critical reception
+
+The first season was met with generally favorable reviews from critics, although some compared the series unfavorably to
+_[Friends. On Metacritic, a review aggregation site that collected 25 reviews for the series, it scored a 69 out of 100.[[49]] Michael](https://en.wikipedia.org/wiki/Friends)_
+Abernethy of _[PopMatters gave the season a negative review, writing that "The comedy that does occur in](https://en.wikipedia.org/wiki/PopMatters)_ _How I Met Your_
+_[Mother isn't enough to compensate for its inconsistencies."[[50]] Tom Shales of The Washington Post gave the season a lukewarm](https://en.wikipedia.org/wiki/The_Washington_Post)_
+review, saying it's "a little better than most other sitcoms, past and present -- especially those featuring wacky urban friends in
+[their twenties experiencing the bittersweet mysteries of life."[[51]] Melanie Macfarlane of the Seattle Post-Intelligencer gave the](https://en.wikipedia.org/wiki/Seattle_Post-Intelligencer)
+season a positive review, saying the show "may not break any comedic ground, but it's the sort of comfortable, reliable hitter
+CBS needs on Monday nights."[[52]]
+
+[The second season received critical acclaim. Staci Krause of IGN gave the season a positive review,[[53]] calling it "great".[[54]]](https://en.wikipedia.org/wiki/IGN)
+
+The third season was met with mostly positive reviews.[[55]] Michelle Zoromski of IGN gave the season a positive review, saying
+that "the season was fun and clever, a good, consistent flow from the first two seasons".[[56]]
+
+[The fourth season received critical acclaim. Michelle Zoromski of IGN gave Season 4 an overall rating of 8.5 out of 10, stating](https://en.wikipedia.org/wiki/IGN)
+that "This fourth season seemed to settle down the chase for the titular mother. While Ted was busy dating Stella, the gang settled
+into many stand alone episodes which were every bit as entertaining as episodes devoted to Ted's love life". Zoromski went on to
+[say: "A stellar Robin-Marshall episode, titled 'Little Minnesota', makes it clear that these two do not get enough screen time](https://en.wikipedia.org/wiki/Little_Minnesota)
+together. With Robin homesick and unemployed (and at risk of being deported), this pairing brought out the best Robin Sparkles
+[reference of the season, when Marshall leads a rousing karaoke version of 'Let's Go to the Mall!' "[[57]]](https://en.wikipedia.org/wiki/Let%27s_Go_to_the_Mall)
+
+[The fifth season received mixed reviews. Cindy McLennan of Television Without Pity gave the season a mixed review, and at the](https://en.wikipedia.org/wiki/Television_Without_Pity)
+end of the season wrote: "I'm okay with any given season not being primarily focused on mother-meeting, but this season, the
+characters seemed to regress -- particularly Barney and Ted. Usually, when a season ends, I have to deal with a week or two
+weeks' worth of letdown. Right now, all I'm feeling is relief."[[58]]
+
+The sixth season received generally positive reviews.[[59]] Justin Fowler of _Later Reviews gave the season a positive review,_
+saying that the season was "a pretty good season of television" and better than the "poor" fifth season. He also said that
+"Seventeen out of the 24 episodes are what I would consider good".[[60]]
+
+The seventh season received mixed reviews. Alan Sepinwall gave the season a mixed review and criticized the flash-forwards
+throughout the season, saying that "the show is just much, much stronger when its stories dwell on matters of the present or the
+past, and where the writers don't have to act like magicians trying to keep the audience from figuring out how the trick works.
+And the finale affirmed that belief for me. The parts that had little or nothing to do with things to come were quite good; the parts
+that were all about the future made me roll my eyes and ask, for the umpteenth time, 'Really? This is where you're going with
+this?' "[[61]]
+
+[The eighth season received mixed reviews and is often considered the worst season of the series. Rotten Tomatoes reported that](https://en.wikipedia.org/wiki/Rotten_Tomatoes)
+54% of critics gave the show a positive review. The consensus reads: "How I Met Your Mother wears out its welcome this season,
+with an anticlimactic reveal and rote, less-than-fruitful humor."[[62]]
+
+The ninth season received mixed-to-positive reviews from critics, though fans found it worse than prior seasons.[[63]] Rotten
+Tomatoes reported that 80% of critics gave the show a positive review, with an average rating of 7.3 out of 10.[[64]] Gareth
+Mitchell at "House of Geekery" responded negatively, mostly criticizing the structure of the season, stating that they are
+
+
+-----
+
+The finale of the show received a largely negative reaction from critics and fans. Some complained that the last few seasons
+(particularly the final season before the finale which took place over one weekend) had built towards an end game that was
+discarded within the hour-long episode, while others defended it as true to both the initial concept of the show and to life
+itself.[[66]] In the years succeeding its airing, it continued to be singled out as one of the worst television series finales,[[67][68][69]]
+
+[e.g., topping USA Today's list of "Worst Series Finales of All Time".[[70]]](https://en.wikipedia.org/wiki/USA_Today)
+
+## Subplots
+
+### The Slap Bet
+
+[It is in Season 2, episode 9, named "Slap Bet"[[71]] when viewers are introduced to what is a slap bet, as explained by Marshall to](https://en.wikipedia.org/wiki/Slap_Bet)
+Lily. The first slap bet of the series is made in this episode when Ted is adamant on discovering why Robin refuses to go to
+malls.[[72]] In response Barney is positive that Robin is hiding pornography that she has starred in, while Marshall believes Robin
+is married. This is when Barney suggests a slap bet instead of betting money, Marshall explains that "whoever is right gets to slap
+the other person in the face as hard as they can -- but no rings". Lily initially believes it is immature until Marshall states she can
+be slap bet commissioner. Ted continues to badger Robin about why she refuses to go to malls, and when trying to figure out if
+she was married, Robin lies and says she was married. When Ted tells the group that Robin is married, Marshall preemptively
+slaps Barney. Marshall then tries to look up Robin's marital records at his law school library, and it is revealed that Robin lied.
+Eventually Marshall tells Lily, so Lily as slap bet commissioner imparts a slap penalty allowing Barney to slap Marshall three
+times, one for lying about finding out the truth and two for the premature slap.[[73]] Barney then discovers someone that has the
+[tape with proof of Robin's secret, a man in Malaysia, and he has posted the video onto MySpace. When Barney plays the video,](https://en.wikipedia.org/wiki/MySpace)
+he stops the video at a seemingly suggestive part and believing he has won the bet he slaps Marshall.[[74]] Robin then to show that
+her secret was not pornography plays the entire video, revealing to the group that she was Robin Sparkles, a teenage popstar in
+[Canada. Viewers and the group are introduced to Robin's song "Let's Go to the Mall". Marshall wins the slap bet, and Lily allows](https://en.wikipedia.org/wiki/Let%27s_Go_to_the_Mall)
+Barney to choose between two punishments, 10 slaps at that moment or 5 slaps that be doled out any time from then to eternity.
+Although Ted states that Barney should just take the ten slaps, Barney chooses the five slaps. When Ted apologizes for forcing
+the secret out of her, Robin tells Ted that she is glad he knows her better and they kiss, Marshall then slaps Barney, using his first
+slap stating "That's one".[[75]] The slaps won by Marshall are an ongoing trope within the series and last through to the twenty
+[second episode of season 9 "The End of the Aisle", the last episode before the two-episode series finale "Last Forever".](https://en.wikipedia.org/wiki/The_End_of_the_Aisle)
+
+## Tie-ins
+
+### Books
+
+_[The Bro Code, cited by Barney many times throughout the series, is a set of written rules for bros to follow, and](https://en.wikipedia.org/wiki/The_Bro_Code)_
+[has been published as a tie-in novel, an audiobook,[[76]] an iPhone Application and an Android Application. Barney](https://en.wikipedia.org/wiki/Tie-in_novel)
+[alleges it was written by Barnabus Stinson, a contemporary of George Washington and Benjamin Franklin. Many](https://en.wikipedia.org/wiki/George_Washington)
+[of the rules listed in this book also appear in the show's closing vanity cards in syndication.](https://en.wikipedia.org/wiki/Vanity_card)
+
+_Bro on the Go, a companion to The Bro Code, released in 2009.[[77]]_
+
+_Bro Code for Parents: What to Expect When You're Awesome, released in 2012.[[78]]_
+
+_[The Playbook, based on the fifth season episode of the same name, by Barney Stinson and Matt Kuhn.[[79]]](https://en.wikipedia.org/wiki/The_Playbook_(How_I_Met_Your_Mother))_
+
+_How I Met Your Mother and Philosophy, released in 2013.[[80]]_
+
+### Soundtracks
+
+[A soundtrack album entitled How I Met Your Music: Original Songs from the Hit Series was released digitally to](https://en.wikipedia.org/wiki/Soundtrack)
+[iTunes on September 24, 2012, featuring songs from the first seven seasons[[81]]](https://en.wikipedia.org/wiki/ITunes_Store)
+
+
+-----
+
+23, 2014, featuring songs from the final two seasons.[[82]]
+
+### Pineapple Incident explained
+
+[After the end of the series, the officials released a short video, explaining the running mystery of the pineapple in "The Pineapple](https://en.wikipedia.org/wiki/The_Pineapple_Incident)
+[Incident", the tenth episode of the first season. The extra footage revealed that a character featured in the 6th season, the Captain](https://en.wikipedia.org/wiki/The_Pineapple_Incident)
+[(Kyle MacLachlan), had put a pineapple in front of his door as a tradition and Ted took the pineapple while he was drunk.[[83]]](https://en.wikipedia.org/wiki/Kyle_MacLachlan)
+
+### Websites
+
+Websites were consistently mentioned throughout the _How I Met Your Mother series. Many of the websites directly tie in to_
+[running gags on the show. CBS turned nearly every website mentioned in the series into a real functioning website. Since the](https://en.wikipedia.org/wiki/Running_gag)
+show's ending in 2014, a majority of the websites remain active.[[84]]
+
+[The first Instance of a website tie-in on How I Met Your Mother was on Season 3, Episode 14 'The Bracket' with](https://en.wikipedia.org/wiki/How_I_Met_Your_Mother_season_3)
+[one of Barney's one-night-stands creating both http://tedmosbyisajerk.com (http://tedmosbyisajerk.com/) Archived](https://en.wikipedia.org/wiki/Barney_Stinson)
+[(https://web.archive.org/web/20190812003811/http://tedmosbyisajerk.com/) August 12, 2019, at the Wayback](https://web.archive.org/web/20190812003811/http://tedmosbyisajerk.com/)
+[Machine [[85]] and http://tedmosbyisnotajerk.com.[[86]]](https://en.wikipedia.org/wiki/Wayback_Machine)
+
+[In Season 3, Episode 19, 'Everything Must Go', Lily is forced to sell her clothes on the internet because she is in](https://en.wikipedia.org/wiki/How_I_Met_Your_Mother_season_3)
+serious credit card debt. She jokes they should call the website
+[http://www.guyforceshiswifetodressinagarbagebagforthenextthreeyears.com Archived (https://web.archive.org/we](http://www.guyforceshiswifetodressinagarbagebagforthenextthreeyears.com/)
+[b/20100306180240/http://www.guyforceshiswifetodressinagarbagebagforthenextthreeyears.com/) March 6, 2010,](https://web.archive.org/web/20100306180240/http://www.guyforceshiswifetodressinagarbagebagforthenextthreeyears.com/)
+[at the Wayback Machine.[[87]]](https://en.wikipedia.org/wiki/Wayback_Machine)
+
+[Goliath National Bank (GNB) is first introduced in Season 4, Episode 2 'The Best Burger in New York' and is](https://en.wikipedia.org/wiki/How_I_Met_Your_Mother_season_4)
+[consistently mentioned throughout the show's run. Barney Stinson, Marshall Eriksen, and Ted Mosby have all](https://en.wikipedia.org/wiki/Barney_Stinson)
+[worked for GNB. Goliath National Bank - Your Financial Wingman (http://www.goliathbank.com).[[88]]](http://www.goliathbank.com/)
+
+[In Season 4, Episode 7 'Not a Fathers Day' as a form of celebration, Barney Stinson creates a fake holiday called](https://en.wikipedia.org/wiki/How_I_Met_Your_Mother_season_4)
+"Not a Father's Day" as well as a subsequent website to promote it: http://www.notafathersday.com.[[89]]
+
+[In Season 4, Episode 14 'The Possimpible' Ted Mosby's alter-ego Doctor X was introduced. The episode](https://en.wikipedia.org/wiki/How_I_Met_Your_Mother_season_4)
+explained Doctor X's origins and shared his website: http://mysteriousdrx.com.[[90]]
+
+[In Season 4, Episode 14 'The Possimpible' Robin Sherbatsky is facing deportation due to unemployment, Barney](https://en.wikipedia.org/wiki/How_I_Met_Your_Mother_season_4)
+attempts to help her by sharing his video resume website: http://www.barneysvideoresume.com.[[91]]
+
+[In Season 4, Episode 18 'Old King Clancy' -- the gang is attempting to guess facts about Robins sexual history](https://en.wikipedia.org/wiki/How_I_Met_Your_Mother_season_4)
+with the help of http://canadiansexacts.org.[[92]] This website is now inactive.
+[In Season 5, Episode 4 'The Sexless Innkeeper' Marshall Eriksen creates http://www.itwasthebestnightever.com](https://en.wikipedia.org/wiki/How_I_Met_Your_Mother_season_5)
+[Archived (https://web.archive.org/web/20100209090541/http://www.itwasthebestnightever.com/) February 9,](https://web.archive.org/web/20100209090541/http://www.itwasthebestnightever.com/)
+[2010, at the Wayback Machine[[93]] to celebrate "the best night ever".](https://en.wikipedia.org/wiki/Wayback_Machine)
+[In Season 5, Episode 8 'The Playbook' -- Barney Stinson creates http://www.extremitiesquarterly.com,[[94]]](https://en.wikipedia.org/wiki/How_I_Met_Your_Mother_season_5)
+
+http://balloonexplorersclub.com,[[95]] http://www.lorenzovonmatterhorn.com,[[96]] and
+[http://bigbusinessjournal.com[[97]] to solidify his fake identity as Lorenzo von Matterhorn as a part of a play in "The](https://en.wikipedia.org/wiki/Lorenzo_von_Matterhorn)
+[Playbook".[[48]]](https://en.wikipedia.org/wiki/The_Playbook_(How_I_Met_Your_Mother))
+
+[In Season 5, Episode 23 'The Wedding Bride' Ted Mosby's ex-finance Stella's new husband releases a](https://en.wikipedia.org/wiki/How_I_Met_Your_Mother_season_5)
+[successful movie about Ted and Stella's relationship. The website http://www.weddingbridemovie.com[[98]] was](https://en.wikipedia.org/wiki/Ted_Mosby)
+created to promote the fictional movie.
+
+[In Season 6, Episode 4 'Subway Wars' Ted uses http://grademyteacher.net[[99]] to see what his college students](https://en.wikipedia.org/wiki/How_I_Met_Your_Mother_season_6)
+are writing about him as a professor.
+[In Season 7, Episode 4 'Stinson Missile Crisis' Barney creates two websites:](https://en.wikipedia.org/wiki/How_I_Met_Your_Mother_season_7)
+[http://www.stinsonbreastreduction.com [[100]] and http://www.linsonbreastlawsuit.com[[101]] as part of a play in "The](https://en.wikipedia.org/wiki/The_Playbook_(How_I_Met_Your_Mother))
+[Playbook".[[48]]](https://en.wikipedia.org/wiki/The_Playbook_(How_I_Met_Your_Mother))
+
+[In Season 7, Episode 9 'Disaster Averted' Marshall creates the countdown website:](https://en.wikipedia.org/wiki/How_I_Met_Your_Mother_season_7)
+[http://www.theslapbetcountdown.com[[102]] to warn Barney of his next slap as a part of their "Slap Bet", which was](https://en.wikipedia.org/wiki/Barney_Stinson)
+created five seasons earlier.
+[In Season 7, Episode 13 'Tailgate' Barney and Ted start a bar titled Puzzles and use](https://en.wikipedia.org/wiki/How_I_Met_Your_Mother_season_7)
+http://www.puzzlesthebar.com[[103]] to promote the bar.
+
+[In Season 7, Episode 23 'The Magician's Code (Part 1)' Ted creates http://www.lilysinlabor.com[[104]] to announce](https://en.wikipedia.org/wiki/How_I_Met_Your_Mother_season_7)
+[that Lily is in labor.](https://en.wikipedia.org/wiki/Lily_Aldrin)
+
+[In Season 8, Episode 3 'Nannies' Marshall and Lily use http://www.heynannynanny.com[[105]] to find a nanny.](https://en.wikipedia.org/wiki/How_I_Met_Your_Mother_season_8)
+
+
+-----
+
+[http://www.brobibs.com[[106]] to sell his product. Barney's company is challenged by the competing brand](https://en.wikipedia.org/wiki/Barney_Stinson)
+http://www.dudeaprons.com.[[107]]
+
+### Spin-offs
+
+**_How I Met Your Dad_**
+
+On November 15, 2013, it was announced that CBS and the series' producer 20th Television would launch How I Met Your Dad,
+[a woman-centric variation executive-produced by Bays, Thomas, and Emily Spivey.[[108]] The new series would possibly have](https://en.wikipedia.org/wiki/Emily_Spivey)
+featured a new bar and would not have tied into the original series.[[109]] The primary cast of the series was revealed on March 14,
+[2014, to be Greta Gerwig, Drew Tarver, Nicholas D'Agosto, Krysta Rodriguez and Andrew Santino.[[110]] Tiya Sircar was cast not](https://en.wikipedia.org/wiki/Greta_Gerwig)
+[long after on March 26, 2014, replacing Krysta Rodriguez's role in the series.[[111]] On April 23, 2014, Meg Ryan was announced](https://en.wikipedia.org/wiki/Meg_Ryan)
+to voice future Sally.[[112]]
+
+On May 14, 2014, CBS passed on picking up How I Met Your Dad since show creators Craig Thomas and Carter Bays did not
+[want to reshoot the pilot.[[113]] Nina Tassler, the entertainment president at CBS, stated that "there were elements of the pilot that](https://en.wikipedia.org/wiki/Nina_Tassler)
+[didn't work out". Talks of the series being "shopped" to other networks emerged.[[113][114]] Netflix, FOX and NBC were named as](https://en.wikipedia.org/wiki/Netflix)
+possible candidates for picking up the show.[[115]]
+
+Ultimately, nothing came of those talks. It was reported that the options on the cast contracts had expired and they had been
+released from their contracts and co-creator Carter Bays denied any rumors that the spin-off pilot will be reshot. On July 11,
+2014, Bays confirmed that the spin-off project was officially dead.[[116]] Six days later, Nina Tassler said that CBS would "love the
+opportunity to take another shot" at the pilot and that she would continue to "hound" Carter Bays and Craig Thomas, even though
+they shot down the idea of a new version of the project stating that they had both moved on.[[117]]
+
+In 2016, two years after the project was announced "dead", a full script of the pilot episode was leaked online.[[118]] In 2020, the
+[full pilot episode was also leaked by a Reddit user on the How I Met Your Mother subreddit, which included a modified ending](https://en.wikipedia.org/wiki/Subreddit)
+compared to the leaked script from 2016.
+
+**_How I Met Your Father_**
+
+On December 14, 2016, it was reported that Isaac Aptaker and Elizabeth Berger were set to write a new version of the previous
+spin-off's pilot, re-titled How I Met Your Father, with Bays and Thomas serving as executive producers.[[119]] On March 6, 2017,
+it was announced that following signing new contracts with 20th Television that would see both Aptaker and Berger being
+promoted to executive producers and co-showrunners on _[This Is Us alongside Dan Fogelman, their completed spec script for](https://en.wikipedia.org/wiki/This_Is_Us)_
+_How I Met Your Father would be placed on the back burner in light of their new duties.[[120]]_
+
+[On August 8, 2017, Fox chairman Dana Walden told](https://en.wikipedia.org/wiki/Dana_Walden) _[Deadline that the studio was set to try a third attempt at a spin-off with](https://en.wikipedia.org/wiki/Deadline_Hollywood)_
+different writers due to the unavailability of Aptaker and Berger. It was also stated that all ideas from the previous two attempts
+are not carried over and the new attempt are created from scratch.[[121]] On August 11, 2017, Deadline reported that Alison
+Bennett had been selected to write the spin-off. It was also confirmed that this incarnation would be developed under the title
+used for the Aptaker and Berger project, and that Bays and Thomas are once again attached as executive producers.[[122]]
+
+[On April 21, 2021, it was announced that the spin-off series was ordered by Hulu, with Hilary Duff attached to play lead](https://en.wikipedia.org/wiki/Hulu)
+character Sophie. Aptaker and Berger would helm the project as creators, writers, and executive producers.[[123]] On June 16,
+[2021, Chris Lowell was announced to have joined the cast in a starring role.[[124]] On August 10, 2021, Francia Raisa, Tom](https://en.wikipedia.org/wiki/Chris_Lowell)
+[Ainsley, Tien Tran and Suraj Sharma joined the cast in a starring roles.[[125]] On August 30, 2021, Daniel Augustin joined the cast](https://en.wikipedia.org/wiki/Suraj_Sharma)
+[in a recurring role, replacing Brandon Micheal Hall, who exited the project due to scheduling conflicts.[[126]]](https://en.wikipedia.org/wiki/Brandon_Micheal_Hall)
+
+[On January 18, 2022, How I Met Your Father began streaming on Hulu in the US, Disney+ internationally and Star+ in Latin](https://en.wikipedia.org/wiki/How_I_Met_Your_Father)
+America.
+
+In September 2023, the show was cancelled after 2 seasons.[[127]]
+
+## Nielsen ratings
+
+
+-----
+
+13.13 million viewers.[[128]] Previously, the most viewed episode was the season 1 episode
+["The Pineapple Incident", watched by 12.3 million viewers. The lowest-viewed episode](https://en.wikipedia.org/wiki/The_Pineapple_Incident)
+[was the season 6 episode "Landmarks", watched by 6.4 million viewers, approximately](https://en.wikipedia.org/wiki/Landmarks_(How_I_Met_Your_Mother))
+52% of the show's previous series high, and approximately 49% of the show's finale
+viewership.
+
+Season nine was the highest watched season overall and among the 18-49 adults, scoring
+a 4.5 rating in that sector[[129]] up from the second-highest rating of 4.1 in season
+seven.[[130]]
+
+**First aired** **Last aired**
+
+**Timeslot**
+**Season** **Episodes**
+
+**[(ET)](https://en.wikipedia.org/wiki/Eastern_Time_Zone)** **Viewers** **Viewers**
+
+**Date** **Date**
+**(millions)** **(millions)**
+
+Monday
+[1](https://en.wikipedia.org/wiki/How_I_Met_Your_Mother_(season_1)) 22 September 19, 2005 10.94[[131]] May 15, 2006 8.64
+8:30 pm
+
+Monday
+8:30 pm
+
+(1–3)
+
+[2](https://en.wikipedia.org/wiki/How_I_Met_Your_Mother_season_2) 22 September 18, 2006 10.48[[134]] May 14, 2007 9.90
+
+Monday
+8:00 pm
+
+(4–22)
+
+Monday
+8:00 pm
+
+(1–11)
+
+[3](https://en.wikipedia.org/wiki/How_I_Met_Your_Mother_season_3) 20 September 24, 2007 8.12[[136]] May 19, 2008 7.99
+
+Monday
+8:30 pm
+
+(12–20)
+
+Monday
+[4](https://en.wikipedia.org/wiki/How_I_Met_Your_Mother_season_4) 24 September 22, 2008 9.79[[139]] May 18, 2009 8.73
+8:30 pm
+
+[5](https://en.wikipedia.org/wiki/How_I_Met_Your_Mother_season_5) 24 September 21, 2009 9.09[[142]] May 24, 2010 8.06
+
+[6](https://en.wikipedia.org/wiki/How_I_Met_Your_Mother_season_6) 24 September 20, 2010 8.79[[145]] May 16, 2011 7.15
+
+Monday
+
+[7](https://en.wikipedia.org/wiki/How_I_Met_Your_Mother_season_7) 24 September 19, 2011 11.00[[148]] May 14, 2012 8.58
+
+8:00 pm
+
+[8](https://en.wikipedia.org/wiki/How_I_Met_Your_Mother_season_8) 24 September 24, 2012 8.84[[150]] May 13, 2013 8.57
+
+[9](https://en.wikipedia.org/wiki/How_I_Met_Your_Mother_season_9) 24 September 23, 2013 9.40[[153]] March 31, 2014 13.13
+
+## Awards and nominations
+
+
+Viewership represented in a line
+graph
+
+|Season|Timeslot (ET)|Episodes|First aired|Col5|Last aired|Col7|TV season|Viewership rank|Avg. viewers (millions)|
+|---|---|---|---|---|---|---|---|---|---|
+||||Date|Viewers (millions)|Date|Viewers (millions)||||
+|1|Monday 8:30 pm|22|September 19, 2005|10.94[131]|May 15, 2006|8.64[132]|2005– 06|54[133]|9.47[133]|
+|2|Monday 8:30 pm (1–3) Monday 8:00 pm (4–22)|22|September 18, 2006|10.48[134]|May 14, 2007|9.90[134]|2006– 07|61[135]|8.94[135]|
+|3|Monday 8:00 pm (1–11) Monday 8:30 pm (12–20)|20|September 24, 2007|8.12[136]|May 19, 2008|7.99[137]|2007– 08|70[138]|8.21[138]|
+|4|Monday 8:30 pm|24|September 22, 2008|9.79[139]|May 18, 2009|8.73[140]|2008– 09|49[141]|9.42[141]|
+|5|Monday 8:00 pm|24|September 21, 2009|9.09[142]|May 24, 2010|8.06[143]|2009– 10|42[144]|8.60[144]|
+|6||24|September 20, 2010|8.79[145]|May 16, 2011|7.15[146]|2010– 11|48[147]|8.79[147]|
+|7||24|September 19, 2011|11.00[148]|May 14, 2012|8.58[149]|2011– 12|45[130]|9.67[130]|
+|8||24|September 24, 2012|8.84[150]|May 13, 2013|8.57[151]|2012– 13|42[152]|9.02[152]|
+|9||24|September 23, 2013|9.40[153]|March 31, 2014|13.13[154]|2013– 14|28[129]|10.51[129]|
+
+
+-----
+
+[nomination for Outstanding Comedy Series. Stars Alyson Hannigan and Neil Patrick Harris have each received acting accolades,](https://en.wikipedia.org/wiki/Primetime_Emmy_Award_for_Outstanding_Comedy_Series)
+[with both winning People's Choice Awards, and Harris receiving Emmy and Golden Globe nominations. In 2012, seven years](https://en.wikipedia.org/wiki/People%27s_Choice_Awards)
+after its premiere, the series won the People's Choice for Favorite Network TV Comedy. The show's art direction, editing and
+cinematography have also been awarded.
+
+## Home media
+
+|DVD season|Release dates|Col3|Col4|Episodes|Additional information|
+|---|---|---|---|---|---|
+||Region 1|Region 2|Region 4|||
+|Season 1|November 21, 2006|May 7, 2007|January 10, 2007|22|Includes: commentaries on six episodes a video yearbook 2 music videos ("First Round" and "Last Call") a gag reel Episodes have been cropped from the broadcast widescreen to a full frame 4:3 format|
+|Season 2|October 2, 2007|February 8, 2010|April 8, 2008|22|Includes: commentaries on seven episodes How We Make Your Mother 2 music videos ("Let's Go To The Mall" and "Hey Beautiful") 3 "How It Really Happened" scenes a gag reel an Easter Egg.|
+|The Legendary Season 3|October 7, 2008|May 10, 2010|February 11, 2009|20|Includes: commentaries on 7 episodes a series retrospective Lily & Marshall's honeymoon videos cast favorites a behind the scenes of "We're Not From Here" 6 "How It Really Happened" scenes 2 music videos ("You Just Got Slapped" and "Sandcastles in the Sand") "Ted Mosby Is A Jerk" audio track a gag reel.|
+|The Awesome Season 4|September 29, 2009|July 19, 2010|October 27, 2009|24|Includes: commentaries on 4 episodes A Night With Your Mother: Academy of Television Arts & Sciences Panel Discussion season recap Eriksen's Fight Club a music video ("That Guy's Awesome") a gag reel Also available on Blu-ray, and is the only season to have a subsequent Blu- ray release.|
+
+
+-----
+
+[The Complete Season 5.](https://en.wikipedia.org/wiki/How_I_Met_Your_Mother_season_5)
+[The Suited-Up Edition](https://en.wikipedia.org/wiki/How_I_Met_Your_Mother_season_5)
+
+
+September
+21, 2010
+
+
+November 8,
+2010
+
+
+October 27,
+24
+2010
+
+
+Includes:
+
+a gag reel
+[music videos for "Super Date", "Nothing](https://en.wikipedia.org/wiki/Nothing_Suits_Me_Like_a_Suit)
+[Suits Me Like a Suit", and "Best Night](https://en.wikipedia.org/wiki/Nothing_Suits_Me_Like_a_Suit)
+Ever"
+2 behind the scenes features
+making of "Super Date"
+behind the scenes of the 100th episode
+an extended version of the "Wedding
+Bride" trailer
+a musical series recap.
+
+|Col1|Col2|Col3|Col4|Col5|making of "Super Date" behind the scenes of the 100th episode an extended version of the "Wedding Bride" trailer a musical series recap.|
+|---|---|---|---|---|---|
+|The Complete Season 6. The New Is Always Better Edition|September 27, 2011|October 3, 2011|October 5, 2011|24|Includes: a gag reel making of "Subway Wars" behind the scenes of "Glitter" commentaries on 3 episodes an extended performance of "Stand By Me" a season recap[155]|
+|The Complete Season 7. The Ducky Tie Edition|October 2, 2012|October 15, 2012|October 10, 2012|24|Includes: a gag reel 2 behind the scenes featurettes deleted scenes audio commentaries on 3 episodes a feature on Neil Patrick Harris' Hollywood Walk of Fame star.[156]|
+|The Complete Season 8. The Yellow Umbrella Edition|October 1, 2013|September 30, 2013|November 9, 2013|24|Includes: deleted scenes audio commentary on "Farmhampton" and "The Final Page" music video for "PS I Love You" making of "PS I Love You" Where We Make Your Mother: Set Tour a gag reel.|
+|The 9th and Legendary Final Season. The Rest of Your Life Edition[157]|September 23, 2014|October 13, 2014|October 22, 2014|24|Includes: Deleted Scenes Audio Commentary on "The Locket" Audio Commentary on "The Rehearsal Dinner" Audio Commentary on "How Your Mother Met Me" Last Forever Alternate Ending How It All Ends Cristin Milioti Audition Behind the Scenes of "Gary Blauman" Gag Reel[157]|
+|The Whole Story Seasons 1–9[157]|September 23, 2014|October 13, 2014|October 22, 2014|208|Includes: All Out of Spoilers: Looking Back at Your Mother – A Retrospective Table Read of the Series Finale with the Entire Cast The Secret of the Pineapple Incident Revealed Meeting the Mother How I Met Your Mother at Comic-Con 2013–2014|
+
+
+-----
+
+How We Filmed the Kids
+Plus All the Special Features from Every
+Previous Season[[157]]
+
+
+[Seasons 1 through 9 were available to stream on Netflix in Austria, Canada, Finland, France, Germany, Ireland, Israel, Italy,](https://en.wikipedia.org/wiki/Netflix)
+Latin America, Lebanon, Turkey, Spain, Sweden, the Philippines, Romania, Russia, and the UK; season 9 was released on
+[September 26, 2014. But they were ultimately pulled and relocated to Disney+.[[158][159]] Seasons 1-9 were removed from Netflix](https://en.wikipedia.org/wiki/Netflix)
+[in the United States as of November 13, 2017 and are now available on Hulu.[[160]] As of March 2020, Seasons 1 through 9 are](https://en.wikipedia.org/wiki/Hulu)
+[available on Amazon Prime Video in Brazil.[[161]] Seasons 1 through 9 are available to stream on Hotstar in India.[[162]] As of](https://en.wikipedia.org/wiki/Amazon_Prime_Video)
+December 31, 2020, seasons 1-9 are removed from Netflix in The Netherlands. Seasons 1 to 9 were Previously available on
+[Netflix, Stan and Star on Disney+ in Australia. But Disney has pulled the show from both Stan and Netflix making Disney+ the](https://en.wikipedia.org/wiki/Netflix)
+[only streaming service in Australia to watch the show. All nine seasons are available to stream on Hulu and Amazon Prime Video](https://en.wikipedia.org/wiki/Hulu)
+[in the US. Repeats in Australia are often shown on 7flix and on 7plus and are shown on Fox Comedy.](https://en.wikipedia.org/wiki/7flix)
+
+**Note: The whole story DVD had a different package in Region 1 as opposed to Region 2 + 4**
+
+## References
+
+[1. "TV Summer School: How to Create and Run a Successful Sitcom" (https://web.archive.org/web/2011062905095](https://web.archive.org/web/20110629050959/http://www.eonline.com/print/index.jsp?uuid=ae969501-d9e3-4679-900e-28fd88bbe95d&contentType=watchWithKristin)
+
+[9/http://www.eonline.com/print/index.jsp?uuid=ae969501-d9e3-4679-900e-28fd88bbe95d&contentType=watchWit](https://web.archive.org/web/20110629050959/http://www.eonline.com/print/index.jsp?uuid=ae969501-d9e3-4679-900e-28fd88bbe95d&contentType=watchWithKristin)
+[hKristin). E! Online. August 6, 2007. Archived from the original (http://www.eonline.com/print/index.jsp?uuid=ae96](https://web.archive.org/web/20110629050959/http://www.eonline.com/print/index.jsp?uuid=ae969501-d9e3-4679-900e-28fd88bbe95d&contentType=watchWithKristin)
+[9501-d9e3-4679-900e-28fd88bbe95d&contentType=watchWithKristin) on June 29, 2011. Retrieved](http://www.eonline.com/print/index.jsp?uuid=ae969501-d9e3-4679-900e-28fd88bbe95d&contentType=watchWithKristin)
+November 11, 2009.
+[2. "How I Met Your Mother: Season 8 (2012-2013)" (https://www.rottentomatoes.com/tv/how-i-met-your-mother/s0](https://www.rottentomatoes.com/tv/how-i-met-your-mother/s08/)
+
+[8/). Rotten Tomatoes. Archived (https://web.archive.org/web/20140530151629/http://www.rottentomatoes.com/tv/](https://www.rottentomatoes.com/tv/how-i-met-your-mother/s08/)
+[how-i-met-your-mother/s08/) from the original on May 30, 2014. Retrieved June 9, 2014.](https://web.archive.org/web/20140530151629/http://www.rottentomatoes.com/tv/how-i-met-your-mother/s08/)
+[3. McLennan, Cindy. "This Just In" (https://web.archive.org/web/20140531123734/http://www.televisionwithoutpity.co](https://web.archive.org/web/20140531123734/http://www.televisionwithoutpity.com/show/how-i-met-your-mother/doppelgangers-1/10/)
+
+[m/show/how-i-met-your-mother/doppelgangers-1/10/). Television Without Pitty. Bravo Media. Archived from the](https://web.archive.org/web/20140531123734/http://www.televisionwithoutpity.com/show/how-i-met-your-mother/doppelgangers-1/10/)
+[original (http://www.televisionwithoutpity.com/show/how-i-met-your-mother/doppelgangers-1/10/) on May 31,](http://www.televisionwithoutpity.com/show/how-i-met-your-mother/doppelgangers-1/10/)
+2014. Retrieved June 9, 2014.
+[4. Nicholson, Max (April 3, 2014). "HOW I MET YOUR MOTHER: SEASON 9 REVIEW: THE BIG FAT MISDIRECT"](https://www.ign.com/articles/2014/04/03/how-i-met-your-mother-season-9-review)
+
+[(https://www.ign.com/articles/2014/04/03/how-i-met-your-mother-season-9-review). IGN Entertainment Inc.](https://www.ign.com/articles/2014/04/03/how-i-met-your-mother-season-9-review)
+[Archived (https://web.archive.org/web/20181006160742/http://www.ign.com/articles/2014/04/03/how-i-met-your-m](https://web.archive.org/web/20181006160742/http://www.ign.com/articles/2014/04/03/how-i-met-your-mother-season-9-review)
+[other-season-9-review) from the original on October 6, 2018. Retrieved June 9, 2014.](https://web.archive.org/web/20181006160742/http://www.ign.com/articles/2014/04/03/how-i-met-your-mother-season-9-review)
+[5. "Alyson Hannigan – "How I Met Your Mother" Sitcom – William S. Paley TV Fest" (http://www.whedon.info/Alyson-](http://www.whedon.info/Alyson-Hannigan-How-I-Met-Your,14745.html)
+
+[Hannigan-How-I-Met-Your,14745.html). Whedon.info. March 28, 2006. Archived (https://web.archive.org/web/200](http://www.whedon.info/Alyson-Hannigan-How-I-Met-Your,14745.html)
+[91124094436/http://www.whedon.info/Alyson-Hannigan-How-I-Met-Your,14745.html) from the original on](https://web.archive.org/web/20091124094436/http://www.whedon.info/Alyson-Hannigan-How-I-Met-Your,14745.html)
+November 24, 2009. Retrieved February 13, 2010.
+[6. Ryan, Maureen (April 27, 2006). "Craig Thomas: 'Sitcoms used to be about something' " (http://featuresblogs.chic](http://featuresblogs.chicagotribune.com/entertainment_tv/2006/04/craig_thomas.html#more)
+
+[agotribune.com/entertainment_tv/2006/04/craig_thomas.html#more). Chicago Tribune. Archived (https://web.archi](http://featuresblogs.chicagotribune.com/entertainment_tv/2006/04/craig_thomas.html#more)
+[ve.org/web/20180920011544/http://featuresblogs.chicagotribune.com/entertainment_tv/2006/04/craig_thomas.ht](https://web.archive.org/web/20180920011544/http://featuresblogs.chicagotribune.com/entertainment_tv/2006/04/craig_thomas.html#more)
+[ml#more) from the original on September 20, 2018. Retrieved April 8, 2014.](https://web.archive.org/web/20180920011544/http://featuresblogs.chicagotribune.com/entertainment_tv/2006/04/craig_thomas.html#more)
+[7. Sullivan, Brian Ford (January 8, 2010). "Live at the Paley Center for Media: "How I Met Your Mother" " (http://ww](http://www.thefutoncritic.com/interviews/2010/01/08/live-at-the-paley-center-for-media-how-i-met-your-mother-34073/20100108_howimetyourmother/)
+
+[w.thefutoncritic.com/interviews/2010/01/08/live-at-the-paley-center-for-media-how-i-met-your-mother-34073/2010](http://www.thefutoncritic.com/interviews/2010/01/08/live-at-the-paley-center-for-media-how-i-met-your-mother-34073/20100108_howimetyourmother/)
+[0108_howimetyourmother/). The Futon Critic. Archived (https://archive.today/20130111132428/http://www.thefuto](http://www.thefutoncritic.com/interviews/2010/01/08/live-at-the-paley-center-for-media-how-i-met-your-mother-34073/20100108_howimetyourmother/)
+[ncritic.com/interviews/2010/01/08/live-at-the-paley-center-for-media-how-i-met-your-mother-34073/20100108_ho](https://archive.today/20130111132428/http://www.thefutoncritic.com/interviews/2010/01/08/live-at-the-paley-center-for-media-how-i-met-your-mother-34073/20100108_howimetyourmother/)
+[wimetyourmother/) from the original on January 11, 2013. Retrieved June 10, 2012.](https://archive.today/20130111132428/http://www.thefutoncritic.com/interviews/2010/01/08/live-at-the-paley-center-for-media-how-i-met-your-mother-34073/20100108_howimetyourmother/)
+[8. Dransfeldt, Jeffrey (April 26, 2008). "Harris is enjoying Barney's adventures in How I Met Your Mother" (https://we](https://web.archive.org/web/20090314121342/http://www.venturacountystar.com/news/2008/apr/26/well-dressed-womanizer/)
+
+[b.archive.org/web/20090314121342/http://www.venturacountystar.com/news/2008/apr/26/well-dressed-womanize](https://web.archive.org/web/20090314121342/http://www.venturacountystar.com/news/2008/apr/26/well-dressed-womanizer/)
+[r/). Ventura County Star. Archived from the original (http://www.venturacountystar.com/news/2008/apr/26/well-dre](https://web.archive.org/web/20090314121342/http://www.venturacountystar.com/news/2008/apr/26/well-dressed-womanizer/)
+[ssed-womanizer/) on March 14, 2009. Retrieved April 8, 2014.](http://www.venturacountystar.com/news/2008/apr/26/well-dressed-womanizer/)
+[9. Przybyla, Kathryn (April 30, 2012). "A Chat with Bob Saget" (https://archive.today/20130615175533/http://www.bu](https://archive.today/20130615175533/http://www.buffalo.com/arts-entertainment/blog/a-chat-with-bob-saget-interview)
+
+[ffalo.com/arts-entertainment/blog/a-chat-with-bob-saget-interview). The Buffalo News. Archived from the original](https://archive.today/20130615175533/http://www.buffalo.com/arts-entertainment/blog/a-chat-with-bob-saget-interview)
+[(http://www.buffalo.com/arts-entertainment/blog/a-chat-with-bob-saget-interview) on June 15, 2013. Retrieved](http://www.buffalo.com/arts-entertainment/blog/a-chat-with-bob-saget-interview)
+May 25, 2013.
+[10. Saget, Bob (April 4, 2014). "Did they show you filmed and cut episodes, or did you just do it all at once?" (https://](https://www.reddit.com/r/IAmA/comments/227c04/im_bob_sagetcomedian_actor_and_author_of_the_new/cgk1ws4?context=3)
+
+[www.reddit.com/r/IAmA/comments/227c04/im_bob_sagetcomedian_actor_and_author_of_the_new/cgk1ws4?con](https://www.reddit.com/r/IAmA/comments/227c04/im_bob_sagetcomedian_actor_and_author_of_the_new/cgk1ws4?context=3)
+[text=3). Reddit. Archived (https://web.archive.org/web/20141208203725/http://www.reddit.com/r/IAmA/comments/](https://www.reddit.com/r/IAmA/comments/227c04/im_bob_sagetcomedian_actor_and_author_of_the_new/cgk1ws4?context=3)
+[227c04/im_bob_sagetcomedian_actor_and_author_of_the_new/cgk1ws4?context=3) from the original on](https://web.archive.org/web/20141208203725/http://www.reddit.com/r/IAmA/comments/227c04/im_bob_sagetcomedian_actor_and_author_of_the_new/cgk1ws4?context=3)
+December 8, 2014. Retrieved April 4, 2014.
+
+
+-----
+
+[the series finale of HIMYM and not you?" (https://www.reddit.com/r/IAmA/comments/227c04/im_bob_sagetcomed](https://www.reddit.com/r/IAmA/comments/227c04/im_bob_sagetcomedian_actor_and_author_of_the_new/cgk1zxu?context=3)
+[ian_actor_and_author_of_the_new/cgk1zxu?context=3). Reddit. Archived (https://web.archive.org/web/20170301](https://www.reddit.com/r/IAmA/comments/227c04/im_bob_sagetcomedian_actor_and_author_of_the_new/cgk1zxu?context=3)
+[004833/https://www.reddit.com/r/IAmA/comments/227c04/im_bob_sagetcomedian_actor_and_author_of_the_ne](https://web.archive.org/web/20170301004833/https://www.reddit.com/r/IAmA/comments/227c04/im_bob_sagetcomedian_actor_and_author_of_the_new/cgk1zxu/?context=3)
+[w/cgk1zxu/?context=3) from the original on March 1, 2017. Retrieved April 4, 2014.](https://web.archive.org/web/20170301004833/https://www.reddit.com/r/IAmA/comments/227c04/im_bob_sagetcomedian_actor_and_author_of_the_new/cgk1zxu/?context=3)
+[12. Stransky, Tanner (May 13, 2013). " 'HIMYM' unveils the mother! The creators answer your burning questions" (htt](http://insidetv.ew.com/2013/05/13/how-i-met-your-mother-cristin-milioti/)
+
+[p://insidetv.ew.com/2013/05/13/how-i-met-your-mother-cristin-milioti/). Entertainment Weekly. Archived (https://we](http://insidetv.ew.com/2013/05/13/how-i-met-your-mother-cristin-milioti/)
+[b.archive.org/web/20130808135748/http://insidetv.ew.com/2013/05/13/how-i-met-your-mother-cristin-milioti/) from](https://web.archive.org/web/20130808135748/http://insidetv.ew.com/2013/05/13/how-i-met-your-mother-cristin-milioti/)
+the original on August 8, 2013. Retrieved May 13, 2013.
+[13. "Jennifer Love Hewitt Turned Down How I Met Your Mother?!" (http://www.eonline.com/news/506849/jennifer-love](http://www.eonline.com/news/506849/jennifer-love-hewitt-turned-down-how-i-met-your-mother-plus-series-finale-secrets-revealed)
+
+[-hewitt-turned-down-how-i-met-your-mother-plus-series-finale-secrets-revealed). E! Online. February 3, 2014.](http://www.eonline.com/news/506849/jennifer-love-hewitt-turned-down-how-i-met-your-mother-plus-series-finale-secrets-revealed)
+[Archived (https://web.archive.org/web/20140222221019/http://www.eonline.com/news/506849/jennifer-love-hewitt](https://web.archive.org/web/20140222221019/http://www.eonline.com/news/506849/jennifer-love-hewitt-turned-down-how-i-met-your-mother-plus-series-finale-secrets-revealed)
+[-turned-down-how-i-met-your-mother-plus-series-finale-secrets-revealed) from the original on February 22, 2014.](https://web.archive.org/web/20140222221019/http://www.eonline.com/news/506849/jennifer-love-hewitt-turned-down-how-i-met-your-mother-plus-series-finale-secrets-revealed)
+Retrieved February 3, 2014.
+14. Entertainment Weekly (September 6, 2013).
+[15. Colucci, Jim (April 2008). "How They Created Mother" (http://www.jimcolucci.com/files/CBS_Watch_Apr_08_How](http://www.jimcolucci.com/files/CBS_Watch_Apr_08_How_They_Created_Mother.pdf)
+
+[_They_Created_Mother.pdf) (PDF). Watch! The CBS Magazine. Archived (https://web.archive.org/web/20131017](http://www.jimcolucci.com/files/CBS_Watch_Apr_08_How_They_Created_Mother.pdf)
+[231451/http://www.jimcolucci.com/files/CBS_Watch_Apr_08_How_They_Created_Mother.pdf) (PDF) from the](https://web.archive.org/web/20131017231451/http://www.jimcolucci.com/files/CBS_Watch_Apr_08_How_They_Created_Mother.pdf)
+original on October 17, 2013. Retrieved April 8, 2014.
+16. How I Met Your Mother 1st Season DVD Commentary
+[17. Keller, Joel (May 11, 2007). "Carter Bays of How I Met Your Mother: The TV Squad Interview" (https://web.archiv](https://web.archive.org/web/20070513030858/http://www.tvsquad.com/2007/05/11/carter-bays-of-how-i-met-your-mother-the-tv-squad-interview/)
+
+[e.org/web/20070513030858/http://www.tvsquad.com/2007/05/11/carter-bays-of-how-i-met-your-mother-the-tv-squ](https://web.archive.org/web/20070513030858/http://www.tvsquad.com/2007/05/11/carter-bays-of-how-i-met-your-mother-the-tv-squad-interview/)
+[ad-interview/). tvsquad.com. Archived from the original (http://www.tvsquad.com/2007/05/11/carter-bays-of-how-i-](https://web.archive.org/web/20070513030858/http://www.tvsquad.com/2007/05/11/carter-bays-of-how-i-met-your-mother-the-tv-squad-interview/)
+[met-your-mother-the-tv-squad-interview/) on May 13, 2007. Retrieved November 11, 2009.](http://www.tvsquad.com/2007/05/11/carter-bays-of-how-i-met-your-mother-the-tv-squad-interview/)
+[18. "Season 7 Behind the Scenes" (http://www.cbs.com/shows/how_i_met_your_mother/photos/62453/season-7-behi](http://www.cbs.com/shows/how_i_met_your_mother/photos/62453/season-7-behind-the-scenes/62450)
+
+[nd-the-scenes/62450). CBS. August 13, 2011. Archived (https://web.archive.org/web/20111027075347/http://ww](http://www.cbs.com/shows/how_i_met_your_mother/photos/62453/season-7-behind-the-scenes/62450)
+[w.cbs.com/shows/how_i_met_your_mother/photos/62453/season-7-behind-the-scenes/62450) from the original](https://web.archive.org/web/20111027075347/http://www.cbs.com/shows/how_i_met_your_mother/photos/62453/season-7-behind-the-scenes/62450)
+on October 27, 2011. Retrieved April 8, 2014.
+19. Audio commentary at 00:58 min. of the HIMYM – Season 1 DVD
+[20. Ryan, Maureen (January 15, 2007). "The Watcher: How 'How I Met Your Mother' is not a traditional sitcom" (http](https://web.archive.org/web/20181019175749/http://featuresblogs.chicagotribune.com/entertainment_tv/2007/01/how_i_met_your_.html)
+
+[s://web.archive.org/web/20181019175749/http://featuresblogs.chicagotribune.com/entertainment_tv/2007/01/how](https://web.archive.org/web/20181019175749/http://featuresblogs.chicagotribune.com/entertainment_tv/2007/01/how_i_met_your_.html)
+[_i_met_your_.html). Chicago Tribune. Archived from the original (http://featuresblogs.chicagotribune.com/entertai](https://web.archive.org/web/20181019175749/http://featuresblogs.chicagotribune.com/entertainment_tv/2007/01/how_i_met_your_.html)
+[nment_tv/2007/01/how_i_met_your_.html) on October 19, 2018. Retrieved December 22, 2009.](http://featuresblogs.chicagotribune.com/entertainment_tv/2007/01/how_i_met_your_.html)
+[21. Ghosh, Korbi. " 'How I Met Your Mother's' Craig Thomas on Ted & Barney's Breakup, Eriksen Babies and The](https://web.archive.org/web/20100515042234/http://blog.zap2it.com/korbitv/2008/05/how-i-met-your-mothers-craig-thomas-on-ted-barneys-breakup-eriksen-babies-and-the-future-of-robarn.html)
+
+[Future of Robarn" (https://web.archive.org/web/20100515042234/http://blog.zap2it.com/korbitv/2008/05/how-i-me](https://web.archive.org/web/20100515042234/http://blog.zap2it.com/korbitv/2008/05/how-i-met-your-mothers-craig-thomas-on-ted-barneys-breakup-eriksen-babies-and-the-future-of-robarn.html)
+[t-your-mothers-craig-thomas-on-ted-barneys-breakup-eriksen-babies-and-the-future-of-robarn.html). Zap2it.com.](https://web.archive.org/web/20100515042234/http://blog.zap2it.com/korbitv/2008/05/how-i-met-your-mothers-craig-thomas-on-ted-barneys-breakup-eriksen-babies-and-the-future-of-robarn.html)
+[Archived from the original (http://blog.zap2it.com/korbitv/2008/05/how-i-met-your-mothers-craig-thomas-on-ted-ba](http://blog.zap2it.com/korbitv/2008/05/how-i-met-your-mothers-craig-thomas-on-ted-barneys-breakup-eriksen-babies-and-the-future-of-robarn.html)
+[rneys-breakup-eriksen-babies-and-the-future-of-robarn.html) on May 15, 2010. Retrieved April 8, 2014. "[He is] a](http://blog.zap2it.com/korbitv/2008/05/how-i-met-your-mothers-craig-thomas-on-ted-barneys-breakup-eriksen-babies-and-the-future-of-robarn.html)
+guy who is telling the story so many years in the future, and he jumbles it up in his memory a little bit. He can be
+an unreliable narrator."
+[22. "Suit Up for How I Met Your Mother Scoops" (https://web.archive.org/web/20081004125236/http://www.television](https://web.archive.org/web/20081004125236/http://www.televisionwithoutpity.com/show/how_i_met_your_mother/the_craig_thomas_interview.php)
+
+[withoutpity.com/show/how_i_met_your_mother/the_craig_thomas_interview.php). Television Without Pity.](https://web.archive.org/web/20081004125236/http://www.televisionwithoutpity.com/show/how_i_met_your_mother/the_craig_thomas_interview.php)
+[October 3, 2008. Archived from the original (http://www.televisionwithoutpity.com/show/how_i_met_your_mother/t](http://www.televisionwithoutpity.com/show/how_i_met_your_mother/the_craig_thomas_interview.php)
+[he_craig_thomas_interview.php) on October 4, 2008. Retrieved October 7, 2011. "It's nice to go [online] and see](http://www.televisionwithoutpity.com/show/how_i_met_your_mother/the_craig_thomas_interview.php)
+how much continuity matters to people within the universe of a show. That's absolutely true for me, too.
+[Whenever there's the slightest inconsistency in a Buffy episode or Friends or something, my wife and I would sit](https://en.wikipedia.org/wiki/Buffy_the_Vampire_Slayer)
+on the couch and throw stuff at the TV ... When we're doing stuff in the writers room, I really try and remember
+that."
+[23. Ryan, Maureen (July 19, 2008). "Barney writes a book, Barney + Robin, Ted + Stella and other 'How I Met Your](http://featuresblogs.chicagotribune.com/entertainment_tv/2008/07/barney-writes-a.html)
+
+[Mother' news" (http://featuresblogs.chicagotribune.com/entertainment_tv/2008/07/barney-writes-a.html). Chicago](http://featuresblogs.chicagotribune.com/entertainment_tv/2008/07/barney-writes-a.html)
+_[Tribune. Archived (https://web.archive.org/web/20080723002345/http://featuresblogs.chicagotribune.com/entertai](https://web.archive.org/web/20080723002345/http://featuresblogs.chicagotribune.com/entertainment_tv/2008/07/barney-writes-a.html)_
+[nment_tv/2008/07/barney-writes-a.html) from the original on July 23, 2008. Retrieved April 8, 2014. "He did reveal](https://web.archive.org/web/20080723002345/http://featuresblogs.chicagotribune.com/entertainment_tv/2008/07/barney-writes-a.html)
+that more than two years ago ... With only the two kids who play Ted's future children ... they shot a scene that
+directly relates to the identity of the mother. That scene will be included in the show's series finale, which Thomas
+said he hopes 'people will see in 2012.' "
+[24. "CBS Sets Series Return Dates" (https://web.archive.org/web/20080216054051/http://www.zap2it.com/tv/news/za](https://web.archive.org/web/20080216054051/http://www.zap2it.com/tv/news/zap-cbsreturndates%2C0%2C7656374.story)
+
+[p-cbsreturndates%2C0%2C7656374.story). zap2it. Archived from the original (http://www.zap2it.com/tv/news/zap](https://web.archive.org/web/20080216054051/http://www.zap2it.com/tv/news/zap-cbsreturndates%2C0%2C7656374.story)
+[-cbsreturndates,0,7656374.story) on February 16, 2008. Retrieved February 13, 2008.](http://www.zap2it.com/tv/news/zap-cbsreturndates,0,7656374.story)
+[25. "Breaking News – "The Big Bang Theory" And "How I Met Your Mother" To Swap Time Periods" (http://www.thefut](http://www.thefutoncritic.com/news.aspx?id=20080220cbs01)
+
+[oncritic.com/news.aspx?id=20080220cbs01). TheFutonCritic.com. February 20, 2008. Retrieved April 8, 2014.](http://www.thefutoncritic.com/news.aspx?id=20080220cbs01)
+[26. "Upfront: CBS Releases Full Schedule" (https://web.archive.org/web/20081216075634/http://www.broadcastingca](https://web.archive.org/web/20081216075634/http://www.broadcastingcable.com/article/CA6560732.html?industryid=47172)
+
+[ble.com/article/CA6560732.html?industryid=47172). Broadcastingcable.co. Archived from the original (http://www.](https://web.archive.org/web/20081216075634/http://www.broadcastingcable.com/article/CA6560732.html?industryid=47172)
+[broadcastingcable.com/article/CA6560732.html?industryid=47172) on December 16, 2008. Retrieved May 14,](http://www.broadcastingcable.com/article/CA6560732.html?industryid=47172)
+2008.
+
+
+-----
+
+_[Critic. June 26, 2008. Archived (https://web.archive.org/web/20081216104104/http://futoncritic.com/news.aspx?id](https://web.archive.org/web/20081216104104/http://futoncritic.com/news.aspx?id=20080626cbs01)_
+[=20080626cbs01) from the original on December 16, 2008. Retrieved April 8, 2014.](https://web.archive.org/web/20081216104104/http://futoncritic.com/news.aspx?id=20080626cbs01)
+[28. Nordyke, Kimberly (September 24, 2008). " 'Mother' reruns nest at Lifetime" (https://www.hollywoodreporter.com/h](https://www.hollywoodreporter.com/hr/content_display/television/news/e3i6981db61c01d2a4deec48edaedd4cde9)
+
+[r/content_display/television/news/e3i6981db61c01d2a4deec48edaedd4cde9). The Hollywood Reporter. Archived](https://www.hollywoodreporter.com/hr/content_display/television/news/e3i6981db61c01d2a4deec48edaedd4cde9)
+[(https://web.archive.org/web/20081122105804/http://www.hollywoodreporter.com/hr/content_display/television/ne](https://web.archive.org/web/20081122105804/http://www.hollywoodreporter.com/hr/content_display/television/news/e3i6981db61c01d2a4deec48edaedd4cde9)
+[ws/e3i6981db61c01d2a4deec48edaedd4cde9) from the original on November 22, 2008. Retrieved April 17, 2020.](https://web.archive.org/web/20081122105804/http://www.hollywoodreporter.com/hr/content_display/television/news/e3i6981db61c01d2a4deec48edaedd4cde9)
+"Lifetime's four-year licensing deal includes up to eight seasons of "Mother", should the CBS comedy run that
+long. "Mother" had a big fourth-season premiere Monday, jumping 21% in the ratings over last season."
+[29. "How I Met Your Mother: Syndication Deal Ensures Season Five for Sitcom" (http://tvseriesfinale.com/tv-show/ho](http://tvseriesfinale.com/tv-show/how-i-met-your-mother-syndication-deal-ensures-season-five-for-sitcom/)
+
+[w-i-met-your-mother-syndication-deal-ensures-season-five-for-sitcom/). tvseriesfinale.co. September 17, 2008.](http://tvseriesfinale.com/tv-show/how-i-met-your-mother-syndication-deal-ensures-season-five-for-sitcom/)
+[Archived (https://archive.today/20140408205954/http://tvseriesfinale.com/tv-show/how-i-met-your-mother-syndica](https://archive.today/20140408205954/http://tvseriesfinale.com/tv-show/how-i-met-your-mother-syndication-deal-ensures-season-five-for-sitcom/)
+[tion-deal-ensures-season-five-for-sitcom/) from the original on April 8, 2014. Retrieved April 8, 2014.](https://archive.today/20140408205954/http://tvseriesfinale.com/tv-show/how-i-met-your-mother-syndication-deal-ensures-season-five-for-sitcom/)
+[30. "How 'How I Met Your Mother' dealt with 2 pregnant stars, and what's coming next on the comedy - The Watcher"](https://web.archive.org/web/20180930102458/http://featuresblogs.chicagotribune.com/entertainment_tv/2009/04/how-i-met-your-mother-cbs-alyson-hannigan.html)
+
+[(https://web.archive.org/web/20180930102458/http://featuresblogs.chicagotribune.com/entertainment_tv/2009/04/](https://web.archive.org/web/20180930102458/http://featuresblogs.chicagotribune.com/entertainment_tv/2009/04/how-i-met-your-mother-cbs-alyson-hannigan.html)
+[how-i-met-your-mother-cbs-alyson-hannigan.html). featuresblogs.chicagotribune.com. Archived from the original](https://web.archive.org/web/20180930102458/http://featuresblogs.chicagotribune.com/entertainment_tv/2009/04/how-i-met-your-mother-cbs-alyson-hannigan.html)
+[(http://featuresblogs.chicagotribune.com/entertainment_tv/2009/04/how-i-met-your-mother-cbs-alyson-hannigan.h](http://featuresblogs.chicagotribune.com/entertainment_tv/2009/04/how-i-met-your-mother-cbs-alyson-hannigan.html)
+[tml) on September 30, 2018. Retrieved June 8, 2017.](http://featuresblogs.chicagotribune.com/entertainment_tv/2009/04/how-i-met-your-mother-cbs-alyson-hannigan.html)
+[31. Ausiello, Michael (May 19, 2009). "Exclusive: 'Without a Trace,' 'Privileged,' canceled, 'Gossip' spin-off DOA" (http](https://web.archive.org/web/20090522102831/http://ausiellofiles.ew.com/2009/05/exclusive-witho.html)
+
+[s://web.archive.org/web/20090522102831/http://ausiellofiles.ew.com/2009/05/exclusive-witho.html).](https://web.archive.org/web/20090522102831/http://ausiellofiles.ew.com/2009/05/exclusive-witho.html)
+_[Entertainment Weekly. Archived from the original (http://ausiellofiles.ew.com/2009/05/exclusive-witho.html) on](http://ausiellofiles.ew.com/2009/05/exclusive-witho.html)_
+May 22, 2009. Retrieved April 8, 2014.
+[32. Andreeva, Nellie (January 25, 2010). " 'How I Met Your Mother' meets Season 6" (https://www.hollywoodreporter.c](https://www.hollywoodreporter.com/hr/content_display/news/e3iab98e96f89cc5a36341b1e5e5ec23dbc)
+
+[om/hr/content_display/news/e3iab98e96f89cc5a36341b1e5e5ec23dbc). The Hollywood Reporter. Archived (http](https://www.hollywoodreporter.com/hr/content_display/news/e3iab98e96f89cc5a36341b1e5e5ec23dbc)
+[s://web.archive.org/web/20100130112728/http://www.hollywoodreporter.com/hr/content_display/news/e3iab98e9](https://web.archive.org/web/20100130112728/http://www.hollywoodreporter.com/hr/content_display/news/e3iab98e96f89cc5a36341b1e5e5ec23dbc)
+[6f89cc5a36341b1e5e5ec23dbc) from the original on January 30, 2010. Retrieved April 8, 2014.](https://web.archive.org/web/20100130112728/http://www.hollywoodreporter.com/hr/content_display/news/e3iab98e96f89cc5a36341b1e5e5ec23dbc)
+[33. Cohn, Angel (October 3, 2008). "Suit Up for How I Met Your Mother Scoops" (https://web.archive.org/web/200810](https://web.archive.org/web/20081009011641/http://www.televisionwithoutpity.com/show/how_i_met_your_mother/the_craig_thomas_interview.php?page=10)
+
+[09011641/http://www.televisionwithoutpity.com/show/how_i_met_your_mother/the_craig_thomas_interview.php?p](https://web.archive.org/web/20081009011641/http://www.televisionwithoutpity.com/show/how_i_met_your_mother/the_craig_thomas_interview.php?page=10)
+[age=10). Television Without Pity. Archived from the original (http://www.televisionwithoutpity.com/show/how_i_me](https://web.archive.org/web/20081009011641/http://www.televisionwithoutpity.com/show/how_i_met_your_mother/the_craig_thomas_interview.php?page=10)
+[t_your_mother/the_craig_thomas_interview.php?page=10) on October 9, 2008. Retrieved April 8, 2014.](http://www.televisionwithoutpity.com/show/how_i_met_your_mother/the_craig_thomas_interview.php?page=10)
+[34. Gelman, Vlada (April 8, 2014). " 'How I Met Your Mother': 'Buffy's' Danny Strong, Alexis Denisof to guest" (http://la](http://latimesblogs.latimes.com/showtracker/2010/12/how-i-met-your-mother-buffys-danny-strong-alexis-denisof-to-guest.html)
+
+[timesblogs.latimes.com/showtracker/2010/12/how-i-met-your-mother-buffys-danny-strong-alexis-denisof-to-guest.](http://latimesblogs.latimes.com/showtracker/2010/12/how-i-met-your-mother-buffys-danny-strong-alexis-denisof-to-guest.html)
+[html). Los Angeles Times. Archived (https://web.archive.org/web/20101219165942/http://latimesblogs.latimes.co](http://latimesblogs.latimes.com/showtracker/2010/12/how-i-met-your-mother-buffys-danny-strong-alexis-denisof-to-guest.html)
+[m/showtracker/2010/12/how-i-met-your-mother-buffys-danny-strong-alexis-denisof-to-guest.html) from the](https://web.archive.org/web/20101219165942/http://latimesblogs.latimes.com/showtracker/2010/12/how-i-met-your-mother-buffys-danny-strong-alexis-denisof-to-guest.html)
+original on December 19, 2010. Retrieved January 4, 2011.
+[35. Hibberd, James (March 4, 2011). " 'How I met Your Mother' renewed for two seasons" (http://insidetv.ew.com/201](http://insidetv.ew.com/2011/03/04/how-i-met-your-mother-renewed/)
+
+[1/03/04/how-i-met-your-mother-renewed/). Entertainment Weekly. Archived (https://web.archive.org/web/2011030](http://insidetv.ew.com/2011/03/04/how-i-met-your-mother-renewed/)
+[6072905/http://insidetv.ew.com/2011/03/04/how-i-met-your-mother-renewed/) from the original on March 6, 2011.](https://web.archive.org/web/20110306072905/http://insidetv.ew.com/2011/03/04/how-i-met-your-mother-renewed/)
+Retrieved April 8, 2014.
+[36. "CBS announces 2011–2012 premiere dates" (http://www.cbspressexpress.com/div.php/cbs_entertainment/releas](http://www.cbspressexpress.com/div.php/cbs_entertainment/release?id=28633)
+
+[e?id=28633) (Press release). CBS Express. June 29, 2011. Archived (https://web.archive.org/web/201109240137](http://www.cbspressexpress.com/div.php/cbs_entertainment/release?id=28633)
+[28/http://www.cbspressexpress.com/div.php/cbs_entertainment/release?id=28633) from the original on](https://web.archive.org/web/20110924013728/http://www.cbspressexpress.com/div.php/cbs_entertainment/release?id=28633)
+September 24, 2011. Retrieved April 8, 2014.
+[37. "FX Fall 2011 Schedule Has How I Met Your Mother; The Nanny Reunion on Happily Divorced" (http://blog.sitcom](http://blog.sitcomsonline.com/2011/07/fx-fall-2011-schedule-has-how-i-met.html)
+
+[sonline.com/2011/07/fx-fall-2011-schedule-has-how-i-met.html) (Press release). Sitcoms Online. July 27, 2011.](http://blog.sitcomsonline.com/2011/07/fx-fall-2011-schedule-has-how-i-met.html)
+[Archived (https://web.archive.org/web/20110824031750/http://blog.sitcomsonline.com/2011/07/fx-fall-2011-sched](https://web.archive.org/web/20110824031750/http://blog.sitcomsonline.com/2011/07/fx-fall-2011-schedule-has-how-i-met.html)
+[ule-has-how-i-met.html) from the original on August 24, 2011. Retrieved April 8, 2014.](https://web.archive.org/web/20110824031750/http://blog.sitcomsonline.com/2011/07/fx-fall-2011-schedule-has-how-i-met.html)
+[38. "How I Met Your Mother to end after 8 seasons?" (http://tvseriesfinale.com/tv-show/how-i-met-your-mother-contin](http://tvseriesfinale.com/tv-show/how-i-met-your-mother-continue-cancelled-jason-segel/)
+
+[ue-cancelled-jason-segel/). TV Series Finale. July 7, 2010. Archived (https://archive.today/20120529141235/htt](http://tvseriesfinale.com/tv-show/how-i-met-your-mother-continue-cancelled-jason-segel/)
+[p://tvseriesfinale.com/tv-show/how-i-met-your-mother-continue-cancelled-jason-segel/) from the original on May](https://archive.today/20120529141235/http://tvseriesfinale.com/tv-show/how-i-met-your-mother-continue-cancelled-jason-segel/)
+29, 2012. Retrieved April 8, 2014.
+[39. Chitwood, Adam (December 22, 2012). "HOW I MET YOUR MOTHER Renewed for Ninth and Final Season;](https://web.archive.org/web/20200808124504/https://collider.com/how-i-met-your-mother-season-9/219625/)
+
+[Entire Cast Will Return" (https://web.archive.org/web/20200808124504/https://collider.com/how-i-met-your-mother](https://web.archive.org/web/20200808124504/https://collider.com/how-i-met-your-mother-season-9/219625/)
+[-season-9/219625/). collider.com. Archived from the original (https://collider.com/how-i-met-your-mother-season-](https://web.archive.org/web/20200808124504/https://collider.com/how-i-met-your-mother-season-9/219625/)
+[9/219625) on August 8, 2020. Retrieved April 8, 2014.](https://collider.com/how-i-met-your-mother-season-9/219625)
+[40. Mitovich, Matt (December 21, 2012). "Report: How I Met Your Mother Renewed for 9th Season After Jason](http://tvline.com/2012/12/21/how-i-met-your-mother-renewed-season-9)
+
+[Segel's 11th-Hour Reversal" (http://tvline.com/2012/12/21/how-i-met-your-mother-renewed-season-9). tvline.com.](http://tvline.com/2012/12/21/how-i-met-your-mother-renewed-season-9)
+[Archived (https://web.archive.org/web/20121224112215/http://tvline.com/2012/12/21/how-i-met-your-mother-rene](https://web.archive.org/web/20121224112215/http://tvline.com/2012/12/21/how-i-met-your-mother-renewed-season-9/)
+[wed-season-9/) from the original on December 24, 2012. Retrieved December 22, 2012.](https://web.archive.org/web/20121224112215/http://tvline.com/2012/12/21/how-i-met-your-mother-renewed-season-9/)
+[41. Rome, Emily (September 24, 2012). " 'How I Met Your Mother': Showrunners talk about the (possible) beginning](http://insidetv.ew.com/2012/09/24/how-i-met-your-mother-season-8-premiere/)
+
+[of the end" (http://insidetv.ew.com/2012/09/24/how-i-met-your-mother-season-8-premiere/). Entertainment](http://insidetv.ew.com/2012/09/24/how-i-met-your-mother-season-8-premiere/)
+_[Weekly. Archived (https://web.archive.org/web/20140327234519/http://insidetv.ew.com/2012/09/24/how-i-met-you](https://web.archive.org/web/20140327234519/http://insidetv.ew.com/2012/09/24/how-i-met-your-mother-season-8-premiere/)_
+[r-mother-season-8-premiere/) from the original on March 27, 2014. Retrieved April 8, 2014.](https://web.archive.org/web/20140327234519/http://insidetv.ew.com/2012/09/24/how-i-met-your-mother-season-8-premiere/)
+
+
+-----
+
+[Series Regular" (http://tvline.com/2013/05/17/how-i-met-your-mother-season-9-spoilers-cristin-milioti-series-regul](http://tvline.com/2013/05/17/how-i-met-your-mother-season-9-spoilers-cristin-milioti-series-regular/)
+[ar/). TVLine.com. Archived (https://web.archive.org/web/20130809094737/http://tvline.com/2013/05/17/how-i-met-](http://tvline.com/2013/05/17/how-i-met-your-mother-season-9-spoilers-cristin-milioti-series-regular/)
+[your-mother-season-9-spoilers-cristin-milioti-series-regular/) from the original on August 9, 2013. Retrieved](https://web.archive.org/web/20130809094737/http://tvline.com/2013/05/17/how-i-met-your-mother-season-9-spoilers-cristin-milioti-series-regular/)
+April 8, 2014. "Cristin Milioti, who was unmasked as the titular mom in this week's season finale, took the title of
+series regular during the comedy's upcoming ninth and final season. This marks the first time HIMYM will have
+expanded its core group of regulars beyond stars Josh Radnor, Alyson Hannigan, Neil Patrick Harris, Cobie
+Smulders and Jason Segel."
+[43. " 'How I Met Your Mother' Makes Cristin Milioti a Series Regular" (https://www.hollywoodreporter.com/live-feed/ho](https://www.hollywoodreporter.com/live-feed/how-i-met-your-mother-524654)
+
+[w-i-met-your-mother-524654). The Hollywood Reporter. May 17, 2013. Archived (https://web.archive.org/web/201](https://www.hollywoodreporter.com/live-feed/how-i-met-your-mother-524654)
+[30607103422/http://www.hollywoodreporter.com/live-feed/how-i-met-your-mother-524654) from the original on](https://web.archive.org/web/20130607103422/http://www.hollywoodreporter.com/live-feed/how-i-met-your-mother-524654)
+June 7, 2013. Retrieved May 18, 2013.
+[44. Ausiello, Michael (January 30, 2013). " 'How I Met Your Mother' Season 9 Spoilers — We Will Meet the Mother" (h](http://tvline.com/2013/01/30/how-i-met-your-mother-season-9-spoilers-whos-the-mother/)
+
+[ttp://tvline.com/2013/01/30/how-i-met-your-mother-season-9-spoilers-whos-the-mother/). TVLine. Archived (http](http://tvline.com/2013/01/30/how-i-met-your-mother-season-9-spoilers-whos-the-mother/)
+[s://web.archive.org/web/20131115032355/http://tvline.com/2013/01/30/how-i-met-your-mother-season-9-spoilers-](https://web.archive.org/web/20131115032355/http://tvline.com/2013/01/30/how-i-met-your-mother-season-9-spoilers-whos-the-mother/)
+[whos-the-mother/) from the original on November 15, 2013. Retrieved November 16, 2013.](https://web.archive.org/web/20131115032355/http://tvline.com/2013/01/30/how-i-met-your-mother-season-9-spoilers-whos-the-mother/)
+[45. " 'NCIS,' 'Downton Abbey,' 'Scandal,' 'Grey's Anatomy': Find out what's next in the Spoiler Room" (http://insidetv.e](http://insidetv.ew.com/2013/05/16/ncis-downton-abbey-scandal-spoiler-room/2/)
+
+[w.com/2013/05/16/ncis-downton-abbey-scandal-spoiler-room/2/). Entertainment Weekly. May 16, 2013. Archived](http://insidetv.ew.com/2013/05/16/ncis-downton-abbey-scandal-spoiler-room/2/)
+[(https://web.archive.org/web/20141129035022/http://insidetv.ew.com/2013/05/16/ncis-downton-abbey-scandal-sp](https://web.archive.org/web/20141129035022/http://insidetv.ew.com/2013/05/16/ncis-downton-abbey-scandal-spoiler-room/2/)
+[oiler-room/2/) from the original on November 29, 2014. Retrieved May 20, 2013.](https://web.archive.org/web/20141129035022/http://insidetv.ew.com/2013/05/16/ncis-downton-abbey-scandal-spoiler-room/2/)
+[46. Kissell, Rick (December 19, 2013). "CBS' 'How I Met Your Mother' to Get Hourlong Series Finale" (https://variety.c](https://variety.com/2013/tv/news/cbs-how-i-met-your-mother-to-get-hourlong-series-finale-1200977469/)
+
+[om/2013/tv/news/cbs-how-i-met-your-mother-to-get-hourlong-series-finale-1200977469/). Variety. Archived (http](https://variety.com/2013/tv/news/cbs-how-i-met-your-mother-to-get-hourlong-series-finale-1200977469/)
+[s://web.archive.org/web/20190305151142/https://variety.com/2013/tv/news/cbs-how-i-met-your-mother-to-get-hou](https://web.archive.org/web/20190305151142/https://variety.com/2013/tv/news/cbs-how-i-met-your-mother-to-get-hourlong-series-finale-1200977469/)
+[rlong-series-finale-1200977469/) from the original on March 5, 2019. Retrieved April 8, 2014.](https://web.archive.org/web/20190305151142/https://variety.com/2013/tv/news/cbs-how-i-met-your-mother-to-get-hourlong-series-finale-1200977469/)
+[47. Agard, Chancellor (March 31, 2014). "Everything You Need to Know About 'How I Met Your Mother' " (https://www.](https://www.thedailybeast.com/articles/2014/03/31/everything-you-need-to-know-about-how-i-met-your-mother)
+
+[thedailybeast.com/articles/2014/03/31/everything-you-need-to-know-about-how-i-met-your-mother). The Daily](https://www.thedailybeast.com/articles/2014/03/31/everything-you-need-to-know-about-how-i-met-your-mother)
+_Beast. Retrieved April 4, 2024. Cite error: The named reference ":1" was defined multiple times with_
+**[different content (see the help page).](https://en.wikipedia.org/wiki/Help:Cite_errors/Cite_error_references_duplicate_key)**
+48. "Pilot." How I Met Your Mother, created by Carter Bays and Craig Thomas, season 1, episode 1, CBS, September
+
+19, 2005 Cite error: The named reference ":0" was defined multiple times with different content (see the
+**[help page).](https://en.wikipedia.org/wiki/Help:Cite_errors/Cite_error_references_duplicate_key)**
+[49. "How I Met Your Mother: Season 1" (https://www.metacritic.com/tv/how-i-met-your-mother/critic-reviews).](https://www.metacritic.com/tv/how-i-met-your-mother/critic-reviews)
+
+[Metacritic. Archived (https://web.archive.org/web/20171024160400/http://www.metacritic.com/tv/how-i-met-your-](https://en.wikipedia.org/wiki/Metacritic)
+[mother/critic-reviews) from the original on October 24, 2017. Retrieved November 27, 2017.](https://web.archive.org/web/20171024160400/http://www.metacritic.com/tv/how-i-met-your-mother/critic-reviews)
+[50. Abernethy, Michael (October 2, 2005). "How I Met Your Mother Review" (https://www.popmatters.com/review/how](https://www.popmatters.com/review/how-i-met-your-mother-051003/)
+
+[-i-met-your-mother-051003/). PopMatters. Archived (https://web.archive.org/web/20140531071411/http://www.po](https://www.popmatters.com/review/how-i-met-your-mother-051003/)
+[pmatters.com/review/how-i-met-your-mother-051003/) from the original on May 31, 2014. Retrieved June 9, 2014.](https://web.archive.org/web/20140531071411/http://www.popmatters.com/review/how-i-met-your-mother-051003/)
+[51. Shales, Tom (September 19, 2005). "How I Met Your Mother Review" (https://www.washingtonpost.com/wp-dyn/c](https://www.washingtonpost.com/wp-dyn/content/article/2005/09/18/AR2005091801272.html)
+
+[ontent/article/2005/09/18/AR2005091801272.html). The Washington Post. Archived (https://web.archive.org/web/](https://www.washingtonpost.com/wp-dyn/content/article/2005/09/18/AR2005091801272.html)
+[20140706225206/http://www.washingtonpost.com/wp-dyn/content/article/2005/09/18/AR2005091801272.html)](https://web.archive.org/web/20140706225206/http://www.washingtonpost.com/wp-dyn/content/article/2005/09/18/AR2005091801272.html)
+from the original on July 6, 2014. Retrieved June 9, 2014.
+[52. MacFarland, Melanie (September 11, 2005). "Fall TV: Seek and ye shall find something worth watching" (https://w](https://web.archive.org/web/20140319192351/http://www.seattlepi.com/ae/tv/article/Fall-TV-Seek-and-ye-shall-find-something-worth-1182652.php)
+
+[eb.archive.org/web/20140319192351/http://www.seattlepi.com/ae/tv/article/Fall-TV-Seek-and-ye-shall-find-somet](https://web.archive.org/web/20140319192351/http://www.seattlepi.com/ae/tv/article/Fall-TV-Seek-and-ye-shall-find-something-worth-1182652.php)
+[hing-worth-1182652.php). Seattle Post-Intelligencer. Archived from the original (http://www.seattlepi.com/ae/tv/arti](https://web.archive.org/web/20140319192351/http://www.seattlepi.com/ae/tv/article/Fall-TV-Seek-and-ye-shall-find-something-worth-1182652.php)
+[cle/Fall-TV-Seek-and-ye-shall-find-something-worth-1182652.php) on March 19, 2014. Retrieved May 9, 2022.](http://www.seattlepi.com/ae/tv/article/Fall-TV-Seek-and-ye-shall-find-something-worth-1182652.php)
+[53. "How I Met Your Mother Season 2 Review" (https://www.ign.com/tv/how-i-met-your-mother/2). IGN. November 20,](https://www.ign.com/tv/how-i-met-your-mother/2)
+
+[2006. Archived (https://web.archive.org/web/20140408014220/http://www.ign.com/tv/how-i-met-your-mother/2)](https://web.archive.org/web/20140408014220/http://www.ign.com/tv/how-i-met-your-mother/2)
+from the original on April 8, 2014. Retrieved June 9, 2014.
+[54. Krause, Staci (May 15, 2007). "How I Met Your Mother: "Something Blue" Review" (https://www.ign.com/articles/2](https://www.ign.com/articles/2007/05/15/how-i-met-your-mother-something-blue-review)
+
+[007/05/15/how-i-met-your-mother-something-blue-review). IGN. San Francisco, California: j2 Global. Archived (htt](https://www.ign.com/articles/2007/05/15/how-i-met-your-mother-something-blue-review)
+[ps://web.archive.org/web/20140714170147/http://www.ign.com/articles/2007/05/15/how-i-met-your-mother-somet](https://web.archive.org/web/20140714170147/http://www.ign.com/articles/2007/05/15/how-i-met-your-mother-something-blue-review)
+[hing-blue-review) from the original on July 14, 2014. Retrieved June 9, 2014. "this great cap to a great season."](https://web.archive.org/web/20140714170147/http://www.ign.com/articles/2007/05/15/how-i-met-your-mother-something-blue-review)
+[55. Wheat, Alynda (October 8, 2008). "How I Met Your Mother: Season 3" (https://ew.com/article/2008/10/08/how-i-m](https://ew.com/article/2008/10/08/how-i-met-your-mother-season-3/)
+
+[et-your-mother-season-3/). Entertainment Weekly. New York City: Meredith Corporation. Archived (https://web.arc](https://ew.com/article/2008/10/08/how-i-met-your-mother-season-3/)
+[hive.org/web/20140531090950/http://www.ew.com/ew/article/0,,20739448_20231637,00.html) from the original](https://web.archive.org/web/20140531090950/http://www.ew.com/ew/article/0,,20739448_20231637,00.html)
+on May 31, 2014. Retrieved May 31, 2014.
+[56. Zoromski, Michelle (May 29, 2008). "How I Met Your Mother: Season 3 Review" (https://www.ign.com/articles/200](https://www.ign.com/articles/2008/05/30/how-i-met-your-mother-season-3-review)
+
+[8/05/30/how-i-met-your-mother-season-3-review). IGN. San Francisco, California: j2 Global. Archived (https://we](https://www.ign.com/articles/2008/05/30/how-i-met-your-mother-season-3-review)
+[b.archive.org/web/20140531105225/http://www.ign.com/articles/2008/05/30/how-i-met-your-mother-season-3-revi](https://web.archive.org/web/20140531105225/http://www.ign.com/articles/2008/05/30/how-i-met-your-mother-season-3-review)
+[ew) from the original on May 31, 2014. Retrieved May 31, 2014.](https://web.archive.org/web/20140531105225/http://www.ign.com/articles/2008/05/30/how-i-met-your-mother-season-3-review)
+[57. Zoromski, Michelle (May 27, 2009). "How I Met Your Mother: Season 4 Review: The one where they hide the](http://tv.ign.com/articles/986/986576p1.html)
+
+[pregnancies" (http://tv.ign.com/articles/986/986576p1.html). IGN. San Francisco, California: j2 Global. Archived (h](http://tv.ign.com/articles/986/986576p1.html)
+[ttps://web.archive.org/web/20120817201808/http://tv.ign.com/articles/986/986576p1.html) from the original on](https://web.archive.org/web/20120817201808/http://tv.ign.com/articles/986/986576p1.html)
+August 17, 2012. Retrieved June 9, 2014.
+
+
+-----
+
+[m/show/how-i-met-your-mother/doppelgangers-1/10/). Television Without Pity. New York City: Bravo Media.](https://web.archive.org/web/20140531123734/http://www.televisionwithoutpity.com/show/how-i-met-your-mother/doppelgangers-1/10/)
+[Archived from the original (http://www.televisionwithoutpity.com/show/how-i-met-your-mother/doppelgangers-1/1](http://www.televisionwithoutpity.com/show/how-i-met-your-mother/doppelgangers-1/10/)
+[0/) on May 31, 2014. Retrieved May 30, 2014.](http://www.televisionwithoutpity.com/show/how-i-met-your-mother/doppelgangers-1/10/)
+[59. "How I Met Your Mother Season 6 Episode Reviews" (https://www.avclub.com/tv/how-i-met-your-mother/?season](https://www.avclub.com/tv/how-i-met-your-mother/?season=6)
+
+[=6). The A.V. Club. April 2014. Archived (https://web.archive.org/web/20140531142743/http://www.avclub.com/tv/](https://www.avclub.com/tv/how-i-met-your-mother/?season=6)
+[how-i-met-your-mother/?season=6) from the original on May 31, 2014. Retrieved June 9, 2014.](https://web.archive.org/web/20140531142743/http://www.avclub.com/tv/how-i-met-your-mother/?season=6)
+[60. Fowler, Justin (May 28, 2011). "How I Met Your Mother: Season 6 in Review or Ranking the Episodes" (http://later](http://latereviews.wordpress.com/2011/05/28/how-i-met-your-mother-season-6-in-review-or-ranking-the-episodes/)
+
+[eviews.wordpress.com/2011/05/28/how-i-met-your-mother-season-6-in-review-or-ranking-the-episodes/).](http://latereviews.wordpress.com/2011/05/28/how-i-met-your-mother-season-6-in-review-or-ranking-the-episodes/)
+[Archived (https://web.archive.org/web/20140531105258/http://latereviews.wordpress.com/2011/05/28/how-i-met-](https://web.archive.org/web/20140531105258/http://latereviews.wordpress.com/2011/05/28/how-i-met-your-mother-season-6-in-review-or-ranking-the-episodes/)
+[your-mother-season-6-in-review-or-ranking-the-episodes/) from the original on May 31, 2014. Retrieved June 9,](https://web.archive.org/web/20140531105258/http://latereviews.wordpress.com/2011/05/28/how-i-met-your-mother-season-6-in-review-or-ranking-the-episodes/)
+2014.
+[61. Sepinwall, Alan. "Season finale review: 'How I Met Your Mother' - 'The Magician's Code': Miss Direction" (http://w](http://www.hitfix.com/blogs/whats-alan-watching/posts/season-finale-review-how-i-met-your-mother-the-magicians-code-miss-direction)
+
+[ww.hitfix.com/blogs/whats-alan-watching/posts/season-finale-review-how-i-met-your-mother-the-magicians-code-](http://www.hitfix.com/blogs/whats-alan-watching/posts/season-finale-review-how-i-met-your-mother-the-magicians-code-miss-direction)
+[miss-direction). Hitfix. Hitfix INC. Archived (https://web.archive.org/web/20140531144718/http://www.hitfix.com/bl](http://www.hitfix.com/blogs/whats-alan-watching/posts/season-finale-review-how-i-met-your-mother-the-magicians-code-miss-direction)
+[ogs/whats-alan-watching/posts/season-finale-review-how-i-met-your-mother-the-magicians-code-miss-direction)](https://web.archive.org/web/20140531144718/http://www.hitfix.com/blogs/whats-alan-watching/posts/season-finale-review-how-i-met-your-mother-the-magicians-code-miss-direction)
+from the original on May 31, 2014. Retrieved June 9, 2014.
+[62. "How I Met Your Mother: Season 8 (2012-2013)" (https://www.rottentomatoes.com/tv/how-i-met-your-mother/s0](https://www.rottentomatoes.com/tv/how-i-met-your-mother/s08/)
+
+[8/). Rotten Tomatoes. San Francisco, California: Fandango Media. Archived (https://web.archive.org/web/201405](https://www.rottentomatoes.com/tv/how-i-met-your-mother/s08/)
+[30151629/http://www.rottentomatoes.com/tv/how-i-met-your-mother/s08/) from the original on May 30, 2014.](https://web.archive.org/web/20140530151629/http://www.rottentomatoes.com/tv/how-i-met-your-mother/s08/)
+Retrieved May 30, 2014.
+[63. "How I Met Your Mother: Season 9" (https://www.metacritic.com/tv/how-i-met-your-mother/season-9). Metacritic.](https://www.metacritic.com/tv/how-i-met-your-mother/season-9)
+
+[Archived (https://web.archive.org/web/20171113062508/http://www.metacritic.com/tv/how-i-met-your-mother/seas](https://web.archive.org/web/20171113062508/http://www.metacritic.com/tv/how-i-met-your-mother/season-9)
+[on-9) from the original on November 13, 2017. Retrieved November 27, 2017.](https://web.archive.org/web/20171113062508/http://www.metacritic.com/tv/how-i-met-your-mother/season-9)
+[64. "How I Met Your Mother: Season 9" (https://www.rottentomatoes.com/tv/how_i_met_your_mother/s09). Rotten](https://www.rottentomatoes.com/tv/how_i_met_your_mother/s09)
+
+_[Tomatoes. Archived (https://web.archive.org/web/20210303032334/https://www.rottentomatoes.com/tv/how_i_met](https://en.wikipedia.org/wiki/Rotten_Tomatoes)_
+[_your_mother/s09) from the original on March 3, 2021. Retrieved February 14, 2021.](https://web.archive.org/web/20210303032334/https://www.rottentomatoes.com/tv/how_i_met_your_mother/s09)
+[65. Mitchell, Gareth (November 5, 2013). "How I Met Your Mother Final Season Needs to be Left at the Altar" (http://h](http://houseofgeekery.com/2013/11/05/how-i-met-your-mother-final-season-needs-to-be-left-at-the-alter/)
+
+[ouseofgeekery.com/2013/11/05/how-i-met-your-mother-final-season-needs-to-be-left-at-the-alter/). House of](http://houseofgeekery.com/2013/11/05/how-i-met-your-mother-final-season-needs-to-be-left-at-the-alter/)
+_[Geekery. San Francisco, California: WordPress. Archived (https://web.archive.org/web/20131106230415/http://ho](https://en.wikipedia.org/wiki/WordPress)_
+[useofgeekery.com/2013/11/05/how-i-met-your-mother-final-season-needs-to-be-left-at-the-alter/) from the original](https://web.archive.org/web/20131106230415/http://houseofgeekery.com/2013/11/05/how-i-met-your-mother-final-season-needs-to-be-left-at-the-alter/)
+on November 6, 2013. Retrieved November 5, 2013.
+[66. Alex Heigl; Cara Shultz (April 1, 2014). "How I Met Your Mother Fans Split on Finale: Great Finish, or](https://web.archive.org/web/20160424082441/http://www.people.com/people/article/0,,20802157,00.html)
+
+[Disappointment?" (https://web.archive.org/web/20160424082441/http://www.people.com/people/article/0,,208021](https://web.archive.org/web/20160424082441/http://www.people.com/people/article/0,,20802157,00.html)
+[57,00.html). People. Archived from the original (http://www.people.com/people/article/0,,20802157,00.html) on](https://web.archive.org/web/20160424082441/http://www.people.com/people/article/0,,20802157,00.html)
+April 24, 2016. Retrieved March 22, 2015.
+[67. "End Game: TV's Best and Worst Series Finales" (https://www.rollingstone.com/tv/tv-lists/end-game-tvs-best-and-](https://www.rollingstone.com/tv/tv-lists/end-game-tvs-best-and-worst-series-finales-170942/worst-how-i-met-your-mother-171680/)
+
+[worst-series-finales-170942/worst-how-i-met-your-mother-171680/). Rolling Stone. New York City: Wenner](https://www.rollingstone.com/tv/tv-lists/end-game-tvs-best-and-worst-series-finales-170942/worst-how-i-met-your-mother-171680/)
+[Media. May 12, 2015. Archived (https://web.archive.org/web/20180731123259/https://www.rollingstone.com/tv/tv-l](https://en.wikipedia.org/wiki/Wenner_Media)
+[ists/end-game-tvs-best-and-worst-series-finales-170942/worst-how-i-met-your-mother-171680/) from the original](https://web.archive.org/web/20180731123259/https://www.rollingstone.com/tv/tv-lists/end-game-tvs-best-and-worst-series-finales-170942/worst-how-i-met-your-mother-171680/)
+on July 31, 2018. Retrieved July 31, 2018.
+[68. "The 12 worst TV series finales of all time, from 'Seinfeld' to 'Girls' " (https://www.businessinsider.com/12-worst-se](https://www.businessinsider.com/12-worst-series-finales-of-all-time-seinfeld-girls-dexter-2018-6#how-i-met-your-mother-season-9-episodes-23-24-last-forever-3)
+
+[ries-finales-of-all-time-seinfeld-girls-dexter-2018-6#how-i-met-your-mother-season-9-episodes-23-24-last-forever-](https://www.businessinsider.com/12-worst-series-finales-of-all-time-seinfeld-girls-dexter-2018-6#how-i-met-your-mother-season-9-episodes-23-24-last-forever-3)
+[3). Business Insider. Archived (https://web.archive.org/web/20180731093506/https://www.businessinsider.com/12](https://www.businessinsider.com/12-worst-series-finales-of-all-time-seinfeld-girls-dexter-2018-6#how-i-met-your-mother-season-9-episodes-23-24-last-forever-3)
+[-worst-series-finales-of-all-time-seinfeld-girls-dexter-2018-6#how-i-met-your-mother-season-9-episodes-23-24-las](https://web.archive.org/web/20180731093506/https://www.businessinsider.com/12-worst-series-finales-of-all-time-seinfeld-girls-dexter-2018-6#how-i-met-your-mother-season-9-episodes-23-24-last-forever-3)
+[t-forever-3) from the original on July 31, 2018. Retrieved July 31, 2018.](https://web.archive.org/web/20180731093506/https://www.businessinsider.com/12-worst-series-finales-of-all-time-seinfeld-girls-dexter-2018-6#how-i-met-your-mother-season-9-episodes-23-24-last-forever-3)
+[69. "10 of the best and worst TV series finales through the years" (https://www.foxnews.com/entertainment/10-of-the-](https://www.foxnews.com/entertainment/10-of-the-best-and-worst-tv-series-finales-through-the-years/)
+
+[best-and-worst-tv-series-finales-through-the-years/). Fox News. March 20, 2018. Archived (https://web.archive.or](https://www.foxnews.com/entertainment/10-of-the-best-and-worst-tv-series-finales-through-the-years/)
+[g/web/20180731093655/http://www.foxnews.com/entertainment/2018/04/03/10-best-and-worst-tv-series-finales-th](https://web.archive.org/web/20180731093655/http://www.foxnews.com/entertainment/2018/04/03/10-best-and-worst-tv-series-finales-through-years.html)
+[rough-years.html) from the original on July 31, 2018. Retrieved July 31, 2018.](https://web.archive.org/web/20180731093655/http://www.foxnews.com/entertainment/2018/04/03/10-best-and-worst-tv-series-finales-through-years.html)
+[70. Lawler, Kelly (May 31, 2018). "The 10 best (and five worst) TV series finales of all time" (https://www.usatoday.co](https://www.usatoday.com/story/life/tv/2018/05/31/series-finales-10-best-and-five-worst-all-time-americans-breaking-bad-mash-lost-himym-newhart-cheers/636504002/)
+
+[m/story/life/tv/2018/05/31/series-finales-10-best-and-five-worst-all-time-americans-breaking-bad-mash-lost-himym](https://www.usatoday.com/story/life/tv/2018/05/31/series-finales-10-best-and-five-worst-all-time-americans-breaking-bad-mash-lost-himym-newhart-cheers/636504002/)
+[-newhart-cheers/636504002/). USA Today. Mclean, Virginia: Gannett. Archived (https://web.archive.org/web/2019](https://www.usatoday.com/story/life/tv/2018/05/31/series-finales-10-best-and-five-worst-all-time-americans-breaking-bad-mash-lost-himym-newhart-cheers/636504002/)
+[0618044133/https://www.usatoday.com/story/life/tv/2018/05/31/series-finales-10-best-and-five-worst-all-time-ame](https://web.archive.org/web/20190618044133/https://www.usatoday.com/story/life/tv/2018/05/31/series-finales-10-best-and-five-worst-all-time-americans-breaking-bad-mash-lost-himym-newhart-cheers/636504002/)
+[ricans-breaking-bad-mash-lost-himym-newhart-cheers/636504002/) from the original on June 18, 2019. Retrieved](https://web.archive.org/web/20190618044133/https://www.usatoday.com/story/life/tv/2018/05/31/series-finales-10-best-and-five-worst-all-time-americans-breaking-bad-mash-lost-himym-newhart-cheers/636504002/)
+July 30, 2018.
+[71. Fryman, Pamela (November 20, 2006). "Slap Bet" (https://www.imdb.com/title/tt0885872/?ref_=ttep_ep9). How I](https://www.imdb.com/title/tt0885872/?ref_=ttep_ep9)
+
+_Met Your Mother._
+[72. Waxman, Nicole (December 15, 2021). "HIMYM: How the Slap Bet Started" (https://www.cbr.com/himym-how-sla](https://www.cbr.com/himym-how-slap-bet-started/)
+
+[p-bet-started/). CBR.](https://www.cbr.com/himym-how-slap-bet-started/)
+[73. Krause, Staci (April 24, 2007). "How I Met Your Mother: "Slap Bet" Review" (https://www.ign.com/articles/2007/04/](https://www.ign.com/articles/2007/04/24/how-i-met-your-mother-slap-bet-review)
+
+[24/how-i-met-your-mother-slap-bet-review). IGN.](https://www.ign.com/articles/2007/04/24/how-i-met-your-mother-slap-bet-review)
+[74. "How I Met Your Mother S 2 E 09 Slap Bet" (https://tvtropes.org/pmwiki/pmwiki.php/Recap/HowIMetYourMotherS](https://tvtropes.org/pmwiki/pmwiki.php/Recap/HowIMetYourMotherS2E09SlapBet)
+
+[2E09SlapBet). TV Tropes.](https://tvtropes.org/pmwiki/pmwiki.php/Recap/HowIMetYourMotherS2E09SlapBet)
+
+
+-----
+
+[nt.com/how-met-mother-slaps-bet-marshall-barney-explained/). ScreenRant.](https://screenrant.com/how-met-mother-slaps-bet-marshall-barney-explained/)
+[76. Stinson, Barney (2008). The Bro Code (https://archive.org/details/isbn_9781439110003). New York: Fireside.](https://en.wikipedia.org/wiki/Barney_Stinson)
+
+[ISBN 978-1-4391-1000-3.](https://en.wikipedia.org/wiki/ISBN_(identifier))
+[77. Stinson, Barney (2009). Bro on the Go (https://archive.org/details/broongo00kuhn). Fireside. ISBN 978-1-4391-](https://en.wikipedia.org/wiki/Barney_Stinson)
+
+[7313-8.](https://en.wikipedia.org/wiki/Special:BookSources/978-1-4391-7313-8)
+[78. Stinson, Barney (2012). Bro Code for Parents: What to Expect When You're Awesome. Touchstone. ISBN 978-1-](https://en.wikipedia.org/wiki/Barney_Stinson)
+
+[4516-9058-3.](https://en.wikipedia.org/wiki/Special:BookSources/978-1-4516-9058-3)
+[79. The Playbook (https://archive.org/details/playbook00kuhn). Touchstone. October 5, 2010. ISBN 978-1-4391-](https://archive.org/details/playbook00kuhn)
+
+[9683-0.](https://en.wikipedia.org/wiki/Special:BookSources/978-1-4391-9683-0)
+[80. von Matterhorn, Lorenzo, ed. (October 5, 2010). Popular Culture and Philosophy (http://www.opencourtbooks.co](http://www.opencourtbooks.com/categories/pcp.htm)
+
+[m/categories/pcp.htm). Open Court Books. ISBN 978-0-8126-9835-0. Archived (https://web.archive.org/web/2019](http://www.opencourtbooks.com/categories/pcp.htm)
+[1203165250/http://www.opencourtbooks.com/categories/pcp.htm) from the original on December 3, 2019.](https://web.archive.org/web/20191203165250/http://www.opencourtbooks.com/categories/pcp.htm)
+Retrieved April 8, 2014.
+[81. Gonzalez, Sandra (September 18, 2012). " 'How I Met Your Mother' soundtrack: See the full listings! –](http://insidetv.ew.com/2012/09/18/himym-soundtrack-full-listings/)
+
+[EXCLUSIVE" (http://insidetv.ew.com/2012/09/18/himym-soundtrack-full-listings/). Entertainment Weekly. Archived](http://insidetv.ew.com/2012/09/18/himym-soundtrack-full-listings/)
+[(https://web.archive.org/web/20150114060242/http://insidetv.ew.com/2012/09/18/himym-soundtrack-full-listings/)](https://web.archive.org/web/20150114060242/http://insidetv.ew.com/2012/09/18/himym-soundtrack-full-listings/)
+from the original on January 14, 2015. Retrieved February 5, 2013.
+[82. "How I met your music deluxe" (https://itunes.apple.com/us/album/how-i-met-your-music-deluxe/id920657233).](https://itunes.apple.com/us/album/how-i-met-your-music-deluxe/id920657233)
+
+[20th Century Fox. September 23, 2014. Archived (https://web.archive.org/web/20170410132903/https://itunes.ap](https://web.archive.org/web/20170410132903/https://itunes.apple.com/us/album/how-i-met-your-music-deluxe/id920657233)
+[ple.com/us/album/how-i-met-your-music-deluxe/id920657233) from the original on April 10, 2017. Retrieved](https://web.archive.org/web/20170410132903/https://itunes.apple.com/us/album/how-i-met-your-music-deluxe/id920657233)
+April 9, 2017 – via Apple iTunes.
+[83. Goodman, Jessica (September 19, 2014). " 'How I Met Your Mother' Pineapple Incident Mystery Is Finally](https://www.huffingtonpost.com/2014/09/19/how-i-met-your-mother-pineapple-incident_n_5849240.html)
+
+[Revealed" (https://www.huffingtonpost.com/2014/09/19/how-i-met-your-mother-pineapple-incident_n_5849240.ht](https://www.huffingtonpost.com/2014/09/19/how-i-met-your-mother-pineapple-incident_n_5849240.html)
+[ml). The Huffington Post. New York City: Huffington Post Media Group. Archived (https://web.archive.org/web/201](https://www.huffingtonpost.com/2014/09/19/how-i-met-your-mother-pineapple-incident_n_5849240.html)
+[70317143413/http://www.huffingtonpost.com/2014/09/19/how-i-met-your-mother-pineapple-incident_n_5849240.h](https://web.archive.org/web/20170317143413/http://www.huffingtonpost.com/2014/09/19/how-i-met-your-mother-pineapple-incident_n_5849240.html)
+[tml) from the original on March 17, 2017. Retrieved March 16, 2017.](https://web.archive.org/web/20170317143413/http://www.huffingtonpost.com/2014/09/19/how-i-met-your-mother-pineapple-incident_n_5849240.html)
+[84. "Every Website Used In 'How I Met Your Mother' Really Exists, Including Barney Stinson's Blog" (https://www.men](https://www.mensxp.com/entertainment/news/78896-how-i-met-your-mother-websites.html)
+
+[sxp.com/entertainment/news/78896-how-i-met-your-mother-websites.html). www.mensxp.com. August 1, 2020.](https://www.mensxp.com/entertainment/news/78896-how-i-met-your-mother-websites.html)
+[Archived (https://web.archive.org/web/20220302001835/https://www.mensxp.com/entertainment/news/78896-ho](https://web.archive.org/web/20220302001835/https://www.mensxp.com/entertainment/news/78896-how-i-met-your-mother-websites.html)
+[w-i-met-your-mother-websites.html) from the original on March 2, 2022. Retrieved March 2, 2022.](https://web.archive.org/web/20220302001835/https://www.mensxp.com/entertainment/news/78896-how-i-met-your-mother-websites.html)
+[85. "WARNING !!!" (http://tedmosbyisajerk.com/). Archived (https://web.archive.org/web/20190812003811/http://tedm](http://tedmosbyisajerk.com/)
+
+[osbyisajerk.com/) from the original on August 12, 2019. Retrieved March 2, 2022.](https://web.archive.org/web/20190812003811/http://tedmosbyisajerk.com/)
+[86. "Ted Mosby is Not a Jerk!!!" (http://tedmosbyisnotajerk.com/). tedmosbyisnotajerk.com. Archived (https://web.arch](http://tedmosbyisnotajerk.com/)
+
+[ive.org/web/20110830145957/http://tedmosbyisnotajerk.com/) from the original on August 30, 2011. Retrieved](https://web.archive.org/web/20110830145957/http://tedmosbyisnotajerk.com/)
+March 2, 2022.
+[87. "guy forces his wife to dress in a garbage bag for the next three years" (http://www.guyforceshiswifetodressinagar](http://www.guyforceshiswifetodressinagarbagebagforthenextthreeyears.com/)
+
+[bagebagforthenextthreeyears.com/). www.guyforceshiswifetodressinagarbagebagforthenextthreeyears.com.](http://www.guyforceshiswifetodressinagarbagebagforthenextthreeyears.com/)
+[Archived (https://web.archive.org/web/20100306180240/http://www.guyforceshiswifetodressinagarbagebagforthe](https://web.archive.org/web/20100306180240/http://www.guyforceshiswifetodressinagarbagebagforthenextthreeyears.com/)
+[nextthreeyears.com/) from the original on March 6, 2010. Retrieved March 2, 2022.](https://web.archive.org/web/20100306180240/http://www.guyforceshiswifetodressinagarbagebagforthenextthreeyears.com/)
+[88. "Goliath National Bank - Your Financial Wingman" (http://www.goliathbank.com/). www.goliathbank.com. Archived](http://www.goliathbank.com/)
+
+[(https://web.archive.org/web/20211208231527/http://www.goliathbank.com/) from the original on December 8,](https://web.archive.org/web/20211208231527/http://www.goliathbank.com/)
+2021. Retrieved March 2, 2022.
+[89. "Fox Shop - Not A Fathers Day" (http://www.notafathersday.com/). www.notafathersday.com. Archived (https://we](http://www.notafathersday.com/)
+
+[b.archive.org/web/20110114151117/http://www.notafathersday.com/) from the original on January 14, 2011.](https://web.archive.org/web/20110114151117/http://www.notafathersday.com/)
+Retrieved March 2, 2022.
+[90. "//////// D O C T O R X \\\\\\\\" (http://mysteriousdrx.com/). mysteriousdrx.com. Archived (https://web.archive.org/we](http://mysteriousdrx.com/)
+
+[b/20100310025856/http://mysteriousdrx.com/) from the original on March 10, 2010. Retrieved March 2, 2022.](https://web.archive.org/web/20100310025856/http://mysteriousdrx.com/)
+[91. "Barney Stinson's Video Resume" (http://www.barneysvideoresume.com/). www.barneysvideoresume.com.](http://www.barneysvideoresume.com/)
+
+[Archived (https://web.archive.org/web/20190330041801/http://www.barneysvideoresume.com/) from the original](https://web.archive.org/web/20190330041801/http://www.barneysvideoresume.com/)
+on March 30, 2019. Retrieved March 2, 2022.
+[92. "Canadian Sex Acts" (https://web.archive.org/web/20210609030712/http://canadiansexacts.org/). Archived from](https://web.archive.org/web/20210609030712/http://canadiansexacts.org/)
+
+[the original (http://canadiansexacts.org) on June 9, 2021. Retrieved March 2, 2022.](http://canadiansexacts.org/)
+[93. "Best Night Ever" (http://www.itwasthebestnightever.com/). www.itwasthebestnightever.com. Archived (https://we](http://www.itwasthebestnightever.com/)
+
+[b.archive.org/web/20100209090541/http://www.itwasthebestnightever.com/) from the original on February 9,](https://web.archive.org/web/20100209090541/http://www.itwasthebestnightever.com/)
+2010. Retrieved March 2, 2022.
+[94. "Extremities Quarterly | Phallumegaly - Lorenzo von Matterhorn" (http://www.extremitiesquarterly.com/).](http://www.extremitiesquarterly.com/)
+
+_[www.extremitiesquarterly.com. Archived (https://web.archive.org/web/20100722031111/http://www.extremitiesqua](https://web.archive.org/web/20100722031111/http://www.extremitiesquarterly.com/)_
+[rterly.com/) from the original on July 22, 2010. Retrieved March 2, 2022.](https://web.archive.org/web/20100722031111/http://www.extremitiesquarterly.com/)
+[95. "Balloon Explorers Club | Featured Member" (http://balloonexplorersclub.com/). balloonexplorersclub.com.](http://balloonexplorersclub.com/)
+
+[Archived (https://web.archive.org/web/20101011000438/http://www.balloonexplorersclub.com/) from the original](https://web.archive.org/web/20101011000438/http://www.balloonexplorersclub.com/)
+on October 11, 2010. Retrieved March 2, 2022.
+
+
+-----
+
+[Archived (https://web.archive.org/web/20120210211537/http://www.lorenzovonmatterhorn.com/) from the original](https://web.archive.org/web/20120210211537/http://www.lorenzovonmatterhorn.com/)
+on February 10, 2012. Retrieved March 2, 2022.
+[97. "bigbusinessjournal" (https://web.archive.org/web/20100814022526/http://bigbusinessjournal.com/). Archived](https://web.archive.org/web/20100814022526/http://bigbusinessjournal.com/)
+
+[from the original (http://bigbusinessjournal.com) on August 14, 2010. Retrieved July 27, 2010.](http://bigbusinessjournal.com/)
+[98. "The Wedding Bride Movie" (https://web.archive.org/web/20121214015335/http://www.weddingbridemovie.com/).](https://web.archive.org/web/20121214015335/http://www.weddingbridemovie.com/)
+
+[Archived from the original (http://www.weddingbridemovie.com) on December 14, 2012. Retrieved January 6,](http://www.weddingbridemovie.com/)
+2010.
+[99. "Grade My Teacher - Ted Mosby Page" (http://grademyteacher.net/). grademyteacher.net. Archived (https://web.ar](http://grademyteacher.net/)
+
+[chive.org/web/20120426050508/http://grademyteacher.net/) from the original on April 26, 2012. Retrieved](https://web.archive.org/web/20120426050508/http://grademyteacher.net/)
+March 2, 2022.
+[100. "Stinson Breast Reduction" (http://www.stinsonbreastreduction.com/). www.stinsonbreastreduction.com. Archived](http://www.stinsonbreastreduction.com/)
+
+[(https://web.archive.org/web/20210511113100/http://stinsonbreastreduction.com/) from the original on May 11,](https://web.archive.org/web/20210511113100/http://stinsonbreastreduction.com/)
+2021. Retrieved March 2, 2022.
+[101. "Linson Breast Lawsuit" (http://www.linsonbreastlawsuit.com). Archived (https://web.archive.org/web/2020111120](http://www.linsonbreastlawsuit.com/)
+
+[3407/http://linsonbreastlawsuit.com//) from the original on November 11, 2020. Retrieved March 2, 2022.](https://web.archive.org/web/20201111203407/http://linsonbreastlawsuit.com//)
+[102. "Slapbet Countdown" (http://www.theslapbetcountdown.com/). www.theslapbetcountdown.com. Archived (https://](http://www.theslapbetcountdown.com/)
+
+[web.archive.org/web/20220116233620/http://www.theslapbetcountdown.com/) from the original on January 16,](https://web.archive.org/web/20220116233620/http://www.theslapbetcountdown.com/)
+2022. Retrieved March 2, 2022.
+[103. "Puzzles the Bar" (https://web.archive.org/web/20181112153536/http://puzzlesthebar.com/). Archived from the](https://web.archive.org/web/20181112153536/http://puzzlesthebar.com/)
+
+[original (http://www.puzzlesthebar.com) on November 12, 2018. Retrieved March 2, 2022.](http://www.puzzlesthebar.com/)
+[104. "Lily is in Labor" (https://web.archive.org/web/20140517201956/http://lilysinlabor.com/). Archived from the original](https://web.archive.org/web/20140517201956/http://lilysinlabor.com/)
+
+[(http://www.lilysinlabor.com) on May 17, 2014. Retrieved March 2, 2022.](http://www.lilysinlabor.com/)
+[105. "Hey Nanny Nanny" (https://web.archive.org/web/20130907101352/http://heynannynanny.com/). Archived from](https://web.archive.org/web/20130907101352/http://heynannynanny.com/)
+
+[the original (http://www.heynannynanny.com) on September 7, 2013. Retrieved March 2, 2022.](http://www.heynannynanny.com/)
+[106. "Bro Bibs" (https://web.archive.org/web/20121208222627/http://www.brobibs.com/). Archived from the original (htt](https://web.archive.org/web/20121208222627/http://www.brobibs.com/)
+
+[p://www.brobibs.com) on December 8, 2012. Retrieved March 2, 2022.](http://www.brobibs.com/)
+[107. "Dude Aprons" (https://web.archive.org/web/20130906233844/http://www.dudeaprons.com/). Archived from the](https://web.archive.org/web/20130906233844/http://www.dudeaprons.com/)
+
+[original (http://www.dudeaprons.com) on September 6, 2013. Retrieved March 2, 2022.](http://www.dudeaprons.com/)
+[108. Andreeva, Nellie (November 15, 2013). " 'How I Met Your Mother' Spinoff – CBS Orders Pilot" (https://deadline.co](https://deadline.com/2013/11/how-i-met-your-mother-spinoff-cbs-pilot-636218/)
+
+[m/2013/11/how-i-met-your-mother-spinoff-cbs-pilot-636218/). Deadline Hollywood. Los Angeles, California:](https://deadline.com/2013/11/how-i-met-your-mother-spinoff-cbs-pilot-636218/)
+[Penske Media Corporation. Archived (https://web.archive.org/web/20131117063948/http://www.deadline.com/201](https://en.wikipedia.org/wiki/Penske_Media_Corporation)
+[3/11/how-i-met-your-mother-spinoff-cbs-pilot/) from the original on November 17, 2013. Retrieved November 16,](https://web.archive.org/web/20131117063948/http://www.deadline.com/2013/11/how-i-met-your-mother-spinoff-cbs-pilot/)
+2013.
+[109. Lintz, Kristina (November 16, 2013). " 'HIMYM' spinoff 'How I Met Your Dad' ordered, show creators tweet info" (ht](https://archive.today/20131118022242/http://www.hypable.com/2013/11/16/himym-spinoff-how-i-met-your-dad-ordered-show-creators-tweet-info/)
+
+[tps://archive.today/20131118022242/http://www.hypable.com/2013/11/16/himym-spinoff-how-i-met-your-dad-orde](https://archive.today/20131118022242/http://www.hypable.com/2013/11/16/himym-spinoff-how-i-met-your-dad-ordered-show-creators-tweet-info/)
+[red-show-creators-tweet-info/). Hypable.com. Archived from the original (http://www.hypable.com/2013/11/16/him](https://archive.today/20131118022242/http://www.hypable.com/2013/11/16/himym-spinoff-how-i-met-your-dad-ordered-show-creators-tweet-info/)
+[ym-spinoff-how-i-met-your-dad-ordered-show-creators-tweet-info/) on November 18, 2013. Retrieved](http://www.hypable.com/2013/11/16/himym-spinoff-how-i-met-your-dad-ordered-show-creators-tweet-info/)
+November 16, 2013.
+[110. Andreeva, Nellie (March 14, 2014). "Nick D'Agosto & Andrew Santino To Star In CBS' 'HIMYM' Spinoff 'How I Met](https://deadline.com/2014/03/nick-dagosto-andrew-santino-cbs-himym-spinoff-how-i-met-your-dad-699569/)
+
+[Your Dad' " (https://deadline.com/2014/03/nick-dagosto-andrew-santino-cbs-himym-spinoff-how-i-met-your-dad-6](https://deadline.com/2014/03/nick-dagosto-andrew-santino-cbs-himym-spinoff-how-i-met-your-dad-699569/)
+[99569/). Deadline Hollywood. Los Angeles, California: Penske Media Corporation. Archived (https://web.archive.o](https://deadline.com/2014/03/nick-dagosto-andrew-santino-cbs-himym-spinoff-how-i-met-your-dad-699569/)
+[rg/web/20140619185313/http://www.deadline.com/2014/03/nick-dagosto-andrew-santino-cbs-himym-spinoff-how-](https://web.archive.org/web/20140619185313/http://www.deadline.com/2014/03/nick-dagosto-andrew-santino-cbs-himym-spinoff-how-i-met-your-dad/)
+[i-met-your-dad/) from the original on June 19, 2014. Retrieved April 17, 2020.](https://web.archive.org/web/20140619185313/http://www.deadline.com/2014/03/nick-dagosto-andrew-santino-cbs-himym-spinoff-how-i-met-your-dad/)
+[111. "Tiya Sircar Lands Vacant Lead Role in CBS' 'How I Met Your Dad' Pilot" (https://deadline.com/2014/03/tiya-sircar](https://deadline.com/2014/03/tiya-sircar-lands-vancant-lead-role-in-cbs-how-i-met-your-dad-pilot-704823/)
+
+[-lands-vancant-lead-role-in-cbs-how-i-met-your-dad-pilot-704823/). March 26, 2014. Archived (https://web.archiv](https://deadline.com/2014/03/tiya-sircar-lands-vancant-lead-role-in-cbs-how-i-met-your-dad-pilot-704823/)
+[e.org/web/20210518073414/https://deadline.com/2014/03/tiya-sircar-lands-vancant-lead-role-in-cbs-how-i-met-yo](https://web.archive.org/web/20210518073414/https://deadline.com/2014/03/tiya-sircar-lands-vancant-lead-role-in-cbs-how-i-met-your-dad-pilot-704823/)
+[ur-dad-pilot-704823/) from the original on May 18, 2021. Retrieved May 18, 2021.](https://web.archive.org/web/20210518073414/https://deadline.com/2014/03/tiya-sircar-lands-vancant-lead-role-in-cbs-how-i-met-your-dad-pilot-704823/)
+[112. Andreeva, Nellie (April 23, 2014). "Meg Ryan To Voice The Mother In CBS' 'How I Met Your Dad' " (https://deadlin](https://deadline.com/2014/04/meg-ryan-to-voice-mother-in-how-i-met-your-dad-718910/)
+
+[e.com/2014/04/meg-ryan-to-voice-mother-in-how-i-met-your-dad-718910/). Deadline Hollywood. Los Angeles,](https://deadline.com/2014/04/meg-ryan-to-voice-mother-in-how-i-met-your-dad-718910/)
+[California: Penske Media Corporation. Archived (https://web.archive.org/web/20140423210811/http://www.deadlin](https://en.wikipedia.org/wiki/Penske_Media_Corporation)
+[e.com/2014/04/meg-ryan-to-voice-mother-in-how-i-met-your-dad/) from the original on April 23, 2014. Retrieved](https://web.archive.org/web/20140423210811/http://www.deadline.com/2014/04/meg-ryan-to-voice-mother-in-how-i-met-your-dad/)
+April 23, 2014.
+[113. "CBS Passes on How I Met Your Dad" (https://www.ign.com/articles/2014/05/14/cbs-passes-on-how-i-met-your-m](https://www.ign.com/articles/2014/05/14/cbs-passes-on-how-i-met-your-mother-spinoff-how-i-met-your-dad)
+
+[other-spinoff-how-i-met-your-dad). IGN. San Francisco, California: j2 Global. May 14, 2014. Archived (https://web.](https://www.ign.com/articles/2014/05/14/cbs-passes-on-how-i-met-your-mother-spinoff-how-i-met-your-dad)
+[archive.org/web/20140515230932/http://www.ign.com/articles/2014/05/14/cbs-passes-on-how-i-met-your-mother-](https://web.archive.org/web/20140515230932/http://www.ign.com/articles/2014/05/14/cbs-passes-on-how-i-met-your-mother-spinoff-how-i-met-your-dad)
+[spinoff-how-i-met-your-dad) from the original on May 15, 2014. Retrieved May 14, 2014.](https://web.archive.org/web/20140515230932/http://www.ign.com/articles/2014/05/14/cbs-passes-on-how-i-met-your-mother-spinoff-how-i-met-your-dad)
+[114. Frizell, Sam (May 14, 2014). "CBS Has Passed On How I Met Your Dad" (https://time.com/99144/cbs-has-passed](https://time.com/99144/cbs-has-passed-on-how-i-met-your-dad/)
+
+[-on-how-i-met-your-dad/). Time. New York City: Meredith Corporation. Archived (https://web.archive.org/web/2014](https://time.com/99144/cbs-has-passed-on-how-i-met-your-dad/)
+[0515004734/http://time.com/99144/cbs-has-passed-on-how-i-met-your-dad/) from the original on May 15, 2014.](https://web.archive.org/web/20140515004734/http://time.com/99144/cbs-has-passed-on-how-i-met-your-dad/)
+Retrieved May 14, 2014.
+
+
+-----
+
+[m/2014/05/upfronts-2014-what-pilots-are-still-alive-what-projects-are-being-shopped-731259/). Deadline](https://deadline.com/2014/05/upfronts-2014-what-pilots-are-still-alive-what-projects-are-being-shopped-731259/)
+_[Hollywood. Los Angeles, California: Penske Media Corporation. Archived (https://web.archive.org/web/201405171](https://en.wikipedia.org/wiki/Deadline_Hollywood)_
+[01034/http://www.deadline.com/2014/05/upfronts-2014-what-pilots-are-still-alive-what-projects-are-being-shoppe](https://web.archive.org/web/20140517101034/http://www.deadline.com/2014/05/upfronts-2014-what-pilots-are-still-alive-what-projects-are-being-shopped/)
+[d/) from the original on May 17, 2014. Retrieved May 16, 2014.](https://web.archive.org/web/20140517101034/http://www.deadline.com/2014/05/upfronts-2014-what-pilots-are-still-alive-what-projects-are-being-shopped/)
+[116. "Carter Bays on Twitter" (https://twitter.com/CarterBays/statuses/487538367492395008). Twitter. Archived (http](https://twitter.com/CarterBays/statuses/487538367492395008)
+
+[s://web.archive.org/web/20150129152122/https://twitter.com/CarterBays/statuses/487538367492395008) from](https://web.archive.org/web/20150129152122/https://twitter.com/CarterBays/statuses/487538367492395008)
+the original on January 29, 2015. Retrieved December 2, 2014.
+[117. Andreeva, Nellie (July 17, 2014). "What 2014 Broadcast Pilots Are Still Alive — Full List" (https://deadline.com/20](https://deadline.com/2014/07/pilots-2014-still-alive-list-jim-gaffigan-clementine-sober-companion-cabot-college-805417/)
+
+[14/07/pilots-2014-still-alive-list-jim-gaffigan-clementine-sober-companion-cabot-college-805417/). Deadline](https://deadline.com/2014/07/pilots-2014-still-alive-list-jim-gaffigan-clementine-sober-companion-cabot-college-805417/)
+_[Hollywood. Los Angeles, California: Penske Media Corporation. Archived (https://web.archive.org/web/201407260](https://en.wikipedia.org/wiki/Deadline_Hollywood)_
+[15013/http://www.deadline.com/2014/07/pilots-2014-still-alive-list-jim-gaffigan-clementine-sober-companion-cabot](https://web.archive.org/web/20140726015013/http://www.deadline.com/2014/07/pilots-2014-still-alive-list-jim-gaffigan-clementine-sober-companion-cabot-college/)
+[-college/) from the original on July 26, 2014. Retrieved December 2, 2014.](https://web.archive.org/web/20140726015013/http://www.deadline.com/2014/07/pilots-2014-still-alive-list-jim-gaffigan-clementine-sober-companion-cabot-college/)
+[118. "The "How I Met Your Dad" pilot script leaked online and we're bummed it's not happening" (https://hellogiggles.c](https://hellogiggles.com/reviews-coverage/how-i-met-your-dad-pilot-script/)
+
+[om/reviews-coverage/how-i-met-your-dad-pilot-script/). HelloGiggles. April 13, 2016. Archived (https://web.archiv](https://hellogiggles.com/reviews-coverage/how-i-met-your-dad-pilot-script/)
+[e.org/web/20210504230718/https://hellogiggles.com/reviews-coverage/how-i-met-your-dad-pilot-script/) from the](https://web.archive.org/web/20210504230718/https://hellogiggles.com/reviews-coverage/how-i-met-your-dad-pilot-script/)
+original on May 4, 2021. Retrieved May 4, 2021.
+[119. Andreeva, Nellie (December 14, 2016). "New 'How I Met Your Mother' Dad Spinoff In Works With 'This Is Us'](https://deadline.com/2016/12/new-how-i-met-your-mother-dad-spinoff-how-i-met-your-father-this-is-us-1201869407/)
+
+[Writing Duo" (https://deadline.com/2016/12/new-how-i-met-your-mother-dad-spinoff-how-i-met-your-father-this-is-](https://deadline.com/2016/12/new-how-i-met-your-mother-dad-spinoff-how-i-met-your-father-this-is-us-1201869407/)
+[us-1201869407/). Deadline Hollywood. Los Angeles, California: Penske Media Corporation. Archived (https://web.](https://deadline.com/2016/12/new-how-i-met-your-mother-dad-spinoff-how-i-met-your-father-this-is-us-1201869407/)
+[archive.org/web/20170422115504/http://deadline.com/2016/12/new-how-i-met-your-mother-dad-spinoff-how-i-me](https://web.archive.org/web/20170422115504/http://deadline.com/2016/12/new-how-i-met-your-mother-dad-spinoff-how-i-met-your-father-this-is-us-1201869407/)
+[t-your-father-this-is-us-1201869407/) from the original on April 22, 2017. Retrieved March 15, 2017.](https://web.archive.org/web/20170422115504/http://deadline.com/2016/12/new-how-i-met-your-mother-dad-spinoff-how-i-met-your-father-this-is-us-1201869407/)
+[120. Andreeva, Nellie (March 6, 2017). " 'This Is Us': Isaac Aptaker & Elizabeth Berger Named Co-Showrunners In](https://deadline.com/2017/03/this-is-us-isaac-aptaker-elizabeth-berger-co-showrunners-nbc-series-new-20th-tv-overall-deal-himym-spinoff-1202037636/)
+
+[New 20th TV Deal, 'HIMYM' Spinoff On Hold" (https://deadline.com/2017/03/this-is-us-isaac-aptaker-elizabeth-ber](https://deadline.com/2017/03/this-is-us-isaac-aptaker-elizabeth-berger-co-showrunners-nbc-series-new-20th-tv-overall-deal-himym-spinoff-1202037636/)
+[ger-co-showrunners-nbc-series-new-20th-tv-overall-deal-himym-spinoff-1202037636/). Deadline Hollywood. Los](https://deadline.com/2017/03/this-is-us-isaac-aptaker-elizabeth-berger-co-showrunners-nbc-series-new-20th-tv-overall-deal-himym-spinoff-1202037636/)
+[Angeles, California: Penske Media Corporation. Archived (https://web.archive.org/web/20170813011651/http://de](https://en.wikipedia.org/wiki/Penske_Media_Corporation)
+[adline.com/2017/03/this-is-us-isaac-aptaker-elizabeth-berger-co-showrunners-nbc-series-new-20th-tv-overall-dea](https://web.archive.org/web/20170813011651/http://deadline.com/2017/03/this-is-us-isaac-aptaker-elizabeth-berger-co-showrunners-nbc-series-new-20th-tv-overall-deal-himym-spinoff-1202037636/)
+[l-himym-spinoff-1202037636/) from the original on August 13, 2017. Retrieved March 15, 2017.](https://web.archive.org/web/20170813011651/http://deadline.com/2017/03/this-is-us-isaac-aptaker-elizabeth-berger-co-showrunners-nbc-series-new-20th-tv-overall-deal-himym-spinoff-1202037636/)
+[121. Andreeva, Nellie (August 8, 2017). " 'How I Met Your Mother' Spinoff To Get Another Shot With New Writers,](https://deadline.com/2017/08/how-i-met-your-mother-spinoff-how-i-met-your-dad-new-writers-modern-family-empire-spinoffs-1202145158/)
+
+['Modern Family' & 'Empire' Spinoffs Also Possible" (https://deadline.com/2017/08/how-i-met-your-mother-spinoff-h](https://deadline.com/2017/08/how-i-met-your-mother-spinoff-how-i-met-your-dad-new-writers-modern-family-empire-spinoffs-1202145158/)
+[ow-i-met-your-dad-new-writers-modern-family-empire-spinoffs-1202145158/). Archived (https://web.archive.org/w](https://deadline.com/2017/08/how-i-met-your-mother-spinoff-how-i-met-your-dad-new-writers-modern-family-empire-spinoffs-1202145158/)
+[eb/20170825071929/http://deadline.com/2017/08/how-i-met-your-mother-spinoff-how-i-met-your-dad-new-writers-](https://web.archive.org/web/20170825071929/http://deadline.com/2017/08/how-i-met-your-mother-spinoff-how-i-met-your-dad-new-writers-modern-family-empire-spinoffs-1202145158/)
+[modern-family-empire-spinoffs-1202145158/) from the original on August 25, 2017. Retrieved September 1, 2017.](https://web.archive.org/web/20170825071929/http://deadline.com/2017/08/how-i-met-your-mother-spinoff-how-i-met-your-dad-new-writers-modern-family-empire-spinoffs-1202145158/)
+[122. Andreeva, Nellie (August 11, 2017). " 'How I Met Your Father': Alison Bennett Tapped To Write New 'HIMYM'](https://deadline.com/2017/08/how-i-met-your-father-alison-bennett-writer-new-himym-spinoff-1202147370/)
+
+[Spinoff" (https://deadline.com/2017/08/how-i-met-your-father-alison-bennett-writer-new-himym-spinoff-120214737](https://deadline.com/2017/08/how-i-met-your-father-alison-bennett-writer-new-himym-spinoff-1202147370/)
+[0/). Deadline Hollywood. Los Angeles, California: Penske Media Corporation. Archived (https://web.archive.org/w](https://deadline.com/2017/08/how-i-met-your-father-alison-bennett-writer-new-himym-spinoff-1202147370/)
+[eb/20170907081212/http://deadline.com/2017/08/how-i-met-your-father-alison-bennett-writer-new-himym-spinoff-](https://web.archive.org/web/20170907081212/http://deadline.com/2017/08/how-i-met-your-father-alison-bennett-writer-new-himym-spinoff-1202147370/)
+[1202147370/) from the original on September 7, 2017. Retrieved September 1, 2017.](https://web.archive.org/web/20170907081212/http://deadline.com/2017/08/how-i-met-your-father-alison-bennett-writer-new-himym-spinoff-1202147370/)
+[123. White, Peter (April 21, 2021). " 'How I Met Your Father': Hulu Hands 'How I Met Your Mother' Spinoff Straight-To-](https://deadline.com/2021/04/how-i-met-your-father-hulu-how-i-met-your-mother-spinoff-hilary-duff-1234741018/)
+
+[Series Order With Hilary Duff To Star, Isaac Aptaker & Elizabeth Berger To Run" (https://deadline.com/2021/04/ho](https://deadline.com/2021/04/how-i-met-your-father-hulu-how-i-met-your-mother-spinoff-hilary-duff-1234741018/)
+[w-i-met-your-father-hulu-how-i-met-your-mother-spinoff-hilary-duff-1234741018/). Deadline. Archived (https://web.](https://deadline.com/2021/04/how-i-met-your-father-hulu-how-i-met-your-mother-spinoff-hilary-duff-1234741018/)
+[archive.org/web/20210502205131/https://deadline.com/2021/04/how-i-met-your-father-hulu-how-i-met-your-moth](https://web.archive.org/web/20210502205131/https://deadline.com/2021/04/how-i-met-your-father-hulu-how-i-met-your-mother-spinoff-hilary-duff-1234741018/)
+[er-spinoff-hilary-duff-1234741018/) from the original on May 2, 2021. Retrieved April 21, 2021.](https://web.archive.org/web/20210502205131/https://deadline.com/2021/04/how-i-met-your-father-hulu-how-i-met-your-mother-spinoff-hilary-duff-1234741018/)
+[124. Andreeva, Nellie; Petski, Denise (June 16, 2021). " 'How I Met Your Father': Chris Lowell Joins Hilary Duff In](https://deadline.com/2021/06/how-i-met-your-father-chris-lowell-hilary-duff-hulu-how-i-met-your-mother-spinoff-1234775937/)
+
+[Hulu's 'How I Met Your Mother' Spinoff Series" (https://deadline.com/2021/06/how-i-met-your-father-chris-lowell-hi](https://deadline.com/2021/06/how-i-met-your-father-chris-lowell-hilary-duff-hulu-how-i-met-your-mother-spinoff-1234775937/)
+[lary-duff-hulu-how-i-met-your-mother-spinoff-1234775937/). Deadline Hollywood. Archived (https://web.archive.or](https://deadline.com/2021/06/how-i-met-your-father-chris-lowell-hilary-duff-hulu-how-i-met-your-mother-spinoff-1234775937/)
+[g/web/20210624200232/https://deadline.com/2021/06/how-i-met-your-father-chris-lowell-hilary-duff-hulu-how-i-m](https://web.archive.org/web/20210624200232/https://deadline.com/2021/06/how-i-met-your-father-chris-lowell-hilary-duff-hulu-how-i-met-your-mother-spinoff-1234775937/)
+[et-your-mother-spinoff-1234775937/) from the original on June 24, 2021. Retrieved June 25, 2021.](https://web.archive.org/web/20210624200232/https://deadline.com/2021/06/how-i-met-your-father-chris-lowell-hilary-duff-hulu-how-i-met-your-mother-spinoff-1234775937/)
+[125. Petski, Denise (August 10, 2021). " 'How I Met Your Father': Francia Raisa, Tom Ainsley, Tien Tran & Suraj](https://deadline.com/2021/08/how-i-met-your-father-francia-raisa-tom-ainsley-tien-tran-suraj-sharma-1234811888/)
+
+[Sharma Join Hulu's 'How I Met Your Mother' Spinoff" (https://deadline.com/2021/08/how-i-met-your-father-francia-](https://deadline.com/2021/08/how-i-met-your-father-francia-raisa-tom-ainsley-tien-tran-suraj-sharma-1234811888/)
+[raisa-tom-ainsley-tien-tran-suraj-sharma-1234811888/). Deadline Hollywood. Archived (https://web.archive.org/w](https://deadline.com/2021/08/how-i-met-your-father-francia-raisa-tom-ainsley-tien-tran-suraj-sharma-1234811888/)
+[eb/20210810155139/https://deadline.com/2021/08/how-i-met-your-father-francia-raisa-tom-ainsley-tien-tran-suraj-](https://web.archive.org/web/20210810155139/https://deadline.com/2021/08/how-i-met-your-father-francia-raisa-tom-ainsley-tien-tran-suraj-sharma-1234811888/)
+[sharma-1234811888/) from the original on August 10, 2021. Retrieved August 10, 2021.](https://web.archive.org/web/20210810155139/https://deadline.com/2021/08/how-i-met-your-father-francia-raisa-tom-ainsley-tien-tran-suraj-sharma-1234811888/)
+[126. Petski, Denise (August 31, 2021). " 'How I Met Your Father': Daniel Augustin Joins Hulu's 'How I Met Your Mother'](https://deadline.com/2021/08/how-i-met-your-father-daniel-augustin-hulus-how-i-met-your-mother-spinoff-recasting-1234824595/)
+
+[Spinoff In Recasting" (https://deadline.com/2021/08/how-i-met-your-father-daniel-augustin-hulus-how-i-met-your-](https://deadline.com/2021/08/how-i-met-your-father-daniel-augustin-hulus-how-i-met-your-mother-spinoff-recasting-1234824595/)
+[mother-spinoff-recasting-1234824595/). Deadline. Archived (https://web.archive.org/web/20210831003123/http](https://deadline.com/2021/08/how-i-met-your-father-daniel-augustin-hulus-how-i-met-your-mother-spinoff-recasting-1234824595/)
+[s://deadline.com/2021/08/how-i-met-your-father-daniel-augustin-hulus-how-i-met-your-mother-spinoff-recasting-1](https://web.archive.org/web/20210831003123/https://deadline.com/2021/08/how-i-met-your-father-daniel-augustin-hulus-how-i-met-your-mother-spinoff-recasting-1234824595/)
+[234824595/) from the original on August 31, 2021. Retrieved August 31, 2021.](https://web.archive.org/web/20210831003123/https://deadline.com/2021/08/how-i-met-your-father-daniel-augustin-hulus-how-i-met-your-mother-spinoff-recasting-1234824595/)
+[127. Maas, Jennifer (September 1, 2023). " 'How I Met Your Father' Canceled at Hulu After Two Seasons" (https://varie](https://variety.com/2023/tv/news/how-i-met-your-father-canceled-hulu-season-2-1235711231/)
+
+[ty.com/2023/tv/news/how-i-met-your-father-canceled-hulu-season-2-1235711231/).](https://variety.com/2023/tv/news/how-i-met-your-father-canceled-hulu-season-2-1235711231/)
+
+
+-----
+
+[Tomorrow People' Up, 'The Voice' Down" (https://web.archive.org/web/20140404081958/http://tvbythenumbers.za](https://web.archive.org/web/20140404081958/http://tvbythenumbers.zap2it.com/2014/04/01/tv-ratings-monday-how-i-met-your-mother-finale-hits-high-bones-the-tomorrow-people-up-the-voice-down/249449/)
+[p2it.com/2014/04/01/tv-ratings-monday-how-i-met-your-mother-finale-hits-high-bones-the-tomorrow-people-up-th](https://web.archive.org/web/20140404081958/http://tvbythenumbers.zap2it.com/2014/04/01/tv-ratings-monday-how-i-met-your-mother-finale-hits-high-bones-the-tomorrow-people-up-the-voice-down/249449/)
+[e-voice-down/249449/). TV by the Numbers. Archived from the original (http://tvbythenumbers.zap2it.com/2014/0](https://web.archive.org/web/20140404081958/http://tvbythenumbers.zap2it.com/2014/04/01/tv-ratings-monday-how-i-met-your-mother-finale-hits-high-bones-the-tomorrow-people-up-the-voice-down/249449/)
+[4/01/tv-ratings-monday-how-i-met-your-mother-finale-hits-high-bones-the-tomorrow-people-up-the-voice-down/24](http://tvbythenumbers.zap2it.com/2014/04/01/tv-ratings-monday-how-i-met-your-mother-finale-hits-high-bones-the-tomorrow-people-up-the-voice-down/249449/)
+[9449/) on April 4, 2014. Retrieved April 8, 2014.](http://tvbythenumbers.zap2it.com/2014/04/01/tv-ratings-monday-how-i-met-your-mother-finale-hits-high-bones-the-tomorrow-people-up-the-voice-down/249449/)
+[129. "Full 2013-2014 TV Season Series Rankings" (https://deadline.com/2014/05/tv-season-series-rankings-2013-full-li](https://deadline.com/2014/05/tv-season-series-rankings-2013-full-list-2-733762/)
+
+[st-2-733762/). Deadline Hollywood. Los Angeles, California: Penske Media Corporation. May 22, 2014. Archived](https://deadline.com/2014/05/tv-season-series-rankings-2013-full-list-2-733762/)
+[(https://web.archive.org/web/20140525201152/http://www.deadline.com/2014/05/tv-season-series-rankings-2013-](https://web.archive.org/web/20140525201152/http://www.deadline.com/2014/05/tv-season-series-rankings-2013-full-list-2/)
+[full-list-2/) from the original on May 25, 2014. Retrieved May 28, 2014.](https://web.archive.org/web/20140525201152/http://www.deadline.com/2014/05/tv-season-series-rankings-2013-full-list-2/)
+[130. Gorman, Bill (May 24, 2012). "Complete List Of 2011–12 Season TV Show Ratings: 'Sunday Night Football' Tops,](https://web.archive.org/web/20131202231824/http://tvbythenumbers.zap2it.com/2012/05/24/final-list-of-2011-12-season-tv-show-ratings-sunday-night-footb,all-tops-followed-by-american-idol-the-voice-modern-family/135747/)
+
+[Followed By 'American Idol,' 'NCIS' & 'Dancing With The Stars' " (https://web.archive.org/web/20131202231824/ht](https://web.archive.org/web/20131202231824/http://tvbythenumbers.zap2it.com/2012/05/24/final-list-of-2011-12-season-tv-show-ratings-sunday-night-footb,all-tops-followed-by-american-idol-the-voice-modern-family/135747/)
+[tp://tvbythenumbers.zap2it.com/2012/05/24/final-list-of-2011-12-season-tv-show-ratings-sunday-night-footb,all-to](https://web.archive.org/web/20131202231824/http://tvbythenumbers.zap2it.com/2012/05/24/final-list-of-2011-12-season-tv-show-ratings-sunday-night-footb,all-tops-followed-by-american-idol-the-voice-modern-family/135747/)
+[ps-followed-by-american-idol-the-voice-modern-family/135747/). Tvbythenumbers. New York City: Nexstar](https://web.archive.org/web/20131202231824/http://tvbythenumbers.zap2it.com/2012/05/24/final-list-of-2011-12-season-tv-show-ratings-sunday-night-footb,all-tops-followed-by-american-idol-the-voice-modern-family/135747/)
+[Communications. Archived from the original (http://tvbythenumbers.zap2it.com/2012/05/24/final-list-of-2011-12-se](https://en.wikipedia.org/w/index.php?title=Nexstar_Communications&action=edit&redlink=1)
+[ason-tv-show-ratings-sunday-night-footb,all-tops-followed-by-american-idol-the-voice-modern-family/135747/) on](http://tvbythenumbers.zap2it.com/2012/05/24/final-list-of-2011-12-season-tv-show-ratings-sunday-night-footb,all-tops-followed-by-american-idol-the-voice-modern-family/135747/)
+December 2, 2013. Retrieved April 8, 2014.
+[131. "September 19–25, 2005 weekly program rankings" (https://web.archive.org/web/20090601190247/http://abcmedi](https://web.archive.org/web/20090601190247/http://abcmedianet.com/web/dnr/dispDNR.aspx?id=092705_03)
+
+[anet.com/web/dnr/dispDNR.aspx?id=092705_03). ABC Television Group. Archived from the original (http://abcme](https://web.archive.org/web/20090601190247/http://abcmedianet.com/web/dnr/dispDNR.aspx?id=092705_03)
+[dianet.com/web/dnr/dispDNR.aspx?id=092705_03) on June 1, 2009. Retrieved December 19, 2010.](http://abcmedianet.com/web/dnr/dispDNR.aspx?id=092705_03)
+[132. "May 15–21, 2006 weekly program rankings" (http://abcmedianet.com/web/dnr/dispDNR.aspx?id=052306_05).](http://abcmedianet.com/web/dnr/dispDNR.aspx?id=052306_05)
+
+_[ABC Television Group. Archived (https://web.archive.org/web/20150311232233/http://abcmedianet.com/web/dnr/](https://web.archive.org/web/20150311232233/http://abcmedianet.com/web/dnr/dispDNR.aspx?id=052306_05)_
+[dispDNR.aspx?id=052306_05) from the original on March 11, 2015. Retrieved December 19, 2010.](https://web.archive.org/web/20150311232233/http://abcmedianet.com/web/dnr/dispDNR.aspx?id=052306_05)
+[133. "How I Met Your Mother ratings" (https://web.archive.org/web/20070310210300/http://www.abcmedianet.com/pre](https://web.archive.org/web/20070310210300/http://www.abcmedianet.com/pressrel/dispDNR.html?id=053106_05)
+
+[ssrel/dispDNR.html?id=053106_05). ABCmedianet. Archived from the original (http://www.abcmedianet.com/pres](https://web.archive.org/web/20070310210300/http://www.abcmedianet.com/pressrel/dispDNR.html?id=053106_05)
+[srel/dispDNR.html?id=053106_05) on March 10, 2007. Retrieved December 24, 2009.](http://www.abcmedianet.com/pressrel/dispDNR.html?id=053106_05)
+[134. "ABC Medianet" (https://web.archive.org/web/20120329105628/http://abcmedianet.com/web/dnr/dispDNR.aspx?i](https://web.archive.org/web/20120329105628/http://abcmedianet.com/web/dnr/dispDNR.aspx?id=092606_07)
+
+[d=092606_07). ABC Television Group. Archived from the original (http://abcmedianet.com/web/dnr/dispDNR.asp](https://web.archive.org/web/20120329105628/http://abcmedianet.com/web/dnr/dispDNR.aspx?id=092606_07)
+[x?id=092606_07) on March 29, 2012. Retrieved August 12, 2013.](http://abcmedianet.com/web/dnr/dispDNR.aspx?id=092606_07)
+[135. "How I Met Your Mother ratings" (https://web.archive.org/web/20120102063804/http://www1.hollywoodreporter.co](https://web.archive.org/web/20120102063804/http://www1.hollywoodreporter.com/hr/content_display/television/features/e3ifbfdd1bcb53266ad8d9a71cad261604f)
+
+[m/hr/content_display/television/features/e3ifbfdd1bcb53266ad8d9a71cad261604f). ABCmedianet. Archived from](https://web.archive.org/web/20120102063804/http://www1.hollywoodreporter.com/hr/content_display/television/features/e3ifbfdd1bcb53266ad8d9a71cad261604f)
+[the original (https://www.hollywoodreporter.com/hr/content_display/television/features/e3ifbfdd1bcb53266ad8d9a](https://www.hollywoodreporter.com/hr/content_display/television/features/e3ifbfdd1bcb53266ad8d9a71cad261604f)
+[71cad261604f) on January 2, 2012. Retrieved December 24, 2009.](https://www.hollywoodreporter.com/hr/content_display/television/features/e3ifbfdd1bcb53266ad8d9a71cad261604f)
+[136. "Weekly Program Rankings" (https://web.archive.org/web/20110501042023/http://abcmedianet.com/web/dnr/disp](https://web.archive.org/web/20110501042023/http://abcmedianet.com/web/dnr/dispDNR.aspx?id=100207_05)
+
+[DNR.aspx?id=100207_05). ABC Medianet. October 2, 2007. Archived from the original (http://abcmedianet.com/](https://web.archive.org/web/20110501042023/http://abcmedianet.com/web/dnr/dispDNR.aspx?id=100207_05)
+[web/dnr/dispDNR.aspx?id=100207_05) on May 1, 2011. Retrieved August 13, 2013.](http://abcmedianet.com/web/dnr/dispDNR.aspx?id=100207_05)
+[137. Gorman, Bill (May 28, 2008). "Top CBS Primetime Shows, May 19–25" (https://web.archive.org/web/2008092515](https://web.archive.org/web/20080925154923/http://tvbythenumbers.com/2008/05/28/top-cbs-primetime-shows-may-19-25/3922)
+
+[4923/http://tvbythenumbers.com/2008/05/28/top-cbs-primetime-shows-may-19-25/3922). Archived from the](https://web.archive.org/web/20080925154923/http://tvbythenumbers.com/2008/05/28/top-cbs-primetime-shows-may-19-25/3922)
+[original (http://tvbythenumbers.com/2008/05/28/top-cbs-primetime-shows-may-19-25/3922) on September 25,](http://tvbythenumbers.com/2008/05/28/top-cbs-primetime-shows-may-19-25/3922)
+2008. Retrieved August 13, 2013.
+[138. "Season Program Rankings from 09/24/07 through 05/25/08" (https://web.archive.org/web/20100413172935/htt](https://web.archive.org/web/20100413172935/http://abcmedianet.com/web/dnr/dispDNR.aspx?id=052808_06)
+
+[p://abcmedianet.com/web/dnr/dispDNR.aspx?id=052808_06). ABC Medianet. May 28, 2008. Archived from the](https://web.archive.org/web/20100413172935/http://abcmedianet.com/web/dnr/dispDNR.aspx?id=052808_06)
+[original (http://abcmedianet.com/web/dnr/dispDNR.aspx?id=052808_06) on April 13, 2010. Retrieved July 3,](http://abcmedianet.com/web/dnr/dispDNR.aspx?id=052808_06)
+2009.
+[139. Gorman, Bill (September 30, 2008). "Top CBS Primetime Shows, September 22–28" (https://web.archive.org/we](https://web.archive.org/web/20131105003324/http://tvbythenumbers.zap2it.com/2008/09/30/top-cbs-primetime-shows-september-22-28/5427/)
+
+[b/20131105003324/http://tvbythenumbers.zap2it.com/2008/09/30/top-cbs-primetime-shows-september-22-28/542](https://web.archive.org/web/20131105003324/http://tvbythenumbers.zap2it.com/2008/09/30/top-cbs-primetime-shows-september-22-28/5427/)
+[7/). TV by the Numbers. Archived from the original (http://tvbythenumbers.zap2it.com/2008/09/30/top-cbs-primeti](https://web.archive.org/web/20131105003324/http://tvbythenumbers.zap2it.com/2008/09/30/top-cbs-primetime-shows-september-22-28/5427/)
+[me-shows-september-22-28/5427/) on November 5, 2013. Retrieved August 12, 2013.](http://tvbythenumbers.zap2it.com/2008/09/30/top-cbs-primetime-shows-september-22-28/5427/)
+[140. "PRESS RELEASE - ENTERTAINMENT - WEEKLY RANKINGS (WK OF 5/18)" (http://abcmedianet.com/web/dn](http://abcmedianet.com/web/dnr/dispDNR.aspx?id=052709_06)
+
+[r/dispDNR.aspx?id=052709_06). ABCMedianet. Archived (https://web.archive.org/web/20120612090654/http://w](http://abcmedianet.com/web/dnr/dispDNR.aspx?id=052709_06)
+[ww.abcmedianet.com/web/dnr/dispDNR.aspx?id=052709_06) from the original on June 12, 2012. Retrieved](https://web.archive.org/web/20120612090654/http://www.abcmedianet.com/web/dnr/dispDNR.aspx?id=052709_06)
+August 12, 2013.
+[141. "Season Program Rankings from 09/22/08 through 05/17/09" (https://web.archive.org/web/20090623063544/htt](https://web.archive.org/web/20090623063544/http://abcmedianet.com/web/dnr/dispDNR.aspx?id=051909_05)
+
+[p://abcmedianet.com/web/dnr/dispDNR.aspx?id=051909_05). ABC Medianet. May 19, 2009. Archived from the](https://web.archive.org/web/20090623063544/http://abcmedianet.com/web/dnr/dispDNR.aspx?id=051909_05)
+[original (http://abcmedianet.com/web/dnr/dispDNR.aspx?id=051909_05) on June 23, 2009. Retrieved July 3,](http://abcmedianet.com/web/dnr/dispDNR.aspx?id=051909_05)
+2009.
+[142. Seidman, Robert (September 22, 2009). "Monday broadcast final numbers" (https://web.archive.org/web/2009100](https://web.archive.org/web/20091005070730/http://tvbythenumbers.com/2009/09/22/monday-broadcast-final-numbers/28114)
+
+[5070730/http://tvbythenumbers.com/2009/09/22/monday-broadcast-final-numbers/28114). TV by the Numbers.](https://web.archive.org/web/20091005070730/http://tvbythenumbers.com/2009/09/22/monday-broadcast-final-numbers/28114)
+[Archived from the original (http://tvbythenumbers.com/2009/09/22/monday-broadcast-final-numbers/28114) on](http://tvbythenumbers.com/2009/09/22/monday-broadcast-final-numbers/28114)
+October 5, 2009. Retrieved August 12, 2013.
+[143. "CBS Finishes the Last Week of the Season with Nine of the Top 10 Scripted Series" (http://www.thefutoncritic.co](http://www.thefutoncritic.com/ratings/2010/06/02/cbs-finishes-the-last-week-of-the-season-with-nine-of-the-top-10-scripted-series-35954/20100602cbs02/)
+
+[m/ratings/2010/06/02/cbs-finishes-the-last-week-of-the-season-with-nine-of-the-top-10-scripted-series-35954/201](http://www.thefutoncritic.com/ratings/2010/06/02/cbs-finishes-the-last-week-of-the-season-with-nine-of-the-top-10-scripted-series-35954/20100602cbs02/)
+[00602cbs02/). The Futon Critic. June 2, 2010. Retrieved June 5, 2023.](http://www.thefutoncritic.com/ratings/2010/06/02/cbs-finishes-the-last-week-of-the-season-with-nine-of-the-top-10-scripted-series-35954/20100602cbs02/)
+
+
+-----
+
+[m/2010/05/full-series-rankings-for-the-2009-10-broadcast-season-44277/). Deadline Hollywood. Archived (https://](https://deadline.com/2010/05/full-series-rankings-for-the-2009-10-broadcast-season-44277/)
+[web.archive.org/web/20130709180259/http://www.deadline.com/2010/05/full-series-rankings-for-the-2009-10-bro](https://web.archive.org/web/20130709180259/http://www.deadline.com/2010/05/full-series-rankings-for-the-2009-10-broadcast-season/)
+[adcast-season/) from the original on July 9, 2013. Retrieved December 18, 2010.](https://web.archive.org/web/20130709180259/http://www.deadline.com/2010/05/full-series-rankings-for-the-2009-10-broadcast-season/)
+[145. Seidman, Robert (September 21, 2010). "Monday Finals: 'Hawaii Five-0,' 'Two and a Half Men,' 'DWTS,' 'House'](https://web.archive.org/web/20101116143816/http://tvbythenumbers.zap2it.com/2010/09/21/monday-finals-hawaii-five-0-two-and-a-half-men-dwts-house-gain-chuck-the-event-chase-castle-drop/64472)
+
+[Gain; 'Chuck,' 'The Event', Chase, Castle Drop" (https://web.archive.org/web/20101116143816/http://tvbythenum](https://web.archive.org/web/20101116143816/http://tvbythenumbers.zap2it.com/2010/09/21/monday-finals-hawaii-five-0-two-and-a-half-men-dwts-house-gain-chuck-the-event-chase-castle-drop/64472)
+[bers.zap2it.com/2010/09/21/monday-finals-hawaii-five-0-two-and-a-half-men-dwts-house-gain-chuck-the-event-c](https://web.archive.org/web/20101116143816/http://tvbythenumbers.zap2it.com/2010/09/21/monday-finals-hawaii-five-0-two-and-a-half-men-dwts-house-gain-chuck-the-event-chase-castle-drop/64472)
+[hase-castle-drop/64472). TV by the Numbers. Archived from the original (http://tvbythenumbers.zap2it.com/2010/](https://web.archive.org/web/20101116143816/http://tvbythenumbers.zap2it.com/2010/09/21/monday-finals-hawaii-five-0-two-and-a-half-men-dwts-house-gain-chuck-the-event-chase-castle-drop/64472)
+[09/21/monday-finals-hawaii-five-0-two-and-a-half-men-dwts-house-gain-chuck-the-event-chase-castle-drop/6447](http://tvbythenumbers.zap2it.com/2010/09/21/monday-finals-hawaii-five-0-two-and-a-half-men-dwts-house-gain-chuck-the-event-chase-castle-drop/64472)
+[2) on November 16, 2010. Retrieved September 21, 2010.](http://tvbythenumbers.zap2it.com/2010/09/21/monday-finals-hawaii-five-0-two-and-a-half-men-dwts-house-gain-chuck-the-event-chase-castle-drop/64472)
+[146. Seidman, Robert (May 18, 2011). "Monday Final Ratings: 'Dancing,' 'Hawaii Five-0,' 'How I Met Your Mother,'](https://web.archive.org/web/20110521181640/http://tvbythenumbers.zap2it.com/2011/05/18/monday-final-ratings-dancing-hawaii-five-0-how-i-met-your-mother-mad-love-mike-the-chicago-code-adjusted-down/93127/)
+
+['Mad Love,' 'Mike & Molly' Adjusted Up; 'The Chicago Code' Adjusted Down" (https://web.archive.org/web/201105](https://web.archive.org/web/20110521181640/http://tvbythenumbers.zap2it.com/2011/05/18/monday-final-ratings-dancing-hawaii-five-0-how-i-met-your-mother-mad-love-mike-the-chicago-code-adjusted-down/93127/)
+[21181640/http://tvbythenumbers.zap2it.com/2011/05/18/monday-final-ratings-dancing-hawaii-five-0-how-i-met-yo](https://web.archive.org/web/20110521181640/http://tvbythenumbers.zap2it.com/2011/05/18/monday-final-ratings-dancing-hawaii-five-0-how-i-met-your-mother-mad-love-mike-the-chicago-code-adjusted-down/93127/)
+[ur-mother-mad-love-mike-the-chicago-code-adjusted-down/93127/). TV by the Numbers. Archived from the](https://web.archive.org/web/20110521181640/http://tvbythenumbers.zap2it.com/2011/05/18/monday-final-ratings-dancing-hawaii-five-0-how-i-met-your-mother-mad-love-mike-the-chicago-code-adjusted-down/93127/)
+[original (http://tvbythenumbers.zap2it.com/2011/05/18/monday-final-ratings-dancing-hawaii-five-0-how-i-met-your](http://tvbythenumbers.zap2it.com/2011/05/18/monday-final-ratings-dancing-hawaii-five-0-how-i-met-your-mother-mad-love-mike-the-chicago-code-adjusted-down/93127/)
+[-mother-mad-love-mike-the-chicago-code-adjusted-down/93127/) on May 21, 2011. Retrieved May 18, 2011.](http://tvbythenumbers.zap2it.com/2011/05/18/monday-final-ratings-dancing-hawaii-five-0-how-i-met-your-mother-mad-love-mike-the-chicago-code-adjusted-down/93127/)
+[147. Gorman, Bill (June 1, 2011). "2010–11 Season Broadcast Primetime Show Viewership Averages" (https://web.arc](https://web.archive.org/web/20110604160109/http://tvbythenumbers.zap2it.com/2011/06/01/2010-11-season-broadcast-primetime-show-viewership-averages/94407/)
+
+[hive.org/web/20110604160109/http://tvbythenumbers.zap2it.com/2011/06/01/2010-11-season-broadcast-primeti](https://web.archive.org/web/20110604160109/http://tvbythenumbers.zap2it.com/2011/06/01/2010-11-season-broadcast-primetime-show-viewership-averages/94407/)
+[me-show-viewership-averages/94407/). TV by Numbers. Archived from the original (http://tvbythenumbers.zap2it.](https://web.archive.org/web/20110604160109/http://tvbythenumbers.zap2it.com/2011/06/01/2010-11-season-broadcast-primetime-show-viewership-averages/94407/)
+[com/2011/06/01/2010-11-season-broadcast-primetime-show-viewership-averages/94407/) on June 4, 2011.](http://tvbythenumbers.zap2it.com/2011/06/01/2010-11-season-broadcast-primetime-show-viewership-averages/94407/)
+Retrieved August 6, 2011.
+[148. Seidman, Robert (September 20, 2011). "Monday Broadcast Final Ratings: 'Two and a Half Men,' '2 Broke Girls,'](https://web.archive.org/web/20111024184042/http://tvbythenumbers.zap2it.com/2011/09/20/monday-broadcast-final-ratings-two-and-a-half-men-2-broke-girls-dwts-adjusted-up-castle-adjusted-down/104333/)
+
+[DWTS Adjusted Up; 'Castle' Adjusted Down" (https://web.archive.org/web/20111024184042/http://tvbythenumber](https://web.archive.org/web/20111024184042/http://tvbythenumbers.zap2it.com/2011/09/20/monday-broadcast-final-ratings-two-and-a-half-men-2-broke-girls-dwts-adjusted-up-castle-adjusted-down/104333/)
+[s.zap2it.com/2011/09/20/monday-broadcast-final-ratings-two-and-a-half-men-2-broke-girls-dwts-adjusted-up-castl](https://web.archive.org/web/20111024184042/http://tvbythenumbers.zap2it.com/2011/09/20/monday-broadcast-final-ratings-two-and-a-half-men-2-broke-girls-dwts-adjusted-up-castle-adjusted-down/104333/)
+[e-adjusted-down/104333/). TV by the Numbers. Archived from the original (http://tvbythenumbers.zap2it.com/201](https://web.archive.org/web/20111024184042/http://tvbythenumbers.zap2it.com/2011/09/20/monday-broadcast-final-ratings-two-and-a-half-men-2-broke-girls-dwts-adjusted-up-castle-adjusted-down/104333/)
+[1/09/20/monday-broadcast-final-ratings-two-and-a-half-men-2-broke-girls-dwts-adjusted-up-castle-adjusted-dow](http://tvbythenumbers.zap2it.com/2011/09/20/monday-broadcast-final-ratings-two-and-a-half-men-2-broke-girls-dwts-adjusted-up-castle-adjusted-down/104333)
+[n/104333) on October 24, 2011. Retrieved March 3, 2012.](http://tvbythenumbers.zap2it.com/2011/09/20/monday-broadcast-final-ratings-two-and-a-half-men-2-broke-girls-dwts-adjusted-up-castle-adjusted-down/104333)
+[149. Bibel, Sara (May 15, 2012). "Monday Final Ratings: 'How I Met Your Mother', 'Two and a Half Men', 'Mike &](https://web.archive.org/web/20120518004259/http://tvbythenumbers.zap2it.com/2012/05/15/monday-final-ratings-how-i-met-your-mother-two-and-a-half-men-mike-molly-americas-got-talent-the-bachelorette-adjusted-up/134437/)
+
+[Molly', 'America's Got Talent' & 'The Bachelorette' Adjusted Up" (https://web.archive.org/web/20120518004259/htt](https://web.archive.org/web/20120518004259/http://tvbythenumbers.zap2it.com/2012/05/15/monday-final-ratings-how-i-met-your-mother-two-and-a-half-men-mike-molly-americas-got-talent-the-bachelorette-adjusted-up/134437/)
+[p://tvbythenumbers.zap2it.com/2012/05/15/monday-final-ratings-how-i-met-your-mother-two-and-a-half-men-mike](https://web.archive.org/web/20120518004259/http://tvbythenumbers.zap2it.com/2012/05/15/monday-final-ratings-how-i-met-your-mother-two-and-a-half-men-mike-molly-americas-got-talent-the-bachelorette-adjusted-up/134437/)
+[-molly-americas-got-talent-the-bachelorette-adjusted-up/134437/). TV by the Numbers. Archived from the original](https://web.archive.org/web/20120518004259/http://tvbythenumbers.zap2it.com/2012/05/15/monday-final-ratings-how-i-met-your-mother-two-and-a-half-men-mike-molly-americas-got-talent-the-bachelorette-adjusted-up/134437/)
+[(http://tvbythenumbers.zap2it.com/2012/05/15/monday-final-ratings-how-i-met-your-mother-two-and-a-half-men-](http://tvbythenumbers.zap2it.com/2012/05/15/monday-final-ratings-how-i-met-your-mother-two-and-a-half-men-mike-molly-americas-got-talent-the-bachelorette-adjusted-up/134437/)
+[mike-molly-americas-got-talent-the-bachelorette-adjusted-up/134437/) on May 18, 2012. Retrieved May 15, 2012.](http://tvbythenumbers.zap2it.com/2012/05/15/monday-final-ratings-how-i-met-your-mother-two-and-a-half-men-mike-molly-americas-got-talent-the-bachelorette-adjusted-up/134437/)
+[150. Kondolojy, Amanda (September 25, 2012). "Monday Final Ratings: 'How I Met Your Mother', 'Mike and Molly',](https://web.archive.org/web/20121014113016/http://tvbythenumbers.zap2it.com/2012/09/25/monday-final-ratings-tt/150036/)
+
+['Voice', 'Bones' Adjusted Up; 'DWTS', 'Revolution', 'Castle' 'Hawaii Five-0' & 'LA Complex' Adjusted Down" (https://](https://web.archive.org/web/20121014113016/http://tvbythenumbers.zap2it.com/2012/09/25/monday-final-ratings-tt/150036/)
+[web.archive.org/web/20121014113016/http://tvbythenumbers.zap2it.com/2012/09/25/monday-final-ratings-tt/1500](https://web.archive.org/web/20121014113016/http://tvbythenumbers.zap2it.com/2012/09/25/monday-final-ratings-tt/150036/)
+[36/). TV by the Numbers. Archived from the original (http://tvbythenumbers.zap2it.com/2012/09/25/monday-final-r](https://web.archive.org/web/20121014113016/http://tvbythenumbers.zap2it.com/2012/09/25/monday-final-ratings-tt/150036/)
+[atings-tt/150036/) on October 14, 2012. Retrieved September 25, 2012.](http://tvbythenumbers.zap2it.com/2012/09/25/monday-final-ratings-tt/150036/)
+[151. Kondolojy, Amanda (May 14, 2013). "Monday Final Ratings: 'The Voice', '2 Broke Girls' & 'Hell's Kitchen' Adjusted](https://web.archive.org/web/20130607114206/http://tvbythenumbers.zap2it.com/2013/05/14/monday-final-ratings-the-voice-2-broke-girls-90210-castle-adjusted-down/182604/)
+
+[Up; '90210' & 'Castle' Adjusted Down" (https://web.archive.org/web/20130607114206/http://tvbythenumbers.zap2i](https://web.archive.org/web/20130607114206/http://tvbythenumbers.zap2it.com/2013/05/14/monday-final-ratings-the-voice-2-broke-girls-90210-castle-adjusted-down/182604/)
+[t.com/2013/05/14/monday-final-ratings-the-voice-2-broke-girls-90210-castle-adjusted-down/182604/). Archived](https://web.archive.org/web/20130607114206/http://tvbythenumbers.zap2it.com/2013/05/14/monday-final-ratings-the-voice-2-broke-girls-90210-castle-adjusted-down/182604/)
+[from the original (http://tvbythenumbers.zap2it.com/2013/05/14/monday-final-ratings-the-voice-2-broke-girls-9021](http://tvbythenumbers.zap2it.com/2013/05/14/monday-final-ratings-the-voice-2-broke-girls-90210-castle-adjusted-down/182604/)
+[0-castle-adjusted-down/182604/) on June 7, 2013. Retrieved May 14, 2013.](http://tvbythenumbers.zap2it.com/2013/05/14/monday-final-ratings-the-voice-2-broke-girls-90210-castle-adjusted-down/182604/)
+[152. Patten, Dominic (May 23, 2013). "Full 2012–2013 TV Season Series Rankings" (https://deadline.com/2014/05/tv-](https://deadline.com/2014/05/tv-season-series-rankings-2013-full-list-2-733762/)
+
+[season-series-rankings-2013-full-list-2-733762/). Deadline Hollywood. Archived (https://web.archive.org/web/201](https://deadline.com/2014/05/tv-season-series-rankings-2013-full-list-2-733762/)
+[30607071812/http://www.deadline.com/2013/05/tv-season-series-rankings-2013-full-list/) from the original on](https://web.archive.org/web/20130607071812/http://www.deadline.com/2013/05/tv-season-series-rankings-2013-full-list/)
+June 7, 2013. Retrieved May 27, 2013.
+[153. Kondolojy, Amanda. "Monday Final TV Ratings: 'The Voice' & 'How I Met Your Mother' Adjusted Up; No](https://web.archive.org/web/20130927103023/http://tvbythenumbers.zap2it.com/2013/09/24/monday-final-tv-ratings-the-voice-no-adjustment-for-hostages-or-the-blacklist/204423/)
+
+[Adjustment for 'Hostages' or 'The Blacklist' " (https://web.archive.org/web/20130927103023/http://tvbythenumber](https://web.archive.org/web/20130927103023/http://tvbythenumbers.zap2it.com/2013/09/24/monday-final-tv-ratings-the-voice-no-adjustment-for-hostages-or-the-blacklist/204423/)
+[s.zap2it.com/2013/09/24/monday-final-tv-ratings-the-voice-no-adjustment-for-hostages-or-the-blacklist/204423/).](https://web.archive.org/web/20130927103023/http://tvbythenumbers.zap2it.com/2013/09/24/monday-final-tv-ratings-the-voice-no-adjustment-for-hostages-or-the-blacklist/204423/)
+[TV by the Numbers. Archived from the original (http://tvbythenumbers.zap2it.com/2013/09/24/monday-final-tv-rati](http://tvbythenumbers.zap2it.com/2013/09/24/monday-final-tv-ratings-the-voice-no-adjustment-for-hostages-or-the-blacklist/204423/)
+[ngs-the-voice-no-adjustment-for-hostages-or-the-blacklist/204423/) on September 27, 2013. Retrieved](http://tvbythenumbers.zap2it.com/2013/09/24/monday-final-tv-ratings-the-voice-no-adjustment-for-hostages-or-the-blacklist/204423/)
+September 24, 2013.
+[154. Bibel, Sara (April 1, 2014). "Monday Final TV Ratings: 'How I Met Your Mother' & 'Dancing With The Stars'](https://web.archive.org/web/20140404082038/http://tvbythenumbers.zap2it.com/2014/04/01/monday-final-tv-ratings-how-i-met-your-mother-friends-with-better-lives-adjusted-down/249839/)
+
+[Adjusted Up; 'Friends With Better Lives' Adjusted Down" (https://web.archive.org/web/20140404082038/http://tvb](https://web.archive.org/web/20140404082038/http://tvbythenumbers.zap2it.com/2014/04/01/monday-final-tv-ratings-how-i-met-your-mother-friends-with-better-lives-adjusted-down/249839/)
+[ythenumbers.zap2it.com/2014/04/01/monday-final-tv-ratings-how-i-met-your-mother-friends-with-better-lives-adju](https://web.archive.org/web/20140404082038/http://tvbythenumbers.zap2it.com/2014/04/01/monday-final-tv-ratings-how-i-met-your-mother-friends-with-better-lives-adjusted-down/249839/)
+[sted-down/249839/). Twitter. Archived from the original (http://tvbythenumbers.zap2it.com/2014/04/01/monday-fin](https://web.archive.org/web/20140404082038/http://tvbythenumbers.zap2it.com/2014/04/01/monday-final-tv-ratings-how-i-met-your-mother-friends-with-better-lives-adjusted-down/249839/)
+[al-tv-ratings-how-i-met-your-mother-friends-with-better-lives-adjusted-down/249839/) on April 4, 2014. Retrieved](http://tvbythenumbers.zap2it.com/2014/04/01/monday-final-tv-ratings-how-i-met-your-mother-friends-with-better-lives-adjusted-down/249839/)
+April 1, 2014.
+[155. "How I Met Your Mother DVD news: Announcement for How I Met Your Mother – Season 6" (https://web.archive.o](https://web.archive.org/web/20110803011526/http://www.tvshowsondvd.com/news/Met-Mother-Season-6/15586)
+
+[rg/web/20110803011526/http://www.tvshowsondvd.com/news/Met-Mother-Season-6/15586).](https://web.archive.org/web/20110803011526/http://www.tvshowsondvd.com/news/Met-Mother-Season-6/15586)
+[TVShowsOnDVD.com. Archived from the original (https://www.tvshowsondvd.com/news/Met-Mother-Season-6/15](https://www.tvshowsondvd.com/news/Met-Mother-Season-6/15586)
+[586) on August 3, 2011. Retrieved August 6, 2011.](https://www.tvshowsondvd.com/news/Met-Mother-Season-6/15586)
+
+
+-----
+
+[rg/web/20120721071915/http://www.tvshowsondvd.com/news/Met-Mother-Season-7/17250).](https://web.archive.org/web/20120721071915/http://www.tvshowsondvd.com/news/Met-Mother-Season-7/17250)
+[TVShowsOnDVD.com. Archived from the original (https://www.tvshowsondvd.com/news/Met-Mother-Season-7/17](https://www.tvshowsondvd.com/news/Met-Mother-Season-7/17250)
+[250) on July 21, 2012. Retrieved September 2, 2012.](https://www.tvshowsondvd.com/news/Met-Mother-Season-7/17250)
+[157. "How I Met Your Mother DVD news: Press Release for Season 9 and The Whole Story" (https://web.archive.org/w](https://web.archive.org/web/20141207121907/http://www.tvshowsondvd.com/news/Met-Mother-Season-9-and-The-Whole-Story/20089)
+
+[eb/20141207121907/http://www.tvshowsondvd.com/news/Met-Mother-Season-9-and-The-Whole-Story/20089).](https://web.archive.org/web/20141207121907/http://www.tvshowsondvd.com/news/Met-Mother-Season-9-and-The-Whole-Story/20089)
+[TVShowsOnDVD.com. Archived from the original (https://www.tvshowsondvd.com/news/Met-Mother-Season-9-a](https://www.tvshowsondvd.com/news/Met-Mother-Season-9-and-The-Whole-Story/20089)
+[nd-The-Whole-Story/20089) on December 7, 2014. Retrieved December 2, 2014.](https://www.tvshowsondvd.com/news/Met-Mother-Season-9-and-The-Whole-Story/20089)
+[158. Remling, Amanda (August 31, 2014). "Fall TV 2014 Preview: Catch Up On Your Favorite TV Shows With Netflix](http://www.ibtimes.com/fall-tv-2014-preview-catch-your-favorite-tv-shows-netflix-new-releases-1674674)
+
+[New Releases" (http://www.ibtimes.com/fall-tv-2014-preview-catch-your-favorite-tv-shows-netflix-new-releases-16](http://www.ibtimes.com/fall-tv-2014-preview-catch-your-favorite-tv-shows-netflix-new-releases-1674674)
+[74674). International Business Times. IBT Media. Archived (https://web.archive.org/web/20150111203949/http://](http://www.ibtimes.com/fall-tv-2014-preview-catch-your-favorite-tv-shows-netflix-new-releases-1674674)
+[www.ibtimes.com/fall-tv-2014-preview-catch-your-favorite-tv-shows-netflix-new-releases-1674674) from the](https://web.archive.org/web/20150111203949/http://www.ibtimes.com/fall-tv-2014-preview-catch-your-favorite-tv-shows-netflix-new-releases-1674674)
+original on January 11, 2015. Retrieved January 11, 2015.
+[159. West, Amy (December 3, 2015). "Top 5 Netflix recommendations of the week: How I Met Your Mother, American](http://www.ibtimes.co.uk/top-5-netflix-recommendations-week-how-i-met-your-mother-american-beauty-more-1531630)
+
+[Beauty and more" (http://www.ibtimes.co.uk/top-5-netflix-recommendations-week-how-i-met-your-mother-america](http://www.ibtimes.co.uk/top-5-netflix-recommendations-week-how-i-met-your-mother-american-beauty-more-1531630)
+[n-beauty-more-1531630). IBTimes. Archived (https://web.archive.org/web/20160414065042/http://www.ibtimes.c](http://www.ibtimes.co.uk/top-5-netflix-recommendations-week-how-i-met-your-mother-american-beauty-more-1531630)
+[o.uk/top-5-netflix-recommendations-week-how-i-met-your-mother-american-beauty-more-1531630) from the](https://web.archive.org/web/20160414065042/http://www.ibtimes.co.uk/top-5-netflix-recommendations-week-how-i-met-your-mother-american-beauty-more-1531630)
+original on April 14, 2016. Retrieved April 5, 2016.
+[160. Rubin, Rebecca (October 30, 2017). "What's Leaving Netflix in November 2017" (https://variety.com/2017/tv/new](https://variety.com/2017/tv/news/movies-tv-shows-leaving-netflix-november-2017-1202602649/)
+
+[s/movies-tv-shows-leaving-netflix-november-2017-1202602649/). Variety. Archived (https://web.archive.org/web/2](https://variety.com/2017/tv/news/movies-tv-shows-leaving-netflix-november-2017-1202602649/)
+[0171116174444/http://variety.com/2017/tv/news/movies-tv-shows-leaving-netflix-november-2017-1202602649/)](https://web.archive.org/web/20171116174444/http://variety.com/2017/tv/news/movies-tv-shows-leaving-netflix-november-2017-1202602649/)
+from the original on November 16, 2017. Retrieved November 21, 2017.
+[161. Gusman, Giullia (February 28, 2020). " "How I Met Your Mother" ficará disponível no Amazon Prime em março" (h](https://popcultura.com.br/2020/02/28/how-i-met-your-mother-amazon-prime/#:~:text=A%20Amazon%20anunciou%2C%20durante%20a,o%20cat%C3%A1logo%20da%20concorrente%20Netflix.)
+
+[ttps://popcultura.com.br/2020/02/28/how-i-met-your-mother-amazon-prime/#:~:text=A%20Amazon%20anuncio](https://popcultura.com.br/2020/02/28/how-i-met-your-mother-amazon-prime/#:~:text=A%20Amazon%20anunciou%2C%20durante%20a,o%20cat%C3%A1logo%20da%20concorrente%20Netflix.)
+[u%2C%20durante%20a,o%20cat%C3%A1logo%20da%20concorrente%20Netflix.). PopCultura. Archived (http](https://popcultura.com.br/2020/02/28/how-i-met-your-mother-amazon-prime/#:~:text=A%20Amazon%20anunciou%2C%20durante%20a,o%20cat%C3%A1logo%20da%20concorrente%20Netflix.)
+[s://web.archive.org/web/20200916224043/https://popcultura.com.br/2020/02/28/how-i-met-your-mother-amazon-](https://web.archive.org/web/20200916224043/https://popcultura.com.br/2020/02/28/how-i-met-your-mother-amazon-prime/#:~:text=A%20Amazon%20anunciou%2C%20durante%20a,o%20cat%C3%A1logo%20da%20concorrente%20Netflix.)
+[prime/#:~:text=A%20Amazon%20anunciou%2C%20durante%20a,o%20cat%C3%A1logo%20da%20concorrent](https://web.archive.org/web/20200916224043/https://popcultura.com.br/2020/02/28/how-i-met-your-mother-amazon-prime/#:~:text=A%20Amazon%20anunciou%2C%20durante%20a,o%20cat%C3%A1logo%20da%20concorrente%20Netflix.)
+[e%20Netflix.) from the original on September 16, 2020. Retrieved September 15, 2020.](https://web.archive.org/web/20200916224043/https://popcultura.com.br/2020/02/28/how-i-met-your-mother-amazon-prime/#:~:text=A%20Amazon%20anunciou%2C%20durante%20a,o%20cat%C3%A1logo%20da%20concorrente%20Netflix.)
+[162. How I Met Your Mother - Disney+ Hotstar (https://www.hotstar.com/in/tv/how-i-met-your-mother/8323), December](https://www.hotstar.com/in/tv/how-i-met-your-mother/8323)
+
+[2021, archived (https://web.archive.org/web/20211221100741/https://www.hotstar.com/in/tv/how-i-met-your-moth](https://web.archive.org/web/20211221100741/https://www.hotstar.com/in/tv/how-i-met-your-mother/8323)
+[er/8323) from the original on December 21, 2021, retrieved December 21, 2021](https://web.archive.org/web/20211221100741/https://www.hotstar.com/in/tv/how-i-met-your-mother/8323)
+
+## External links
+
+_[How I Met Your Mother (https://www.imdb.com/title/tt0460649/) at IMDb](https://www.imdb.com/title/tt0460649/)_
+_[How I Met Your Dad (https://www.imdb.com/title/tt3300610/) at IMDb](https://www.imdb.com/title/tt3300610/)_
+
+[Retrieved from "https://en.wikipedia.org/w/index.php?title=How_I_Met_Your_Mother&oldid=1263077991"](https://en.wikipedia.org/w/index.php?title=How_I_Met_Your_Mother&oldid=1263077991)
+
+
+-----
 
